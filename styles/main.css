@@ -1,0 +1,176 @@
+body {
+    max-width: 900px;
+    margin: auto;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table {
+    margin: auto;
+    table-layout: fixed;
+    max-width: 570px;
+}
+
+fieldset {
+    border: none;
+}
+
+fieldset>table {
+    padding-top: 20px;
+    border-top: steelblue solid 1px;
+}
+
+label {
+    color: rgb(49, 146, 206);
+}
+
+#title {
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+    color: rgb(49, 146, 206);
+    margin: 20px;
+}
+
+#poemSelection, #etymologySelection {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+#poemTitle {
+    text-align: center;
+    margin: 20px;
+    color: rgb(54, 167, 238);
+    font-weight: bolder;
+    font-size: larger;
+}
+
+#poemLength {
+    padding-left: 10px;
+    font-size: small;
+}
+
+#etymologyWarning {
+    padding-left: 5px;
+    font-size: small;
+}
+
+#etymologyProcess {
+    font-size: small;
+}
+
+.line-nbr {
+    user-select: none;
+    font-weight: lighter;
+    text-align: right;
+    padding-right: 10px;
+}
+
+.line-text {
+    max-width: 500px;
+    width: 100%;
+}
+
+.line-note {
+    user-select: none;
+    font-weight: lighter;
+    padding-left: 2px;
+    padding-right: 5px;
+}
+
+.word {
+    transition: color 0.3s;
+}
+
+.word:hover {
+    cursor: pointer;
+    background-color: rgba(135, 206, 250, 0.4);
+}
+
+.highlightedWord {
+    color: orangered;
+}
+
+#selectedWord {
+    background-color: rgba(135, 206, 250, 0.6);
+    padding-bottom: 6px;
+}
+
+#infoboxContent {
+    padding-top: 5px;
+}
+
+#infoboxContent>table {
+    background-color: rgba(135, 206, 250, 0.6);
+    padding: 5px;
+    width: 100%;
+}
+
+.infoboxHeader {
+    font-weight: lighter;
+    vertical-align: top;
+}
+
+.infoboxValue {
+    width: 80%;
+    padding-left: 10px;
+    padding-bottom: 3px;
+}
+
+#infoboxClose {
+    padding-top: 10px;
+    padding-left: 1px;
+    vertical-align: top;
+    text-align: left;
+}
+
+#infoboxCloseBtn {
+    cursor: pointer;
+    color: steelblue;
+}
+
+ol, ul {
+    margin-block-end: auto;
+    margin-block-start: auto;
+    padding-left: 15px;
+}
+
+li {
+    padding-bottom: 2px;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+.list-no-nbr {
+    list-style-type: none;
+    font-weight: lighter;
+}
+  
+/* Tooltip text */
+.tooltip {
+    visibility: hidden;
+    background-color: #555;
+    color: #fff;
+    padding: 8px;
+    border-radius: 6px;
+    max-width: 250px;
+    min-width: 75px;
+
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 10;
+
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.line-note:hover .tooltip {
+    visibility: visible;
+    opacity: 1;
+}
