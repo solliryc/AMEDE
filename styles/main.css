@@ -1,10 +1,10 @@
 body {    
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: rgba(182, 227, 255, 0.13);
 }
 
 #content {
     margin: auto;
+    padding-top: 20px;
     max-width: 960px;
 }
 
@@ -75,8 +75,6 @@ label {
     margin: 20px;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
-    min-width: 200px;
 }
 
 .line-note {

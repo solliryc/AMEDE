@@ -125,47 +125,6 @@ function compare(a, b) {
     return 0;
 }
 
-// highlight words and show process progress
-function highlightEtymologyProgress() {
-    const selectedEtymology = document.getElementById('etymologySelection').value
-    const wordsList = document.getElementsByClassName('word')
-    const etymologyProcess = document.getElementById('etymologyProcess')
-
-    let i = 0;
-    console.log(selectedEtymology)
-
-    if (selectedEtymology == 'none') {
-        for (let k = 0; k < wordsList.length; k++) {
-            wordsList[k].setAttribute('class', 'word')
-            etymologyProcess.innerHTML = ""
-        }
-    } else {
-        function doStep() {
-            let word = wordsList[i].innerHTML
-            word = word.toLowerCase()
-            wordsList[i].setAttribute('class', 'word')
-            
-            for (let j = 0; j < lexiconData.length; j++) {
-                let lexiconWord = lexiconData[j].lexicon_word
-                let wordEtymology = lexiconData[j][selectedEtymology]
-                
-                if (word == lexiconWord && wordEtymology == 1) {
-                    wordsList[i].setAttribute('class', 'word highlightedWord')
-                }
-            }
-    
-            let progress = Math.round((i+1) / wordsList.length * 100)
-            etymologyProcess.innerHTML = " " + progress + "%"
-    
-            i++;
-            if (i < wordsList.length) {
-                timeout = setTimeout(doStep);
-            }
-        }
-        doStep();
-    }
-}
-
 // highlight words of selected etymology
 function highlightEtymology() {
     const selectedEtymology = document.getElementById('etymologySelection').value
@@ -401,7 +360,6 @@ function showSelectedPoem() {
     const linesTextList = document.getElementsByClassName('line-text')
     const linesNbrList = document.getElementsByClassName('line-nbr')
     const linesNoteList = document.getElementsByClassName('line-note')
-    let opts = etymologySelection.options
     
     // show text of the poem
     textLocation.innerHTML = textData[selectedPoem]
@@ -411,15 +369,23 @@ function showSelectedPoem() {
     nbrLinesHTML = ". Number of lines: " + linesTextList.length
     poemLength.innerHTML = nbrWordsHTML + nbrLinesHTML
 
+    // generate text of selected poem
     showWordData()
 
-    // 
-    const contentTable = document.getElementById('table-text')
-    console.log(contentTable)
+    // reset etymology highliter to 'none' when changing to another poem
+    etymologySelection.value = 'none'
+
+    // define width of elements in page depending on width of text lines
+    // const must be defined after generation of text as these id are generated with the text
+    const tableText = document.getElementById('table-text')
+    const textContent = document.getElementById('textContent')
+    console.log(tableText)
+    console.log(textContent)
 
     rowWidth = linesTextList[0].offsetWidth + linesNbrList[0].offsetWidth + linesNoteList[0].offsetWidth
     console.log(rowWidth)
-    contentTable.setAttribute('style', `max-width:${rowWidth}px`)
+    tableText.setAttribute('style', `max-width:${rowWidth}px`)
+    textContent.setAttribute('style', `width:${rowWidth}px`)
 }
 
 setup()
