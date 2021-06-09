@@ -398,25 +398,28 @@ function showSelectedPoem() {
     const textLocation = document.getElementById('textContent')
     const etymologySelection = document.getElementById('etymologySelection')
     const poemLength = document.getElementById('poemLength')
-    const linesList = document.getElementsByClassName('line-text')
+    const linesTextList = document.getElementsByClassName('line-text')
+    const linesNbrList = document.getElementsByClassName('line-nbr')
+    const linesNoteList = document.getElementsByClassName('line-note')
     let opts = etymologySelection.options
     
     // show text of the poem
     textLocation.innerHTML = textData[selectedPoem]
 
-    // show number of words in the poem
+    // show number of words and lines in the poem
     nbrWordsHTML = "Number of words: " + document.querySelectorAll('.word').length
-    nbrLinesHTML = ". Number of lines: " + linesList.length
+    nbrLinesHTML = ". Number of lines: " + linesTextList.length
     poemLength.innerHTML = nbrWordsHTML + nbrLinesHTML
 
-    console.log(linesList)
-    // longest line width
-    for (let i = 0; i < linesList.length; i++) {
-        lineWidth = linesList[i].offsetWidth
-        console.log(lineWidth)
-    }
-
     showWordData()
+
+    // 
+    const contentTable = document.getElementById('table-text')
+    console.log(contentTable)
+
+    rowWidth = linesTextList[0].offsetWidth + linesNbrList[0].offsetWidth + linesNoteList[0].offsetWidth
+    console.log(rowWidth)
+    contentTable.setAttribute('style', `max-width:${rowWidth}px`)
 }
 
 setup()
