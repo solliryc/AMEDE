@@ -160,6 +160,7 @@ function showWordData() {
             wordText = wordText.toLowerCase()
 
             // remove previous infobox
+            console.log('must remove')
             removeInfobox()
             
             if (!word.hasAttribute('id')) {
@@ -167,7 +168,6 @@ function showWordData() {
                 let prevSelectedWord = document.getElementById('selectedWord')
     
                 if (prevSelectedWord) {
-                    console.log('removing')
                     prevSelectedWord.removeAttribute('id')
                 }
 
@@ -175,8 +175,11 @@ function showWordData() {
                 word.setAttribute('id', 'selectedWord')
 
                 // show the proper noun infobox if the word is a proper noun
-                showProperNounInfobox(word, wordText)
-            
+                console.log('here')
+                isProperNoun = showProperNounInfobox(word, wordText)
+                console.log(isProperNoun)
+
+                let wordInLexicon = false
                 // show the word infobox check if the word has a match in the database
                 for (let j = 0; j < lexiconData.length; j++) {
                     let lexiconWord = lexiconData[j].lexicon_word
@@ -184,8 +187,13 @@ function showWordData() {
                     if (wordText == lexiconWord) {
                         let lexiconMatch = lexiconData[j]
                         showWordInfobox(word, lexiconMatch)
+                        wordInLexicon = true
                     }
-                }  
+                }
+
+                if (wordInLexicon == false && isProperNoun == false) {
+                    word.removeAttribute('id')
+                }
             } else {
                 word.removeAttribute('id')
             }
@@ -195,13 +203,17 @@ function showWordData() {
 
 // show word infobox
 function showWordInfobox(word, lexiconMatch) {
+    const linesTextList = document.getElementsByClassName('line-text')
+    lineTextWidth = linesTextList[0].offsetWidth
+    console.log(lineTextWidth)
+
     let medWord = lexiconMatch.med_word
     let medID = lexiconMatch.med_id
     
     let definitionHTML = getEntryDefinition(medID)
     let appearanceHTML = getEntryYears(lexiconMatch)
     let etymologyHTML = getEntryEtymology(lexiconMatch, medID)
-    let fullEntryHTML = `<a href="https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED${medID}" target="_blank">See the complete entry on the MED &#x2197;</a>`
+    let fullEntryHTML = `<a href="https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED${medID}" target="_blank">See the full entry on the MED &#x2197;</a>`
 
     let infoboxContent = `
         <table>
@@ -211,9 +223,17 @@ function showWordInfobox(word, lexiconMatch) {
             <tr><td class='infoboxHeader'>Appearance</td><td class='infoboxValue'>${appearanceHTML}</td></tr>
             <tr><td class='infoboxHeader'>Full entry</td><td class='infoboxValue'>${fullEntryHTML}</td></tr>
         </table>`
-    let infoboxRow = "<tr id='infoboxRow'><td></td><td></td><td id='infoboxContent'>" + infoboxContent + "</td></tr>"
+    let infoboxRow = `<tr id='infoboxRow'><td></td><td></td><td id='infoboxContent' style='max-width:${lineTextWidth}px'>${infoboxContent}</td></tr>`
+
+    let infoboxRows = `
+        <tr class='infoboxRow' style='width:${lineTextWidth}px'><td colspan='2' class='infoboxHeader'>MED entry</td><td class='infoboxValue'>${medWord}</td></tr>
+        <tr class='infoboxRow' style='width:${lineTextWidth}px'><td colspan='2' class='infoboxHeader'>Definition(s)</td><td class='infoboxValue'>${definitionHTML}</td></tr>
+        <tr class='infoboxRow' style='width:${lineTextWidth}px'><td colspan='2' class='infoboxHeader'>Etymology</td><td class='infoboxValue'>${etymologyHTML}</td></tr>
+        <tr class='infoboxRow' style='width:${lineTextWidth}px'><td colspan='2' class='infoboxHeader'>Appearance</td><td class='infoboxValue'>${appearanceHTML}</td></tr>
+        <tr class='infoboxRow' style='width:${lineTextWidth}px'><td colspan='2' class='infoboxHeader'>Full entry</td><td class='infoboxValue'>${fullEntryHTML}</td></tr>
+    `
     
-    word.parentNode.parentNode.insertAdjacentHTML('afterend', infoboxRow)
+    word.parentNode.parentNode.insertAdjacentHTML('afterend', infoboxRows)
 }
 
 // get number of senses and definitions of an entry
@@ -305,29 +325,37 @@ function getEntryYears(lexiconMatch) {
 
 // remove previous infobox and remove highlight of selected word
 function removeInfobox() {
-    // remove previous infobox
-    let previousInfobox = document.getElementById('infoboxRow')
-    if (previousInfobox) {
-        previousInfobox.parentNode.removeChild(previousInfobox)
+    let previousInfoboxRows = document.getElementsByClassName('infoboxRow')
+    if (previousInfoboxRows) {
+        while (document.getElementsByClassName('infoboxRow').length > 0) {
+            previousInfoboxRows[0].remove()
+        }
     }
 }
 
 // show the infobox for a proper noun
 function showProperNounInfobox(word, wordText) {
+    const linesTextList = document.getElementsByClassName('line-text')
+    let lineTextWidth = linesTextList[0].offsetWidth
+    let isProperNoun = false
+
     for (let j = 0; j < properNounsData.length; j++) {
         let lexiconWord = properNounsData[j].lexicon_word
         
         // show the proper noun infobox if the word is a proper noun
         if (wordText == lexiconWord) {
+            isProperNoun = true
             let infoboxContent = `
                 <table>
                     <tr><td class='infoboxHeader'>Type</td><td class='infoboxValue'>Proper noun</td></tr>
                 </table>`
-            let infoboxRow = "<tr id='infoboxRow'><td></td><td id='infoboxContent'>" + infoboxContent + "</td><td id='infoboxClose'><span id='infoboxCloseBtn' onclick='removeInfobox()'>Close</span></td></tr>"
-        
+            let infoboxRow = `
+                <tr class='infoboxRow' style='width:${lineTextWidth}px'><td colspan='2' class='infoboxHeader'>Type</td><td class='infoboxValue'>Proper noun</td></tr>
+            `
             word.parentNode.parentNode.insertAdjacentHTML('afterend', infoboxRow)
         }
     }
+    return isProperNoun
 }
 
 // set the position of tooltip to the right of "Note" (depends on the width of tooltip)
@@ -360,6 +388,7 @@ function showSelectedPoem() {
     const linesTextList = document.getElementsByClassName('line-text')
     const linesNbrList = document.getElementsByClassName('line-nbr')
     const linesNoteList = document.getElementsByClassName('line-note')
+    const borderText = document.getElementById('borderText')
     
     // show text of the poem
     textLocation.innerHTML = textData[selectedPoem]
@@ -378,14 +407,13 @@ function showSelectedPoem() {
     // define width of elements in page depending on width of text lines
     // const must be defined after generation of text as these id are generated with the text
     const tableText = document.getElementById('table-text')
-    const textContent = document.getElementById('textContent')
     console.log(tableText)
-    console.log(textContent)
 
     rowWidth = linesTextList[0].offsetWidth + linesNbrList[0].offsetWidth + linesNoteList[0].offsetWidth
     console.log(rowWidth)
     tableText.setAttribute('style', `max-width:${rowWidth}px`)
-    textContent.setAttribute('style', `width:${rowWidth}px`)
+    borderText.setAttribute('style', `max-width:${rowWidth}px`)
+    //textContent.setAttribute('style', `width:${rowWidth}px`)
 }
 
 setup()
