@@ -102,6 +102,8 @@ function onDataLoaded(data) {
     populatePoemList()
     showSelectedPoem()
     setTooltipPosition()
+    scrollToTop()
+
     document.getElementById('loader').style.display = "none";
     document.getElementById('fullPage').style.opacity = 1
     document.getElementById('fullPage').style.transition = 'opacity 1s'
@@ -133,7 +135,6 @@ function compare(a, b) {
 function highlightEtymology() {
     const selectedEtymology = document.getElementById('etymologySelection').value
     const wordsList = document.getElementsByClassName('word')
-    const frenchWordsList = document.getElementsByClassName('french_etymology')
 
     console.log(selectedEtymology)
 
@@ -219,16 +220,6 @@ function showWordInfobox(word, lexiconMatch) {
     let etymologyHTML = getEntryEtymology(lexiconMatch, medID)
     let fullEntryHTML = `<a href="https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED${medID}" target="_blank">See the full entry on the MED &#x2197;</a>`
 
-    let infoboxContent = `
-        <table>
-            <tr><td class='infoboxHeader'>MED entry</td><td class='infoboxValue'>${medWord}</td></tr>
-            <tr><td class='infoboxHeader'>Definition(s)</td><td class='infoboxValue'>${definitionHTML}</td></tr>
-            <tr><td class='infoboxHeader'>Etymology</td><td class='infoboxValue'>${etymologyHTML}</td></tr>
-            <tr><td class='infoboxHeader'>Appearance</td><td class='infoboxValue'>${appearanceHTML}</td></tr>
-            <tr><td class='infoboxHeader'>Full entry</td><td class='infoboxValue'>${fullEntryHTML}</td></tr>
-        </table>`
-    let infoboxRow = `<tr id='infoboxRow'><td></td><td></td><td id='infoboxContent' style='max-width:${lineTextWidth}px'>${infoboxContent}</td></tr>`
-
     let infoboxRows = `
         <tr class='infoboxRow' style='width:${lineTextWidth}px'><td colspan='2' class='infoboxHeader'>MED entry</td><td class='infoboxValue'>${medWord}</td></tr>
         <tr class='infoboxRow' style='width:${lineTextWidth}px'><td colspan='2' class='infoboxHeader'>Definition(s)</td><td class='infoboxValue'>${definitionHTML}</td></tr>
@@ -236,7 +227,6 @@ function showWordInfobox(word, lexiconMatch) {
         <tr class='infoboxRow' style='width:${lineTextWidth}px'><td colspan='2' class='infoboxHeader'>Appearance</td><td class='infoboxValue'>${appearanceHTML}</td></tr>
         <tr class='infoboxRow' style='width:${lineTextWidth}px'><td colspan='2' class='infoboxHeader'>Full entry</td><td class='infoboxValue'>${fullEntryHTML}</td></tr>
     `
-    
     word.parentNode.parentNode.insertAdjacentHTML('afterend', infoboxRows)
 }
 
@@ -383,6 +373,31 @@ function setTooltipPosition() {
     }
 }
 
+function scrollToTop() {
+    //Get the button
+    var topButton = document.getElementById("topButton");
+
+    // When the user scrolls down 20px from the top of the document, show the button
+    window.onscroll = function() {scrollFunction()};
+
+    function scrollFunction() {
+        if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
+            topButton.style.display = "block";
+        } else {
+            topButton.style.display = "none";
+        }
+    }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+    window.scroll({
+        top: 0, 
+        left: 0, 
+        behavior: 'smooth'
+      });
+}
+
 // show selected poem text on the page
 function showSelectedPoem() {
     const selectedPoem = document.getElementById('poemSelection').value
@@ -398,8 +413,8 @@ function showSelectedPoem() {
     textLocation.innerHTML = textData[selectedPoem]
 
     // show number of words and lines in the poem
-    nbrWordsHTML = "Number of words: " + document.querySelectorAll('.word').length
-    nbrLinesHTML = ". Number of lines: " + linesTextList.length
+    nbrWordsHTML = "Number of words: " + document.querySelectorAll('.word').length + ".<br>"
+    nbrLinesHTML = "Number of lines: " + linesTextList.length
     poemLength.innerHTML = nbrWordsHTML + nbrLinesHTML
 
     // generate text of selected poem

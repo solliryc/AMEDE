@@ -10,6 +10,7 @@
 </head>
 <body>
     <div id="loader"></div>
+    <button onclick="topFunction()" id="topButton" title="Go to top">Top</button>
     <div id="fullPage">
         <div id="content">
             <div id="title">AMEDE: Auchinleck Manuscript Enhanced Digital Edition</div>
@@ -17,7 +18,6 @@
                 <div id="poemDiv">
                     <label for="poemSelection">Select a poem:</label><br>
                     <select id="poemSelection" onchange="showSelectedPoem()"></select><br>
-                    <span id="poemLength"></span><span id="poemLink"></span></td>
                 </div>
                 <div id="etymologyDiv">
                     <label for="etymologySelection">Highlight an etymology</label><br>
@@ -30,8 +30,9 @@
                         <option value="scandinavian_etymology">Scandinavian etymology</option>
                         <option value="other_etymology">Other etymology</option>
                     </select><br>
-                        
-                    <span></span>
+                </div>
+                <div id="poemInfo">
+                    <span id="poemLength"></span></td>
                 </div>
             </fieldset>
 
