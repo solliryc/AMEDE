@@ -75,7 +75,7 @@ function loadData() {
 
     poemsTitle.forEach(poem => {
         poemAbbrev = poem.poem_abbrev
-        filesArray.push(d3.text(`data/texts/${poemAbbrev}.txt`))
+        filesArray.push(d3.text(`data/texts_v2/${poemAbbrev}.txt`))
     });
     
     Promise.all(filesArray).then(function(files){
@@ -155,7 +155,7 @@ function highlightEtymologyProgress() {
             }
     
             let progress = Math.round((i+1) / wordsList.length * 100)
-            etymologyProcess.innerHTML = progress + "%"
+            etymologyProcess.innerHTML = " " + progress + "%"
     
             i++;
             if (i < wordsList.length) {
@@ -170,25 +170,21 @@ function highlightEtymologyProgress() {
 function highlightEtymology() {
     const selectedEtymology = document.getElementById('etymologySelection').value
     const wordsList = document.getElementsByClassName('word')
+    const frenchWordsList = document.getElementsByClassName('french_etymology')
 
     console.log(selectedEtymology)
 
-    for (let i = 0; i < wordsList.length; i++) {
-        if (selectedEtymology == 'none') {
-            wordsList[i].setAttribute('class', 'word')
-        } else {
-            let word = wordsList[i].innerHTML
-            word = word.toLowerCase()
-            wordsList[i].setAttribute('class', 'word')
-            
-            for (let j = 0; j < lexiconData.length; j++) {
-                let lexiconWord = lexiconData[j].lexicon_word
-                let wordEtymology = lexiconData[j][selectedEtymology]
-                
-                if (word == lexiconWord && wordEtymology == 1) {
-                    wordsList[i].setAttribute('class', 'word highlightedWord')
-                }
-            }
+    if (selectedEtymology == 'none') {
+        for (var i = 0; i < wordsList.length; i++) {
+            wordsList[i].style.color = 'black';
+        }
+    } else {
+        etymologyWordsList = document.getElementsByClassName(selectedEtymology)
+        for (var i = 0; i < wordsList.length; i++) {
+            wordsList[i].style.color = 'black';
+        }
+        for (var i = 0; i < etymologyWordsList.length; i++) {
+            etymologyWordsList[i].style.color = 'orangered';
         }
     }
 }
@@ -256,7 +252,7 @@ function showWordInfobox(word, lexiconMatch) {
             <tr><td class='infoboxHeader'>Appearance</td><td class='infoboxValue'>${appearanceHTML}</td></tr>
             <tr><td class='infoboxHeader'>Full entry</td><td class='infoboxValue'>${fullEntryHTML}</td></tr>
         </table>`
-    let infoboxRow = "<tr id='infoboxRow'><td></td><td id='infoboxContent'>" + infoboxContent + "</td></tr>"
+    let infoboxRow = "<tr id='infoboxRow'><td></td><td></td><td id='infoboxContent'>" + infoboxContent + "</td></tr>"
     
     word.parentNode.parentNode.insertAdjacentHTML('afterend', infoboxRow)
 }
@@ -375,7 +371,7 @@ function showProperNounInfobox(word, wordText) {
     }
 }
 
-// set the position of tooltip to the left of "Note" (depends on the width of tooltip)
+// set the position of tooltip to the right of "Note" (depends on the width of tooltip)
 function setTooltipPosition() {
     lineNotesList = document.getElementsByClassName('line-note')
 
@@ -390,7 +386,7 @@ function setTooltipPosition() {
                 let tooltipWidth = tooltip.offsetWidth
                 let width = tooltipWidth - lineNoteWidth
                 console.log(tooltipWidth, lineNoteWidth, width)
-                tooltip.style['margin-left'] = `-${width}px`
+                tooltip.style['margin-bottom'] = '200px'
             }
         })
     }
@@ -399,40 +395,25 @@ function setTooltipPosition() {
 // show selected poem text on the page
 function showSelectedPoem() {
     const selectedPoem = document.getElementById('poemSelection').value
-    const titleLocation = document.getElementById('poemTitle')
     const textLocation = document.getElementById('textContent')
     const etymologySelection = document.getElementById('etymologySelection')
-    const etymologyProcess = document.getElementById('etymologyProcess')
     const poemLength = document.getElementById('poemLength')
-    const poemLink = document.getElementById('poemLink')
+    const linesList = document.getElementsByClassName('line-text')
     let opts = etymologySelection.options
-
-    console.log(selectedPoem)
-
-    // show poem title at the top
-    //poemsTitle.forEach(poem => {
-    //    if (poem.poem_abbrev == selectedPoem) {
-    //        titleLocation.innerHTML = poem.poem_title      
-    //    }
-    //})
     
     // show text of the poem
     textLocation.innerHTML = textData[selectedPoem]
 
     // show number of words in the poem
-    poemLength.innerHTML = "Number of words: " + document.querySelectorAll('.word').length
+    nbrWordsHTML = "Number of words: " + document.querySelectorAll('.word').length
+    nbrLinesHTML = ". Number of lines: " + linesList.length
+    poemLength.innerHTML = nbrWordsHTML + nbrLinesHTML
 
-    // show link to the poem in Auchinleck Manuscript
-    let poemURL = "https://auchinleck.nls.uk/mss/" + selectedPoem + ".html"
-    console.log(poemURL)
-
-    // set the selected etymology to None
-    etymologyProcess.innerHTML = ""
-    for (var opt, j = 0; opt = opts[j]; j++) {
-        if (opt.value == 'none') {
-            etymologySelection.selectedIndex = j;
-            break;
-        }
+    console.log(linesList)
+    // longest line width
+    for (let i = 0; i < linesList.length; i++) {
+        lineWidth = linesList[i].offsetWidth
+        console.log(lineWidth)
     }
 
     showWordData()

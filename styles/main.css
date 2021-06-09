@@ -1,24 +1,14 @@
 body {
-    max-width: 900px;
+    max-width: 95%;
     margin: auto;
     padding-top: 5%;
     padding-bottom: 5%;
+    border: solid 1px black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-table {
-    margin: auto;
-    table-layout: fixed;
-    max-width: 570px;
-}
-
 fieldset {
-    border: none;
-}
-
-fieldset>table {
-    padding-top: 20px;
-    border-top: steelblue solid 1px;
+    text-align: center;
 }
 
 label {
@@ -52,6 +42,12 @@ label {
     font-size: small;
 }
 
+#poemDiv, #etymologyDiv {
+    display: inline-block;
+    text-align: left;
+    vertical-align: top;
+}
+
 #etymologyWarning {
     padding-left: 5px;
     font-size: small;
@@ -59,6 +55,20 @@ label {
 
 #etymologyProcess {
     font-size: small;
+}
+
+#table-text {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 600px;
+    table-layout: fixed;
+}
+
+.line-note {
+    user-select: none;
+    font-weight: lighter;
+    padding-left: 2px;
+    padding-right: 5px;
 }
 
 .line-nbr {
@@ -69,15 +79,7 @@ label {
 }
 
 .line-text {
-    max-width: 500px;
-    width: 100%;
-}
-
-.line-note {
-    user-select: none;
-    font-weight: lighter;
-    padding-left: 2px;
-    padding-right: 5px;
+    width: auto;
 }
 
 .word {
@@ -106,15 +108,19 @@ label {
     background-color: rgba(135, 206, 250, 0.6);
     padding: 5px;
     width: 100%;
+    text-align: left;
+    margin: 0;
 }
 
 .infoboxHeader {
     font-weight: lighter;
     vertical-align: top;
+    width: 80px;
 }
 
 .infoboxValue {
-    width: 80%;
+    max-width: 80%;
+    min-width: 80px;
     padding-left: 10px;
     padding-bottom: 3px;
 }
