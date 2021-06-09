@@ -90,6 +90,7 @@ function onDataLoaded(data) {
     properNounsData = data[1]
     definitionsData = data[2]
     etymologiesData = data[3]
+    
 
     console.log(etymologiesData)
 
@@ -101,6 +102,9 @@ function onDataLoaded(data) {
     populatePoemList()
     showSelectedPoem()
     setTooltipPosition()
+    document.getElementById('loader').style.display = "none";
+    document.getElementById('fullPage').style.opacity = 1
+    document.getElementById('fullPage').style.transition = 'opacity 1s'
 }
 
 // populate poem list

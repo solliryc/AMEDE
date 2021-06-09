@@ -9,46 +9,48 @@
     <title>AMEDE: Auchinleck Manuscript Enhanced Digital Edition</title>
 </head>
 <body>
-    <div id="content">
-    <div id="title">AMEDE: Auchinleck Manuscript Enhanced Digital Edition</div>
-    <fieldset id="selectionFieldset">
-        <div id="poemDiv">
-            <label for="poemSelection">Select a poem:</label><br>
-            <select id="poemSelection" onchange="showSelectedPoem()"></select><br>
-            <span id="poemLength"></span><span id="poemLink"></span></td>
-        </div>
-        <div id="etymologyDiv">
-            <label for="etymologySelection">Highlight an etymology</label><br>
-                   
-            <select id="etymologySelection" onchange="highlightEtymology()">
-                <option value="none">None</option>
-                <option value="french_etymology">French etymology</option>
-                <option value="latin_etymology">Latin etymology</option>
-                <option value="english_etymology">English etymology</option>
-                <option value="scandinavian_etymology">Scandinavian etymology</option>
-                <option value="other_etymology">Other etymology</option>
-            </select><br>
-                
-            <span></span>
-        </div>
-    </fieldset>
+    <div id="loader"></div>
+    <div id="fullPage">
+        <div id="content">
+            <div id="title">AMEDE: Auchinleck Manuscript Enhanced Digital Edition</div>
+            <fieldset id="selectionFieldset">
+                <div id="poemDiv">
+                    <label for="poemSelection">Select a poem:</label><br>
+                    <select id="poemSelection" onchange="showSelectedPoem()"></select><br>
+                    <span id="poemLength"></span><span id="poemLink"></span></td>
+                </div>
+                <div id="etymologyDiv">
+                    <label for="etymologySelection">Highlight an etymology</label><br>
+                        
+                    <select id="etymologySelection" onchange="highlightEtymology()">
+                        <option value="none">None</option>
+                        <option value="french_etymology">French etymology</option>
+                        <option value="latin_etymology">Latin etymology</option>
+                        <option value="english_etymology">English etymology</option>
+                        <option value="scandinavian_etymology">Scandinavian etymology</option>
+                        <option value="other_etymology">Other etymology</option>
+                    </select><br>
+                        
+                    <span></span>
+                </div>
+            </fieldset>
 
-    <div id="borderText"></div>
+            <div id="borderText"></div>
 
-    <div id="textContent"></div>
+            <div id="textContent"></div>
+        </div>
+        
+        <footer class="footer mt-auto py-3">
+            <div class="container text-muted">
+                <p>
+                    Sources:<br>
+                    <a href="https://auchinleck.nls.uk/" target='_blank'>The Auchinleck Manuscript</a> (eds: David Burnley and Alison Wiggins, National Library of Scotland, 2003)<br>
+                    <a href="https://ota.bodleian.ox.ac.uk/repository/xmlui/handle/20.500.12024/2493" target='_blank'>The Auchinleck Manuscript on the Oxford Text Archive</a> (eds David Burnley and Alison Wiggins, National Library of Scotland, Oxford Text Archive, 2003) <br>
+                    <a href="https://quod.lib.umich.edu/m/middle-english-dictionary" target="_blank">Middle English Dictionary</a> (eds: Frances McSparran, Ann Arbor, et al., University of Michigan Library, 2000-2018)
+                </p>
+            </div>
+        </footer>
     </div>
-    
-    <footer class="footer mt-auto py-3">
-        <div class="container text-muted">
-            <p>
-                Sources:<br>
-                <a href="https://auchinleck.nls.uk/" target='_blank'>The Auchinleck Manuscript</a> (eds: David Burnley and Alison Wiggins, National Library of Scotland, 2003)<br>
-                <a href="https://ota.bodleian.ox.ac.uk/repository/xmlui/handle/20.500.12024/2493" target='_blank'>The Auchinleck Manuscript on the Oxford Text Archive</a> (eds David Burnley and Alison Wiggins, National Library of Scotland, Oxford Text Archive, 2003) <br>
-                <a href="https://quod.lib.umich.edu/m/middle-english-dictionary" target="_blank">Middle English Dictionary</a> (eds: Frances McSparran, Ann Arbor, et al., University of Michigan Library, 2000-2018)
-            </p>
-        </div>
-    </footer>
-    
     <!-- D3 script -->
     <script src="https://d3js.org/d3.v5.min.js"></script>
     <!-- Bootstrap scripts: jQuery, Popper.js, Bootstrap JS -->
