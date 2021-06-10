@@ -70,7 +70,6 @@ Cette édition numérique du Auchinleck Manuscript permet une lecture confortabl
 
 Par rapport aux textes présents sur le site original [Auchinleck Manuscript](https://auchinleck.nls.uk/), le AMEDE offre un confort de lecture adapté à la fois aux lecteurs sur un ordinateur ou sur un appareil mobile. Les numéros de ligne et les notes présents sur le site original ont été conservés. Avec AMEDE, il est possible de sélectionner une partie ou la totalité du texte, sans sélectionner en même temps les numéros de ligne, ce qui n'est pas le cas avec le site original.
 
-
 Il serait intéressant d'obtenir une analyse de ces visualisations de la part d'une personne spécialiste du Middle English ou de la langue anglaise en général. Elle pourrait potentiellement interpréter ces résultats avec une plus grande certitude.
 
 ## A propos
