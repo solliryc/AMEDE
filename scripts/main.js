@@ -229,6 +229,7 @@ function showWordData() {
             }
         })   
     }
+    console.log('loaded')
 }
 
 // show word infobox
@@ -433,7 +434,7 @@ function lineNbrEnterKey(inputLineNbr) {
 // show selected poem text on the page
 function showSelectedPoem() {
     const selectedPoem = document.getElementById('poemSelection').value
-    const textLocation = document.getElementById('textContent')
+    const textContent = document.getElementById('textContent')
     const etymologySelection = document.getElementById('etymologySelection')
     const inputLineNbr = document.getElementById('inputLineNbr')
     const poemLength = document.getElementById('poemLength')
@@ -445,7 +446,7 @@ function showSelectedPoem() {
     const footer = document.getElementById('footer')
     
     // show text of the poem
-    textLocation.innerHTML = textData[selectedPoem]
+    textContent.innerHTML = textData[selectedPoem]
 
     // show number of words and lines in the poem
     nbrWordsHTML = "Number of words: " + document.querySelectorAll('.word').length + ".<br>"
