@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dauid <c type="thorn">&#x00FE;</c>e King</title>
+            <author>Auchinleck Project</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>This file is part of the facsimile-edition of the Auchinleck Manuscript was
+                     co-edited by Professor David Burnley and Dr Alison Wiggins.  The HTML versions of 
+                     the resource are freely available at http://www.nls.uk/auchinleck/ </p>
+         </publicationStmt>
+         <notesStmt>
+            <note>This manuscript file was originally supplied as psalm.html and the header file was located in heads/psalm_head.html both of which were
+                        converted to TEI XML by Dr James Cummings of the Oxford Text Archive. The
+                        notes below were taken from the header file and each HTML paragraph placed in 
+                        a separate note. </note>
+            <note>
+               <p>
+                  <hi rend="bold">Scribe 1</hi>
+               </p>
+            </note>
+            <note>
+               <p>A paraphrase of Psalm 51 (Vulgate Psalm 50). Short couplets. 96
+lines including a lacuna on f.280va, but excluding Latin
+headings.</p>
+            </note>
+            <note>
+               <p>The oldest version of this text. For further discussion of later
+and related redactions see: J. J. Thompson, 'Literary Associations
+of an Anonymous Middle English Paraphrase of Vulgate Psalm L',
+<emph>Medium Ævum</emph>, 57 (1988): 38-55.<lb/>
+               </p>
+            </note>
+            <note>
+               <p>
+                  <hi rend="bold">Edition</hi>:<lb/>
+E. Kölbing, 'Kleine Publicationen aus der Auchinleck-hs',
+<emph>Englische Studien</emph>, 9 (1886): 49-50.</p>
+            </note>
+            <note>
+               <p>
+                  <hi rend="bold">Another edition</hi>:<lb/>
+D. Laing, <emph>A Penni Worth of Witte</emph>, Abbotsford Club
+(Edinburgh, 1857): 76-80.</p>
+            </note>
+            <note>
+               <p>
+                  <emph>Manual II, 389; 541. Index 1956.</emph>
+               </p>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <p>The Auchinleck Manuscript (NLS Adv MS 19.2.1) is one of the National Library of
+                     Scotland’s greatest treasures. Produced in London in the 1330s, it provides a
+                     unique insight into the English language and literature that Chaucer and his
+                     generation grew up with and were influenced by. It acquired its name from its
+                     first known owner, Lord Auchinleck, who discovered the manuscript in 1740 and
+                     donated it to the precursor of the National Library in 1744.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Dauid <c type="thorn">&#x00FE;</c>e King</head>
+         <l>
+            <emph>Miserere mei deus &amp;c</emph>
+            <milestone unit="folio" n="f.280rb"/>
+            <note type="xref">
+               <ref target="#280r.sid"/>
+            </note>
+         </l>
+         <l>Lord God, to <c type="thorn">&#x00FE;</c>e we calle,</l>
+         <l><c type="THORN">&#x00DE;</c>at <c type="thorn">&#x00FE;</c>ou haue merci on ous alle,</l>
+         <l>&amp; for <c type="thorn">&#x00FE;</c>i michel mekenisse</l>
+         <l><c type="THORN">&#x00DE;</c>at we mot comen to <c type="thorn">&#x00FE;</c>i blisse.</l>
+         <l>
+            <emph>Et secundum multitudinem &amp;c</emph>
+         </l>
+         <l n="5">Astow art
+lord of mest pouste,</l>
+         <l>Ful of merci &amp; of pite,</l>
+         <l>Do oway our wickednisse</l>
+         <l>&amp; of our sinnes forgiuenisse.</l>
+         <l>
+            <emph>Amplius laua me domine &amp;c</emph>
+         </l>
+         <l>An[d] kepe ous alle fram dedli sinne,</l>
+         <l n="10"><c type="THORN">&#x00DE;</c>at non of
+ous no dye <c type="thorn">&#x00FE;</c>erinne;</l>
+         <l>Our sinnes wele we knowen alle,</l>
+         <l><c type="THORN">&#x00DE;</c>at maken ous oft ogain <c type="thorn">&#x00FE;</c>e falle,</l>
+         <l><c type="THORN">&#x00DE;</c>at we no quem <c type="thorn">&#x00FE;</c>e nou<c type="yogh">&#x021D;</c>t ari<c type="yogh">&#x021D;</c>t,</l>
+         <l>As we au<c type="yogh">&#x021D;</c>ten wi<c type="thorn">&#x00FE;</c> al our mi<c type="yogh">&#x021D;</c>t.</l>
+         <l>
+            <emph>Quoniam iniquitatem meam &amp;c</emph>
+         </l>
+         <l n="15">Lord, mi
+wickednisse y knowe wel,</l>
+         <l>Fram ende to ende eueridel,</l>
+         <l>&amp; euer is mi sinne o<c type="yogh">&#x021D;</c>aines me;</l>
+         <l>Lord, on me haue pite.</l>
+         <l>
+            <emph>Tibi soli peccaui &amp; malum
+&amp;c</emph>
+         </l>
+         <l>O<c type="yogh">&#x021D;</c>aines <c type="thorn">&#x00FE;</c>e, lord, we han misdone,</l>
+         <l n="20">Ni<c type="yogh">&#x021D;</c>t &amp;
+day, oft &amp; ylome.</l>
+         <l><c type="THORN">&#x00DE;</c>ou chast ous, lord, wi<c type="thorn">&#x00FE;</c> wordes <c type="thorn">&#x00FE;</c>ine</l>
+         <l>&amp; scheld ous alle from helle pine.</l>
+         <l>
+            <emph>Ecce enim [in] iniquita[ti]bus
+&amp;c</emph>
+         </l>
+         <l>Lord God, to <c type="thorn">&#x00FE;</c>e we calle;</l>
+         <l>Our sinnes <c type="thorn">&#x00FE;</c>ou knowest alle.</l>
+         <l n="25">In sinne we
+were bi<c type="yogh">&#x021D;</c>eten &amp; born,</l>
+         <l>No were <c type="thorn">&#x00FE;</c>i grace, we were forlorn.</l>
+         <l n="12">{ 12 lines lost where miniature cut out
+}</l>
+         <l>E .... .... .... .... <milestone unit="folio" n="f.280va"/>
+            <note type="xref">
+               <ref target="#280v.sid"/>
+            </note>
+         </l>
+         <l><c type="THORN">&#x00DE;</c>.... .... .... ....</l>
+         <l>.... .... .... ....</l>
+         <l n="30">W.... ....
+.... ....</l>
+         <l>&amp; .... .... .... ....</l>
+         <l><c type="THORN">&#x00DE;</c> .... .... .... ....</l>
+         <l>&amp; .... .... .... ....</l>
+         <l>A.... .... .... .... ....</l>
+         <l n="35"><c type="thorn">&#x00FE;</c>.....................</l>
+         <l>.... .... .... ....</l>
+         <l><c type="THORN">&#x00DE;</c>.... .... .... .... ....</l>
+         <l><c type="THORN">&#x00DE;</c>.... .... .... .. ay</l>
+         <l>
+            <emph>Auditui meo dabis &amp;c</emph>
+         </l>
+         <l>In heriing <c type="thorn">&#x00FE;</c>ou hast <c type="yogh">&#x021D;</c>ouen ous blis,</l>
+         <l n="40">Gret
+comfort &amp; ioie, ywis;</l>
+         <l><c type="THORN">&#x00DE;</c>erfore we schulden ioie make,</l>
+         <l>Milde &amp; boxsom for <c type="thorn">&#x00FE;</c>i sake.</l>
+         <l>
+            <emph>Auerte faciem tuam &amp;c</emph>
+         </l>
+         <l>Fram our sinnes, lord, turn <c type="thorn">&#x00FE;</c>i face,</l>
+         <l>Ous to amenden <c type="thorn">&#x00FE;</c>ou <c type="yogh">&#x021D;</c>eue ous grace,</l>
+         <l n="45">&amp; al
+our sinnes <c type="thorn">&#x00FE;</c>ou do oway,</l>
+         <l><c type="THORN">&#x00DE;</c>at we han don bi ni<c type="yogh">&#x021D;</c>t &amp; day.</l>
+         <l>
+            <emph>Cor mundum crea &amp;c</emph>
+         </l>
+         <l>A clene hert <c type="thorn">&#x00FE;</c>ou do ous inne,</l>
+         <l><c type="THORN">&#x00DE;</c>at we no more do no sinne.</l>
+         <l><c type="THORN">&#x00DE;</c>e holy gost be ous among,</l>
+         <l n="50">O<c type="yogh">&#x021D;</c>ain our
+enemy <c type="thorn">&#x00FE;</c>at we may stond.</l>
+         <l>
+            <emph>Ne proicias me &amp;c</emph>
+         </l>
+         <l>Lord, ne alome nou<c type="yogh">&#x021D;</c>t <c type="thorn">&#x00FE;</c>i face <note n="note-psalm-1" type="ed">
+               <emph>Lord</emph>: <emph>d</emph> is superscript.</note>
+         </l>
+         <l>Fram ous nowhare in non place</l>
+         <l>No <c type="thorn">&#x00FE;</c>i swete holy gost,</l>
+         <l>King Iesu, as <c type="thorn">&#x00FE;</c>ou al wost.</l>
+         <l>
+            <emph>Redde michi leticiam &amp;c</emph>
+         </l>
+         <l n="55"><c type="yogh">&#x021D;</c>eld ous <c type="thorn">&#x00FE;</c>e
+ioie of <c type="thorn">&#x00FE;</c>i greting</l>
+         <l>Wi<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e holy gost comforting,</l>
+         <l>&amp; we wil teche <c type="thorn">&#x00FE;</c>e ri<c type="yogh">&#x021D;</c>t way</l>
+         <l>To hem <c type="thorn">&#x00FE;</c>at ben in sinne bilay,</l>
+         <l><c type="THORN">&#x00DE;</c>at <c type="thorn">&#x00FE;</c>ai hem turn to <c type="thorn">&#x00FE;</c>i blis.</l>
+         <l n="60">Lord Jesu,
+to heuen ous wis.</l>
+         <l>
+            <emph>Docebo iniquos vias tuas &amp;c</emph>
+         </l>
+         <l>Ich hem wil <c type="thorn">&#x00FE;</c>e way teche.</l>
+         <l>Lord Iesu, <c type="thorn">&#x00FE;</c>ou be our leche.</l>
+         <l>Of <c type="thorn">&#x00FE;</c>i merci <c type="thorn">&#x00FE;</c>ai schul ioie make</l>
+         <l>Euer more for <c type="thorn">&#x00FE;</c>i sake.</l>
+         <l>
+            <emph>Libera me de sanguinibus &amp;c</emph>
+            <milestone unit="folio" n="f.280vb"/>
+            <note type="xref">
+               <ref target="#280v.sid"/>
+            </note>
+         </l>
+         <l n="65">Lord Iesu,
+heuen-king,</l>
+         <l>Ous alle schilde fram wicked fonding.</l>
+         <l>&amp; mi tonge schal speken &amp; say</l>
+         <l>Godenisse of <c type="thorn">&#x00FE;</c>e eueri day.</l>
+         <l>
+            <emph>Domine, labia mea aperies &amp;c</emph>
+         </l>
+         <l>Lord, mi lippes <c type="thorn">&#x00FE;</c>ou vndo.</l>
+         <l n="70">Graunt me,
+lord, <c type="thorn">&#x00FE;</c>at it be so.</l>
+         <l>Wi<c type="thorn">&#x00FE;</c> praiers ichil honour <c type="thorn">&#x00FE;</c>e,</l>
+         <l><c type="THORN">&#x00DE;</c>i godhed &amp; ek <c type="thorn">&#x00FE;</c>i dignete.</l>
+         <l>
+            <emph>Quoniam si uoluisses &amp;c</emph>
+         </l>
+         <l>Lord, <c type="yogh">&#x021D;</c>if it <c type="thorn">&#x00FE;</c>i wille hadde be,</l>
+         <l>Sacrifise ich wold haue <c type="yogh">&#x021D;</c>euen <c type="thorn">&#x00FE;</c>e;</l>
+         <l n="75">Bot <c type="thorn">&#x00FE;</c>at
+<c type="thorn">&#x00FE;</c>ing no wostow nou<c type="yogh">&#x021D;</c>t,</l>
+         <l><c type="THORN">&#x00DE;</c>ou wost haue <c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>ou hast bou<c type="yogh">&#x021D;</c>t:</l>
+         <l>Mannes soule <c type="thorn">&#x00FE;</c>ou wost haue,</l>
+         <l>O<c type="thorn">&#x00FE;</c>er ne woldestow nou<c type="yogh">&#x021D;</c>t craue.</l>
+         <l>
+            <emph>Sacrificium deo spiritus &amp;c</emph>
+         </l>
+         <l>Man, <c type="yogh">&#x021D;</c>if <c type="thorn">&#x00FE;</c>ou art meke &amp; milde,</l>
+         <l n="80">God <c type="thorn">&#x00FE;</c>e wil
+fram schame schilde.</l>
+         <l><c type="THORN">&#x00DE;</c>ine euencristene <c type="thorn">&#x00FE;</c>ou nou<c type="yogh">&#x021D;</c>t despise,</l>
+         <l>For Iesus Crist is hei<c type="yogh">&#x021D;</c>e justise.</l>
+         <l>
+            <emph>Benigne fac domine &amp;c</emph>
+         </l>
+         <l>Lord, debonoure of al <c type="thorn">&#x00FE;</c>ing,</l>
+         <l>Astow art mi<c type="yogh">&#x021D;</c>tful heuen-king,</l>
+         <l n="85">Wi<c type="thorn">&#x00FE;</c> gode
+wille <c type="thorn">&#x00FE;</c>ou ous wisse &amp; rade,</l>
+         <l><c type="THORN">&#x00DE;</c>at holy chirche were vp ymade.</l>
+         <l>
+            <emph>Tunc acceptabis &amp;c</emph>
+         </l>
+         <l><c type="THORN">&#x00DE;</c>an artow ri<c type="yogh">&#x021D;</c>t justise</l>
+         <l>&amp; reseiuest <c type="thorn">&#x00FE;</c>e sacrifise,</l>
+         <l><c type="THORN">&#x00DE;</c>e offring alle opon <c type="thorn">&#x00FE;</c>e auter,</l>
+         <l n="90">Mannes
+soule <c type="thorn">&#x00FE;</c>at is <c type="thorn">&#x00FE;</c>e leue &amp; dere.</l>
+         <l>
+            <emph>Gloria patri &amp; filio etc</emph>
+         </l>
+         <l>Ioie &amp; blis, as we mone,</l>
+         <l>Be wi<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e fader &amp; sone</l>
+         <l>&amp; ek wi<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e holy gost.</l>
+         <l>Lord Iesu, as <c type="thorn">&#x00FE;</c>ou wele wost.</l>
+         <l>
+            <emph>Sicut erat in principio &amp;c</emph>
+         </l>
+         <l n="95">As it was
+&amp; euer schal be</l>
+         <l>Wi<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e holy gost in trinite,</l>
+         <l>Fram <c type="thorn">&#x00FE;</c>e first bigininge,</l>
+         <l><c type="THORN">&#x00DE;</c>at neuer no schal haue endinge. Amen</l>
+      </body>
+   </text>
+</TEI>

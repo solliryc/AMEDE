@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seynt Mergrete</title>
+            <author>Auchinleck Project</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>This file is part of the facsimile-edition of the Auchinleck Manuscript was
+                     co-edited by Professor David Burnley and Dr Alison Wiggins.  The HTML versions of 
+                     the resource are freely available at http://www.nls.uk/auchinleck/ </p>
+         </publicationStmt>
+         <notesStmt>
+            <note>This manuscript file was originally supplied as mergrete.html and the header file was located in heads/mergrete_head.html both of which were
+                        converted to TEI XML by Dr James Cummings of the Oxford Text Archive. The
+                        notes below were taken from the header file and each HTML paragraph placed in 
+                        a separate note. </note>
+            <note>
+               <p>
+                  <hi rend="bold">Scribe 1</hi>
+               </p>
+            </note>
+            <note>
+               <p>The poem is versified in monorhymed, long-lined quatrains but
+this edition follows the layout of the manuscript, which resembles
+8-line stanzas. 412 long lines including a lacuna of 11 short lines
+on f.16va.</p>
+            </note>
+            <note>
+               <p>Unique copy but related to earlier versions. See: A. J. Bliss,
+'The Auchinleck <emph>St Margaret</emph> and <emph>St Katerine</emph>',
+<emph>Notes &amp; Queries</emph>, 201 (1956): 186-188.</p>
+            </note>
+            <note>
+               <p>
+                  <hi rend="bold">Edition</hi>:<lb/>
+C. Horstmann, '<emph>St. Mergrete</emph>', <emph>Altenglische Legenden, Neue
+Folge</emph> (Heilbronn: Henninger, 1881): 225-235.</p>
+            </note>
+            <note>
+               <p>
+                  <hi rend="bold">Another edition</hi>:<lb/>
+W. B. D. D. Turnbull, <emph>Legendae Catholicae</emph> (Edinburgh:
+Edinburgh Printing Company, 1840): 71-122.</p>
+            </note>
+            <note>
+               <p>
+                  <emph>Manual II, 440; 607. Index 203.</emph>
+               </p>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <p>The Auchinleck Manuscript (NLS Adv MS 19.2.1) is one of the National Library of
+                     Scotland’s greatest treasures. Produced in London in the 1330s, it provides a
+                     unique insight into the English language and literature that Chaucer and his
+                     generation grew up with and were influenced by. It acquired its name from its
+                     first known owner, Lord Auchinleck, who discovered the manuscript in 1740 and
+                     donated it to the precursor of the National Library in 1744.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Seynt Mergrete</head>
+         <l>Al <c type="thorn">&#x00FE;</c>at ben in dedly sinne <milestone unit="folio" n="f.16va"/>
+            <note type="xref">
+               <ref target="#016v.sid"/>
+            </note>
+         </l>
+         <l>&amp; <c type="thorn">&#x00FE;</c>enk wi<c type="thorn">&#x00FE;</c> merci to mete,</l>
+         <l>Leue in Crist <c type="thorn">&#x00FE;</c>at <c type="yogh">&#x021D;</c>aue <c type="yogh">&#x021D;</c>ou witt</l>
+         <l><c type="yogh">&#x021D;</c>our sinnes for to bete.</l>
+         <l>Listen, &amp; <c type="yogh">&#x021D;</c>e schul here telle</l>
+         <l>wi<c type="thorn">&#x00FE;</c> wordes fair &amp; swete</l>
+         <l><c type="THORN">&#x00DE;</c>e vie of on maiden,</l>
+         <l>men clepe<c type="thorn">&#x00FE;</c> seyn Mergre[te].</l>
+         <l n="5"><c type="pilcrow">&#x00B6;</c> Hir
+fader was a patriarke,</l>
+         <l>as y <c type="yogh">&#x021D;</c>ou telle may,</l>
+         <l>In Antiage he was born</l>
+         <l>opon <c type="thorn">&#x00FE;</c>at false lay;</l>
+         <l>Feble was his hert,</l>
+         <l>v[n]stable was his fay,</l>
+         <l>Deue <c type="thorn">&#x00FE;</c>inges &amp; doumbe</l>
+         <l>he serued ni<c type="yogh">&#x021D;</c>t &amp; day.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Teodolus was his name.</l>
+         <l>In God no leued he nou<c type="yogh">&#x021D;</c>t;</l>
+         <l n="10">He leued
+opon his fals godes</l>
+         <l>wi<c type="thorn">&#x00FE;</c> hondes <c type="thorn">&#x00FE;</c>at were wrou<c type="yogh">&#x021D;</c>t.</l>
+         <l>Wicked weren his werkes</l>
+         <l>&amp; feble was his <c type="thorn">&#x00FE;</c>ou<c type="yogh">&#x021D;</c>t,</l>
+         <l>&amp; euer he <c type="thorn">&#x00FE;</c>ou<c type="yogh">&#x021D;</c>t to bring</l>
+         <l>Cristendom to nou<c type="yogh">&#x021D;</c>t.</l>
+         <l><c type="pilcrow">&#x00B6;</c> As <c type="thorn">&#x00FE;</c>ai liued togider,</l>
+         <l><c type="thorn">&#x00FE;</c>e king &amp; <c type="thorn">&#x00FE;</c>e quene,</l>
+         <l>Maiden Mergrete</l>
+         <l>was geten hem bitvene,</l>
+         <l n="15"><c type="THORN">&#x00DE;</c>at se<c type="thorn">&#x00FE;</c><c type="thorn">&#x00FE;</c>en
+leued on Jhesu Crist</l>
+         <l>&amp; hadde michel tene,</l>
+         <l>&amp; miche pine <c type="thorn">&#x00FE;</c>oled se<c type="thorn">&#x00FE;</c><c type="thorn">&#x00FE;</c>e</l>
+         <l>hir bodi, <c type="thorn">&#x00FE;</c>at was so schene.</l>
+         <l><c type="pilcrow">&#x00B6;</c> While be quen <c type="yogh">&#x021D;</c>ede wi<c type="thorn">&#x00FE;</c> child ...</l>
+         <l n="20">.....
+..... ..... .....</l>
+         <l n="11">{11 lines lost}</l>
+         <l><c type="THORN">&#x00DE;</c>at it were to de<c type="thorn">&#x00FE;</c> brou<c type="yogh">&#x021D;</c>t <milestone unit="folio" n="f.16vb"/>
+            <note type="xref">
+               <ref target="#016v.sid"/>
+            </note>
+         </l>
+         <l>wi<c type="thorn">&#x00FE;</c>outen more striif.</l>
+         <l><c type="THORN">&#x00DE;</c>o hye herd <c type="thorn">&#x00FE;</c>at tiding,</l>
+         <l>sche wex a careful wiif.</l>
+         <l n="25"><c type="pilcrow">&#x00B6;</c> Anon
+so Mergrete was yborn,</l>
+         <l>hir moder was wel wo,</l>
+         <l>For hir fader hadde beden</l>
+         <l>to de<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>at sche schuld go.</l>
+         <l>Sche <c type="thorn">&#x00FE;</c>ou<c type="yogh">&#x021D;</c>t to saue <c type="thorn">&#x00FE;</c>e childes liif</l>
+         <l>&amp; bring hir out of wo,</l>
+         <l>Ful priueliche &amp; stille</l>
+         <l>to Azie sche sent hir <c type="thorn">&#x00FE;</c>o.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Into Azies ward</l>
+         <l><c type="thorn">&#x00FE;</c>e child was taken to loke.</l>
+         <l n="30">Anon as
+sche was of eld,</l>
+         <l>Mergrete was sett to boke.</l>
+         <l>Hir felawes <c type="thorn">&#x00FE;</c>at hir lyen bi,</l>
+         <l>at ich time <c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>ei woke,</l>
+         <l>Hou Mergrete was in hir bedes</l>
+         <l>gode hede <c type="thorn">&#x00FE;</c>ai toke.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>e norice <c type="thorn">&#x00FE;</c>at hir <c type="yogh">&#x021D;</c>emed,</l>
+         <l>sche <c type="yogh">&#x021D;</c>emed hir wi<c type="thorn">&#x00FE;</c> winne;</l>
+         <l>Alle <c type="thorn">&#x00FE;</c>ai loued hir ful wele,</l>
+         <l><c type="thorn">&#x00FE;</c>e hous <c type="thorn">&#x00FE;</c>er sche wond inne.</l>
+         <l n="35">Anon as
+sche cou<c type="thorn">&#x00FE;</c>e witt,</l>
+         <l>michel sche hated sinne;</l>
+         <l>Sche toke hir to Jhesu Crist,</l>
+         <l>hir form liif to biginne.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Anon as <c type="thorn">&#x00FE;</c>e mayden was</l>
+         <l>o fiftene winter eld,</l>
+         <l>Hir norice schepe</l>
+         <l>sche <c type="yogh">&#x021D;</c>emed on <c type="thorn">&#x00FE;</c>e feld.</l>
+         <l>Hir felawes <c type="thorn">&#x00FE;</c>at hir wi<c type="thorn">&#x00FE;</c> were</l>
+         <l>ful <c type="yogh">&#x021D;</c>ern <c type="thorn">&#x00FE;</c>ai hir biheld</l>
+         <l n="40">Hou sche
+maked hir praier</l>
+         <l>to Jhesus, <c type="thorn">&#x00FE;</c>at al may weld.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Olibrious was lord,</l>
+         <l>as we heren telle,</l>
+         <l>Of Antiage &amp; Asie,</l>
+         <l>to <c type="yogh">&#x021D;</c>euen &amp; to selle.</l>
+         <l>He serued bo<c type="thorn">&#x00FE;</c>e ni<c type="yogh">&#x021D;</c>t &amp; day</l>
+         <l><c type="thorn">&#x00FE;</c>e foule fendes of helle.</l>
+         <l>Al <c type="thorn">&#x00FE;</c>at leued on Jhesu Crist</l>
+         <l>Olibrious <c type="thorn">&#x00FE;</c>ou<c type="yogh">&#x021D;</c>t to quelle.</l>
+         <l n="45"><c type="pilcrow">&#x00B6;</c> Fram
+Antiage into Asie <milestone unit="folio" n="f.17ra"/>
+            <note type="xref">
+               <ref target="#017r.sid"/>
+            </note>
+         </l>
+         <l>er miles ten &amp; fiue,</l>
+         <l>For to stru <c type="thorn">&#x00FE;</c>e Cristen folk</l>
+         <l>&amp; bringen hem o liue.</l>
+         <l><c type="THORN">&#x00DE;</c>ai sey<c type="yogh">&#x021D;</c>e maiden Mergrete</l>
+         <l>schepe biforn hir driue.</l>
+         <l>Olibrious for hir fairnesse</l>
+         <l><c type="yogh">&#x021D;</c>erned hir to wiue.</l>
+         <l><c type="pilcrow">&#x00B6;</c> He seyd to his kni<c type="yogh">&#x021D;</c>tes,</l>
+         <l>‘a fair maiden y se.</l>
+         <l n="50">Kestes hir
+opon hors,</l>
+         <l>&amp; sche schal wende wi<c type="thorn">&#x00FE;</c> me.</l>
+         <l>&amp; <c type="yogh">&#x021D;</c>if ich may enquere</l>
+         <l>of kin <c type="thorn">&#x00FE;</c>at sche be fre,</l>
+         <l>Of alle <c type="thorn">&#x00FE;</c>e wimen <c type="thorn">&#x00FE;</c>at y wot</l>
+         <l>best hir schal be.</l>
+         <l><c type="pilcrow">&#x00B6;</c> &amp; for hir michel feirhed,</l>
+         <l><c type="yogh">&#x021D;</c>if sche be born of <c type="thorn">&#x00FE;</c>ral,</l>
+         <l>Hir mariage</l>
+         <l>no tine<c type="thorn">&#x00FE;</c> sche nou<c type="yogh">&#x021D;</c>t al:</l>
+         <l n="55">Wele y
+schal hir clo<c type="thorn">&#x00FE;</c>e</l>
+         <l>in sikelatoun &amp; pal;</l>
+         <l>Sche schal be mi leman</l>
+         <l>&amp; haue gold to wal.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>e seriaunce went as he hem bad</l>
+         <l>to maiden Mergrete,</l>
+         <l><c type="THORN">&#x00DE;</c>er sche <c type="yogh">&#x021D;</c>emed hir norice schepe</l>
+         <l>o dayes bi <c type="thorn">&#x00FE;</c>e strete.</l>
+         <l>Michel it was <c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>ai hir bede,</l>
+         <l>&amp; more <c type="thorn">&#x00FE;</c>ai hir bihete;</l>
+         <l n="60"><c type="THORN">&#x00DE;</c>e <c type="thorn">&#x00FE;</c>ou<c type="yogh">&#x021D;</c>tes
+of hir hert</l>
+         <l>wald sche nou<c type="yogh">&#x021D;</c>t forlete.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>e seriaunce of her erand</l>
+         <l>wald hir nou<c type="yogh">&#x021D;</c>t biswike:</l>
+         <l>‘Damisel, we say it <c type="thorn">&#x00FE;</c>e</l>
+         <l>ful wele may <c type="thorn">&#x00FE;</c>e like.</l>
+         <l>Olibrious is louerd</l>
+         <l>of Antiage rike,</l>
+         <l>He <c type="yogh">&#x021D;</c>erne<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e to wiue,</l>
+         <l>he nil <c type="thorn">&#x00FE;</c>e nou<c type="yogh">&#x021D;</c>t biswike.’</l>
+         <l n="65"><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>an
+maiden Mergrete,</l>
+         <l><c type="pilcrow">&#x00B6;</c> bri<c type="yogh">&#x021D;</c>t so ani leuen,</l>
+         <l>Sche hem answerd</l>
+         <l>wi<c type="thorn">&#x00FE;</c> ful mild steuen:</l>
+         <l>‘Ichaue <c type="yogh">&#x021D;</c>euen mi maidenhed <milestone unit="folio" n="f.17rb"/>
+            <note type="xref">
+               <ref target="#017r.sid"/>
+            </note>
+         </l>
+         <l>to Jhesu Crist of heuen</l>
+         <l><c type="yogh">&#x021D;</c>eme it, if his wille(s) is,</l>
+         <l>for his name seuen.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Jhesu Crist mi lord,</l>
+         <l>to <c type="yogh">&#x021D;</c>ou y me rend;</l>
+         <l n="70">In <c type="yogh">&#x021D;</c>ou was
+no bigining,</l>
+         <l>no neuer schal ben ende;</l>
+         <l><c type="yogh">&#x021D;</c>if it be <c type="yogh">&#x021D;</c>our wille,</l>
+         <l><c type="yogh">&#x021D;</c>our angel <c type="yogh">&#x021D;</c>e me sende.</l>
+         <l>Fram <c type="thorn">&#x00FE;</c>is foule Sara<c type="yogh">&#x021D;</c>ins</l>
+         <l>y may me nou<c type="yogh">&#x021D;</c>t defende.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Al mi kin ichaue forsake</l>
+         <l>into mi nei<c type="yogh">&#x021D;</c>d kne;</l>
+         <l>Jhesu Crist, mi lord,</l>
+         <l>y toke me to <c type="thorn">&#x00FE;</c>e.</l>
+         <l n="75">Ble<c type="thorn">&#x00FE;</c>eliche
+wald y for <c type="thorn">&#x00FE;</c>i loue</l>
+         <l>martird to be.</l>
+         <l><c type="THORN">&#x00DE;</c>is houndes me han bisett,</l>
+         <l><c type="thorn">&#x00FE;</c>at I no may nou<c type="yogh">&#x021D;</c>t fle.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>e seriaunce o<c type="yogh">&#x021D;</c>ain went</l>
+         <l>&amp; told al her sawe.</l>
+         <l>‘Lord, of <c type="thorn">&#x00FE;</c>i pouste</l>
+         <l>no <c type="yogh">&#x021D;</c>iue<c type="thorn">&#x00FE;</c> sche nou<c type="yogh">&#x021D;</c>t an hawe;</l>
+         <l>Sche take<c type="thorn">&#x00FE;</c> hir to Jhesu Crist,</l>
+         <l>to warantise wil sche drawe.</l>
+         <l n="80">Of al <c type="thorn">&#x00FE;</c>at
+<c type="yogh">&#x021D;</c>e may hir do,</l>
+         <l>no stont hir non awe.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>an it spac Olibrious</l>
+         <l n="–">– weri him sonne &amp; mone –</l>
+         <l>Of al min seriance</l>
+         <l>gode haue y none.</l>
+         <l>Bringe<c type="thorn">&#x00FE;</c> hir bifor me.</l>
+         <l>Yturn hir mode ful sone,</l>
+         <l>Ydo hir leue opon mi god,</l>
+         <l><c type="thorn">&#x00FE;</c>riies ar it be none.’</l>
+         <l n="85"><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>e
+seriaunce o<c type="yogh">&#x021D;</c>ain went,</l>
+         <l>sone <c type="thorn">&#x00FE;</c>ai gan hir mete;</l>
+         <l><c type="THORN">&#x00DE;</c>ai leyd hondes hir opon</l>
+         <l>&amp; brou<c type="yogh">&#x021D;</c>t hir to <c type="thorn">&#x00FE;</c>e strete.</l>
+         <l>Sche com bifor Olibrious.</l>
+         <l>Sone he gan hir grete,</l>
+         <l>He axed hir what sche hi<c type="yogh">&#x021D;</c>t.</l>
+         <l>Sche seyd ‘Mergrete.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> ‘Maiden Mergrete, <milestone unit="folio" n="f.17va"/>
+            <note type="xref">
+               <ref target="#017v.sid"/>
+            </note>
+         </l>
+         <l>mi leman schaltow be.</l>
+         <l n="90">Ichold <c type="thorn">&#x00FE;</c>e
+for mi wiif,</l>
+         <l><c type="yogh">&#x021D;</c>if <c type="thorn">&#x00FE;</c>ou be of kin fre;</l>
+         <l><c type="yogh">&#x021D;</c>if <c type="thorn">&#x00FE;</c>ow be of <c type="thorn">&#x00FE;</c>raldam born,</l>
+         <l>y <c type="yogh">&#x021D;</c>iue <c type="thorn">&#x00FE;</c>e gold &amp; fe.</l>
+         <l><c type="THORN">&#x00DE;</c>ou schalt be mi leman,</l>
+         <l>so long so it be.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>e maiden him answerd</l>
+         <l>sone opon on,</l>
+         <l>‘Cristen woman icham</l>
+         <l>&amp; houen in funston.</l>
+         <l n="95">Blisced be
+mi lord,</l>
+         <l>to wham ichaue me tan.</l>
+         <l>No wil y nou<c type="yogh">&#x021D;</c>t leue [h]is loue</l>
+         <l>for non o<c type="thorn">&#x00FE;</c>er man.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> ‘Trowestow <c type="thorn">&#x00FE;</c>at Jhesu liues,</l>
+         <l><c type="thorn">&#x00FE;</c>at was don on rode?</l>
+         <l><c type="yogh">&#x021D;</c>if <c type="thorn">&#x00FE;</c>ou trowest <c type="thorn">&#x00FE;</c>at he liues,</l>
+         <l>ich hold <c type="thorn">&#x00FE;</c>e for wode.</l>
+         <l>Endelong his side</l>
+         <l>ran <c type="thorn">&#x00FE;</c>e water &amp; <c type="thorn">&#x00FE;</c>e blod,</l>
+         <l n="100"><c type="THORN">&#x00DE;</c>e coroun
+was of <c type="thorn">&#x00FE;</c>ornes</l>
+         <l><c type="thorn">&#x00FE;</c>at on his heued stode.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>e maiden him aunswerd,</l>
+         <l>so <c type="thorn">&#x00FE;</c>e angel hir kende,</l>
+         <l>‘He dede him on <c type="thorn">&#x00FE;</c>e rode</l>
+         <l>al Cristen folk to amende.</l>
+         <l>&amp; se<c type="thorn">&#x00FE;</c><c type="thorn">&#x00FE;</c>en into helle</l>
+         <l><c type="thorn">&#x00FE;</c>e holy gost he sende,</l>
+         <l>To del[i]uer ous of <c type="thorn">&#x00FE;</c>e pine,</l>
+         <l><c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>ou schalt in ende.’ <note n="note-mergrete-1" type="ed">Letter erased before <emph>ende</emph>.</note>
+         </l>
+         <l n="105"><c type="pilcrow">&#x00B6;</c> Wele
+<c type="thorn">&#x00FE;</c>ou<c type="yogh">&#x021D;</c>t <c type="thorn">&#x00FE;</c>at Sarra<c type="yogh">&#x021D;</c>in</l>
+         <l>it was him no bote</l>
+         <l>To striue wi<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>at maiden <note n="note-mergrete-2" type="ed">Erasure before <emph>wi<c type="thorn">&#x00FE;</c></emph>.</note>
+         </l>
+         <l n="–">– hir hert was so gode.</l>
+         <l>He comand <c type="thorn">&#x00FE;</c>at sche bounden ware,</l>
+         <l>bo<c type="thorn">&#x00FE;</c>e hond &amp; fot,</l>
+         <l>&amp; se<c type="thorn">&#x00FE;</c><c type="thorn">&#x00FE;</c>en into prisoun don,</l>
+         <l>to turnen hir mode.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Maiden Mergrete</l>
+         <l>o ni<c type="yogh">&#x021D;</c>t in prisoun lay.</l>
+         <l n="110">Sche was
+brou<c type="yogh">&#x021D;</c>t biforn him</l>
+         <l>opon <c type="thorn">&#x00FE;</c>at o<c type="thorn">&#x00FE;</c>er day.</l>
+         <l>‘Maiden Mergrete’ he seyd, <milestone unit="folio" n="f.17vb"/>
+            <note type="xref">
+               <ref target="#017v.sid"/>
+            </note>
+         </l>
+         <l>‘<c type="thorn">&#x00FE;</c>ou trowe opon mi lay.</l>
+         <l>Jhesu <c type="thorn">&#x00FE;</c>atow leuest on,</l>
+         <l><c type="thorn">&#x00FE;</c>ou do him al oway.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Trowe on me &amp; be mi wiif,</l>
+         <l>wele <c type="thorn">&#x00FE;</c>ou schalt spede;</l>
+         <l>Antioge &amp; Azie</l>
+         <l><c type="thorn">&#x00FE;</c>ou schalt haue to mede.</l>
+         <l n="115">Sikelatoun
+&amp; purpel pal,</l>
+         <l><c type="thorn">&#x00FE;</c>at schal be <c type="thorn">&#x00FE;</c>i wede,</l>
+         <l>Wi<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e best metes in mi lond</l>
+         <l>wele y schal <c type="thorn">&#x00FE;</c>e fede.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> ‘<c type="THORN">&#x00DE;</c>ine wicke redes’ sche seyd,</l>
+         <l>‘y do out of mi <c type="thorn">&#x00FE;</c>ou<c type="yogh">&#x021D;</c>t.</l>
+         <l>Y take me to Jhesu Crist</l>
+         <l><c type="thorn">&#x00FE;</c>at wi<c type="thorn">&#x00FE;</c> hondes me wrou<c type="yogh">&#x021D;</c>t.</l>
+         <l>Al <c type="thorn">&#x00FE;</c>is midlerd</l>
+         <l>maked he of nou<c type="yogh">&#x021D;</c>t,</l>
+         <l n="120">&amp;
+se<c type="thorn">&#x00FE;</c><c type="thorn">&#x00FE;</c>en into helle</l>
+         <l><c type="thorn">&#x00FE;</c>e holy gost he brou<c type="yogh">&#x021D;</c>t.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>an it spac Olibrious:</l>
+         <l>‘now it schal be sene</l>
+         <l>On wham <c type="thorn">&#x00FE;</c>at sche leues</l>
+         <l>&amp; whi sche is so kene. <note n="note-mergrete-3" type="ed">In the manuscript these two lines (124-5)<lb/>
+are transposed and appear after ll.126-7.</note>
+         </l>
+         <l>Honge<c type="thorn">&#x00FE;</c> hir vp bi <c type="thorn">&#x00FE;</c>e fete</l>
+         <l>for hir lordes tene,</l>
+         <l>&amp; bete<c type="thorn">&#x00FE;</c> hir wi<c type="thorn">&#x00FE;</c> scourges</l>
+         <l>til <c type="yogh">&#x021D;</c>e ded hir wene.’</l>
+         <l n="125"><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>e
+seriaunce dede as he hem bad,</l>
+         <l>wi<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e may <c type="thorn">&#x00FE;</c>ai gan striue,</l>
+         <l>Wi<c type="thorn">&#x00FE;</c> swepes &amp; wi<c type="thorn">&#x00FE;</c> scourges,</l>
+         <l>bo<c type="thorn">&#x00FE;</c>e man &amp; wiue, –</l>
+         <l><c type="THORN">&#x00DE;</c>e blod ran of hir flesche,</l>
+         <l>as water do<c type="thorn">&#x00FE;</c> fram cliue, –</l>
+         <l>Til <c type="thorn">&#x00FE;</c>ai wende al same</l>
+         <l><c type="thorn">&#x00FE;</c>e maiden were o liue.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>an it spac Olibrious,</l>
+         <l>bi hir <c type="thorn">&#x00FE;</c>er he stode,</l>
+         <l n="130">&amp; seyd
+‘Maiden Mergrete,</l>
+         <l><c type="thorn">&#x00FE;</c>enke <c type="thorn">&#x00FE;</c>e <c type="thorn">&#x00FE;</c>is paines gode?</l>
+         <l>Trowe on min goddes</l>
+         <l>&amp; wende <c type="thorn">&#x00FE;</c>ou <c type="thorn">&#x00FE;</c>i mode.</l>
+         <l>Haue merci on <c type="thorn">&#x00FE;</c>i white flesche.</l>
+         <l>Men spille<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>i blod.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> ‘Blisced be mi lord, <milestone unit="folio" n="f.18ra"/>
+            <note type="xref">
+               <ref target="#018r.sid"/>
+            </note>
+         </l>
+         <l><c type="thorn">&#x00FE;</c>at was born in Bedlem</l>
+         <l>Of <c type="thorn">&#x00FE;</c>at swete maiden</l>
+         <l>bri<c type="yogh">&#x021D;</c>t so ani lem.</l>
+         <l n="135"><c type="THORN">&#x00DE;</c>ou do as
+<c type="thorn">&#x00FE;</c>e teches</l>
+         <l>Satanas, <c type="thorn">&#x00FE;</c>i nem.</l>
+         <l>Me <c type="thorn">&#x00FE;</c>enke <c type="thorn">&#x00FE;</c>is paines swetter</l>
+         <l><c type="thorn">&#x00FE;</c>an ani milkes rem.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>an it spac Olibrious,</l>
+         <l>‘ha<c type="thorn">&#x00FE;</c> sche non ah<c type="yogh">&#x021D;</c>e?</l>
+         <l>Alle <c type="thorn">&#x00FE;</c>e paines <c type="yogh">&#x021D;</c>e hir do,</l>
+         <l>hir <c type="thorn">&#x00FE;</c>enke it bot plawe.</l>
+         <l>Wi<c type="thorn">&#x00FE;</c> <c type="yogh">&#x021D;</c>our croked nayles</l>
+         <l><c type="thorn">&#x00FE;</c>e hide of <c type="yogh">&#x021D;</c>e drawe,</l>
+         <l n="140">As clene
+fram <c type="thorn">&#x00FE;</c>e bon</l>
+         <l>has houndes it hadde knawe.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> Alle <c type="thorn">&#x00FE;</c>e curssed <c type="thorn">&#x00FE;</c>eues</l>
+         <l>were ful glad in <c type="thorn">&#x00FE;</c>ou<c type="yogh">&#x021D;</c>t;</l>
+         <l>To do <c type="thorn">&#x00FE;</c>e kinges hest</l>
+         <l><c type="thorn">&#x00FE;</c>ai no targed nou<c type="yogh">&#x021D;</c>t.</l>
+         <l>Anon as <c type="thorn">&#x00FE;</c>e turmentours</l>
+         <l>to Mergrete were ybrou<c type="yogh">&#x021D;</c>t,</l>
+         <l><c type="THORN">&#x00DE;</c>ai todrowen hir white flesche</l>
+         <l>wi<c type="thorn">&#x00FE;</c> iren crokedly wrou<c type="yogh">&#x021D;</c>t. <note n="note-mergrete-4" type="ed">
+               <emph>crokedly</emph>: MS reads <emph>crokekely</emph>.</note>
+         </l>
+         <l n="145"><c type="pilcrow">&#x00B6;</c> Sum
+<c type="thorn">&#x00FE;</c>at bi hir stoden,</l>
+         <l>her hertes were wel sore</l>
+         <l>&amp; seyd sore wepeand,</l>
+         <l>‘Mergrete, <c type="thorn">&#x00FE;</c>i nore.</l>
+         <l>Do after Olibrious</l>
+         <l>&amp; leue opon his lore.</l>
+         <l>Haue merci on <c type="thorn">&#x00FE;</c>i fair bodi</l>
+         <l>&amp; <c type="thorn">&#x00FE;</c>ole <c type="thorn">&#x00FE;</c>is paines no more.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> Mergrete answerd</l>
+         <l>to hem <c type="thorn">&#x00FE;</c>at bi hir stode,</l>
+         <l n="150">‘I do me
+out of <c type="yogh">&#x021D;</c>our conseyl;</l>
+         <l><c type="yogh">&#x021D;</c>our redes be nou<c type="yogh">&#x021D;</c>t gode.</l>
+         <l>Y take me to Jhesu Crist,</l>
+         <l><c type="thorn">&#x00FE;</c>at was don on <c type="thorn">&#x00FE;</c>e rode.</l>
+         <l>Al <c type="thorn">&#x00FE;</c>e pine <c type="thorn">&#x00FE;</c>at ich <c type="thorn">&#x00FE;</c>ole</l>
+         <l>it is <c type="thorn">&#x00FE;</c>e soules fode.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> Sche loked vp to Jhesu Crist,</l>
+         <l>Mergrete, &amp; si<c type="yogh">&#x021D;</c>ed sore</l>
+         <l>&amp; seyd ‘swete Jhesu Crist,</l>
+         <l>y leue opon <c type="thorn">&#x00FE;</c>i lore.</l>
+         <l n="155">For <c type="thorn">&#x00FE;</c>is men
+<c type="thorn">&#x00FE;</c>at pin me <c type="thorn">&#x00FE;</c>us, <milestone unit="folio" n="f.18rb"/>
+            <note type="xref">
+               <ref target="#018r.sid"/>
+            </note>
+         </l>
+         <l>y crie, lord, <c type="thorn">&#x00FE;</c>i nore.</l>
+         <l>For<c type="yogh">&#x021D;</c>if hem &amp; lete me suffre;</l>
+         <l>for me <c type="thorn">&#x00FE;</c>ou suffredest more.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>an it spac Olibrious</l>
+         <l n="–">– werri him sonne &amp; mone –</l>
+         <l>‘Forso<c type="thorn">&#x00FE;</c>e, wenche, <c type="thorn">&#x00FE;</c>i God is nou<c type="yogh">&#x021D;</c>t</l>
+         <l>to whom <c type="thorn">&#x00FE;</c>ou biddest <c type="thorn">&#x00FE;</c>i bone.</l>
+         <l>Bot <c type="thorn">&#x00FE;</c>ou leue on our godes</l>
+         <l>&amp; forsake him sone,</l>
+         <l n="160">Y warn <c type="thorn">&#x00FE;</c>e
+wele, for al his help</l>
+         <l><c type="thorn">&#x00FE;</c>ine liif-days ben al don.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> Mergrete answerd</l>
+         <l>Olibrious anon,</l>
+         <l>‘<c type="THORN">&#x00DE;</c>ine godes <c type="thorn">&#x00FE;</c>atow leuest on</l>
+         <l>er dom so <c type="thorn">&#x00FE;</c>e ston.</l>
+         <l><c type="THORN">&#x00DE;</c>ou hast pouer to reue me</l>
+         <l>mi flesche fram <c type="thorn">&#x00FE;</c>e bon;</l>
+         <l>To reue me mi soule <note n="note-mergrete-5" type="ed">
+               <emph>me</emph> altered from <emph>mi</emph>.</note>
+         </l>
+         <l>pouwer hastow non.’</l>
+         <l n="165"><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>an
+seyd Olibrious,</l>
+         <l>‘bot <c type="thorn">&#x00FE;</c>ou turn <c type="thorn">&#x00FE;</c>i <c type="thorn">&#x00FE;</c>ou<c type="yogh">&#x021D;</c>t</l>
+         <l>Smertliche &amp; sone,</l>
+         <l>to de<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>ou schalt be brou<c type="yogh">&#x021D;</c>t.</l>
+         <l>Bot first <c type="thorn">&#x00FE;</c>ou schalt to prisoun</l>
+         <l>&amp; m[i]chel wo be wrou<c type="yogh">&#x021D;</c>t.</l>
+         <l><c type="THORN">&#x00DE;</c>i God <c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>ou leuest on</l>
+         <l>he no schal help <c type="thorn">&#x00FE;</c>e nou<c type="yogh">&#x021D;</c>t.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> Mergrete answerd <c type="thorn">&#x00FE;</c>o</l>
+         <l>milde wordes &amp; stille,</l>
+         <l n="170">‘Certes,
+wreche, of al <c type="thorn">&#x00FE;</c>i <c type="thorn">&#x00FE;</c>ret</l>
+         <l><c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>ou may do me tille</l>
+         <l>Icham redi to suffre here</l>
+         <l>al mi lordes wille,</l>
+         <l>&amp; <c type="thorn">&#x00FE;</c>ou schalt to <c type="thorn">&#x00FE;</c>e pine of helle</l>
+         <l>for <c type="thorn">&#x00FE;</c>ine werkes ille.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> Of Olibrious lokeing</l>
+         <l>men mi<c type="yogh">&#x021D;</c>t ben agast.</l>
+         <l>‘Take<c type="thorn">&#x00FE;</c> Mergrete’ he seyd,</l>
+         <l>‘&amp; fetere<c type="thorn">&#x00FE;</c> hir ful fast,</l>
+         <l n="175">&amp; in <c type="thorn">&#x00FE;</c>e
+deppest prisoun</l>
+         <l><c type="thorn">&#x00FE;</c>erin <c type="yogh">&#x021D;</c>e schullen hir cast,</l>
+         <l>&amp; lete hir cole hir bodi <c type="thorn">&#x00FE;</c>are,</l>
+         <l>for hir wordes vnwrast.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>ei Mergrette were todrawe <milestone unit="folio" n="f.18va"/>
+            <note type="xref">
+               <ref target="#018v.sid"/>
+            </note>
+         </l>
+         <l><c type="thorn">&#x00FE;</c>e flesche fram <c type="thorn">&#x00FE;</c>e bon</l>
+         <l>Pite of <c type="thorn">&#x00FE;</c>at maiden</l>
+         <l>Olibrious hadd non.</l>
+         <l>Wel hard was Mergrete</l>
+         <l>biset among her fon.</l>
+         <l n="180">Saue <c type="thorn">&#x00FE;</c>e
+help of Jhesu Crist</l>
+         <l>help no hadde sche non.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Into prisoun fetred</l>
+         <l>Mergrete was brou<c type="yogh">&#x021D;</c>t.</l>
+         <l>Jhesu Crist of heuen</l>
+         <l>was algat in hir <c type="thorn">&#x00FE;</c>ou<c type="yogh">&#x021D;</c>t.</l>
+         <l n="–">&amp; – yblisced mot he be –</l>
+         <l>he ne for<c type="yogh">&#x021D;</c>at hir nou<c type="yogh">&#x021D;</c>t.</l>
+         <l>Out of <c type="thorn">&#x00FE;</c>e court of heuen</l>
+         <l>comfort hir was brou<c type="yogh">&#x021D;</c>t.</l>
+         <l n="185"><c type="pilcrow">&#x00B6;</c> Sone
+after <c type="thorn">&#x00FE;</c>at Mergrete</l>
+         <l>was in prisoun done,</l>
+         <l><c type="THORN">&#x00DE;</c>er com an angel fram heuen,</l>
+         <l>long er it war none,</l>
+         <l>&amp; brou<c type="yogh">&#x021D;</c>t Margrete a staf</l>
+         <l><c type="thorn">&#x00FE;</c>at hye schuld vnderfon,</l>
+         <l>Fourmed after <c type="thorn">&#x00FE;</c>e rode tre</l>
+         <l><c type="thorn">&#x00FE;</c>at God was on ydon.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>an seyd <c type="thorn">&#x00FE;</c>at angel</l>
+         <l>to Mergrete <c type="thorn">&#x00FE;</c>e bri<c type="yogh">&#x021D;</c>t,</l>
+         <l n="190">‘Jhesu
+Crist mi lord,</l>
+         <l><c type="thorn">&#x00FE;</c>at is ful of mi<c type="yogh">&#x021D;</c>t,</l>
+         <l>To wite <c type="thorn">&#x00FE;</c>e fram <c type="thorn">&#x00FE;</c>ine enemis</l>
+         <l>&amp; to saue <c type="thorn">&#x00FE;</c>i ri<c type="yogh">&#x021D;</c>t,</l>
+         <l>He ha<c type="thorn">&#x00FE;</c> sent <c type="thorn">&#x00FE;</c>e <c type="thorn">&#x00FE;</c>is staf,</l>
+         <l>o<c type="yogh">&#x021D;</c>ain <c type="thorn">&#x00FE;</c>e fende to fi<c type="yogh">&#x021D;</c>t.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Maiden Mergrete’ he seyd,</l>
+         <l>‘drede <c type="thorn">&#x00FE;</c>e nowi<c type="yogh">&#x021D;</c>t.</l>
+         <l><c type="THORN">&#x00DE;</c>i sete is made in heuen</l>
+         <l>bifor mi lord so bri<c type="yogh">&#x021D;</c>t.</l>
+         <l n="195">No is no
+tong in er<c type="thorn">&#x00FE;</c>e</l>
+         <l>no non ei<c type="yogh">&#x021D;</c>e-si<c type="yogh">&#x021D;</c>t</l>
+         <l><c type="THORN">&#x00DE;</c>at may telle <c type="thorn">&#x00FE;</c>e ioie</l>
+         <l>was made of <c type="thorn">&#x00FE;</c>e <c type="thorn">&#x00FE;</c>is ni<c type="yogh">&#x021D;</c>t.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>e angel into paradis</l>
+         <l>went o<c type="yogh">&#x021D;</c>ain ful heuen.</l>
+         <l>&amp; maiden Mergrete</l>
+         <l>wi<c type="thorn">&#x00FE;</c> a milde steuen</l>
+         <l><c type="THORN">&#x00DE;</c>onked swete Jhesu Crist <milestone unit="folio" n="f.18vb"/>
+            <note type="xref">
+               <ref target="#018v.sid"/>
+            </note>
+         </l>
+         <l>&amp; his names seuen</l>
+         <l n="200"><c type="THORN">&#x00DE;</c>at hir
+hadde swiche confort sent</l>
+         <l>out of <c type="thorn">&#x00FE;</c>e blisse of heuen.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Maiden Mergrete <c type="thorn">&#x00FE;</c>o</l>
+         <l>loked hir biside</l>
+         <l>&amp; sei<c type="yogh">&#x021D;</c>e a lo<c type="thorn">&#x00FE;</c>lich dragoun</l>
+         <l>out of an hirn glide;</l>
+         <l>His ei<c type="yogh">&#x021D;</c>en wer ful griseliche,</l>
+         <l>his mou<c type="thorn">&#x00FE;</c>e <c type="yogh">&#x021D;</c>ened wide.</l>
+         <l>&amp; Mergrete mi<c type="yogh">&#x021D;</c>t nowhar fle,</l>
+         <l><c type="thorn">&#x00FE;</c>er sche most abide.</l>
+         <l n="205"><c type="pilcrow">&#x00B6;</c> Maiden
+Mergrete</l>
+         <l>stod stille so ani ston.</l>
+         <l>&amp; <c type="thorn">&#x00FE;</c>at lo<c type="thorn">&#x00FE;</c>liche worm</l>
+         <l>to hirward gan gon.</l>
+         <l>He toke hir in his foule mou<c type="thorn">&#x00FE;</c>e</l>
+         <l>&amp; swalled hir flesche &amp; bon.</l>
+         <l>Anon he tobrast</l>
+         <l n="–">– damage no hadde sche non.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Maiden Mergrete</l>
+         <l>opon <c type="thorn">&#x00FE;</c>e dragoun stode,</l>
+         <l n="210">Bli<c type="thorn">&#x00FE;</c>e was
+hir hert</l>
+         <l>&amp; ioieful was hir mode.</l>
+         <l>‘Blisced wor<c type="thorn">&#x00FE;</c> Jhesu Crist,</l>
+         <l>his vertus er wel gode.</l>
+         <l>Slayn is <c type="thorn">&#x00FE;</c>e d[r]agoun</l>
+         <l><c type="thorn">&#x00FE;</c>urth vertu of <c type="thorn">&#x00FE;</c>e rode.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> Maiden Mergrete</l>
+         <l>went <c type="thorn">&#x00FE;</c>e dragoun fro.</l>
+         <l>Sche sei<c type="yogh">&#x021D;</c>e a wele fouler <c type="thorn">&#x00FE;</c>ing</l>
+         <l>sitten in a wro;</l>
+         <l n="215">He hadde
+honden on his knes</l>
+         <l>&amp; ei<c type="yogh">&#x021D;</c>e on euerich to –</l>
+         <l>Mi<c type="yogh">&#x021D;</c>t <c type="thorn">&#x00FE;</c>er neuer lo<c type="thorn">&#x00FE;</c>er <c type="thorn">&#x00FE;</c>ing</l>
+         <l>opon er<c type="thorn">&#x00FE;</c>e go.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Sche <c type="yogh">&#x021D;</c>ede to <c type="thorn">&#x00FE;</c>at foule wi<c type="yogh">&#x021D;</c>t,</l>
+         <l>wi<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e croice in hir hond,</l>
+         <l>&amp; <c type="thorn">&#x00FE;</c>urth <c type="thorn">&#x00FE;</c>e mi<c type="yogh">&#x021D;</c>t of Jhesu Crist</l>
+         <l>wi<c type="thorn">&#x00FE;</c> hir wimpel sche him bond.</l>
+         <l>Sche toke him bi <c type="thorn">&#x00FE;</c>e temples,</l>
+         <l>about sche him swong,</l>
+         <l n="220">Sche set
+hir fot in his nek,</l>
+         <l>to <c type="thorn">&#x00FE;</c>e er<c type="thorn">&#x00FE;</c>e sche him <c type="thorn">&#x00FE;</c>rong.</l>
+         <l><c type="pilcrow">&#x00B6;</c> ‘Say me sone, <c type="thorn">&#x00FE;</c>ou foule wi<c type="yogh">&#x021D;</c>t <milestone unit="folio" n="f.19ra"/>
+            <note type="xref">
+               <ref target="#019r.sid"/>
+            </note>
+         </l>
+         <l>&amp; <c type="thorn">&#x00FE;</c>ou lo<c type="thorn">&#x00FE;</c>eliche <c type="thorn">&#x00FE;</c>ing</l>
+         <l>Who <c type="thorn">&#x00FE;</c>an is <c type="thorn">&#x00FE;</c>i lord</l>
+         <l>&amp; who is <c type="thorn">&#x00FE;</c>i king,</l>
+         <l>&amp; who <c type="thorn">&#x00FE;</c>e hider sent</l>
+         <l>to make me sturbling?</l>
+         <l>Sei<c type="yogh">&#x021D;</c>e y neuer se<c type="thorn">&#x00FE;</c><c type="thorn">&#x00FE;</c>en y was born</l>
+         <l>so lo<c type="thorn">&#x00FE;</c>eliche a <c type="thorn">&#x00FE;</c>ing.’</l>
+         <l n="225"><c type="pilcrow">&#x00B6;</c>
+‘Leuedi, for <c type="thorn">&#x00FE;</c>i lordes loue</l>
+         <l><c type="thorn">&#x00FE;</c>ou may ful wele fond.</l>
+         <l>Left a litel <c type="thorn">&#x00FE;</c>i fot</l>
+         <l><c type="thorn">&#x00FE;</c>at in mi nek stond.</l>
+         <l>For michel haue y walked</l>
+         <l>bi water &amp; bi lond,</l>
+         <l>Nas y neuer are bounden</l>
+         <l>in so hard bond.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Ruffin was mi bro<c type="thorn">&#x00FE;</c>er,</l>
+         <l><c type="thorn">&#x00FE;</c>e dragoun <c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>ou slou<c type="yogh">&#x021D;</c>;</l>
+         <l n="230">Whiles he
+was on liue,</l>
+         <l>he wrou<c type="yogh">&#x021D;</c>t wonder anou<c type="yogh">&#x021D;</c>.</l>
+         <l>He maked <c type="thorn">&#x00FE;</c>eues to stele o ni<c type="yogh">&#x021D;</c>t,</l>
+         <l>o day to ligge &amp; gou<c type="yogh">&#x021D;</c>,</l>
+         <l>&amp; <c type="yogh">&#x021D;</c>elt hem her seruise</l>
+         <l>wi<c type="thorn">&#x00FE;</c> wel michel wou<c type="yogh">&#x021D;</c>.</l>
+         <l><c type="pilcrow">&#x00B6;</c> In a dragoun fourme</l>
+         <l>sent he was to <c type="thorn">&#x00FE;</c>e,</l>
+         <l>For to spille <c type="thorn">&#x00FE;</c>i memorie</l>
+         <l>o<c type="thorn">&#x00FE;</c>er to quelle <c type="thorn">&#x00FE;</c>e.</l>
+         <l n="235">Brosten is
+he of peces,</l>
+         <l>&amp; bounden hastow me.</l>
+         <l>A maiden ha<c type="thorn">&#x00FE;</c> ous ouercomen,</l>
+         <l>litel is our pouste!</l>
+         <l><c type="pilcrow">&#x00B6;</c> Belgys is mi name –</l>
+         <l>nis no bot to ly<c type="yogh">&#x021D;</c>e.</l>
+         <l>No may ich in non wise</l>
+         <l><c type="thorn">&#x00FE;</c>is pain long drey<c type="yogh">&#x021D;</c>e.</l>
+         <l>Is nou<c type="yogh">&#x021D;</c>t mi gat in er<c type="thorn">&#x00FE;</c>e:</l>
+         <l>wi<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e winde y fleye.</l>
+         <l n="240">Al y fond
+for to quelle</l>
+         <l><c type="thorn">&#x00FE;</c>at y see wi<c type="thorn">&#x00FE;</c> ei<c type="yogh">&#x021D;</c>e.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>er ich finde a wiif</l>
+         <l><c type="thorn">&#x00FE;</c>at li<c type="yogh">&#x021D;</c>ter is of barn,</l>
+         <l>Y com <c type="thorn">&#x00FE;</c>er also sone</l>
+         <l>as euer ani arn;</l>
+         <l><c type="yogh">&#x021D;</c>if it be vnblisced, <milestone unit="folio" n="f.19rb"/>
+            <note type="xref">
+               <ref target="#019r.sid"/>
+            </note>
+         </l>
+         <l>y croke it fot or arm</l>
+         <l>O<c type="thorn">&#x00FE;</c>er <c type="thorn">&#x00FE;</c>e wiif hirseluen</l>
+         <l>of childebed be forfarn. <note n="note-mergrete-6" type="ed">
+               <emph>childebed</emph>: MS reads <emph>childehed</emph>.</note>
+         </l>
+         <l n="245"><c type="pilcrow">&#x00B6;</c> <c type="yogh">&#x021D;</c>if
+<c type="thorn">&#x00FE;</c>ou wilt al wite,</l>
+         <l>astow may ful wel,</l>
+         <l>Loke in ich a strete:</l>
+         <l><c type="thorn">&#x00FE;</c>ou findes it eueridel.</l>
+         <l>Y pray <c type="thorn">&#x00FE;</c>e for <c type="thorn">&#x00FE;</c>i lordes loue,</l>
+         <l><c type="thorn">&#x00FE;</c>ou binde me wi<c type="thorn">&#x00FE;</c> stiel,</l>
+         <l><c type="THORN">&#x00DE;</c>at y no may wi<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>ine men</l>
+         <l>neuer striue a del.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Salamon <c type="thorn">&#x00FE;</c>e wise,</l>
+         <l>til he was oliue,</l>
+         <l n="250">He dede ous
+in a bras fat</l>
+         <l>&amp; delued ous vnder cliue.</l>
+         <l>When he was oliue farn,</l>
+         <l><c type="thorn">&#x00FE;</c>ai lete ous out driue,</l>
+         <l><c type="THORN">&#x00DE;</c>e men out of Babiloine,</l>
+         <l><c type="thorn">&#x00FE;</c>e bras fat <c type="thorn">&#x00FE;</c>ai gun riue.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>ai wend to finde gold anou<c type="yogh">&#x021D;</c></l>
+         <l>&amp; lete ous alle go.</l>
+         <l>Sum wer swifter <c type="thorn">&#x00FE;</c>an <c type="thorn">&#x00FE;</c>e winde,</l>
+         <l>&amp; sum <c type="thorn">&#x00FE;</c>an <c type="thorn">&#x00FE;</c>e ro.</l>
+         <l n="255"><c type="yogh">&#x021D;</c>ete <c type="thorn">&#x00FE;</c>er er
+in er<c type="thorn">&#x00FE;</c>e</l>
+         <l>ten <c type="thorn">&#x00FE;</c>ousend &amp; mo.</l>
+         <l>Al <c type="thorn">&#x00FE;</c>at trowe on Jhesu Crist</l>
+         <l><c type="thorn">&#x00FE;</c>ai fond at wirche ful wo.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> ‘Be stille, <c type="thorn">&#x00FE;</c>ou foule gost,</l>
+         <l>&amp; decende into helle.</l>
+         <l>Be <c type="thorn">&#x00FE;</c>ou neuer so hardi</l>
+         <l>more man to quelle.</l>
+         <l>Y pray mi lord Jhesu Crist</l>
+         <l><c type="thorn">&#x00FE;</c>i pouste <c type="thorn">&#x00FE;</c>at he felle’ .</l>
+         <l n="260">He sank
+into er<c type="thorn">&#x00FE;</c>e,</l>
+         <l>so ston in drau<c type="yogh">&#x021D;</c>t-welle.</l>
+         <l><c type="pilcrow">&#x00B6;</c> On <c type="thorn">&#x00FE;</c>at o<c type="thorn">&#x00FE;</c>er day</l>
+         <l>after it was non,</l>
+         <l>Olibrious comand</l>
+         <l>sche were of prisoun don.</l>
+         <l><c type="THORN">&#x00DE;</c>e holy gost of heuen</l>
+         <l>he com to hir ful sone,</l>
+         <l><c type="THORN">&#x00DE;</c>e rode token in hir hond</l>
+         <l><c type="thorn">&#x00FE;</c>at Crist was on don</l>
+         <l n="265"><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>an it
+spac Olibrious <milestone unit="folio" n="f.19va"/>
+            <note type="xref">
+               <ref target="#019v.sid"/>
+            </note>
+         </l>
+         <l n="–">– Crist <c type="yogh">&#x021D;</c>iue him iuel dede.</l>
+         <l>‘Maiden Mergrete’ he seyd,</l>
+         <l>‘hastow taken <c type="thorn">&#x00FE;</c>i rede?</l>
+         <l>Wiltow be mi leman,</l>
+         <l>y finde <c type="thorn">&#x00FE;</c>e clo<c type="thorn">&#x00FE;</c> &amp; mete.</l>
+         <l>Trowe on mi godes anon,</l>
+         <l>or <c type="thorn">&#x00FE;</c>i liif <c type="thorn">&#x00FE;</c>ou schalt forlete.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> ‘<c type="THORN">&#x00DE;</c>ine godes <c type="thorn">&#x00FE;</c>ai be doumbe</l>
+         <l><c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>ou trouwest inne;</l>
+         <l n="270"><c type="THORN">&#x00DE;</c>ai er ich
+a dele</l>
+         <l>ful of sake &amp; sinne;</l>
+         <l><c type="THORN">&#x00DE;</c>ai er comen out of helle,</l>
+         <l>of Satanas kinne.</l>
+         <l><c type="THORN">&#x00DE;</c>an <c type="thorn">&#x00FE;</c>ou wenes best to liue,</l>
+         <l><c type="THORN">&#x00DE;</c>ou schalt to helle winne.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Y rede <c type="thorn">&#x00FE;</c>ou leue on Jhesu Crist</l>
+         <l><c type="thorn">&#x00FE;</c>at al <c type="thorn">&#x00FE;</c>e world ha<c type="thorn">&#x00FE;</c> wrou<c type="yogh">&#x021D;</c>t,</l>
+         <l>Fader &amp; sone &amp; holy gost,</l>
+         <l><c type="thorn">&#x00FE;</c>at al <c type="thorn">&#x00FE;</c>ing made of nou<c type="yogh">&#x021D;</c>t,</l>
+         <l n="275">&amp; wi<c type="thorn">&#x00FE;</c>
+his swete blod</l>
+         <l>he ha<c type="thorn">&#x00FE;</c> ous alle bou<c type="yogh">&#x021D;</c>t.</l>
+         <l>Leue on him &amp; be Cristen man,</l>
+         <l>&amp; lete <c type="thorn">&#x00FE;</c>i wicke <c type="thorn">&#x00FE;</c>ou<c type="yogh">&#x021D;</c>t.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>an spac Olibrious,</l>
+         <l><c type="thorn">&#x00FE;</c>er he sat on his des:</l>
+         <l>Ichil bileue on mi godes</l>
+         <l><c type="thorn">&#x00FE;</c>at y formast ches;</l>
+         <l>For min godes be trewe,</l>
+         <l>&amp; <c type="thorn">&#x00FE;</c>ine er fals &amp; les.</l>
+         <l n="280">While <c type="thorn">&#x00FE;</c>ou
+leuest on him,</l>
+         <l><c type="thorn">&#x00FE;</c>ou schalt haue no pes.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> Maiden Mergrete</l>
+         <l>answerd <c type="thorn">&#x00FE;</c>er sche stode,</l>
+         <l>‘Yblisced be Jhesu Crist;</l>
+         <l>his help it is ful gode.</l>
+         <l>Y no doute <c type="thorn">&#x00FE;</c>e no<c type="thorn">&#x00FE;</c>ing,</l>
+         <l>be <c type="thorn">&#x00FE;</c>ou neuer so wode,</l>
+         <l>Mi trust is al on Jhesu Crist</l>
+         <l><c type="thorn">&#x00FE;</c>at for ous schadde his blod.’</l>
+         <l n="285"><c type="pilcrow">&#x00B6;</c>
+Olibrious on Mergrete</l>
+         <l>anon he gan to grenne</l>
+         <l>&amp; seyd to his turmentours,</l>
+         <l>‘a pine y wil <c type="yogh">&#x021D;</c>ou kenne.</l>
+         <l>Take<c type="thorn">&#x00FE;</c> &amp; walle<c type="thorn">&#x00FE;</c> oyle <milestone unit="folio" n="f.19vb"/>
+            <note type="xref">
+               <ref target="#019v.sid"/>
+            </note>
+         </l>
+         <l>&amp; lete opon hir renne,</l>
+         <l>&amp; bot <c type="thorn">&#x00FE;</c>e wiche turn hir mode,</l>
+         <l>to de<c type="thorn">&#x00FE;</c> <c type="yogh">&#x021D;</c>e schul hir brenne.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> For<c type="thorn">&#x00FE;</c> went <c type="thorn">&#x00FE;</c>o turmentours</l>
+         <l n="–">– sorwe hem mot bitide –</l>
+         <l n="290">&amp;
+setten oyle opon <c type="thorn">&#x00FE;</c>e fer,</l>
+         <l><c type="thorn">&#x00FE;</c>ai nold no lenger abide.</l>
+         <l>Opon hir fair bodi</l>
+         <l>adoun <c type="thorn">&#x00FE;</c>ai lete it glide.</l>
+         <l>Jhesu sent his angels doun</l>
+         <l>to stond bi hir side.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>e angels stode hir so nei<c type="yogh">&#x021D;</c>e</l>
+         <l><c type="thorn">&#x00FE;</c>at no<c type="thorn">&#x00FE;</c>ing mi<c type="yogh">&#x021D;</c>t hir greue,</l>
+         <l>&amp; hir hert was ful gode</l>
+         <l>to Godes owhen biheue.</l>
+         <l n="295">Olibrious
+was abouten</l>
+         <l>to turn hir bileue,</l>
+         <l>&amp; euer sche held to Jhesu Crist,</l>
+         <l><c type="thorn">&#x00FE;</c>at made Adam &amp; Eue.</l>
+         <l><c type="pilcrow">&#x00B6;</c> ‘Maiden’ qua<c type="thorn">&#x00FE;</c> Olibrious,</l>
+         <l>‘is <c type="thorn">&#x00FE;</c>i rede ytake?</l>
+         <l>Wiltow leue on Mahoun</l>
+         <l>&amp; <c type="thorn">&#x00FE;</c>i God forsake?</l>
+         <l>Ywis, bot <c type="thorn">&#x00FE;</c>ou turn <c type="thorn">&#x00FE;</c>i mode,</l>
+         <l><c type="thorn">&#x00FE;</c>i sorwe biginne<c type="thorn">&#x00FE;</c> to wake,</l>
+         <l n="300"><c type="THORN">&#x00DE;</c>ou schalt
+<c type="thorn">&#x00FE;</c>ole de<c type="thorn">&#x00FE;</c> today</l>
+         <l>for <c type="thorn">&#x00FE;</c>i lordes sake.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> Mergrete him answerd</l>
+         <l>mildeliche &amp; stille,</l>
+         <l>‘<c type="yogh">&#x021D;</c>if y schal dye for his loue,</l>
+         <l>icham at his wille.</l>
+         <l><c type="THORN">&#x00DE;</c>ei <c type="thorn">&#x00FE;</c>ou reue me mi liif,</l>
+         <l>y nil nou<c type="yogh">&#x021D;</c>t turn <c type="thorn">&#x00FE;</c>e tille;</l>
+         <l><c type="THORN">&#x00DE;</c>ou schal nou<c type="yogh">&#x021D;</c>t mi soule greue</l>
+         <l>for al <c type="thorn">&#x00FE;</c>ine pines ille.’</l>
+         <l n="305"><c type="pilcrow">&#x00B6;</c>
+Olibrious was nei<c type="yogh">&#x021D;</c>e wode</l>
+         <l>for wret<c type="thorn">&#x00FE;</c>e of <c type="thorn">&#x00FE;</c>at wenche.</l>
+         <l>Opon a grete wickednisse</l>
+         <l>he gan him bi<c type="thorn">&#x00FE;</c>enche.</l>
+         <l>In a fat ful of water</l>
+         <l>he bad men schuld hir sinche,</l>
+         <l>&amp; bot sche wald turn hir mode,</l>
+         <l><c type="thorn">&#x00FE;</c>erin men schuld hir drenche.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Alle <c type="thorn">&#x00FE;</c>e wicke turmentours <milestone unit="folio" n="f.20ra"/>
+            <note type="xref">
+               <ref target="#020r.sid"/>
+            </note>
+         </l>
+         <l n="–">– hong mot <c type="thorn">&#x00FE;</c>ay hei<c type="yogh">&#x021D;</c>e –</l>
+         <l n="310">Fast <c type="thorn">&#x00FE;</c>ai
+were about</l>
+         <l><c type="thorn">&#x00FE;</c>at Mergrete schuld dye.</l>
+         <l><c type="THORN">&#x00DE;</c>ai fild a fat ful of water</l>
+         <l>fast bi <c type="thorn">&#x00FE;</c>e ei<c type="yogh">&#x021D;</c>e,</l>
+         <l>To drenche Mergrete <c type="thorn">&#x00FE;</c>erinne</l>
+         <l>fast <c type="thorn">&#x00FE;</c>ai gun heye.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>an spac <c type="thorn">&#x00FE;</c>at maiden,</l>
+         <l>Mergrete, <c type="thorn">&#x00FE;</c>at was so fre,</l>
+         <l>‘Jhesu Crist mi louerd</l>
+         <l n="–">– yblisced mot <c type="thorn">&#x00FE;</c>ou be –</l>
+         <l n="315"><c type="yogh">&#x021D;</c>if it be
+<c type="thorn">&#x00FE;</c>i wille,</l>
+         <l><c type="thorn">&#x00FE;</c>e water <c type="thorn">&#x00FE;</c>at y se,</l>
+         <l>Lete me cristen <c type="thorn">&#x00FE;</c>erinne</l>
+         <l>in <c type="thorn">&#x00FE;</c>e name of <c type="thorn">&#x00FE;</c>e.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>e turmentours token hir,</l>
+         <l>bo<c type="thorn">&#x00FE;</c>e bon &amp; fel,</l>
+         <l>&amp; wold drenche hir <c type="thorn">&#x00FE;</c>erinne</l>
+         <l n="–">– <c type="thorn">&#x00FE;</c>ai wende do ful wel.</l>
+         <l>To confort <c type="thorn">&#x00FE;</c>at maiden</l>
+         <l>an angel was ful snel,</l>
+         <l n="320"><c type="THORN">&#x00DE;</c>at swete
+Jhesus Crist hir sent</l>
+         <l>to confort hir ful wel.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Alle <c type="thorn">&#x00FE;</c>e pople sei<c type="yogh">&#x021D;</c>e <c type="thorn">&#x00FE;</c>ere</l>
+         <l>an angel com fle</l>
+         <l>&amp; toke Mergrete of <c type="thorn">&#x00FE;</c>e water,</l>
+         <l><c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>ai al mi<c type="yogh">&#x021D;</c>t se.</l>
+         <l><c type="THORN">&#x00DE;</c>e fat brast on peces,</l>
+         <l><c type="thorn">&#x00FE;</c>e folk bigan to fle.</l>
+         <l>Olibrious <c type="thorn">&#x00FE;</c>at was king</l>
+         <l>a sori man was he. <note n="note-mergrete-7" type="ed">This half-line written at the foot of the column,<lb/>
+and its correct position marked by a-b and crosses.</note>
+         </l>
+         <l n="325"><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>o <c type="thorn">&#x00FE;</c>e
+popel sei<c type="yogh">&#x021D;</c>en</l>
+         <l>al <c type="thorn">&#x00FE;</c>e fat todriue,</l>
+         <l>To forsake Mahoun</l>
+         <l><c type="thorn">&#x00FE;</c>ai heyed hem biliue</l>
+         <l>&amp; leued opon Jhesu Crist,</l>
+         <l>fif <c type="thorn">&#x00FE;</c>ousend &amp; fiue.</l>
+         <l>Olibrious lete slen hem alle</l>
+         <l>&amp; bringen hem oliue.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Anon bifor Olibrious</l>
+         <l><c type="thorn">&#x00FE;</c>e turmentours ronne</l>
+         <l n="330">&amp; seyd
+‘sir, it is for nou<c type="yogh">&#x021D;</c>t</l>
+         <l>al <c type="thorn">&#x00FE;</c>at we han bigonne.</l>
+         <l><c type="THORN">&#x00DE;</c>er com fleyand bestes, <milestone unit="folio" n="f.20rb"/>
+            <note type="xref">
+               <ref target="#020r.sid"/>
+            </note>
+         </l>
+         <l>as bri<c type="yogh">&#x021D;</c>t as ani sonne,</l>
+         <l>&amp; sauen hir fram harm</l>
+         <l>for al <c type="thorn">&#x00FE;</c>at euer we conne.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> Olibrious was nei<c type="yogh">&#x021D;</c>e wode,</l>
+         <l>ailed him no game.</l>
+         <l>He cleped for<c type="thorn">&#x00FE;</c> a turmentour,</l>
+         <l>was he no<c type="thorn">&#x00FE;</c>ing lame,</l>
+         <l n="335">A strong
+manqueller,</l>
+         <l>Malcous was his name.</l>
+         <l>Olibrious bi<c type="thorn">&#x00FE;</c>ou<c type="yogh">&#x021D;</c>t him</l>
+         <l>to do Mergrete schame.</l>
+         <l><c type="pilcrow">&#x00B6;</c> ‘Malcous’ qua<c type="thorn">&#x00FE;</c> Olib[r]ius,</l>
+         <l>‘go &amp; hei<c type="yogh">&#x021D;</c>e <c type="thorn">&#x00FE;</c>e swi<c type="thorn">&#x00FE;</c>e.</l>
+         <l>Lade <c type="thorn">&#x00FE;</c>is wiche out of toun</l>
+         <l>&amp; bring hir oliue,</l>
+         <l>Wi<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>i swerd smite of hir hed</l>
+         <l>&amp; lat <c type="thorn">&#x00FE;</c>e blod out driue.</l>
+         <l n="340">No schal
+sche neuer after <c type="thorn">&#x00FE;</c>is day</l>
+         <l>more o<c type="yogh">&#x021D;</c>ains me striue.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> Malcous tok Mergrete</l>
+         <l>&amp; ladde hir out of toun,</l>
+         <l><c type="THORN">&#x00DE;</c>er was <c type="thorn">&#x00FE;</c>e stede to heued men,</l>
+         <l>a litel biside a doun.</l>
+         <l>&amp; seyd ‘maiden stoupe here,</l>
+         <l><c type="thorn">&#x00FE;</c>er whiles y schaue <c type="thorn">&#x00FE;</c>i croun,</l>
+         <l>&amp; y schal maken al blodi</l>
+         <l><c type="thorn">&#x00FE;</c>ine lockes <c type="thorn">&#x00FE;</c>at ben broun.’</l>
+         <l n="345"><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>er
+suwed Mergrete to <c type="thorn">&#x00FE;</c>e de<c type="thorn">&#x00FE;</c></l>
+         <l>al <c type="thorn">&#x00FE;</c>at mi<c type="yogh">&#x021D;</c>ten go;</l>
+         <l>Mani was <c type="thorn">&#x00FE;</c>at moder child</l>
+         <l><c type="thorn">&#x00FE;</c>at for hir de<c type="thorn">&#x00FE;</c> was wo.</l>
+         <l><c type="THORN">&#x00DE;</c>e <c type="thorn">&#x00FE;</c>onder gan to brest,</l>
+         <l><c type="thorn">&#x00FE;</c>e sonne wex al blo;</l>
+         <l><c type="THORN">&#x00DE;</c>e pople fel adoun to grounde,</l>
+         <l><c type="thorn">&#x00FE;</c>ai nist of wele no wo.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>er com an angel fram heuen,</l>
+         <l><c type="thorn">&#x00FE;</c>at was bri<c type="yogh">&#x021D;</c>t of ble,</l>
+         <l n="350">&amp; seyd
+‘Mergrete,</l>
+         <l>yblisced mot <c type="thorn">&#x00FE;</c>ou be.</l>
+         <l>Jhesus Crist of heuen</l>
+         <l>sent <c type="thorn">&#x00FE;</c>e word bi me:</l>
+         <l>In <c type="thorn">&#x00FE;</c>e blisse of heuen</l>
+         <l>coround schaltow be.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> Milde Mergrete, <milestone unit="folio" n="f.20va"/>
+            <note type="xref">
+               <ref target="#020v.sid"/>
+            </note>
+         </l>
+         <l><c type="thorn">&#x00FE;</c>at was so gode a mayde,</l>
+         <l><c type="THORN">&#x00DE;</c>o sche herd <c type="thorn">&#x00FE;</c>e angel voice,</l>
+         <l>sche bigan to abrayd.</l>
+         <l n="355"><c type="THORN">&#x00DE;</c>e tidinges
+<c type="thorn">&#x00FE;</c>at he brou<c type="yogh">&#x021D;</c>t hir </l>
+         <note n="note-mergrete-8" type="ed">
+            <emph>brou<c type="yogh">&#x021D;</c>t</emph>: <emph>o</emph> is
+superscript.</note>
+         <l>nei<c type="yogh">&#x021D;</c>e hir hert sche leyd,</l>
+         <l>&amp; sett hir doun opon hir kne</l>
+         <l>&amp; <c type="thorn">&#x00FE;</c>is wordes sche seyd,</l>
+         <l><c type="pilcrow">&#x00B6;</c> ‘Blisced be Jhesu Crist</l>
+         <l><c type="thorn">&#x00FE;</c>at ha<c type="thorn">&#x00FE;</c> me sent <c type="thorn">&#x00FE;</c>at sond,</l>
+         <l>&amp; dyed on <c type="thorn">&#x00FE;</c>e rode tre</l>
+         <l>to bring ous out of bond;</l>
+         <l>Lord, ich biseke <c type="thorn">&#x00FE;</c>e,</l>
+         <l>lete mi biding stond,</l>
+         <l n="360">Of <c type="thorn">&#x00FE;</c>at
+ichil biseke <c type="thorn">&#x00FE;</c>e</l>
+         <l>for sinful men in lond.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> Mergrete <c type="thorn">&#x00FE;</c>e milde,</l>
+         <l><c type="thorn">&#x00FE;</c>at was Godes mayde,</l>
+         <l><c type="THORN">&#x00DE;</c>ou<c type="yogh">&#x021D;</c>t opon <c type="thorn">&#x00FE;</c>e wordes</l>
+         <l><c type="thorn">&#x00FE;</c>e dragoun in prisoun seyd:</l>
+         <l><c type="THORN">&#x00DE;</c>at deuels <c type="yogh">&#x021D;</c>ede in er<c type="thorn">&#x00FE;</c>e</l>
+         <l>women for to breyd</l>
+         <l><c type="THORN">&#x00DE;</c>at were traueland of child <note n="note-mergrete-9" type="ed">
+               <emph><c type="THORN">&#x00DE;</c>at</emph>: altered from <emph><c type="THORN">&#x00DE;</c>et</emph>.</note>
+         </l>
+         <l>or doun in childebed leyd.</l>
+         <l n="365"><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>an
+bad Mergrete</l>
+         <l>to Jhesu, <c type="thorn">&#x00FE;</c>at was so fre,</l>
+         <l>‘<c type="yogh">&#x021D;</c>if ani woman trauayl</l>
+         <l>&amp; hard clepe<c type="thorn">&#x00FE;</c> to me,</l>
+         <l>Deliuer hir, lord, wi<c type="thorn">&#x00FE;</c> ioie</l>
+         <l><c type="thorn">&#x00FE;</c>urth vertu of <c type="thorn">&#x00FE;</c>e tre</l>
+         <l><c type="THORN">&#x00DE;</c>at <c type="thorn">&#x00FE;</c>ou dest <c type="thorn">&#x00FE;</c>i body on</l>
+         <l>to make ous al fre.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Alle <c type="thorn">&#x00FE;</c>at mi passioun</l>
+         <l>heren o<c type="thorn">&#x00FE;</c>er rede</l>
+         <l n="370">O<c type="thorn">&#x00FE;</c>er <c type="thorn">&#x00FE;</c>at in
+mi name</l>
+         <l>don ani almosdede,</l>
+         <l>Jhesu Crist, mi lord,</l>
+         <l>wi<c type="thorn">&#x00FE;</c> honour <c type="thorn">&#x00FE;</c>ou hem fede.</l>
+         <l><c type="THORN">&#x00DE;</c>e swete blis of heuen</l>
+         <l>grant hem, lord, to mede.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>er com a voice fram Jhesu Crist,</l>
+         <l><c type="thorn">&#x00FE;</c>at sitt in trinite,</l>
+         <l>&amp; seyd to maiden Mergrete,</l>
+         <l>‘yblisced mot <c type="thorn">&#x00FE;</c>ou be.</l>
+         <l n="375">Of <c type="thorn">&#x00FE;</c>atow
+hast me bisou<c type="yogh">&#x021D;</c>t, <milestone unit="folio" n="f.20vb"/>
+            <note type="xref">
+               <ref target="#020v.sid"/>
+            </note>
+         </l>
+         <l><c type="thorn">&#x00FE;</c>i bone graunte y the,</l>
+         <l>&amp; in <c type="thorn">&#x00FE;</c>e blisse of heuen</l>
+         <l><c type="thorn">&#x00FE;</c>ou schalt won wi<c type="thorn">&#x00FE;</c> me.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>o <c type="thorn">&#x00FE;</c>at maiden Mergrete</l>
+         <l>hadde herd <c type="thorn">&#x00FE;</c>at miri steuen</l>
+         <l><c type="THORN">&#x00DE;</c>at com fram swete Jhesu Crist</l>
+         <l>out of <c type="thorn">&#x00FE;</c>e blis of heuen,</l>
+         <l>Bifor Malcous sche kneled</l>
+         <l>opon hir knes ful euen,</l>
+         <l n="380">&amp; bad
+him smite of hir heued,</l>
+         <l>mo times <c type="thorn">&#x00FE;</c>an seuen.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Sche crid opon Malcous</l>
+         <l n="–">– nold sche neuer blinne –</l>
+         <l>‘Malcous, smite of mi heued.</l>
+         <l>for<c type="yogh">&#x021D;</c>iue y <c type="thorn">&#x00FE;</c>e <c type="thorn">&#x00FE;</c>e sinne.’</l>
+         <l>‘<c type="THORN">&#x00DE;</c>at nold y do’ he seyd,</l>
+         <l>‘for al <c type="thorn">&#x00FE;</c>is warld to winne.</l>
+         <l><c type="THORN">&#x00DE;</c>i louerd ha<c type="thorn">&#x00FE;</c> wi<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e speke</l>
+         <l><c type="pilcrow">&#x00B6;</c> In wham <c type="thorn">&#x00FE;</c>ou leuest inne.’</l>
+         <l n="385">‘Malcous’ qua<c type="thorn">&#x00FE;</c> Mergrete,</l>
+         <l>‘forso<c type="thorn">&#x00FE;</c>e y telle <c type="thorn">&#x00FE;</c>e,</l>
+         <l>Bot <c type="thorn">&#x00FE;</c>ou smite of min heued,</l>
+         <l><c type="thorn">&#x00FE;</c>ou mi<c type="yogh">&#x021D;</c>t nou<c type="yogh">&#x021D;</c>t saued be.</l>
+         <l>Haue ydon &amp; smite it of,</l>
+         <l>&amp; y wil bid for <c type="thorn">&#x00FE;</c>e</l>
+         <l><c type="THORN">&#x00DE;</c>at <c type="thorn">&#x00FE;</c>ou schalt haue <c type="thorn">&#x00FE;</c>e blis</l>
+         <l><c type="thorn">&#x00FE;</c>at Jhesu ha<c type="thorn">&#x00FE;</c> graunted me.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> Malcous had turned his <c type="thorn">&#x00FE;</c>ou<c type="yogh">&#x021D;</c>t</l>
+         <l>to Jhesu Crist biheue.</l>
+         <l n="390">For <c type="thorn">&#x00FE;</c>e
+miracle <c type="thorn">&#x00FE;</c>at he sei<c type="yogh">&#x021D;</c>e</l>
+         <l>he turned to gode bileue,</l>
+         <l>&amp; sori he was in hert</l>
+         <l><c type="thorn">&#x00FE;</c>at he schuld hir greue,</l>
+         <l>&amp; <c type="yogh">&#x021D;</c>ete he smot of hir heued,</l>
+         <l>ar <c type="thorn">&#x00FE;</c>at it was eue.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Anon as he had ydon,</l>
+         <l>he kneled opon <c type="thorn">&#x00FE;</c>e grounde</l>
+         <l>&amp; bisou<c type="yogh">&#x021D;</c>t him merci</l>
+         <l><c type="thorn">&#x00FE;</c>at for ous <c type="thorn">&#x00FE;</c>oled wounde.</l>
+         <l n="395"><c type="THORN">&#x00DE;</c>e angels
+cam fram heuen</l>
+         <l>wi<c type="thorn">&#x00FE;</c>in a litel stounde</l>
+         <l>&amp; bar Mergrete soule,</l>
+         <l><c type="thorn">&#x00FE;</c>er al mir<c type="thorn">&#x00FE;</c>e is founde.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Teodosious, a kni<c type="yogh">&#x021D;</c>t <milestone unit="folio" n="f.21ra"/>
+            <note type="xref">
+               <ref target="#021r.sid"/>
+            </note>
+         </l>
+         <l><c type="thorn">&#x00FE;</c>at leued on Godes lay,</l>
+         <l>&amp; <c type="thorn">&#x00FE;</c>e norice of Asie</l>
+         <l><c type="thorn">&#x00FE;</c>at loked <c type="thorn">&#x00FE;</c>at fair may,</l>
+         <l><c type="THORN">&#x00DE;</c>ai tok vp hir swete bodi,</l>
+         <l>slawe <c type="thorn">&#x00FE;</c>er it lay,</l>
+         <l n="400">&amp;
+bir[i]d it wi<c type="thorn">&#x00FE;</c> miche anour</l>
+         <l>opon <c type="thorn">&#x00FE;</c>at o<c type="thorn">&#x00FE;</c>er day.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>o Mergrete was bir[i]d,</l>
+         <l>as be<c type="thorn">&#x00FE;</c> o<c type="thorn">&#x00FE;</c>er mo,</l>
+         <l>&amp; Teodosious <c type="thorn">&#x00FE;</c>e kni<c type="yogh">&#x021D;</c>t</l>
+         <l>was ywent hir fro,</l>
+         <l>Alle <c type="thorn">&#x00FE;</c>at were seke,</l>
+         <l><c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>[i]der wald go,</l>
+         <l>Jhesu <c type="thorn">&#x00FE;</c>urth his vertu</l>
+         <l>deliuerd hem of wo.</l>
+         <l n="405"><c type="pilcrow">&#x00B6;</c>
+Teodosious <c type="thorn">&#x00FE;</c>e kni<c type="yogh">&#x021D;</c>t,</l>
+         <l>he lete writen hir liif</l>
+         <l><c type="THORN">&#x00DE;</c>at is now ouer al <c type="thorn">&#x00FE;</c>e world</l>
+         <l>name-cou<c type="thorn">&#x00FE;</c>e &amp; riif:</l>
+         <l>Hou sche <c type="thorn">&#x00FE;</c>oled hir passioun</l>
+         <l>stille wi<c type="thorn">&#x00FE;</c>outen striif,</l>
+         <l><c type="THORN">&#x00DE;</c>at mir<c type="thorn">&#x00FE;</c>e is of to here</l>
+         <l>to maiden &amp; to wiif.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Jhesu, <c type="thorn">&#x00FE;</c>at on <c type="thorn">&#x00FE;</c>e rode was don</l>
+         <l>our soules forto borwe,</l>
+         <l n="410">Scheld ous
+fram <c type="thorn">&#x00FE;</c>e pine of helle</l>
+         <l>&amp; bring ous out of sorwe,</l>
+         <l>&amp; grace forto <c type="yogh">&#x021D;</c>eme ous</l>
+         <l>out of dedli sinne,</l>
+         <l>&amp; grant ous <c type="thorn">&#x00FE;</c>e miche ioie</l>
+         <l><c type="thorn">&#x00FE;</c>er seynt Mergrete is inne. Amen.</l>
+         <l>Explicit seynt Katerine. <note n="note-mergrete-10" type="ed">This line apparently added later.</note>
+         </l>
+      </body>
+   </text>
+</TEI>

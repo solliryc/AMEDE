@@ -103,7 +103,9 @@ function onDataLoaded(data) {
     showSelectedPoem()
     setTooltipPosition()
     scrollToTop()
+    
 
+    // remove loading screen
     document.getElementById('loader').style.display = "none";
     document.getElementById('fullPage').style.opacity = 1
     document.getElementById('fullPage').style.transition = 'opacity 1s'
@@ -221,11 +223,11 @@ function showWordInfobox(word, lexiconMatch) {
     let fullEntryHTML = `<a href="https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED${medID}" target="_blank">See the full entry on the MED &#x2197;</a>`
 
     let infoboxRows = `
-        <tr class='infoboxRow' style='width:${lineTextWidth}px'><td colspan='2' class='infoboxHeader'>MED entry</td><td class='infoboxValue'>${medWord}</td></tr>
+        <tr class='infoboxRow firstRow' style='width:${lineTextWidth}px'><td colspan='2' class='infoboxHeader'>MED entry</td><td class='infoboxValue'>${medWord}</td></tr>
         <tr class='infoboxRow' style='width:${lineTextWidth}px'><td colspan='2' class='infoboxHeader'>Definition(s)</td><td class='infoboxValue'>${definitionHTML}</td></tr>
         <tr class='infoboxRow' style='width:${lineTextWidth}px'><td colspan='2' class='infoboxHeader'>Etymology</td><td class='infoboxValue'>${etymologyHTML}</td></tr>
         <tr class='infoboxRow' style='width:${lineTextWidth}px'><td colspan='2' class='infoboxHeader'>Appearance</td><td class='infoboxValue'>${appearanceHTML}</td></tr>
-        <tr class='infoboxRow' style='width:${lineTextWidth}px'><td colspan='2' class='infoboxHeader'>Full entry</td><td class='infoboxValue'>${fullEntryHTML}</td></tr>
+        <tr class='infoboxRow lastRow' style='width:${lineTextWidth}px'><td colspan='2' class='infoboxHeader'>Full entry</td><td class='infoboxValue'>${fullEntryHTML}</td></tr>
     `
     word.parentNode.parentNode.insertAdjacentHTML('afterend', infoboxRows)
 }
@@ -339,12 +341,8 @@ function showProperNounInfobox(word, wordText) {
         // show the proper noun infobox if the word is a proper noun
         if (wordText == lexiconWord) {
             isProperNoun = true
-            let infoboxContent = `
-                <table>
-                    <tr><td class='infoboxHeader'>Type</td><td class='infoboxValue'>Proper noun</td></tr>
-                </table>`
             let infoboxRow = `
-                <tr class='infoboxRow' style='width:${lineTextWidth}px'><td colspan='2' class='infoboxHeader'>Type</td><td class='infoboxValue'>Proper noun</td></tr>
+                <tr class='infoboxRow firstRow lastRow' style='width:${lineTextWidth}px'><td colspan='2' class='infoboxHeader'>Type</td><td class='infoboxValue'>Proper noun</td></tr>
             `
             word.parentNode.parentNode.insertAdjacentHTML('afterend', infoboxRow)
         }

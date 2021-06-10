@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>How Our Lady's Sauter was First Found</title>
+            <author>Auchinleck Project</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>This file is part of the facsimile-edition of the Auchinleck Manuscript was
+                     co-edited by Professor David Burnley and Dr Alison Wiggins.  The HTML versions of 
+                     the resource are freely available at http://www.nls.uk/auchinleck/ </p>
+         </publicationStmt>
+         <notesStmt>
+            <note>This manuscript file was originally supplied as saute.html and the header file was located in heads/saute_head.html both of which were
+                        converted to TEI XML by Dr James Cummings of the Oxford Text Archive. The
+                        notes below were taken from the header file and each HTML paragraph placed in 
+                        a separate note. </note>
+            <note>
+               <p>
+                  <hi rend="bold">Scribe 1</hi>
+               </p>
+            </note>
+            <note>
+               <p>6-line stanzas, rhyming <emph>aabaab</emph>. 258 lines, including
+13-line lacuna on f.259va.</p>
+            </note>
+            <note>
+               <p>Two other manuscripts:<lb/>
+                  <hi rend="bold">Bodleian Library MS 1687 (Digby 86)</hi>. <emph>c</emph>.1275. Digby 86
+also has in common with Auchinleck: <emph>The Harrowing of Hell</emph>,
+<emph>The Sayings of St Bernard</emph> and <emph>The Thrush and the
+Nightingale</emph>.<lb/>
+                  <hi rend="bold">Bodleian Library MS 1485 (Laud lat.95)</hi>.</p>
+            </note>
+            <note>
+               <p>
+                  <hi rend="bold">Edition</hi>:<lb/>
+C. Horstmann, <emph>Altenglische Legenden, Neue Folge</emph> (Heilbronn:
+Henninger, 1881): 220-224. (Edition of the Digby 86 text).</p>
+            </note>
+            <note>
+               <p>
+                  <hi rend="bold">Another edition</hi>:<lb/>
+D. Laing, <emph>A Penni Worth of Witte</emph>, Abbotsford Club
+(Edinburgh, 1857): 97-106.</p>
+            </note>
+            <note>
+               <p>
+                  <emph>Index 1840.</emph>
+               </p>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <p>The Auchinleck Manuscript (NLS Adv MS 19.2.1) is one of the National Library of
+                     Scotland’s greatest treasures. Produced in London in the 1330s, it provides a
+                     unique insight into the English language and literature that Chaucer and his
+                     generation grew up with and were influenced by. It acquired its name from its
+                     first known owner, Lord Auchinleck, who discovered the manuscript in 1740 and
+                     donated it to the precursor of the National Library in 1744.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>How Our Lady's Sauter was First Found</head>
+         <l>Leuedi swete &amp; milde, <milestone unit="folio" n="f.259rb"/>
+            <note type="xref">
+               <ref target="#259r.sid"/>
+            </note>
+         </l>
+         <l>For loue of <c type="thorn">&#x00FE;</c>ine childe,</l>
+         <l>Ihesu ful of mi<c type="yogh">&#x021D;</c>t,</l>
+         <l>Me <c type="thorn">&#x00FE;</c>at am to wilde</l>
+         <l n="5">Fram schame
+<c type="thorn">&#x00FE;</c>ou me schylde,</l>
+         <l>Bi day &amp; bi ni<c type="yogh">&#x021D;</c>t.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Ichil bigennen here</l>
+         <l>&amp; tellen <c type="thorn">&#x00FE;</c>e manere</l>
+         <l>Now in <c type="thorn">&#x00FE;</c>is stounde</l>
+         <l n="10">Of <c type="thorn">&#x00FE;</c>i
+sauter here,</l>
+         <l>Wi<c type="thorn">&#x00FE;</c> wel gode chere,</l>
+         <l>Hou it was yfounde.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Sende me <c type="thorn">&#x00FE;</c>i grace</l>
+         <l>Now in <c type="thorn">&#x00FE;</c>is place,</l>
+         <l n="15">So wele for
+to done,</l>
+         <l>Y bid <c type="thorn">&#x00FE;</c>e <c type="thorn">&#x00FE;</c>i grace.</l>
+         <l><c type="THORN">&#x00DE;</c>erto liif &amp; space.</l>
+         <l>Yhere now mi bone.</l>
+         <l><c type="pilcrow">&#x00B6;</c> A riche man was while,</l>
+         <l n="20"><c type="THORN">&#x00DE;</c>at loued
+no gile;</l>
+         <l>He loued holi chirche.</l>
+         <l>Bisiden him a mile</l>
+         <l>An abbay of seyn Gile</l>
+         <l>His eldren dede wirche.</l>
+         <l n="25"><c type="pilcrow">&#x00B6;</c> Gode
+liif <c type="thorn">&#x00FE;</c>is man ladde.</l>
+         <l>On sone he hadde,</l>
+         <l><c type="THORN">&#x00DE;</c>at gode dedes dede.</l>
+         <l>Wi<c type="thorn">&#x00FE;</c> clo<c type="thorn">&#x00FE;</c> &amp; wi<c type="thorn">&#x00FE;</c> bedde</l>
+         <l>His sone fair he schredde <milestone unit="folio" n="f.259va"/>
+            <note type="xref">
+               <ref target="#259v.sid"/>
+            </note>
+         </l>
+         <l n="30">In <c type="thorn">&#x00FE;</c>ilke
+stede.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Monke <c type="thorn">&#x00FE;</c>erin he bicam</l>
+         <l>.... .... .... ....</l>
+         <l>.... .... .... ....</l>
+         <l>.... .... .... ....</l>
+         <l n="35">..... ....
+..... ...</l>
+         <l>.... .... .... ....</l>
+         <l>.... .... .... ....</l>
+         <l>.... { 13 lines lost where miniature removed.
+}</l>
+         <l>.... .... .... ....</l>
+         <l n="40">..... ....
+..... ...</l>
+         <l>.... .... .... ....</l>
+         <l>.... .... .... ....</l>
+         <l>.... .... .... ....</l>
+         <l>.... .... .... ....</l>
+         <l n="45">Queint man
+&amp; slei<c type="yogh">&#x021D;</c>e.</l>
+         <l>For it was euer his wone</l>
+         <l>To teche him bi costome.</l>
+         <l><c type="THORN">&#x00DE;</c>e order, fer &amp; nei<c type="yogh">&#x021D;</c>e.</l>
+         <l><c type="pilcrow">&#x00B6;</c> He <c type="yogh">&#x021D;</c>ede for<c type="thorn">&#x00FE;</c> aboute</l>
+         <l n="50">Wi<c type="thorn">&#x00FE;</c>inne
+&amp; wi<c type="thorn">&#x00FE;</c>out</l>
+         <l>Wi<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e lord aday.</l>
+         <l>His sone he lete <c type="thorn">&#x00FE;</c>erout;</l>
+         <l>He <c type="yogh">&#x021D;</c>ede for to aloute –</l>
+         <l>Tellen ich <c type="yogh">&#x021D;</c>ou may –</l>
+         <l n="55"><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>e
+leuedi ful of mi<c type="yogh">&#x021D;</c>t</l>
+         <l><c type="THORN">&#x00DE;</c>at bar our dri<c type="yogh">&#x021D;</c>t,</l>
+         <l>In a chapel <c type="thorn">&#x00FE;</c>ere,</l>
+         <l>Bi day &amp; bi ni<c type="yogh">&#x021D;</c>t</l>
+         <l>When he <c type="thorn">&#x00FE;</c>erto com mi<c type="yogh">&#x021D;</c>t,</l>
+         <l n="60">Were where
+he were.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="yogh">&#x021D;</c>ou al tellen y may</l>
+         <l>An hundred ich day</l>
+         <l>Greteinges he seyd.</l>
+         <l>Wele he held his lay</l>
+         <l n="65">&amp; <c type="thorn">&#x00FE;</c>e
+order, par ma fay,</l>
+         <l>For loue of <c type="thorn">&#x00FE;</c>at mayde.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Wele he hadde ywrou<c type="yogh">&#x021D;</c>t</l>
+         <l>For gode was his <c type="thorn">&#x00FE;</c>ou<c type="yogh">&#x021D;</c>t;</l>
+         <l><c type="THORN">&#x00DE;</c>at was wele ysen.</l>
+         <l n="70">He no lesse
+it nou<c type="yogh">&#x021D;</c>t,</l>
+         <l>Heuen he hadde ybou<c type="yogh">&#x021D;</c>t</l>
+         <l><c type="THORN">&#x00DE;</c>urth his gode ben.</l>
+         <l><c type="pilcrow">&#x00B6;</c> No lete he non stounde <milestone unit="folio" n="f.259vb"/>
+            <note type="xref">
+               <ref target="#259v.sid"/>
+            </note>
+         </l>
+         <l><c type="THORN">&#x00DE;</c>at he no fel to grounde</l>
+         <l n="75">&amp;
+aknewes badde</l>
+         <l>&amp; <c type="thorn">&#x00FE;</c>ou<c type="yogh">&#x021D;</c>t on <c type="thorn">&#x00FE;</c>e fif wounde</l>
+         <l><c type="THORN">&#x00DE;</c>at God for alle <c type="thorn">&#x00FE;</c>e mounde</l>
+         <l>On rode hadde ysprad.</l>
+         <l><c type="pilcrow">&#x00B6;</c> An hundred to <c type="thorn">&#x00FE;</c>e maide</l>
+         <l n="80">Greteinges
+he seyd</l>
+         <l>Bi tale ich day.</l>
+         <l>He nou<c type="yogh">&#x021D;</c>t it no layd,</l>
+         <l>Ac so wele he playd,</l>
+         <l>Ri<c type="yogh">&#x021D;</c>t so<c type="thorn">&#x00FE;</c>e for to say,</l>
+         <l n="85"><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>at he
+sei<c type="yogh">&#x021D;</c>e wel bri<c type="yogh">&#x021D;</c>t</l>
+         <l>Our leuedi ful of mi<c type="yogh">&#x021D;</c>t</l>
+         <l>On a Saterday, ywis,</l>
+         <l>Where sche sat vpri<c type="yogh">&#x021D;</c>t</l>
+         <l>Half-clo<c type="thorn">&#x00FE;</c>ed bi si<c type="yogh">&#x021D;</c>t,</l>
+         <l n="90">&amp; seyd
+to him <c type="thorn">&#x00FE;</c>is:</l>
+         <l>‘Mi monk, no drede <c type="thorn">&#x00FE;</c>e nau<c type="yogh">&#x021D;</c>t,</l>
+         <l>For y <c type="thorn">&#x00FE;</c>e haue ylau<c type="yogh">&#x021D;</c>t</l>
+         <l>&amp; y <c type="thorn">&#x00FE;</c>e wil take.</l>
+         <l><c type="THORN">&#x00DE;</c>ou hast don a gode frau<c type="yogh">&#x021D;</c>t.</l>
+         <l n="95">No bestow
+nou<c type="yogh">&#x021D;</c>t bicau<c type="yogh">&#x021D;</c>t;</l>
+         <l>God ne schal <c type="thorn">&#x00FE;</c>e lake.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Y <c type="thorn">&#x00FE;</c>anke <c type="thorn">&#x00FE;</c>e here nou<c type="thorn">&#x00FE;</c>e</l>
+         <l>For <c type="thorn">&#x00FE;</c>atow wi<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>i mou<c type="thorn">&#x00FE;</c>e</l>
+         <l>Me hast paid so wel;</l>
+         <l n="100">Bi nor<c type="thorn">&#x00FE;</c>
+&amp; bi sou<c type="thorn">&#x00FE;</c>e</l>
+         <l>It schal be wel cou<c type="thorn">&#x00FE;</c>e</l>
+         <l><c type="THORN">&#x00DE;</c>ine dedes eueridel.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Ac <c type="thorn">&#x00FE;</c>ou most more say,</l>
+         <l>For me now ich day</l>
+         <l n="105">Fifti al bi
+score</l>
+         <l>Of aue maries,</l>
+         <l>Ich day <c type="thorn">&#x00FE;</c>ries.</l>
+         <l>Wite now wharfore:</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>at is ri<c type="yogh">&#x021D;</c>t mi sauter.</l>
+         <l n="110">&amp; <c type="thorn">&#x00FE;</c>ou
+it schalt ywite her</l>
+         <l>Hou it schal be do:</l>
+         <l>Fifti say bifore,</l>
+         <l>&amp; euer ten bi score,</l>
+         <l>&amp; <c type="thorn">&#x00FE;</c>e antemis <c type="thorn">&#x00FE;</c>erto.</l>
+         <l n="115"><c type="pilcrow">&#x00B6;</c> In
+tokne of <c type="thorn">&#x00FE;</c>e blisse</l>
+         <l><c type="THORN">&#x00DE;</c>at fel me wi<c type="thorn">&#x00FE;</c>, ywis.</l>
+         <l><c type="THORN">&#x00DE;</c>o <c type="thorn">&#x00FE;</c>e aungel to me cam <milestone unit="folio" n="f.260ra"/>
+            <note type="xref">
+               <ref target="#260r.sid"/>
+            </note>
+         </l>
+         <l>&amp; seyd me tiding</l>
+         <l><c type="THORN">&#x00DE;</c>at of me schuld spring</l>
+         <l n="120">God bicome
+a man.</l>
+         <l><c type="pilcrow">&#x00B6;</c> After say <c type="thorn">&#x00FE;</c>ou sone</l>
+         <l>Fifti middidone</l>
+         <l>Al for <c type="thorn">&#x00FE;</c>at ich blis</l>
+         <l><c type="THORN">&#x00DE;</c>at he wi<c type="thorn">&#x00FE;</c>outen sore</l>
+         <l n="125">Wald of me
+be bore;</l>
+         <l><c type="THORN">&#x00DE;</c>erof <c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>ou no misse.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>erafter <c type="thorn">&#x00FE;</c>ou shalt say</l>
+         <l>Eft fifti ich day,</l>
+         <l>Bi <c type="thorn">&#x00FE;</c>ine fingres ten,</l>
+         <l n="130">Of aue
+maries,</l>
+         <l>Ich day <c type="thorn">&#x00FE;</c>ries –</l>
+         <l>Telle it fele men –</l>
+         <l><c type="pilcrow">&#x00B6;</c> Fifti at <c type="thorn">&#x00FE;</c>e nende,</l>
+         <l>For y shulde wende</l>
+         <l n="135">To mi sone
+<c type="thorn">&#x00FE;</c>o</l>
+         <l>For blis, &amp; for to amende,</l>
+         <l><c type="THORN">&#x00DE;</c>at he to me gan sende,</l>
+         <l>To me comen &amp; go.</l>
+         <l><c type="pilcrow">&#x00B6;</c> He brou<c type="yogh">&#x021D;</c>t me to <c type="thorn">&#x00FE;</c>e blis</l>
+         <l n="140"><c type="THORN">&#x00DE;</c>at neuer
+no schal mis, </l>
+         <note n="note-saute-1" type="ed">
+            <emph>schal</emph>: altered from original <emph>sshal</emph>.</note>
+         <l>In <c type="thorn">&#x00FE;</c>at ich stounde.</l>
+         <l>Blisced be <c type="thorn">&#x00FE;</c>e time</l>
+         <l><c type="THORN">&#x00DE;</c>at he brou<c type="yogh">&#x021D;</c>t out of pine</l>
+         <l><c type="THORN">&#x00DE;</c>erin were ybounde.’</l>
+         <l n="145">‘A,
+leuedi, y <c type="thorn">&#x00FE;</c>e grete,</l>
+         <l>For <c type="thorn">&#x00FE;</c>ou art fair &amp; swete</l>
+         <l>&amp; gode to serue wel.</l>
+         <l>Graunt me <c type="thorn">&#x00FE;</c>i nore,</l>
+         <l>For y schal eueremore</l>
+         <l n="150">Don <c type="thorn">&#x00FE;</c>is
+eueri del.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="yogh">&#x021D;</c>if y durst &amp; cou<c type="thorn">&#x00FE;</c>e,</l>
+         <l>Ich wald wite nou<c type="thorn">&#x00FE;</c>e,</l>
+         <l>Leuedi, here of <c type="thorn">&#x00FE;</c>e,</l>
+         <l>Whi <c type="thorn">&#x00FE;</c>e failes gore,</l>
+         <l n="155">Sleuen
+&amp; no more</l>
+         <l>Of clo<c type="thorn">&#x00FE;</c> ich on <c type="thorn">&#x00FE;</c>e se?’</l>
+         <l><c type="pilcrow">&#x00B6;</c> ‘<c type="THORN">&#x00DE;</c>is clo<c type="thorn">&#x00FE;</c>e <c type="thorn">&#x00FE;</c>ou me <c type="yogh">&#x021D;</c>eue</l>
+         <l>Of Friday at eue,</l>
+         <l><c type="THORN">&#x00DE;</c>urth aue maries,</l>
+         <l n="160"><c type="THORN">&#x00DE;</c>o <c type="thorn">&#x00FE;</c>ou me
+gun grete</l>
+         <l>&amp; no day nold lete <milestone unit="folio" n="f.260rb"/>
+            <note type="xref">
+               <ref target="#260r.sid"/>
+            </note>
+         </l>
+         <l>Ac seydest fifti tviis.</l>
+         <l><c type="pilcrow">&#x00B6;</c> For <c type="thorn">&#x00FE;</c>ou most say more</l>
+         <l><c type="THORN">&#x00DE;</c>ries fifti bi score.</l>
+         <l n="165">Also y teld
+<c type="thorn">&#x00FE;</c>e.</l>
+         <l>Today a seueni<c type="yogh">&#x021D;</c>t</l>
+         <l>Yclo<c type="thorn">&#x00FE;</c>ed al ari<c type="yogh">&#x021D;</c>t</l>
+         <l><c type="THORN">&#x00DE;</c>ou schalt me fair yse.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Be here of al scille,</l>
+         <l n="170">&amp; say
+wi<c type="thorn">&#x00FE;</c> gode wille</l>
+         <l>Al <c type="thorn">&#x00FE;</c>is greteinges,</l>
+         <l>&amp; y schal <c type="thorn">&#x00FE;</c>e bring</l>
+         <l>Fram mi sone, <c type="thorn">&#x00FE;</c>e king,</l>
+         <l>Gode tidinges.’</l>
+         <l n="175"><c type="pilcrow">&#x00B6;</c> Mari
+went <c type="thorn">&#x00FE;</c>o oway</l>
+         <l>&amp; <c type="thorn">&#x00FE;</c>e monke ich day</l>
+         <l>Seyd ri<c type="yogh">&#x021D;</c>t <c type="thorn">&#x00FE;</c>re si<c type="thorn">&#x00FE;</c>es</l>
+         <l>Wi<c type="thorn">&#x00FE;</c> wel gode wille</l>
+         <l>Bo<c type="thorn">&#x00FE;</c>e loude &amp; stille</l>
+         <l n="180">His aue
+maries.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>at day a seuenni<c type="yogh">&#x021D;</c>t</l>
+         <l>Our leuedi, ful of mi<c type="yogh">&#x021D;</c>t, <note n="note-saute-2" type="ed">
+               <emph>leuedi</emph>: <emph>i</emph> is written superscript.</note>
+         </l>
+         <l>To <c type="thorn">&#x00FE;</c>e monk cam,</l>
+         <l>In hir wede ri<c type="yogh">&#x021D;</c>t</l>
+         <l n="185">Yclo<c type="thorn">&#x00FE;</c>ed
+swi<c type="thorn">&#x00FE;</c>e bri<c type="yogh">&#x021D;</c>t</l>
+         <l>&amp; <c type="thorn">&#x00FE;</c>onkede <c type="thorn">&#x00FE;</c>e man.</l>
+         <l><c type="pilcrow">&#x00B6;</c> ‘Fair is now mi wede,</l>
+         <l>For bedes <c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>ou bede,</l>
+         <l><c type="THORN">&#x00DE;</c>atow hast <c type="yogh">&#x021D;</c>eue me.</l>
+         <l n="190">Mi sone <c type="thorn">&#x00FE;</c>e
+wil rede,</l>
+         <l><c type="THORN">&#x00DE;</c>at <c type="thorn">&#x00FE;</c>ou no<c type="thorn">&#x00FE;</c>ing no drede</l>
+         <l>For so<c type="thorn">&#x00FE;</c>e y telle <c type="thorn">&#x00FE;</c>e.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>ou schalt abot bicome,</l>
+         <l>When <c type="thorn">&#x00FE;</c>ou art hom ynome,</l>
+         <l n="195">For <c type="yogh">&#x021D;</c>our
+abot schal dye.</l>
+         <l>Haue <c type="thorn">&#x00FE;</c>ou euer in wone</l>
+         <l>To sigge bi costome</l>
+         <l><c type="THORN">&#x00DE;</c>ine aues ich day.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Wende al about</l>
+         <l n="200">&amp;
+preche it in &amp; out</l>
+         <l><c type="THORN">&#x00DE;</c>at <c type="thorn">&#x00FE;</c>is is mi sauter;</l>
+         <l>For al <c type="thorn">&#x00FE;</c>at ich day</l>
+         <l>Wil <c type="thorn">&#x00FE;</c>is for me say,</l>
+         <l>Y schal hem ben wel ner.</l>
+         <l n="205"><c type="pilcrow">&#x00B6;</c> Leue
+monke, ich telle <c type="thorn">&#x00FE;</c>e <milestone unit="folio" n="f.260va"/>
+            <note type="xref">
+               <ref target="#260v.sid"/>
+            </note>
+         </l>
+         <l><c type="THORN">&#x00DE;</c>at <c type="thorn">&#x00FE;</c>ou most al for me</l>
+         <l>Wenden ner &amp; wide</l>
+         <l>&amp; tellen of <c type="thorn">&#x00FE;</c>is <c type="thorn">&#x00FE;</c>ing</l>
+         <l>&amp; so my sone bring</l>
+         <l n="210">Fele him
+biside.</l>
+         <l><c type="pilcrow">&#x00B6;</c> For <c type="thorn">&#x00FE;</c>urth aue maries</l>
+         <l><c type="THORN">&#x00DE;</c>at men schal siggen <c type="thorn">&#x00FE;</c>ries</l>
+         <l>In <c type="thorn">&#x00FE;</c>e wor<c type="thorn">&#x00FE;</c>schippe of me,</l>
+         <l>Y schal hem help alle</l>
+         <l n="215"><c type="THORN">&#x00DE;</c>at to me
+wille calle,</l>
+         <l>For so<c type="thorn">&#x00FE;</c>e y telle <c type="thorn">&#x00FE;</c>e.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Nis non <c type="thorn">&#x00FE;</c>at schal day,</l>
+         <l><c type="THORN">&#x00DE;</c>at <c type="thorn">&#x00FE;</c>ries wil say</l>
+         <l><c type="THORN">&#x00DE;</c>is aue maries –</l>
+         <l n="220">Wi<c type="thorn">&#x00FE;</c>outen
+housel &amp; schrift –</l>
+         <l>Bi day no bi ni<c type="yogh">&#x021D;</c>t,</l>
+         <l>For non folies.</l>
+         <l><c type="pilcrow">&#x00B6;</c> He schal in ich place</l>
+         <l>Wele finde mi grace</l>
+         <l n="225">At his
+liues ende,</l>
+         <l>&amp; he schal finde space</l>
+         <l>&amp; haue gode grace</l>
+         <l>Him al for to amende.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Gon ichil hanne.</l>
+         <l n="230">Say it mani
+man</l>
+         <l><c type="THORN">&#x00DE;</c>is &amp; make it cou<c type="thorn">&#x00FE;</c>e.</l>
+         <l>For seuen <c type="yogh">&#x021D;</c>er after <c type="thorn">&#x00FE;</c>is</l>
+         <l><c type="THORN">&#x00DE;</c>ou schalt dien, ywis –</l>
+         <l>Y telle <c type="thorn">&#x00FE;</c>e wi<c type="thorn">&#x00FE;</c> mou<c type="thorn">&#x00FE;</c>e.</l>
+         <l n="235"><c type="pilcrow">&#x00B6;</c> So
+long is <c type="thorn">&#x00FE;</c>i time</l>
+         <l>To hold <c type="thorn">&#x00FE;</c>e &amp; <c type="thorn">&#x00FE;</c>ine</l>
+         <l>&amp; hem for to teche.</l>
+         <l>After <c type="thorn">&#x00FE;</c>at of pine</l>
+         <l><c type="THORN">&#x00DE;</c>ou worst ybrou<c type="yogh">&#x021D;</c>t to mine,</l>
+         <l n="240">For y schal
+be <c type="thorn">&#x00FE;</c>i leche.’</l>
+         <l><c type="pilcrow">&#x00B6;</c> Marie went for<c type="thorn">&#x00FE;</c> hir way.</l>
+         <l>&amp; <c type="thorn">&#x00FE;</c>e monke ich day</l>
+         <l>Folk to God bring,</l>
+         <l><c type="THORN">&#x00DE;</c>urth <c type="thorn">&#x00FE;</c>is ich <c type="thorn">&#x00FE;</c>ing</l>
+         <l n="245">&amp; his
+precheing.</l>
+         <l>Gode was <c type="thorn">&#x00FE;</c>is tidinge.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Now ich bidde here,</l>
+         <l>&amp; on alle wi<c type="thorn">&#x00FE;</c> gode chere,</l>
+         <l><c type="THORN">&#x00DE;</c>at <c type="yogh">&#x021D;</c>e sigge <c type="thorn">&#x00FE;</c>ries</l>
+         <l n="250">Wi<c type="thorn">&#x00FE;</c> wel
+gode wille</l>
+         <l>Bo<c type="thorn">&#x00FE;</c>e loude &amp; stille</l>
+         <l><c type="THORN">&#x00DE;</c>is aue maries.</l>
+         <l><c type="pilcrow">&#x00B6;</c> &amp; God our alder dri<c type="yogh">&#x021D;</c>t</l>
+         <l>So <c type="yogh">&#x021D;</c>iue ous streng<c type="thorn">&#x00FE;</c>e &amp; mi<c type="yogh">&#x021D;</c>t</l>
+         <l n="255">So wele for
+to done</l>
+         <l><c type="THORN">&#x00DE;</c>at at our ending</l>
+         <l>He mot ous alle bring</l>
+         <l>To blis swi<c type="thorn">&#x00FE;</c>e sone.</l>
+         <l>Amen</l>
+      </body>
+   </text>
+</TEI>

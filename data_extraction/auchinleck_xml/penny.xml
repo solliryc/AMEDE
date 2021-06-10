@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Peniwor<c type="thorn">&#x00FE;</c> of Witt</title>
+            <author>Auchinleck Project</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>This file is part of the facsimile-edition of the Auchinleck Manuscript was
+                     co-edited by Professor David Burnley and Dr Alison Wiggins.  The HTML versions of 
+                     the resource are freely available at http://www.nls.uk/auchinleck/ </p>
+         </publicationStmt>
+         <notesStmt>
+            <note>This manuscript file was originally supplied as penny.html and the header file was located in heads/penny_head.html both of which were
+                        converted to TEI XML by Dr James Cummings of the Oxford Text Archive. The
+                        notes below were taken from the header file and each HTML paragraph placed in 
+                        a separate note. </note>
+            <note>
+               <p>
+                  <hi rend="bold">Scribe 1</hi>
+               </p>
+            </note>
+            <note>
+               <p>Short couplets. 400 lines. Begins imperfect.</p>
+            </note>
+            <note>
+               <p>Unique copy but can be compared to 'How a merchande dyd hys wyfe
+betray', in couplets (<emph>Index 1897</emph>), of which there are three
+manuscripts:<lb/>
+                  <hi rend="bold">CUL MS Ff.2.38 (<emph>olim</emph> no. 690)</hi>. Late 15th century.
+Ff.2.38 also has in common with Auchinleck: <emph>Sir Beues of
+Hamtoun</emph>, <emph>The Seven Sages of Rome</emph>, <emph>Guy of Warwick</emph>
+(a different version) and <emph>Sir Degare</emph>.<lb/>
+                  <hi rend="bold">BL Harley MS 5396</hi>. Fragmentary.<lb/>
+                  <hi rend="bold">Porkington 10</hi>. Late 15th century.</p>
+            </note>
+            <note>
+               <p>
+                  <hi rend="bold">Edition</hi>:<lb/>
+E. Kölbing, 'Kleine Publicationen aus der Auchinleck-hs',
+<emph>Englische Studien</emph>, 7 (1884): 111-125. (Includes an edition
+of 'How a merchande dyd hys wyfe betray').</p>
+            </note>
+            <note>
+               <p>
+                  <hi rend="bold">Another edition</hi>:<lb/>
+D. Laing, <emph>A Penni Worth of Witte</emph>, Abbotsford Club
+(Edinburgh, 1857): 1-14.</p>
+            </note>
+            <note>
+               <p>
+                  <emph>Index *46. Suppl. 2602.3.</emph>
+               </p>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <p>The Auchinleck Manuscript (NLS Adv MS 19.2.1) is one of the National Library of
+                     Scotland’s greatest treasures. Produced in London in the 1330s, it provides a
+                     unique insight into the English language and literature that Chaucer and his
+                     generation grew up with and were influenced by. It acquired its name from its
+                     first known owner, Lord Auchinleck, who discovered the manuscript in 1740 and
+                     donated it to the precursor of the National Library in 1744.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>A Peniwor<c type="thorn">&#x00FE;</c> of Witt</head>
+         <l>Of a chaunce ichil <c type="yogh">&#x021D;</c>ou telle <milestone unit="folio" n="f.257ra"/>
+            <note type="xref">
+               <ref target="#257r.sid"/>
+            </note>
+         </l>
+         <l><c type="THORN">&#x00DE;</c>at whilom in <c type="thorn">&#x00FE;</c>is lond bifelle.</l>
+         <l>Ones it was a marchaunde riche,</l>
+         <l>Nowhar nas non his liche</l>
+         <l n="5">Of gold
+&amp; of warldes winne.</l>
+         <l>In <c type="thorn">&#x00FE;</c>e cite <c type="thorn">&#x00FE;</c>at he wond inne</l>
+         <l>A gode woman he gan spouse</l>
+         <l>&amp; brou<c type="yogh">&#x021D;</c>t hir to his house;</l>
+         <l>Ble<c type="thorn">&#x00FE;</c>eliche sche dede al <c type="thorn">&#x00FE;</c>at he sede</l>
+         <l n="10">&amp; alle
+her loue on him sche leyde.</l>
+         <l><c type="THORN">&#x00DE;</c>e godeman was stoute &amp; gay</l>
+         <l>&amp; bi ano<c type="thorn">&#x00FE;</c>er wenche he lay,</l>
+         <l>He gan to louen hir als his liif</l>
+         <l>&amp; told litel of his owhen wiif;</l>
+         <l n="15">To his
+leman anou<c type="yogh">&#x021D;</c> he fond</l>
+         <l>Of alle <c type="thorn">&#x00FE;</c>e riches of <c type="thorn">&#x00FE;</c>e lond:</l>
+         <l>Kercheues of silke &amp; robes of priis,</l>
+         <l>Yfurroud wi<c type="thorn">&#x00FE;</c> vair &amp; griis, <note n="note-penny-1" type="ed">
+               <emph>vair</emph>: originally <emph>menevair</emph>,<lb/>
+but <emph>mene</emph> struck through.</note>
+         </l>
+         <l>Gerlondes of gold &amp; perles bri<c type="yogh">&#x021D;</c>t;</l>
+         <l n="20">Also a
+leuedi sche was di<c type="yogh">&#x021D;</c>t.</l>
+         <l>Of his wiif toke he non hede</l>
+         <l>Hou simpleliche <c type="thorn">&#x00FE;</c>at sche <c type="yogh">&#x021D;</c>ede</l>
+         <l>Euerich day clad him bifore;</l>
+         <l><c type="THORN">&#x00DE;</c>at hye spent him <c type="thorn">&#x00FE;</c>ou<c type="yogh">&#x021D;</c>t forlore.</l>
+         <l n="25"><c type="THORN">&#x00DE;</c>e
+marchaunde ouer <c type="thorn">&#x00FE;</c>e se is went,</l>
+         <l>Bot first to his leman he sent</l>
+         <l>For to wite of hir answere</l>
+         <l>What clo<c type="thorn">&#x00FE;</c>es sche wald were</l>
+         <l>&amp; what iuwels sche wold haue bou<c type="yogh">&#x021D;</c>t,</l>
+         <l n="30">Bot to his
+wiif no seyd he nou<c type="yogh">&#x021D;</c>t.</l>
+         <l>So it bitidde as it be schold</l>
+         <l><c type="THORN">&#x00DE;</c>e marchaunde ouer <c type="thorn">&#x00FE;</c>e se wold;</l>
+         <l>His wiif to scorn he bigan</l>
+         <l>&amp; dede as a nice man</l>
+         <l n="35">'Icham di<c type="yogh">&#x021D;</c>t
+&amp; made <c type="yogh">&#x021D;</c>are,</l>
+         <l>Ouer <c type="thorn">&#x00FE;</c>e se now to fare.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Dame, hastow <c type="thorn">&#x00FE;</c>e bi<c type="thorn">&#x00FE;</c>ou<c type="yogh">&#x021D;</c>t,</l>
+         <l>What juwels <c type="thorn">&#x00FE;</c>ou wilt haue bou<c type="yogh">&#x021D;</c>t?</l>
+         <l><c type="yogh">&#x021D;</c>if <c type="thorn">&#x00FE;</c>ou wilt haue ani for me,</l>
+         <l n="40"><c type="THORN">&#x00DE;</c>ou most me
+reche gode mone.'</l>
+         <l n="'"><c type="pilcrow">&#x00B6;</c> 'Sir,' sche seyd 'bi sein Jon,</l>
+         <l>Plente of siluer no haue y non</l>
+         <l><c type="THORN">&#x00DE;</c>at y mi<c type="yogh">&#x021D;</c>t wele spare;</l>
+         <l>Bot sone, sir, so <c type="yogh">&#x021D;</c>e com <c type="thorn">&#x00FE;</c>are,</l>
+         <l n="45">Haue a fair
+pani here <milestone unit="folio" n="f.257rb"/>
+            <note type="xref">
+               <ref target="#257r.sid"/>
+            </note>
+         </l>
+         <l>&amp; as <c type="yogh">&#x021D;</c>e be mi trewe fere</l>
+         <l>Bi <c type="thorn">&#x00FE;</c>erwi<c type="thorn">&#x00FE;</c> a peniwor<c type="thorn">&#x00FE;</c> witt</l>
+         <l>&amp; in <c type="thorn">&#x00FE;</c>ine hert fast it knitt.</l>
+         <l>When <c type="thorn">&#x00FE;</c>ou comest hom, so God me spede,</l>
+         <l n="50">Wele y wil
+quite <c type="thorn">&#x00FE;</c>e <c type="thorn">&#x00FE;</c>i mede.'</l>
+         <l><c type="THORN">&#x00DE;</c>e marchaunde wende his wiif were madde</l>
+         <l>For <c type="thorn">&#x00FE;</c>e pani <c type="thorn">&#x00FE;</c>at sche him badde,</l>
+         <l>Lo<c type="thorn">&#x00FE;</c> him was <c type="thorn">&#x00FE;</c>at siluer forgon,</l>
+         <l>In his hond he tok it anon</l>
+         <l n="55">&amp; al on
+scorn atte last</l>
+         <l><c type="THORN">&#x00DE;</c>e peni in his purs he cast;</l>
+         <l>At schort wordes wi<c type="thorn">&#x00FE;</c>outen mo</l>
+         <l>He lepe on hors &amp; went hir fro.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>e marchaunde hadde winde ful gode</l>
+         <l n="60">&amp;
+passed <c type="thorn">&#x00FE;</c>e salt flode,</l>
+         <l>Bi<c type="yogh">&#x021D;</c>ond se when he was come</l>
+         <l>Anon he ha<c type="thorn">&#x00FE;</c> his conseil nome</l>
+         <l>To bigge of <c type="thorn">&#x00FE;</c>e fairest ware,</l>
+         <l>For no siluer nold he spare;</l>
+         <l n="65">Er <c type="thorn">&#x00FE;</c>an he
+hadde rest</l>
+         <l>He bou<c type="yogh">&#x021D;</c>t his leman of <c type="thorn">&#x00FE;</c>e best,</l>
+         <l>Noble juwels &amp; atire</l>
+         <l>As ani leuedy wald desire;</l>
+         <l>Bot his wiif <c type="thorn">&#x00FE;</c>at was gode &amp; trewe</l>
+         <l n="70">He no bou<c type="yogh">&#x021D;</c>t
+noi<c type="thorn">&#x00FE;</c>er eld no newe.</l>
+         <l>When he hadde alle <c type="thorn">&#x00FE;</c>is ware ybou<c type="yogh">&#x021D;</c>t,</l>
+         <l>After soper he sat &amp; <c type="thorn">&#x00FE;</c>ou<c type="yogh">&#x021D;</c>t,</l>
+         <l>Anon he seyd to his knaue</l>
+         <l n="'">'O <c type="thorn">&#x00FE;</c>ing for<c type="yogh">&#x021D;</c>eten now we haue -</l>
+         <l n="75">We moten
+bi<c type="thorn">&#x00FE;</c>inken ous bett -</l>
+         <l>Our dames peni is vnbisett;</l>
+         <l>What an ernest &amp; a game,</l>
+         <l><c type="THORN">&#x00DE;</c>erof we ben bo<c type="thorn">&#x00FE;</c>e to blame.'</l>
+         <l>An eld man <c type="thorn">&#x00FE;</c>erin sat,</l>
+         <l n="80">His wordes
+wele vnder<c type="yogh">&#x021D;</c>at,</l>
+         <l>&amp; in his hert he <c type="thorn">&#x00FE;</c>ou<c type="yogh">&#x021D;</c>t anon,</l>
+         <l><c type="THORN">&#x00DE;</c>at sum <c type="thorn">&#x00FE;</c>ing <c type="thorn">&#x00FE;</c>er was misgon.</l>
+         <l><c type="THORN">&#x00DE;</c>e eld man was wise of lore</l>
+         <l>&amp; <c type="thorn">&#x00FE;</c>ou<c type="yogh">&#x021D;</c>t for to wite more</l>
+         <l n="85">As <c type="thorn">&#x00FE;</c>ai
+dronken win &amp; ale,</l>
+         <l>He gan reherse better her tale.</l>
+         <l n="'">'Marchaunde,' seyd <c type="thorn">&#x00FE;</c>e old man' <emph>par
+charite</emph>
+         </l>
+         <l>Telle <c type="thorn">&#x00FE;</c>at ich aske now <c type="thorn">&#x00FE;</c>e;</l>
+         <l>What wald <c type="thorn">&#x00FE;</c>i wiif an ybou<c type="yogh">&#x021D;</c>t? <milestone unit="folio" n="f.257va"/>
+            <note type="xref">
+               <ref target="#257v.sid"/>
+            </note>
+         </l>
+         <l n="90">Say me so<c type="thorn">&#x00FE;</c>e
+&amp; gabbe nou<c type="yogh">&#x021D;</c>t</l>
+         <l>&amp; y schal selle <c type="thorn">&#x00FE;</c>e wor<c type="thorn">&#x00FE;</c> a pani</l>
+         <l><c type="yogh">&#x021D;</c>if <c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>ou wilt bigge ani.'</l>
+         <l>Sayd <c type="thorn">&#x00FE;</c>e marchaunde 'sikerliche,</l>
+         <l>Here schal rise a fair beuerege.'</l>
+         <l n="95">Qua<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e
+marchaunde 'bi Godes boke,</l>
+         <l>Mi wiif a pani me bitoke</l>
+         <l>To bigge <c type="thorn">&#x00FE;</c>erwi<c type="thorn">&#x00FE;</c> a paniwor<c type="thorn">&#x00FE;</c> witt</l>
+         <l>&amp; in min hert fast it knitt;</l>
+         <l>Sche swore, also God hir spede, <note n="note-penny-2" type="ed">
+               <emph>hir</emph>: <emph>r</emph> altered from another letter.</note>
+         </l>
+         <l n="100">Sche wald
+quite me mi mede.'</l>
+         <l n="'">'Marchaunde,' qua<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e old man 'bi <c type="thorn">&#x00FE;</c>i
+liif</l>
+         <l>Hastow ani leman bot <c type="thorn">&#x00FE;</c>i wiif?</l>
+         <l><c type="THORN">&#x00DE;</c>e marchaunde answerd him aloude,</l>
+         <l>For of his leman he was proude,</l>
+         <l n="105">'<c type="yogh">&#x021D;</c>e,' he
+seyd 'so mot y <c type="thorn">&#x00FE;</c>riue,</l>
+         <l>On <c type="thorn">&#x00FE;</c>at is wor<c type="thorn">&#x00FE;</c> swiche fiue.'</l>
+         <l n="''">'O!' qua<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e old man &amp; lou<c type="yogh">&#x021D;</c> <note n="note-penny-3" type="ed">
+               <emph>O</emph>: MS reads <emph>Ot</emph>.</note>
+         </l>
+         <l n="'">'<c type="THORN">&#x00DE;</c>at ich ouertrowed wele anou<c type="yogh">&#x021D;</c>;</l>
+         <l>Bot ri<c type="yogh">&#x021D;</c>t for so<c type="thorn">&#x00FE;</c>e nist ich it nou<c type="yogh">&#x021D;</c>t</l>
+         <l n="110">Er <c type="thorn">&#x00FE;</c>i
+seluen it hadde out ybrou<c type="yogh">&#x021D;</c>t,</l>
+         <l>Bot now ich wot hou it is</l>
+         <l>Y schal selle to <c type="thorn">&#x00FE;</c>e, ywis,</l>
+         <l>A peniwor<c type="thorn">&#x00FE;</c> of wisdome,</l>
+         <l><c type="THORN">&#x00DE;</c>at schal bere wittnesse of <c type="thorn">&#x00FE;</c>i grome,</l>
+         <l n="115">Wele better
+<c type="thorn">&#x00FE;</c>an <c type="thorn">&#x00FE;</c>i pani be</l>
+         <l><c type="yogh">&#x021D;</c>if <c type="thorn">&#x00FE;</c>ou wilt don after me.'</l>
+         <l n="'">'<c type="yogh">&#x021D;</c>is,' seyd <c type="thorn">&#x00FE;</c>e marchaunde 'bi <c type="thorn">&#x00FE;</c>e rode,</l>
+         <l><c type="yogh">&#x021D;</c>if ich finde <c type="thorn">&#x00FE;</c>i conseyl gode.'</l>
+         <l n="'">'When <c type="thorn">&#x00FE;</c>ou hast don in schippe <c type="thorn">&#x00FE;</c>i ware</l>
+         <l n="120">&amp; <c type="thorn">&#x00FE;</c>ou
+art redi ouer to fare</l>
+         <l>&amp; tow be in <c type="yogh">&#x021D;</c>our hauen ybrou<c type="yogh">&#x021D;</c>t,</l>
+         <l>Loke <c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>ou for<c type="yogh">&#x021D;</c>ete it nou<c type="yogh">&#x021D;</c>t.</l>
+         <l>A pouer wede do <c type="thorn">&#x00FE;</c>e opon,</l>
+         <l>Also <c type="thorn">&#x00FE;</c>ou no haddest o<c type="thorn">&#x00FE;</c>er non,</l>
+         <l n="125">&amp; wende
+to <c type="thorn">&#x00FE;</c>i lemannes inne</l>
+         <l>&amp; sore sike <c type="thorn">&#x00FE;</c>ou biginne</l>
+         <l>&amp; dreri chere make hir bifore</l>
+         <l>&amp; say <c type="thorn">&#x00FE;</c>ou hast <c type="thorn">&#x00FE;</c>i gode forlore</l>
+         <l>&amp; say <c type="thorn">&#x00FE;</c>ou hast a man yslawe,</l>
+         <l n="130"><c type="THORN">&#x00DE;</c>ou no
+darst abide londes lawe </l>
+         <note n="note-penny-4" type="ed">
+            <emph>abide</emph>: <emph>i</emph> superscript.</note>
+         <l>&amp; aske <c type="thorn">&#x00FE;</c>i leman <c type="yogh">&#x021D;</c>if sche mi<c type="yogh">&#x021D;</c>t</l>
+         <l>Herberwe <c type="thorn">&#x00FE;</c>e <c type="thorn">&#x00FE;</c>is ich ni<c type="yogh">&#x021D;</c>t</l>
+         <l>&amp; elles <c type="thorn">&#x00FE;</c>ou most fle out of lond,
+<milestone unit="folio" n="f.257vb"/>
+            <note type="xref">
+               <ref target="#257v.sid"/>
+            </note>
+         </l>
+         <l>&amp; ri<c type="yogh">&#x021D;</c>t <c type="thorn">&#x00FE;</c>us <c type="thorn">&#x00FE;</c>ou schalt hir fond.</l>
+         <l n="135">When <c type="thorn">&#x00FE;</c>ou
+wost <c type="thorn">&#x00FE;</c>i lemannes wille,</l>
+         <l>Hom to <c type="thorn">&#x00FE;</c>i wiif wende ful stille</l>
+         <l>&amp; also to <c type="thorn">&#x00FE;</c>ine owen spouse</l>
+         <l>Telle of <c type="thorn">&#x00FE;</c>i chaunce meruailouse</l>
+         <l>&amp; avise <c type="thorn">&#x00FE;</c>e wele &amp; take gode hede</l>
+         <l n="140">Whe<c type="thorn">&#x00FE;</c>er <c type="thorn">&#x00FE;</c>ou
+findest better at nede,</l>
+         <l>O<c type="thorn">&#x00FE;</c>er <c type="thorn">&#x00FE;</c>i leman o<c type="thorn">&#x00FE;</c>er <c type="thorn">&#x00FE;</c>i wiue,</l>
+         <l>&amp; to hir held <c type="thorn">&#x00FE;</c>ou al <c type="thorn">&#x00FE;</c>i liue;</l>
+         <l>For tvay wil cost swi<c type="thorn">&#x00FE;</c>e miche</l>
+         <l>For to atire richeliche,</l>
+         <l n="145">And on wil
+finde anou<c type="yogh">&#x021D;</c> &amp; more</l>
+         <l>Of <c type="thorn">&#x00FE;</c>e gamen vnder <c type="thorn">&#x00FE;</c>e gore.'</l>
+         <l><c type="THORN">&#x00DE;</c>e marchaunde sei<c type="yogh">&#x021D;</c>e &amp; vnderstode</l>
+         <l><c type="THORN">&#x00DE;</c>at his conseile was wise &amp; gode,</l>
+         <l n="'">'Eld man, wele mot <c type="thorn">&#x00FE;</c>ou fare,</l>
+         <l n="150">Haue here
+<c type="thorn">&#x00FE;</c>i peni, ichaue mi ware.'</l>
+         <l><c type="THORN">&#x00DE;</c>e marchaunde bou<c type="yogh">&#x021D;</c>t vp <c type="thorn">&#x00FE;</c>at he wold,</l>
+         <l>Silke &amp; cendel &amp; clo<c type="thorn">&#x00FE;</c>es of gold,</l>
+         <l>Sone after gode winde God him sent,</l>
+         <l>Hom to his cuntre he went.</l>
+         <l n="155"><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>e
+marchaunde for<c type="yogh">&#x021D;</c>at him nou<c type="yogh">&#x021D;</c>t,</l>
+         <l>When he was in hauen ybrou<c type="yogh">&#x021D;</c>t,</l>
+         <l>To don so <c type="thorn">&#x00FE;</c>eldman him badde</l>
+         <l>&amp; so bifore ha<c type="thorn">&#x00FE;</c> him radde.</l>
+         <l>He dede on him a pouer wede,</l>
+         <l n="160">To his
+lemannes in he <c type="yogh">&#x021D;</c>ede;</l>
+         <l>At <c type="thorn">&#x00FE;</c>e gate he knocked anon, <note n="note-penny-5" type="ed">
+               <emph>gate</emph>: <emph>g</emph> is of unusual form,<lb/>
+perhaps adapted from <emph><c type="yogh">&#x021D;</c></emph>.</note>
+         </l>
+         <l>His leman bad hir maiden gon,</l>
+         <l>To wite who was atte <c type="yogh">&#x021D;</c>ate</l>
+         <l>&amp; knocked so <c type="thorn">&#x00FE;</c>erate.</l>
+         <l n="165"><c type="THORN">&#x00DE;</c>e
+marchaunde bete so hard &amp; fast</l>
+         <l><c type="THORN">&#x00DE;</c>at in he come atte last.</l>
+         <l>On iuel de<c type="thorn">&#x00FE;</c> mot sche dye -</l>
+         <l>His leman loked out wi<c type="thorn">&#x00FE;</c> hir ei<c type="yogh">&#x021D;</c>e,</l>
+         <l>For sche sei<c type="yogh">&#x021D;</c>e him so iuel di<c type="yogh">&#x021D;</c>t</l>
+         <l n="170">Into hir
+chaumber hye stirt an hi<c type="yogh">&#x021D;</c>t</l>
+         <l>&amp; schette <c type="thorn">&#x00FE;</c>e dore wi<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e pinne,</l>
+         <l>For he no schuld nou<c type="yogh">&#x021D;</c>t com <c type="thorn">&#x00FE;</c>erinne.</l>
+         <l n="'">'Maiden,' qua<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e marchaund anon</l>
+         <l n="'">'To mi leman <c type="thorn">&#x00FE;</c>ou most gon,</l>
+         <l n="175">Prayer, <c type="yogh">&#x021D;</c>if
+hir wille be,</l>
+         <l><c type="THORN">&#x00DE;</c>at sche com &amp; speke wi<c type="thorn">&#x00FE;</c> me</l>
+         <l>For al <c type="thorn">&#x00FE;</c>e loue <c type="thorn">&#x00FE;</c>at ha<c type="thorn">&#x00FE;</c> ybe <milestone unit="folio" n="f.258ra"/>
+            <note type="xref">
+               <ref target="#258r.sid"/>
+            </note>
+         </l>
+         <l>Bitvix mi leman &amp; me.'</l>
+         <l><c type="THORN">&#x00DE;</c>e maiden into chaumber ranne,</l>
+         <l n="180">To hir
+leuedi sche seyd <c type="thorn">&#x00FE;</c>anne</l>
+         <l n="'">'Madame, <c type="thorn">&#x00FE;</c>i leman gent &amp; fre</l>
+         <l>Is comen hom fro bi<c type="yogh">&#x021D;</c>ond <c type="thorn">&#x00FE;</c>e se</l>
+         <l>&amp; stont in halle iuel di<c type="yogh">&#x021D;</c>t</l>
+         <l>&amp; <c type="thorn">&#x00FE;</c>at me rewe<c type="thorn">&#x00FE;</c>, bi God almi<c type="yogh">&#x021D;</c>t,</l>
+         <l n="185">&amp;
+praie<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e hastow art hende</l>
+         <l>Com speke wi<c type="thorn">&#x00FE;</c> him er <c type="thorn">&#x00FE;</c>an he wende.'</l>
+         <l>Cristes curs com on her mold -</l>
+         <l>Sche answerd as a schrewe schold</l>
+         <l n="'">'Go <c type="thorn">&#x00FE;</c>ou,' sche seyd 'to him wel stille</l>
+         <l n="190">&amp; bidde
+him telle <c type="thorn">&#x00FE;</c>e his wille,</l>
+         <l>&amp; say to him wi<c type="thorn">&#x00FE;</c>outen mis</l>
+         <l><c type="THORN">&#x00DE;</c>at icham iuel at ese, ywis,</l>
+         <l><c type="THORN">&#x00DE;</c>at y ne may, <c type="thorn">&#x00FE;</c>ei he were mi bro<c type="thorn">&#x00FE;</c>er,</l>
+         <l>Speke wi<c type="thorn">&#x00FE;</c> him no wi<c type="thorn">&#x00FE;</c> no no<c type="thorn">&#x00FE;</c>er.'</l>
+         <l n="195"><c type="THORN">&#x00DE;</c>e maiden
+into halle trade</l>
+         <l>&amp; teld so <c type="thorn">&#x00FE;</c>e leuedi badde <note n="note-penny-6" type="ed">Between <emph>teld</emph> and <emph>so</emph>, <emph>him</emph> is entered<lb/>
+superscript ?in another hand.</note>
+         </l>
+         <l n="'">'Sir, mi leuedi seyt, wi<c type="thorn">&#x00FE;</c>outen les,</l>
+         <l><c type="THORN">&#x00DE;</c>at sche is so iuel at ese</l>
+         <l>&amp; bad <c type="thorn">&#x00FE;</c>ou schust me <c type="thorn">&#x00FE;</c>i wille sayn.'</l>
+         <l n="200">'Sweteing,
+to <c type="thorn">&#x00FE;</c>i leuedi wende o<c type="yogh">&#x021D;</c>ain,</l>
+         <l>Say hir mi gode is al agon</l>
+         <l>&amp; y no haue spending non,</l>
+         <l>For y no hadde neuer er nede;</l>
+         <l>Ichaue ydon a sorweful dede,</l>
+         <l n="205">In a cuntek
+&amp; a striif</l>
+         <l>For-reft a gentil man his liif.</l>
+         <l>Say hir ichaue a man yslawe,</l>
+         <l>Y no dar abide no londes lawe.</l>
+         <l>Pray mi leman <c type="yogh">&#x021D;</c>if sche mi<c type="yogh">&#x021D;</c>t</l>
+         <l n="210">Herberwe me
+<c type="thorn">&#x00FE;</c>is ich ni<c type="yogh">&#x021D;</c>t</l>
+         <l>In a chaumber priue &amp; derne,</l>
+         <l>O<c type="thorn">&#x00FE;</c>er ich must fle now also <c type="yogh">&#x021D;</c>erne.'</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>o <c type="thorn">&#x00FE;</c>at his leman <c type="thorn">&#x00FE;</c>is wordes herd,</l>
+         <l>Wel schrewelich sche answerd</l>
+         <l n="215">'<c type="yogh">&#x021D;</c>if he
+haue lorn his catelle</l>
+         <l><c type="THORN">&#x00DE;</c>at he schuld wi<c type="thorn">&#x00FE;</c> bie &amp; selle,</l>
+         <l>Da<c type="thorn">&#x00FE;</c>et who <c type="thorn">&#x00FE;</c>erfore wepe;</l>
+         <l>Of him no more y no kepe.</l>
+         <l>Say y me self schal, bot he fle,</l>
+         <l n="220">Swi<c type="thorn">&#x00FE;</c>e gon
+into <c type="thorn">&#x00FE;</c>e cite</l>
+         <l>&amp; do <c type="thorn">&#x00FE;</c>e kinges bailifes come <milestone unit="folio" n="f.258rb"/>
+            <note type="xref">
+               <ref target="#258r.sid"/>
+            </note>
+         </l>
+         <l>&amp; hastiliche he schal be nome</l>
+         <l>&amp; in a strong prisoun be cast</l>
+         <l>&amp; be anhonged atte last.'</l>
+         <l n="225"><c type="pilcrow">&#x00B6;</c> For<c type="thorn">&#x00FE;</c> went
+<c type="thorn">&#x00FE;</c>at maiden smal</l>
+         <l>&amp; teld him <c type="thorn">&#x00FE;</c>is wordes alle</l>
+         <l n="'">'Fle, <c type="yogh">&#x021D;</c>if <c type="thorn">&#x00FE;</c>ou wilt <c type="thorn">&#x00FE;</c>i liif haue,</l>
+         <l>For <c type="thorn">&#x00FE;</c>i leman nil <c type="thorn">&#x00FE;</c>e nou<c type="yogh">&#x021D;</c>t saue.</l>
+         <l>Mi leuedi ha<c type="thorn">&#x00FE;</c> her o<c type="thorn">&#x00FE;</c> ysworn</l>
+         <l n="230">Bi him <c type="thorn">&#x00FE;</c>at
+was in Bedelem born</l>
+         <l><c type="THORN">&#x00DE;</c>at sche nil do <c type="thorn">&#x00FE;</c>e no socour,</l>
+         <l>Noi<c type="thorn">&#x00FE;</c>er in soler no in bour,</l>
+         <l>No ben yfounde wi<c type="thorn">&#x00FE;</c> swiche tresoun</l>
+         <l>For to sustene <c type="thorn">&#x00FE;</c>e kinges feloun.'</l>
+         <l n="235"><c type="pilcrow">&#x00B6;</c> Stille he
+stode, answerd he nou<c type="yogh">&#x021D;</c>t,</l>
+         <l>As man <c type="thorn">&#x00FE;</c>at is in gret <c type="thorn">&#x00FE;</c>ou<c type="yogh">&#x021D;</c>t;</l>
+         <l>He <c type="thorn">&#x00FE;</c>ou<c type="yogh">&#x021D;</c>t fer<c type="thorn">&#x00FE;</c>er for to gon,</l>
+         <l>For help no fond he <c type="thorn">&#x00FE;</c>er ri<c type="yogh">&#x021D;</c>t non,</l>
+         <l>Sum better solauce for to finde,</l>
+         <l n="240">For <c type="thorn">&#x00FE;</c>er was
+comfort al bihinde.</l>
+         <l><c type="THORN">&#x00DE;</c>e marchaunde duelled no wi<c type="yogh">&#x021D;</c>t,</l>
+         <l>Hom to his hous he went ri<c type="yogh">&#x021D;</c>t;</l>
+         <l>He went him for<c type="thorn">&#x00FE;</c> into his halle</l>
+         <l>In a pouer atire wi<c type="thorn">&#x00FE;</c>alle.</l>
+         <l n="245">His gode
+wiif stode &amp; him biheld</l>
+         <l>&amp; in hir armes sche him feld;</l>
+         <l>For sche sei<c type="yogh">&#x021D;</c>e him clo<c type="thorn">&#x00FE;</c>ed so <c type="thorn">&#x00FE;</c>inne</l>
+         <l>Sche ladde him <c type="thorn">&#x00FE;</c>e chaumber wi<c type="thorn">&#x00FE;</c>inne,</l>
+         <l>&amp; wi<c type="thorn">&#x00FE;</c> gode hert sone anon</l>
+         <l n="250">A newe robe
+sche dede him on</l>
+         <l>&amp; seyd 'sir, welcome <c type="yogh">&#x021D;</c>e be.</l>
+         <l>Hou haue <c type="yogh">&#x021D;</c>e farn bi<c type="yogh">&#x021D;</c>ond se?'</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="thorn">&#x00FE;</c>e marchaunde to his wif spak</l>
+         <l n="'">'Dame, in foule storm our schippe brak,</l>
+         <l n="255"><c type="THORN">&#x00DE;</c>er was mi
+gode al binome,</l>
+         <l><c type="THORN">&#x00DE;</c>us pouer icham to <c type="thorn">&#x00FE;</c>e come,</l>
+         <l>Helpe me, dame, <c type="yogh">&#x021D;</c>if <c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>ou wilt;</l>
+         <l>A gentil man ichaue yspilt,</l>
+         <l>Y dar no londes lawe abide.</l>
+         <l n="260">Y pray <c type="thorn">&#x00FE;</c>e,
+dame, <c type="thorn">&#x00FE;</c>atow me hide</l>
+         <l>In a chaumber priue &amp; derne</l>
+         <l>Or ich mot fle now also <c type="yogh">&#x021D;</c>erne.'</l>
+         <l n="'">'Nay,' sche said 'mi leman hende,</l>
+         <l><c type="yogh">&#x021D;</c>ete schaltow nou<c type="yogh">&#x021D;</c>t fro me wende,</l>
+         <l n="265">Sche wepe
+wel sore anonri<c type="yogh">&#x021D;</c>t <milestone unit="folio" n="f.258va"/>
+            <note type="xref">
+               <ref target="#258v.sid"/>
+            </note>
+         </l>
+         <l>&amp; comfort him wi<c type="thorn">&#x00FE;</c> al hir mi<c type="yogh">&#x021D;</c>t,</l>
+         <l n="'">'<c type="THORN">&#x00DE;</c>ei <c type="thorn">&#x00FE;</c>ou haue lorn <c type="thorn">&#x00FE;</c>is warldes wele,</l>
+         <l><c type="THORN">&#x00DE;</c>erfore murn <c type="thorn">&#x00FE;</c>ou nou<c type="yogh">&#x021D;</c>t to fele,</l>
+         <l>No no<c type="thorn">&#x00FE;</c>ing wepe <c type="thorn">&#x00FE;</c>ou to sore;</l>
+         <l n="270">He <c type="thorn">&#x00FE;</c>at sent
+<c type="thorn">&#x00FE;</c>at may sende more.</l>
+         <l>Sir, <c type="yogh">&#x021D;</c>ete ichaue sexti pounde</l>
+         <l>Of <c type="yogh">&#x021D;</c>ours &amp; mine of pans rounde,</l>
+         <l>And ar <c type="thorn">&#x00FE;</c>is day a fourtenni<c type="yogh">&#x021D;</c>t</l>
+         <l><c type="THORN">&#x00DE;</c>e siluer schal be wide ydi<c type="yogh">&#x021D;</c>t,</l>
+         <l n="275">&amp; y me
+self, wi<c type="thorn">&#x00FE;</c>outen duelling,</l>
+         <l>Fare y wil to <c type="thorn">&#x00FE;</c>e king,</l>
+         <l>Biforn him &amp; ek his quen</l>
+         <l>Falle opon mi bare knen</l>
+         <l>&amp; y no schal neuer ses</l>
+         <l n="280">Til ichaue
+pirchaced <c type="thorn">&#x00FE;</c>i pes;</l>
+         <l>&amp; when ichaue <c type="thorn">&#x00FE;</c>i pes ymaked</l>
+         <l><c type="THORN">&#x00DE;</c>ei we ben bo<c type="thorn">&#x00FE;</c>e moder-naked,</l>
+         <l><c type="pilcrow">&#x00B6;</c> Y &amp; mi maiden schal swete &amp;
+swinke</l>
+         <l>&amp; win <c type="thorn">&#x00FE;</c>e clo<c type="thorn">&#x00FE;</c>es, mete &amp; drink</l>
+         <l n="285">Wi<c type="thorn">&#x00FE;</c>
+brewing, bakeing &amp; o<c type="thorn">&#x00FE;</c>er chaffare;</l>
+         <l><c type="THORN">&#x00DE;</c>erfore, sir, <c type="thorn">&#x00FE;</c>arf <c type="thorn">&#x00FE;</c>e nou<c type="yogh">&#x021D;</c>t care.</l>
+         <l>Ar today seuen <c type="yogh">&#x021D;</c>er, &amp; God tofore,</l>
+         <l>We schul be richer <c type="thorn">&#x00FE;</c>an we were ore.'</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>e marchaunde sei<c type="yogh">&#x021D;</c>e &amp; vnderstode</l>
+         <l n="290">His wiues
+conseil was trewe &amp; gode</l>
+         <l>&amp; for <c type="thorn">&#x00FE;</c>e solas <c type="thorn">&#x00FE;</c>at hye him made</l>
+         <l>He <c type="thorn">&#x00FE;</c>ou<c type="yogh">&#x021D;</c>t hir hert for to glade</l>
+         <l n="'">'No <c type="thorn">&#x00FE;</c>ing, dame, wex <c type="thorn">&#x00FE;</c>ine hert cheld,</l>
+         <l>It nis nou<c type="yogh">&#x021D;</c>t so as y <c type="thorn">&#x00FE;</c>e teld.</l>
+         <l n="295">Bi him <c type="thorn">&#x00FE;</c>at
+<c type="thorn">&#x00FE;</c>is warld wan</l>
+         <l><c type="yogh">&#x021D;</c>ete no slou<c type="yogh">&#x021D;</c> y neuer man;</l>
+         <l>Nis nou<c type="yogh">&#x021D;</c>t mi catel al agon,</l>
+         <l><c type="yogh">&#x021D;</c>ete ichaue wel gode won</l>
+         <l>Ybrou<c type="yogh">&#x021D;</c>t into hauen hole &amp; sounde</l>
+         <l n="300"><c type="THORN">&#x00DE;</c>at is
+better <c type="thorn">&#x00FE;</c>an a <c type="thorn">&#x00FE;</c>ousand pounde.</l>
+         <l>Na<c type="thorn">&#x00FE;</c> noman part <c type="thorn">&#x00FE;</c>erin now</l>
+         <l>Bot God of heuen &amp; ich &amp; tow.'</l>
+         <l>Of <c type="thorn">&#x00FE;</c>is kepe y no more <c type="yogh">&#x021D;</c>edde,</l>
+         <l>Bot clept &amp; kist &amp; <c type="yogh">&#x021D;</c>ede to
+bedde.</l>
+         <l n="305"><c type="THORN">&#x00DE;</c>e
+marchaunde aros <c type="thorn">&#x00FE;</c>o it was day</l>
+         <l>&amp; dede on him a robe of say,</l>
+         <l>A gode palfray he bistrode</l>
+         <l>&amp; to his lemannes in he rode.</l>
+         <l>His leman out at a windowe biheld <milestone unit="folio" n="f.258vb"/>
+            <note type="xref">
+               <ref target="#258v.sid"/>
+            </note>
+         </l>
+         <l n="310">&amp; sei<c type="yogh">&#x021D;</c>e
+him com ouer <c type="thorn">&#x00FE;</c>e feld</l>
+         <l>&amp; bi <c type="thorn">&#x00FE;</c>e prikeing sche him knewe,</l>
+         <l>Sche dede on hir a robe newe</l>
+         <l>&amp; di<c type="yogh">&#x021D;</c>t her richeliche wi<c type="thorn">&#x00FE;</c>alle</l>
+         <l>&amp; com o<c type="yogh">&#x021D;</c>ain him into <c type="thorn">&#x00FE;</c>e halle.</l>
+         <l n="315">Sone <c type="thorn">&#x00FE;</c>e
+marchaunde was doun yli<c type="yogh">&#x021D;</c>t,</l>
+         <l>To him sche strit anonri<c type="yogh">&#x021D;</c>t,</l>
+         <l>&amp; bi <c type="thorn">&#x00FE;</c>e swere sche ha<c type="thorn">&#x00FE;</c> him nome</l>
+         <l>&amp; seyd 'swete leman, wel come.'</l>
+         <l>Er <c type="thorn">&#x00FE;</c>an euer <c type="thorn">&#x00FE;</c>e marchaunde wist,</l>
+         <l n="320">Tvies or
+<c type="thorn">&#x00FE;</c>ries sche him kist.</l>
+         <l n="'">'<c type="THORN">&#x00DE;</c>ei we be kist' sche seyd anon</l>
+         <l n="'">'<c type="yogh">&#x021D;</c>ete no be we nou<c type="yogh">&#x021D;</c>t al at on;</l>
+         <l>Icham wro<c type="thorn">&#x00FE;</c> wi<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e, &amp; wele y may;</l>
+         <l>What nede was it me to asay?</l>
+         <l n="325">No wostow
+wele in <c type="thorn">&#x00FE;</c>ine entent</l>
+         <l>Icham to <c type="thorn">&#x00FE;</c>i comandment?</l>
+         <l>Bodi &amp; chatel, al is <c type="thorn">&#x00FE;</c>ine,</l>
+         <l>Has noman elles part <c type="thorn">&#x00FE;</c>erinne.'</l>
+         <l><c type="THORN">&#x00DE;</c>us sche stroked his here &amp; made it
+tou<c type="yogh">&#x021D;</c></l>
+         <l n="330">&amp;
+conraid Fauuel wele ynou<c type="yogh">&#x021D;</c>.</l>
+         <l n="'">'No,' qua<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e marchaunde 'bi seyn Jon.</l>
+         <l><c type="yogh">&#x021D;</c>ete no be we nou<c type="yogh">&#x021D;</c>t al at on.</l>
+         <l>Yt was me told bi<c type="yogh">&#x021D;</c>onde <c type="thorn">&#x00FE;</c>e se,</l>
+         <l>Alle <c type="thorn">&#x00FE;</c>e gode <c type="thorn">&#x00FE;</c>at y brou<c type="yogh">&#x021D;</c>t to <c type="thorn">&#x00FE;</c>e</l>
+         <l n="335">Ano<c type="thorn">&#x00FE;</c>er
+marchaunde <c type="thorn">&#x00FE;</c>ou hast y<c type="yogh">&#x021D;</c>oue</l>
+         <l>&amp; hast fro me turned <c type="thorn">&#x00FE;</c>i loue.'</l>
+         <l n="'">'Leman,' hye seyd 'now schaltow se</l>
+         <l><c type="THORN">&#x00DE;</c>at swiche wordes les be,</l>
+         <l>&amp; so schal <c type="thorn">&#x00FE;</c>i grome als,</l>
+         <l n="340"><c type="THORN">&#x00DE;</c>at swiche
+tales ben fals.</l>
+         <l><c type="THORN">&#x00DE;</c>is teld <c type="thorn">&#x00FE;</c>e <c type="thorn">&#x00FE;</c>in old crate;</l>
+         <l>Sche speke<c type="thorn">&#x00FE;</c> me qued arliche &amp; late.</l>
+         <l><c type="THORN">&#x00DE;</c>is was a lesing of dame crate, <c type="thorn">&#x00FE;</c>i wiif
+-</l>
+         <l>Ihesus Crist so schort hir liif -</l>
+         <l n="345">For were <c type="thorn">&#x00FE;</c>e
+crate leyd in mold</l>
+         <l><c type="THORN">&#x00DE;</c>an wist ich wele <c type="thorn">&#x00FE;</c>at y schold</l>
+         <l>Of <c type="thorn">&#x00FE;</c>e euer han mi wille,</l>
+         <l>Arliche &amp; late, loude &amp; stille.'</l>
+         <l>Sche sprad a kaneuas on <c type="thorn">&#x00FE;</c>e flore</l>
+         <l n="350"><c type="THORN">&#x00DE;</c>at was
+bo<c type="thorn">&#x00FE;</c>e gret [&amp;] store</l>
+         <l>&amp; brou<c type="yogh">&#x021D;</c>t for<c type="thorn">&#x00FE;</c> her riche <c type="thorn">&#x00FE;</c>inges,</l>
+         <l>Broches of gold &amp; riche ringes,</l>
+         <l>Sextene schetes milk white, <milestone unit="folio" n="f.259ra"/>
+            <note type="xref">
+               <ref target="#259r.sid"/>
+            </note>
+         </l>
+         <l>Viij chalouns &amp; v couerlite,</l>
+         <l n="355">O<c type="thorn">&#x00FE;</c>er juwels
+mani on teld,</l>
+         <l>Masers riche, coupes of gold.</l>
+         <l n="'">'Now mi<c type="yogh">&#x021D;</c>t tow leue &amp; wite &amp; se</l>
+         <l>Dame old crate, <c type="thorn">&#x00FE;</c>i wiif, o<c type="thorn">&#x00FE;</c>er me.'</l>
+         <l><c type="THORN">&#x00DE;</c>e marchaunde al <c type="thorn">&#x00FE;</c>is gode biheld</l>
+         <l n="360">&amp; in <c type="thorn">&#x00FE;</c>e
+caneuas togider it feld</l>
+         <l>&amp; dede it in a wide sak</l>
+         <l>&amp; slonge at his gromes bak.</l>
+         <l n="'">'Hei<c type="yogh">&#x021D;</c>e <c type="thorn">&#x00FE;</c>e biliue, mi gode grome,</l>
+         <l>To mi wiif bere <c type="thorn">&#x00FE;</c>is home.</l>
+         <l n="365">Bid hir <c type="thorn">&#x00FE;</c>at
+sche kepe it wele,</l>
+         <l>For ich it bou<c type="yogh">&#x021D;</c>t euerich dele.'</l>
+         <l>His leman stode &amp; loked on him <c type="thorn">&#x00FE;</c>o</l>
+         <l>&amp; at hir hert hir was ful wo.</l>
+         <l n="'">'Leman,' sche seyd 'artow wro<c type="thorn">&#x00FE;</c>?</l>
+         <l n="370">To greue <c type="thorn">&#x00FE;</c>e
+it war me lo<c type="thorn">&#x00FE;</c>.</l>
+         <l><c type="yogh">&#x021D;</c>if ich haue ani <c type="thorn">&#x00FE;</c>ing misse[y]de, <note n="note-penny-7" type="ed">
+               <emph>misse[y]de</emph>: <emph>y</emph> added by a later hand.</note>
+         </l>
+         <l>For loue it be doun yleyde,</l>
+         <l>&amp; lete <c type="thorn">&#x00FE;</c>is gode duelle here stille,</l>
+         <l>No mi<c type="yogh">&#x021D;</c>t <c type="thorn">&#x00FE;</c>ou it feche at <c type="thorn">&#x00FE;</c>i wille.'</l>
+         <l n="375"><c type="THORN">&#x00DE;</c>e
+marchaunde o<c type="yogh">&#x021D;</c>ain to hir sayd,</l>
+         <l>Of hir falshed gan hir abrayd</l>
+         <l n="'">'Y was ytau<c type="yogh">&#x021D;</c>t me <c type="thorn">&#x00FE;</c>e to asaye,</l>
+         <l>No schaltow neuer eft me bitraye,</l>
+         <l>Ne after me, bi Godes ore, <note n="note-penny-8" type="ed">
+               <emph>me</emph>: originally <emph>me self</emph>, but <emph>self</emph>
+               <lb/>
+underdotted and crossed through.</note>
+         </l>
+         <l n="380">No <c type="thorn">&#x00FE;</c>arf <c type="thorn">&#x00FE;</c>e
+loke neuer more.'</l>
+         <l>He lepe on hors at wordes fewe</l>
+         <l>&amp; priked fro <c type="thorn">&#x00FE;</c>at fals schrewe.</l>
+         <l>He rode him hom to his house</l>
+         <l>&amp; cleped for<c type="thorn">&#x00FE;</c> his leue spouse</l>
+         <l n="385">&amp; laid
+<c type="thorn">&#x00FE;</c>e sak on <c type="thorn">&#x00FE;</c>e flore</l>
+         <l><c type="THORN">&#x00DE;</c>at was michel riche &amp; store</l>
+         <l n="'">'Lo, dame!' he seyd 'Bi mi chaffare</l>
+         <l>Ichaue ybrou<c type="yogh">&#x021D;</c>t <c type="thorn">&#x00FE;</c>i peniwor<c type="thorn">&#x00FE;</c> ware,</l>
+         <l>Bot <c type="thorn">&#x00FE;</c>e <c type="thorn">&#x00FE;</c>ink it wele bisett,</l>
+         <l n="390">Go, biware
+ano<c type="thorn">&#x00FE;</c>er bett.'</l>
+         <l><c type="THORN">&#x00DE;</c>e gode wiif sei<c type="yogh">&#x021D;</c>e al <c type="thorn">&#x00FE;</c>at riche <c type="thorn">&#x00FE;</c>ing</l>
+         <l>&amp; <c type="thorn">&#x00FE;</c>onked Ihesu, heuen-kinge,</l>
+         <l><c type="THORN">&#x00DE;</c>at he ha<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e gode hom brou<c type="yogh">&#x021D;</c>t</l>
+         <l>&amp; he ha<c type="thorn">&#x00FE;</c> turned his <c type="thorn">&#x00FE;</c>ou<c type="yogh">&#x021D;</c>t</l>
+         <l n="395">To liue wi<c type="thorn">&#x00FE;</c>
+hir in godes lay.</l>
+         <l>Bli<c type="thorn">&#x00FE;</c>e &amp; glad sche was <c type="thorn">&#x00FE;</c>at day.</l>
+         <l>Ynou<c type="yogh">&#x021D;</c> <c type="thorn">&#x00FE;</c>ai hadde of warldes wele, <milestone unit="folio" n="f.259rb"/>
+            <note type="xref">
+               <ref target="#259r.sid"/>
+            </note>
+         </l>
+         <l>Togider <c type="thorn">&#x00FE;</c>ai liued <c type="yogh">&#x021D;</c>eres fele.</l>
+         <l><c type="THORN">&#x00DE;</c>ai ferd miri, &amp; so mot we.</l>
+         <l n="400">Amen, amen
+<emph>par charite</emph>.</l>
+      </body>
+   </text>
+</TEI>

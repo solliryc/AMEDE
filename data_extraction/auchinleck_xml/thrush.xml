@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Thrush and the Nightingale</title>
+            <author>Auchinleck Project</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>This file is part of the facsimile-edition of the Auchinleck Manuscript was
+                     co-edited by Professor David Burnley and Dr Alison Wiggins.  The HTML versions of 
+                     the resource are freely available at http://www.nls.uk/auchinleck/ </p>
+         </publicationStmt>
+         <notesStmt>
+            <note>This manuscript file was originally supplied as thrush.html and the header file was located in heads/thrush_head.html both of which were
+                        converted to TEI XML by Dr James Cummings of the Oxford Text Archive. The
+                        notes below were taken from the header file and each HTML paragraph placed in 
+                        a separate note. </note>
+            <note>
+               <p>
+                  <hi rend="bold">Scribe 1</hi>
+               </p>
+            </note>
+            <note>
+               <p>6-line stanzas, rhyming <emph>aabccb</emph>. 74 lines not including
+speaker labels. First line defective. Ends imperfect through the
+loss of five succeeding leaves.</p>
+            </note>
+            <note>
+               <p>One other manuscript:<lb/>
+                  <hi rend="bold">Bodleian Library MS 1687 (Digby 86)</hi>. S. W. Midlands.
+<emph>c</emph>.1275. Digby 86 also has in common with Auchinleck: <emph>The
+Harrowing of Hell</emph>, <emph>The Sayings of St Bernard</emph> and <emph>How
+Our Lady's Sauter was First Found</emph>.</p>
+            </note>
+            <note>
+               <p>
+                  <hi rend="bold">Edition</hi>:<lb/>
+H. Varnhagen, 'Zu Mittelenglischen Gedichten', <emph>Anglia</emph>, 4
+(1881): 180-210. ('XIII: Zu dem 'Streitgedichte Zwischen und
+Nachtigall'': 207-210).</p>
+            </note>
+            <note>
+               <p>
+                  <hi rend="bold">Other editions</hi>:<lb/>
+F. Holthausen, 'Die Mittelenglische Streit Zwischen Drossel und
+Nachtigall', <emph>Anglia</emph>, 43 (1919): 52-59. (Critical
+edition).<lb/>
+D. Laing, <emph>A Penni Worth of Witte</emph>, Abbotsford Club
+(Edinburgh, 1857): 45-48.<lb/>
+               </p>
+            </note>
+            <note>
+               <p>
+                  <emph>Index 3222.</emph>
+               </p>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <p>The Auchinleck Manuscript (NLS Adv MS 19.2.1) is one of the National Library of
+                     Scotland’s greatest treasures. Produced in London in the 1330s, it provides a
+                     unique insight into the English language and literature that Chaucer and his
+                     generation grew up with and were influenced by. It acquired its name from its
+                     first known owner, Lord Auchinleck, who discovered the manuscript in 1740 and
+                     donated it to the precursor of the National Library in 1744.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>The Thrush and the Nightingale</head>
+         <l>L .... .... wi<c type="thorn">&#x00FE;</c> loue .... ....</l>
+         <l>Wi<c type="thorn">&#x00FE;</c> blosme &amp; wi<c type="thorn">&#x00FE;</c> briddes roun;
+<milestone unit="folio" n="f.279va"/>
+            <note type="xref">
+               <ref target="#279v.sid"/>
+            </note>
+         </l>
+         <l><c type="THORN">&#x00DE;</c>e notes of <c type="thorn">&#x00FE;</c>e hasel springe<c type="thorn">&#x00FE;</c>,</l>
+         <l><c type="THORN">&#x00DE;</c>e dewes derken in <c type="thorn">&#x00FE;</c>e dale,</l>
+         <l n="5"><c type="THORN">&#x00DE;</c>e notes of
+<c type="thorn">&#x00FE;</c>e ni<c type="yogh">&#x021D;</c>tingale;</l>
+         <l><c type="THORN">&#x00DE;</c>is foules miri singe<c type="thorn">&#x00FE;</c>.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Ich herd a striif bitvixen to,</l>
+         <l><c type="THORN">&#x00DE;</c>at on of wele, <c type="thorn">&#x00FE;</c>at o<c type="thorn">&#x00FE;</c>er of wo,</l>
+         <l>Bitven hem to yfere;</l>
+         <l n="10"><c type="THORN">&#x00DE;</c>at on
+herie<c type="thorn">&#x00FE;</c> wimen <c type="thorn">&#x00FE;</c>at ben hende,</l>
+         <l><c type="THORN">&#x00DE;</c>at o<c type="thorn">&#x00FE;</c>er he wald fawe schende;</l>
+         <l><c type="THORN">&#x00DE;</c>is strif <c type="yogh">&#x021D;</c>e mow yhere.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>e ni<c type="yogh">&#x021D;</c>tingale ha<c type="thorn">&#x00FE;</c> ynome</l>
+         <l>To speke for wimen atte frome,</l>
+         <l n="15">Of schame
+he wald hem were;</l>
+         <l><c type="THORN">&#x00DE;</c>e <c type="thorn">&#x00FE;</c>rustel cok he speke<c type="thorn">&#x00FE;</c> ay,</l>
+         <l>He seyt bi ni<c type="yogh">&#x021D;</c>tes &amp; bi day</l>
+         <l><c type="THORN">&#x00DE;</c>at <c type="thorn">&#x00FE;</c>ai ben fendes fere;</l>
+         <l><c type="pilcrow">&#x00B6;</c> For <c type="thorn">&#x00FE;</c>ai bitraien eueri man</l>
+         <l n="20"><c type="THORN">&#x00DE;</c>at mest
+bileue<c type="thorn">&#x00FE;</c> hem on.</l>
+         <l><c type="THORN">&#x00DE;</c>ei <c type="thorn">&#x00FE;</c>ai be milde of chere</l>
+         <l><c type="THORN">&#x00DE;</c>ai ben fals &amp; fikel to fond</l>
+         <l>&amp; wirche<c type="thorn">&#x00FE;</c> wo in eueri lond;</l>
+         <l>It were better <c type="thorn">&#x00FE;</c>at hye nere.</l>
+         <l><c type="THORN">&#x00DE;</c>e Ni<c type="yogh">&#x021D;</c>tingale</l>
+         <l n="25">‘Schame
+it is to blame leuedi,</l>
+         <l>For <c type="thorn">&#x00FE;</c>ai ben hende of curtaisi;</l>
+         <l>Y rede <c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>ou lete.</l>
+         <l>Nas neuer breche non so strong,</l>
+         <l>No wi<c type="thorn">&#x00FE;</c> ri<c type="yogh">&#x021D;</c>t, no wi<c type="thorn">&#x00FE;</c> wrong</l>
+         <l n="30"><c type="THORN">&#x00DE;</c>at wimen
+no mi<c type="yogh">&#x021D;</c>t bete;</l>
+         <l><c type="pilcrow">&#x00B6;</c> Ysau<c type="yogh">&#x021D;</c>ten hem <c type="thorn">&#x00FE;</c>at ben wro<c type="thorn">&#x00FE;</c>e</l>
+         <l>&amp; make<c type="thorn">&#x00FE;</c> leue <c type="thorn">&#x00FE;</c>at is lo<c type="thorn">&#x00FE;</c>e -</l>
+         <l>Wi<c type="thorn">&#x00FE;</c> game men schuld hem grete.</l>
+         <l><c type="THORN">&#x00DE;</c>is warld were nou<c type="yogh">&#x021D;</c>t <c type="yogh">&#x021D;</c>if wimen nere,
+<milestone unit="folio" n="f.279vb"/>
+            <note type="xref">
+               <ref target="#279v.sid"/>
+            </note>
+         </l>
+         <l n="35">Ymaked <c type="thorn">&#x00FE;</c>ai
+ben to mannes fere;</l>
+         <l>Nis no<c type="thorn">&#x00FE;</c>ing half so swete.’</l>
+         <l>{[The Thrush]}</l>
+         <l>‘I may wimen heri nou<c type="yogh">&#x021D;</c>t</l>
+         <l>For <c type="thorn">&#x00FE;</c>ai ben fals &amp; fikel of <c type="thorn">&#x00FE;</c>ou<c type="yogh">&#x021D;</c>t,</l>
+         <l>So me is don to vnderstond,</l>
+         <l n="40">&amp; take
+witnes of mani &amp; fele</l>
+         <l><c type="THORN">&#x00DE;</c>at riche were of worldes wele</l>
+         <l>&amp; fre to senden hem sond.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>ei <c type="thorn">&#x00FE;</c>ai ben fair &amp; bri<c type="yogh">&#x021D;</c>t in hewe,</l>
+         <l><c type="THORN">&#x00DE;</c>ai ben fals fikel vntrewe</l>
+         <l n="45">&amp;
+worche<c type="thorn">&#x00FE;</c> wo in ich lond.</l>
+         <l>King Alisaunder mene<c type="thorn">&#x00FE;</c> him of hem;</l>
+         <l>In <c type="thorn">&#x00FE;</c>e world nis non so crafti men</l>
+         <l>No non so riche of lond.’</l>
+         <l><c type="THORN">&#x00DE;</c>e Ni<c type="yogh">&#x021D;</c>tingale</l>
+         <l>‘<c type="THORN">&#x00DE;</c>rustelkok <c type="thorn">&#x00FE;</c>ou art wode</l>
+         <l n="50">Or <c type="thorn">&#x00FE;</c>ou
+canst to litel gode</l>
+         <l>Wimen for to schende.</l>
+         <l>It is <c type="thorn">&#x00FE;</c>e best drurie</l>
+         <l>&amp; mest <c type="thorn">&#x00FE;</c>ai cun of curteisie,</l>
+         <l>Nis no<c type="thorn">&#x00FE;</c>ing also hende.</l>
+         <l n="55"><c type="pilcrow">&#x00B6;</c> Her
+loue is swetter, ywis,</l>
+         <l><c type="THORN">&#x00DE;</c>an <c type="thorn">&#x00FE;</c>e braunche of licoris;</l>
+         <l>Lofsum <c type="thorn">&#x00FE;</c>ai ben &amp; hende.</l>
+         <l>Wele swetter is her bre<c type="thorn">&#x00FE;</c></l>
+         <l><c type="THORN">&#x00DE;</c>an ani milke o<c type="thorn">&#x00FE;</c>er me<c type="thorn">&#x00FE;</c>,</l>
+         <l n="60">&amp;
+louelich in armes to wende.’</l>
+         <l><c type="THORN">&#x00DE;</c>e <c type="THORN">&#x00DE;</c>rostel cok</l>
+         <l>‘Ni<c type="yogh">&#x021D;</c>tingale <c type="thorn">&#x00FE;</c>ou hast wrong,</l>
+         <l>As ich finde in mi song,</l>
+         <l>For ich hold wi<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e ri<c type="yogh">&#x021D;</c>t.</l>
+         <l>Y take witnisse of Wawain</l>
+         <l n="65"><c type="THORN">&#x00DE;</c>at Crist
+<c type="yogh">&#x021D;</c>af mi<c type="yogh">&#x021D;</c>t &amp; main</l>
+         <l>&amp; trewest was of kni<c type="yogh">&#x021D;</c>t.</l>
+         <l><c type="pilcrow">&#x00B6;</c> So wide so he hadde riden &amp; gon</l>
+         <l>Fals fond he neuer non,</l>
+         <l>Bi day no bi ni<c type="yogh">&#x021D;</c>t. <note n="note-thrush-1" type="ed">
+               <emph>ni<c type="yogh">&#x021D;</c>t</emph> is added superscript
+at the line-end.</note>
+         </l>
+         <l n="70">Foule, for
+<c type="thorn">&#x00FE;</c>i fals mou<c type="thorn">&#x00FE;</c>e,</l>
+         <l><c type="THORN">&#x00DE;</c>ine sawes schal be wide cou<c type="thorn">&#x00FE;</c>e,</l>
+         <l>Ali<c type="yogh">&#x021D;</c>t whare <c type="thorn">&#x00FE;</c>ou ali<c type="yogh">&#x021D;</c>t.’</l>
+         <l><c type="THORN">&#x00DE;</c>e Ni<c type="yogh">&#x021D;</c>tingale</l>
+         <l>‘Ichaue leue to ali<c type="yogh">&#x021D;</c>t here</l>
+         <l>In orchard &amp; in erbere ...</l>
+      </body>
+   </text>
+</TEI>

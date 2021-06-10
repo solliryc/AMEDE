@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><c type="thorn">&#x00FE;</c>e Wenche <c type="thorn">&#x00FE;</c>at Loved <c type="thorn">&#x00FE;</c>e King</title>
+            <author>Auchinleck Project</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>This file is part of the facsimile-edition of the Auchinleck Manuscript was
+                     co-edited by Professor David Burnley and Dr Alison Wiggins.  The HTML versions of 
+                     the resource are freely available at http://www.nls.uk/auchinleck/ </p>
+         </publicationStmt>
+         <notesStmt>
+            <note>This manuscript file was originally supplied as wenche.html and the header file was located in heads/wenche_head.html both of which were
+                        converted to TEI XML by Dr James Cummings of the Oxford Text Archive. The
+                        notes below were taken from the header file and each HTML paragraph placed in 
+                        a separate note. </note>
+            <note>
+               <p>
+                  <hi rend="bold">Scribe 1</hi>
+               </p>
+            </note>
+            <note>
+               <p>Short couplets. Ends imperfect with only 24 lines (barely
+legible) remaining. Single letters remaining on the stub f.256ra
+suggest at least 29 lines lost. Apparently an attempt was made to
+erase the text.</p>
+            </note>
+            <note>
+               <p>
+                  <hi rend="bold">Edition</hi>:<lb/>
+E. Kölbing, 'Kleine Publicationen aus der Auchinleck-hs',
+<emph>Englische Studien</emph>, 7 (1884): 187.</p>
+            </note>
+            <note>
+               <p>
+                  <emph>Index 1614.</emph>
+               </p>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <p>The Auchinleck Manuscript (NLS Adv MS 19.2.1) is one of the National Library of
+                     Scotland’s greatest treasures. Produced in London in the 1330s, it provides a
+                     unique insight into the English language and literature that Chaucer and his
+                     generation grew up with and were influenced by. It acquired its name from its
+                     first known owner, Lord Auchinleck, who discovered the manuscript in 1740 and
+                     donated it to the precursor of the National Library in 1744.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head><c type="thorn">&#x00FE;</c>e Wenche <c type="thorn">&#x00FE;</c>at Loved <c type="thorn">&#x00FE;</c>e King</head>
+         <l>It bifel whilom ich vnderstond <milestone unit="folio" n="f.256vb"/>
+            <note type="xref">
+               <ref target="#256v.sid"/>
+            </note>
+         </l>
+         <l>In a cuntre .... of Inglond</l>
+         <l>
+            <milestone unit="folio" n="f.256r_a"/>
+            <note type="xref">
+               <ref target="#256r_a.sid"/>
+            </note>
+         </l>
+         <l>
+            <milestone unit="folio" n="f.256v_a"/>
+            <note type="xref">
+               <ref target="#256v_a.sid"/>
+            </note>
+         </l>
+      </body>
+   </text>
+</TEI>

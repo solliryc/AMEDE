@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Paternoster</title>
+            <author>Auchinleck Project</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>This file is part of the facsimile-edition of the Auchinleck Manuscript was
+                     co-edited by Professor David Burnley and Dr Alison Wiggins.  The HTML versions of 
+                     the resource are freely available at http://www.nls.uk/auchinleck/ </p>
+         </publicationStmt>
+         <notesStmt>
+            <note>This manuscript file was originally supplied as pater.html and the header file was located in heads/pater_head.html both of which were
+                        converted to TEI XML by Dr James Cummings of the Oxford Text Archive. The
+                        notes below were taken from the header file and each HTML paragraph placed in 
+                        a separate note. </note>
+            <note>
+               <p>
+                  <hi rend="bold">Scribe 3</hi>
+               </p>
+            </note>
+            <note>
+               <p>Short couplets. 136 lines, not including contemporary heading
+and Latin text. Ends imperfect with line beginnings on stub f.72a.
+Lines defective on ff.2v and 3r. Surviving lines correspond to
+lines 269-1330 in the Vernon text; see: C. Keller, <emph>Alt- und
+Mittelenglische Texte</emph>, 6 (Heidelberg: Sampson Low,
+1914).<lb/>
+               </p>
+            </note>
+            <note>
+               <p>Unique copy.</p>
+            </note>
+            <note>
+               <p>
+                  <hi rend="bold">Edition</hi>:<lb/>
+E. Kölbing, 'Kleine Publicationen aus der Auchinleck-hs',
+<emph>Englische Studien</emph>, 9 (1886): 47-49.</p>
+            </note>
+            <note>
+               <p>
+                  <hi rend="bold">Another edition</hi>:<lb/>
+D. Laing, <emph>A Penni Worth of Witte</emph>, Abbotsford Club
+(Edinburgh, 1857): 92-96.<lb/>
+               </p>
+            </note>
+            <note>
+               <p>
+                  <emph>Index 206.</emph>
+               </p>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <p>The Auchinleck Manuscript (NLS Adv MS 19.2.1) is one of the National Library of
+                     Scotland’s greatest treasures. Produced in London in the 1330s, it provides a
+                     unique insight into the English language and literature that Chaucer and his
+                     generation grew up with and were influenced by. It acquired its name from its
+                     first known owner, Lord Auchinleck, who discovered the manuscript in 1740 and
+                     donated it to the precursor of the National Library in 1744.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>The Paternoster</head>
+         <l>Alle <c type="thorn">&#x00FE;</c>at euer gon and riden <milestone unit="folio" n="f.72ra"/>
+            <note type="xref">
+               <ref target="#072r.sid"/>
+            </note>
+         </l>
+         <l><c type="THORN">&#x00DE;</c>at wille<c type="yogh">&#x021D;</c> Godes merci abiden,</l>
+         <l>Lewede men <c type="thorn">&#x00FE;</c>at ne be<c type="yogh">&#x021D;</c> no clerkes,</l>
+         <l><c type="THORN">&#x00DE;</c>o <c type="thorn">&#x00FE;</c>at leuen on Godes werkes,</l>
+         <l n="5">Leste<c type="yogh">&#x021D;</c>, and
+<c type="yogh">&#x021D;</c>e sschollen here, iwis,</l>
+         <l>What <c type="yogh">&#x021D;</c>oure Pater noster is.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Ech man hereof take hede.</l>
+         <l>Godiliche while Ihesu <c type="yogh">&#x021D;</c>ede</l>
+         <l>In erthe wi<c type="yogh">&#x021D;</c> his apostles twelue,</l>
+         <l n="10">Ihesu Crist
+made hit him selue,</l>
+         <l>And als hit telle<c type="yogh">&#x021D;</c> in <c type="thorn">&#x00FE;</c>e bok,</l>
+         <l>Hise apostles he hit bitok,</l>
+         <l>For <c type="thorn">&#x00FE;</c>ai sscholden habben hit in minde</l>
+         <l>And techen hit to al mankynde.</l>
+         <l n="15"><c type="pilcrow">&#x00B6;</c> Of alle
+<c type="thorn">&#x00FE;</c>e clerkes vnder sonne,</l>
+         <l><c type="THORN">&#x00DE;</c>er nis non of hem <c type="thorn">&#x00FE;</c>at conne</l>
+         <l>A beter oreisoun, iwis,</l>
+         <l><c type="THORN">&#x00DE;</c>anne <c type="thorn">&#x00FE;</c>e Pater noster is.</l>
+         <l><c type="THORN">&#x00DE;</c>us segge<c type="yogh">&#x021D;</c> <c type="thorn">&#x00FE;</c>ise clerkes wise</l>
+         <l n="20"><c type="THORN">&#x00DE;</c>at mochel
+connen of clergise.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Seuen oreisouns <c type="thorn">&#x00FE;</c>er be<c type="yogh">&#x021D;</c> inne</l>
+         <l><c type="THORN">&#x00DE;</c>at helpe<c type="yogh">&#x021D;</c> men out of dedli sinne</l>
+         <l>And <c type="yogh">&#x021D;</c>if <c type="yogh">&#x021D;</c>e wille<c type="yogh">&#x021D;</c> a while dwelle,</l>
+         <l>Al on Englissch ich wille <c type="yogh">&#x021D;</c>ou telle</l>
+         <l n="25"><c type="THORN">&#x00DE;</c>e skile of
+hem alle seuene,</l>
+         <l>Wi<c type="yogh">&#x021D;</c> help of Godes mi<c type="yogh">&#x021D;</c>t of heuene.</l>
+         <l>
+            <emph>Pater noster, qui es in celis,</emph>
+            <milestone unit="folio" n="f.72rb"/>
+            <note type="xref">
+               <ref target="#072r.sid"/>
+            </note>
+         </l>
+         <l><c type="THORN">&#x00DE;</c>at is to segge <c type="thorn">&#x00FE;</c>is:</l>
+         <l>‘Oure fader in heuene-riche,</l>
+         <l n="30"><c type="THORN">&#x00DE;</c>i name be
+blessed euere iliche.’</l>
+         <l><c type="THORN">&#x00DE;</c>is is <c type="thorn">&#x00FE;</c>e ferste oreisoun of seuene.</l>
+         <l>We clepen oure fader <c type="thorn">&#x00FE;</c>e kyng of heuene,</l>
+         <l>And <c type="yogh">&#x021D;</c>if he houre fader is,</l>
+         <l><c type="THORN">&#x00DE;</c>anne be we hise children, iwis,</l>
+         <l n="35">And Ihesu
+is ful of alle godnesse,</l>
+         <l>Wi<c type="yogh">&#x021D;</c> him nis no wikkednesse.</l>
+         <l><c type="THORN">&#x00DE;</c>anne mote we, so mote ich <c type="thorn">&#x00FE;</c>e,</l>
+         <l><c type="yogh">&#x021D;</c>if we willen hise children be,</l>
+         <l>Fonden to liuen in god lif,</l>
+         <l n="40">Wi<c type="yogh">&#x021D;</c>outen
+contek, wi<c type="yogh">&#x021D;</c>outen strif,</l>
+         <l>Wi<c type="yogh">&#x021D;</c>outen pride and enuye,</l>
+         <l>Coueitise and glotonye.</l>
+         <l><c type="THORN">&#x00DE;</c>anne mowe we seggen, iwis,</l>
+         <l><c type="THORN">&#x00DE;</c>at Ihesu Crist oure fader is.</l>
+         <l n="45"><c type="yogh">&#x021D;</c>if we wile
+be clene isschriue</l>
+         <l>And in clene lif liue,</l>
+         <l><c type="THORN">&#x00DE;</c>anne mowe we whan we be<c type="yogh">&#x021D;</c> of age</l>
+         <l>Claymen oure fader heritage,</l>
+         <l><c type="THORN">&#x00DE;</c>e blisse <c type="thorn">&#x00FE;</c>at laste<c type="yogh">&#x021D;</c> wi<c type="yogh">&#x021D;</c>outen ende.</l>
+         <l n="50">......
+....... ...... ....</l>
+         <l>
+            <emph>Saunctificetur nomen tuum.</emph>
+         </l>
+         <l><c type="THORN">&#x00DE;</c>at is to segge al and sum:</l>
+         <l>‘Ihesu, God in trinite,</l>
+         <l><c type="THORN">&#x00DE;</c>i name iblessed mot hit be.’</l>
+         <l n="55"><c type="THORN">&#x00DE;</c>at is to
+vnderstonde <c type="thorn">&#x00FE;</c>is:</l>
+         <l>Whan we blessen his name, iwis,</l>
+         <l>We bisechen swete Ihesus</l>
+         <l><c type="THORN">&#x00DE;</c>at his name mote be wi<c type="yogh">&#x021D;</c> ous</l>
+         <l>And we ben clene isschriue</l>
+         <l n="60">And out of
+sinne <c type="thorn">&#x00FE;</c>enken to liue.</l>
+         <l>His name nel nowt wi<c type="yogh">&#x021D;</c> ous be,</l>
+         <l>To holden hit we ne habbe<c type="yogh">&#x021D;</c> no poste,</l>
+         <l>But <c type="yogh">&#x021D;</c>if we liuen in god lif,</l>
+         <l>In loue and charite wi<c type="yogh">&#x021D;</c>outen strif;
+<milestone unit="folio" n="f.72va"/>
+            <note type="xref">
+               <ref target="#072v.sid"/>
+            </note>
+         </l>
+         <l n="65"><c type="THORN">&#x00DE;</c>anne wille
+his name wi<c type="yogh">&#x021D;</c> ous dwelle</l>
+         <l>And sauuen vs fram <c type="thorn">&#x00FE;</c>e fend of helle.</l>
+         <l>Ihesu <c type="thorn">&#x00FE;</c>at boughte lewede and clerkes</l>
+         <l>Schilde vs fram <c type="thorn">&#x00FE;</c>e fendes werkes.</l>
+         <l>
+            <emph>Adueniat regnum tuum</emph>, iwis,</l>
+         <l n="70"><c type="THORN">&#x00DE;</c>at is to
+segge <c type="thorn">&#x00FE;</c>is:</l>
+         <l>‘Louerd, to <c type="thorn">&#x00FE;</c>i kyneriche</l>
+         <l>Lat ous comen al iliche.’</l>
+         <l>Here we bisechen <c type="thorn">&#x00FE;</c>e heuene-kyng</l>
+         <l><c type="THORN">&#x00DE;</c>at we moten comen to his wonyng <note n="note-pater-1" type="ed">
+               <emph>wonyng</emph>: MS reads <emph>womyng</emph>.</note>
+         </l>
+         <l n="75">And we be
+in gode liue inome;</l>
+         <l>To his wonyng mowe we nowt come,</l>
+         <l><c type="THORN">&#x00DE;</c>anne is oure bidding for nowt,</l>
+         <l>But <c type="yogh">&#x021D;</c>if we ben in god lif kaut;</l>
+         <l><c type="THORN">&#x00DE;</c>erfore ech man amende him here,</l>
+         <l n="80"><c type="THORN">&#x00DE;</c>at we
+moten wenden al ifere</l>
+         <l>Into blisse <c type="thorn">&#x00FE;</c>at ne haue<c type="yogh">&#x021D;</c> non ende;</l>
+         <l>To <c type="thorn">&#x00FE;</c>ilke blisse God vs sende.</l>
+         <l><c type="THORN">&#x00DE;</c>er noman come<c type="yogh">&#x021D;</c>, maiden ne wif,</l>
+         <l>But he be nomen in god lif.</l>
+         <l n="85"><emph>Fiat
+voluntas tua</emph>
+         </l>
+         <l>
+            <emph>Sicut in celo in terra.</emph>
+         </l>
+         <l><c type="THORN">&#x00DE;</c>at is to segge <c type="thorn">&#x00FE;</c>ous:</l>
+         <l>‘We bidde<c type="yogh">&#x021D;</c> to swete Ihesus,</l>
+         <l><c type="THORN">&#x00DE;</c>at his wille be ido</l>
+         <l n="90">In heuene
+and in erthe also.’</l>
+         <l><c type="THORN">&#x00DE;</c>at is to vnderstonden <c type="thorn">&#x00FE;</c>ous:</l>
+         <l><c type="THORN">&#x00DE;</c>at we sscholden seruen swete Ihesus</l>
+         <l>To his paie and to his wille,</l>
+         <l>Oure bidding to fulfille.</l>
+         <l n="95">And <c type="yogh">&#x021D;</c>if we
+ne serue him nowt ari<c type="yogh">&#x021D;</c>t,</l>
+         <l>Ihesu Crist, bi houre mi<c type="yogh">&#x021D;</c>t,</l>
+         <l><c type="THORN">&#x00DE;</c>anne do we in <c type="thorn">&#x00FE;</c>at bidding</l>
+         <l>Nowt bote scornen oure heuene-kyng.</l>
+         <l><c type="THORN">&#x00DE;</c>erfore ech man, <c type="yogh">&#x021D;</c>if he mai,</l>
+         <l n="100">Fonde bo<c type="thorn">&#x00FE;</c>e
+ni<c type="yogh">&#x021D;</c>t and dai</l>
+         <l>To serue Ihesu Crist to wille, <milestone unit="folio" n="f.72vb"/>
+            <note type="xref">
+               <ref target="#072v.sid"/>
+            </note>
+         </l>
+         <l>Oure biseching to fulfille;</l>
+         <l>For, forsothe, Godes wille is,</l>
+         <l><c type="THORN">&#x00DE;</c>at we ne sscholden nowt don amis.</l>
+         <l n="105"><emph>Panem
+nostrum cotidianum da nobis hodie</emph>
+         </l>
+         <l>Is to segge, so mot ich <c type="thorn">&#x00FE;</c>e:</l>
+         <l>‘Oure bred ordeined for eche dai,</l>
+         <l>Louerd, <c type="yogh">&#x021D;</c>iuet vs todai.’</l>
+         <l><c type="THORN">&#x00DE;</c>at is to segge <c type="thorn">&#x00FE;</c>ous:</l>
+         <l n="110">We bisechen
+swete Ihesus</l>
+         <l><c type="THORN">&#x00DE;</c>at he graunte vs alle <c type="thorn">&#x00FE;</c>inges two:</l>
+         <l>Soules fode and lif also.</l>
+         <l>Nammore mai <c type="thorn">&#x00FE;</c>e soule liue</l>
+         <l>But <c type="thorn">&#x00FE;</c>e bodi hit mete <c type="yogh">&#x021D;</c>iue,</l>
+         <l n="115">Nammore <c type="thorn">&#x00FE;</c>an
+<c type="thorn">&#x00FE;</c>e bodi lif mai</l>
+         <l>Wi<c type="yogh">&#x021D;</c>outen erthliche mete a dai.</l>
+         <l><c type="THORN">&#x00DE;</c>an is <c type="thorn">&#x00FE;</c>is <c type="thorn">&#x00FE;</c>e soule fode</l>
+         <l>Almesdede and bedes gode,</l>
+         <l>Loue and charite, wi<c type="yogh">&#x021D;</c>outen strif,</l>
+         <l n="120"><c type="THORN">&#x00DE;</c>is mai
+holde be soules lif,</l>
+         <l>Als <c type="thorn">&#x00FE;</c>e bodi liue<c type="yogh">&#x021D;</c> wi<c type="yogh">&#x021D;</c> bred,</l>
+         <l>For honger <c type="thorn">&#x00FE;</c>at hit nis nowt ded.</l>
+         <l><c type="THORN">&#x00DE;</c>e sixte bede is <c type="thorn">&#x00FE;</c>is:</l>
+         <l>
+            <emph>Et dimitte nobis debita nostra, sicut
+&amp;</emph>
+         </l>
+         <l>
+            <emph>nos dimittimus debitoribus
+nostris</emph>
+         </l>
+         <l n="125"><c type="THORN">&#x00DE;</c>is is <c type="thorn">&#x00FE;</c>e
+sixte bidding,</l>
+         <l><c type="THORN">&#x00DE;</c>at we bidden oure heuene-kyng:</l>
+         <l>‘For<c type="yogh">&#x021D;</c>iue vs <c type="thorn">&#x00FE;</c>at we habbe<c type="yogh">&#x021D;</c> misdo</l>
+         <l>Als we for<c type="yogh">&#x021D;</c>iuen o<c type="thorn">&#x00FE;</c>er also</l>
+         <l><c type="THORN">&#x00DE;</c>at vs habben here agult</l>
+         <l n="130"><c type="THORN">&#x00DE;</c>at in oure
+mercy ben ipult.’</l>
+         <l><c type="yogh">&#x021D;</c>if ani man <c type="thorn">&#x00FE;</c>at is in londe</l>
+         <l>Liue<c type="yogh">&#x021D;</c> in nyht o<c type="thorn">&#x00FE;</c>er in onde</l>
+         <l><c type="THORN">&#x00DE;</c>ourgh counseil of <c type="thorn">&#x00FE;</c>e fendes red,</l>
+         <l>He bidde<c type="yogh">&#x021D;</c> a<c type="yogh">&#x021D;</c>enes his owene hed</l>
+         <l n="135">And make<c type="yogh">&#x021D;</c>
+him heiere in erthe</l>
+         <l><c type="THORN">&#x00DE;</c>an Ihesu Crist <c type="thorn">&#x00FE;</c>at more is werthe.</l>
+         <l><c type="THORN">&#x00DE;</c>at w... .... ... <milestone unit="folio" n="f.72(a)va"/>
+            <note type="xref">
+               <ref target="#072r_a.sid"/>
+            </note>
+         </l>
+         <l><c type="THORN">&#x00DE;</c>at w... ....</l>
+         <l>And w ................</l>
+         <l n="140"><c type="THORN">&#x00DE;</c>at
+w</l>
+         <l><c type="THORN">&#x00DE;</c>ous..................</l>
+         <l><c type="THORN">&#x00DE;</c>erfor...............</l>
+         <l>To liue...............</l>
+         <l>And liue...............</l>
+         <l n="145">God
+gra...............</l>
+         <l><c type="THORN">&#x00DE;</c>e se.................</l>
+         <l>Et........ ...........</l>
+         <l>Set liber.............</l>
+         <l>Here w................</l>
+         <l n="150">Sschilde..............</l>
+         <l>And del...............</l>
+         <l>Fram <c type="thorn">&#x00FE;</c>................</l>
+         <l><c type="THORN">&#x00DE;</c>at is..............</l>
+         <l>To cache..............</l>
+         <l n="155">For to
+br.............</l>
+         <l>Euere m...............</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>ise be<c type="yogh">&#x021D;</c></l>
+         <l><c type="THORN">&#x00DE;</c>e beste..............</l>
+         <l>Wi<c type="yogh">&#x021D;</c> help..............</l>
+         <l n="160">To
+help..............</l>
+         <l><c type="pilcrow">&#x00B6;</c> Ech ma .... ........</l>
+         <l>Who so................</l>
+         <l><c type="yogh">&#x021D;</c>if <c type="thorn">&#x00FE;</c>.................</l>
+         <l><c type="THORN">&#x00DE;</c>anne.................</l>
+         <l n="165"><c type="THORN">&#x00DE;</c>erfo................</l>
+         <l><c type="yogh">&#x021D;</c>onge.................</l>
+         <l><c type="yogh">&#x021D;</c>if.................</l>
+         <l>Ani...................</l>
+         <l>And...................</l>
+         <l n="170">Ni<c type="yogh">&#x021D;</c>t..................</l>
+         <l><c type="THORN">&#x00DE;</c>an...................</l>
+         <l><c type="THORN">&#x00DE;</c>er..................</l>
+         <l>At..................</l>
+         <l><c type="THORN">&#x00DE;</c>er................</l>
+         <l>.... ... .... ... <milestone unit="folio" n="stub f.72v_a"/>
+            <note type="xref">
+               <ref target="#072v_a.sid"/>
+            </note>
+         </l>
+      </body>
+   </text>
+</TEI>

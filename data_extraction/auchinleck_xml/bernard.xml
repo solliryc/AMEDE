@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Sayings of St Bernard</title>
+            <author>Auchinleck Project</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>This file is part of the facsimile-edition of the Auchinleck Manuscript was
+                     co-edited by Professor David Burnley and Dr Alison Wiggins.  The HTML versions of 
+                     the resource are freely available at http://www.nls.uk/auchinleck/ </p>
+         </publicationStmt>
+         <notesStmt>
+            <note>This manuscript file was originally supplied as bernard.html and the header file was located in heads/bernard_head.html both of which were
+                        converted to TEI XML by Dr James Cummings of the Oxford Text Archive. The
+                        notes below were taken from the header file and each HTML paragraph placed in 
+                        a separate note. </note>
+            <note>
+               <p>
+                  <hi rend="bold">Scribe 1</hi>
+               </p>
+            </note>
+            <note>
+               <p>6-line stanzas, rhyming <emph>aabccb</emph>. 42 lines. Begins
+imperfect.</p>
+            </note>
+            <note>
+               <p>
+                  <hi rend="bold">Edition</hi>:<lb/>
+H. Varnhagen, 'Zu Mittelenglischen Gedichten', <emph>Anglia</emph>, 3
+(1880): 275-292. ('VII: Noch Einmal zu den Sprüchen des Heiligen
+Bernhard': 291-292).</p>
+            </note>
+            <note>
+               <p>
+                  <hi rend="bold">Another edition</hi>:<lb/>
+D. Laing, <emph>A Penni Worth of Witte</emph>, Abbotsford Club
+(Edinburgh, 1857): 119-120.</p>
+            </note>
+            <note>
+               <p>
+                  <emph>Index 2865; 3310.</emph>
+               </p>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <p>The Auchinleck Manuscript (NLS Adv MS 19.2.1) is one of the National Library of
+                     Scotland’s greatest treasures. Produced in London in the 1330s, it provides a
+                     unique insight into the English language and literature that Chaucer and his
+                     generation grew up with and were influenced by. It acquired its name from its
+                     first known owner, Lord Auchinleck, who discovered the manuscript in 1740 and
+                     donated it to the precursor of the National Library in 1744.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>The Sayings of St Bernard</head>
+         <l><c type="pilcrow">&#x00B6;</c> Where ben men biforn ous were, <milestone unit="folio" n="f.280ra"/>
+            <note type="xref">
+               <ref target="#280r.sid"/>
+            </note>
+         </l>
+         <l><c type="THORN">&#x00DE;</c>at houndes ladden &amp; haukes bere</l>
+         <l>&amp; hadden feld &amp; wode,</l>
+         <l><c type="THORN">&#x00DE;</c>e riche leuedis in her bour</l>
+         <l n="5"><c type="THORN">&#x00DE;</c>at werd
+gold in her tresour</l>
+         <l><c type="pilcrow">&#x00B6;</c> Wi<c type="thorn">&#x00FE;</c> her bri<c type="yogh">&#x021D;</c>t rode?</l>
+         <l><c type="THORN">&#x00DE;</c>ai eten &amp; dronken &amp; made hem
+glade,</l>
+         <l>Wi<c type="thorn">&#x00FE;</c> joie was al her liif ylade;</l>
+         <l>Men kneled hem bifore.</l>
+         <l n="10"><c type="THORN">&#x00DE;</c>ai beren
+hem wel swi<c type="thorn">&#x00FE;</c>e hei<c type="yogh">&#x021D;</c>e -</l>
+         <l>Wi<c type="thorn">&#x00FE;</c> a tv[i]nkling of her ei<c type="yogh">&#x021D;</c>e</l>
+         <l>Her soules were forlore.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Whare is <c type="thorn">&#x00FE;</c>at hoppeing &amp; <c type="thorn">&#x00FE;</c>at song</l>
+         <l><c type="THORN">&#x00DE;</c>e trayling &amp; <c type="thorn">&#x00FE;</c>e proude gong, <note n="note-bernard-1" type="ed">
+               <emph>trayling</emph>: the scribe wrote <emph>trauayling</emph>,<lb/>
+then underdotted <emph>ua</emph>.</note>
+         </l>
+         <l n="15"><c type="THORN">&#x00DE;</c>e haukes
+&amp; <c type="thorn">&#x00FE;</c>e houndes?</l>
+         <l>Al <c type="thorn">&#x00FE;</c>at wele is went oway;</l>
+         <l>Her ioie is turned to wayleway,</l>
+         <l>To manie hard stoundes.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Drei<c type="yogh">&#x021D;</c>e her, man, <c type="yogh">&#x021D;</c>if <c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>ou wit;</l>
+         <l n="20">A litel
+pine men <c type="thorn">&#x00FE;</c>e bit.</l>
+         <l>Wi<c type="thorn">&#x00FE;</c>drawe <c type="thorn">&#x00FE;</c>ine aise oft:</l>
+         <l><c type="yogh">&#x021D;</c>if <c type="thorn">&#x00FE;</c>e pine be vnrede,</l>
+         <l>&amp; <c type="thorn">&#x00FE;</c>ou <c type="thorn">&#x00FE;</c>enke of <c type="thorn">&#x00FE;</c>i misdede</l>
+         <l>It schal <c type="thorn">&#x00FE;</c>e <c type="thorn">&#x00FE;</c>ink soft</l>
+         <l n="25"><c type="pilcrow">&#x00B6;</c> <c type="yogh">&#x021D;</c>if
+<c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>e fende, <c type="thorn">&#x00FE;</c>e foule <c type="thorn">&#x00FE;</c>ing,</l>
+         <l><c type="THORN">&#x00DE;</c>urth wicked rede of fals egging</l>
+         <l>Adoun <c type="thorn">&#x00FE;</c>e ha<c type="thorn">&#x00FE;</c> ycast,</l>
+         <l>Vp &amp; be gode champioun,</l>
+         <l>Stond &amp; falle no more adoun</l>
+         <l n="30">For a litel
+blast.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Take <c type="thorn">&#x00FE;</c>e rode to <c type="thorn">&#x00FE;</c>i staf</l>
+         <l>&amp; <c type="thorn">&#x00FE;</c>enk on him <c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>eron <c type="yogh">&#x021D;</c>af</l>
+         <l>His liif <c type="thorn">&#x00FE;</c>at was so lef.</l>
+         <l>He it <c type="yogh">&#x021D;</c>af for <c type="thorn">&#x00FE;</c>e, <c type="thorn">&#x00FE;</c>ou <c type="yogh">&#x021D;</c>eld it him;</l>
+         <l n="35">O<c type="yogh">&#x021D;</c>ain <c type="thorn">&#x00FE;</c>i fo
+<c type="thorn">&#x00FE;</c>i staf <c type="thorn">&#x00FE;</c>ou nim</l>
+         <l>&amp; wreke <c type="thorn">&#x00FE;</c>e of <c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>ef.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Jhesu Crist ous aboue</l>
+         <l><c type="THORN">&#x00DE;</c>ou grant ous for <c type="thorn">&#x00FE;</c>i moder loue</l>
+         <l>At our liues ende.</l>
+         <l n="40">When we han
+ri<c type="yogh">&#x021D;</c>tes of <c type="thorn">&#x00FE;</c>e prest</l>
+         <l>&amp; <c type="thorn">&#x00FE;</c>e de<c type="thorn">&#x00FE;</c> be at our brest</l>
+         <l><c type="THORN">&#x00DE;</c>e soule mot to heuen wende.</l>
+         <l>Amen</l>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Sayings of the Four Philosophers</title>
+            <author>Auchinleck Project</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>This file is part of the facsimile-edition of the Auchinleck Manuscript was
+                     co-edited by Professor David Burnley and Dr Alison Wiggins.  The HTML versions of 
+                     the resource are freely available at http://www.nls.uk/auchinleck/ </p>
+         </publicationStmt>
+         <notesStmt>
+            <note>This manuscript file was originally supplied as philos.html and the header file was located in heads/philos_head.html both of which were
+                        converted to TEI XML by Dr James Cummings of the Oxford Text Archive. The
+                        notes below were taken from the header file and each HTML paragraph placed in 
+                        a separate note. </note>
+            <note>
+               <p>
+                  <hi rend="bold">Scribe 2</hi>
+               </p>
+            </note>
+            <note>
+               <p>English-French macaronic verse. 98 lines.</p>
+            </note>
+            <note>
+               <p>One other manuscript:<lb/>
+                  <hi rend="bold">St John's Cambridge MS 112</hi>.</p>
+            </note>
+            <note>
+               <p>
+                  <hi rend="bold">Edition</hi>:<lb/>
+R. H. Robbins, <emph>Historical Poems of the XIVth and XVth
+Centuries</emph> (New York: Columbia University Press, 1959):
+140-143.</p>
+            </note>
+            <note>
+               <p>
+                  <hi rend="bold">Other editions and studies</hi>:<lb/>
+G. Holmstedt, <emph>Speculum Christiani</emph>, EETS OS 182 (London:
+Oxford University Press, 1933): 185-187; 331.<lb/>
+T. Vätke, 'Lied auf den Bruch der Magna Charta durch Edward II',
+<emph>Archiv für das Studium der Neueren Spachen und Litteraturen</emph>,
+72 (1884): 467-469.<lb/>
+S. J. H. Herrtage, <emph>The Early English Versions of the Gesta
+Romanorum</emph>, EETS ES 33 (London: Trübner, 1879; reprinted 1962):
+498-499.<lb/>
+R. P. Wülcker, <emph>Altenglisches Lesebuch</emph> (Halle: Niemeyer,
+1874-80).<lb/>
+A. J. Ellis, <emph>On Early English Pronunciation</emph>, Chaucer
+Society, Second Series, 4 (London: Trübner, 1869): 449.<lb/>
+T. Wright, <emph>The Political Songs of England</emph>, Camden Society, 6
+(London: Nichols, 1839). Re-issued by P. R. Coss (ed. and intro.),
+<emph>Thomas Wright's Political Songs of England</emph> (Cambridge:
+Cambridge University Press, 1996).<lb/>
+D. Laing, <emph>Owain Miles</emph> (Edinburgh: Privately printed,
+1837).<lb/>
+               </p>
+            </note>
+            <note>
+               <p>
+                  <emph>Index 1857.</emph>
+               </p>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <p>The Auchinleck Manuscript (NLS Adv MS 19.2.1) is one of the National Library of
+                     Scotland’s greatest treasures. Produced in London in the 1330s, it provides a
+                     unique insight into the English language and literature that Chaucer and his
+                     generation grew up with and were influenced by. It acquired its name from its
+                     first known owner, Lord Auchinleck, who discovered the manuscript in 1740 and
+                     donated it to the precursor of the National Library in 1744.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>The Sayings of the Four Philosophers</head>
+         <l>
+            <emph>L’en puet fere &amp; defere,</emph>
+            <milestone unit="folio" n="f.105ra"/>
+            <note type="xref">
+               <ref target="#105r.sid"/>
+            </note>
+         </l>
+         <l>
+            <emph>ceo fait-il trop souent;</emph>
+         </l>
+         <l>It nis nou<c type="thorn">&#x00FE;</c>er wel ne faire,</l>
+         <l><c type="THORN">&#x00DE;</c>erfore Engelond is shent.</l>
+         <l n="5"><emph>Nostre
+prince de Engletere,</emph>
+         </l>
+         <l>
+            <emph>per le consail de sa gent,</emph>
+         </l>
+         <l>At Westminster after <c type="thorn">&#x00FE;</c>e feire</l>
+         <l>maden a gret parlement. <note n="note-philos-1" type="ed">
+               <emph>parlement</emph>: <emph>ment</emph> is superscript.</note>
+         </l>
+         <l>
+            <emph>La chartre fet de cyre –</emph>
+         </l>
+         <l n="10"><emph>ieo
+l’enteink &amp; bien le crey –</emph>
+         </l>
+         <l>It was holde to neih <c type="thorn">&#x00FE;</c>e fire</l>
+         <l>And is molten al awey.</l>
+         <l>
+            <emph>Ore ne say mes que dire,</emph>
+         </l>
+         <l>
+            <emph>tout i va a tripolay,</emph>
+         </l>
+         <l n="15">Hundred,
+chapitle, court &amp; shire,</l>
+         <l>Al hit go<c type="thorn">&#x00FE;</c> a deuel wey.</l>
+         <l>
+            <emph>Des plu sages de la tere,</emph>
+         </l>
+         <l>
+            <emph>ore escote<c type="yogh">&#x021D;</c> vn sarmoun,</emph>
+         </l>
+         <l>Of .iiij. wise men, <c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>er were,</l>
+         <l n="20">Whi
+Engelond is brouht adoun. </l>
+         <note n="note-philos-2" type="ed">
+            <emph>adoun</emph> is below the line.</note>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>e ferste seide ‘I vnderstonde</l>
+         <l>Ne may no king wel ben in londe,</l>
+         <l>Vnder God almihte,</l>
+         <l>But he kunne himself rede</l>
+         <l n="25">Hou he shal
+in londe lede </l>
+         <note n="note-philos-3" type="ed">
+            <emph>he</emph> is superscript.<lb/>
+            <emph><c type="thorn">&#x00FE;</c>ou</emph>: <emph>o</emph> is superscript.</note>
+         <l>Eueri man wid rihte.</l>
+         <l><c type="pilcrow">&#x00B6;</c> For miht is riht,</l>
+         <l>Liht is niht</l>
+         <l>And fiht is fliht</l>
+         <l n="30"><c type="pilcrow">&#x00B6;</c> For
+miht is riht, <c type="thorn">&#x00FE;</c>e lond is laweles;</l>
+         <l>For niht is liht, <c type="thorn">&#x00FE;</c>e lond is lore-les;</l>
+         <l>For fiht is fliht, <c type="thorn">&#x00FE;</c>e lond is nameles.’</l>
+         <l><c type="THORN">&#x00DE;</c>at o<c type="thorn">&#x00FE;</c>er seide a word ful god:</l>
+         <l>‘Whoso rowe<c type="thorn">&#x00FE;</c> a<c type="yogh">&#x021D;</c>ein <c type="thorn">&#x00FE;</c>e flod,</l>
+         <l n="35">Off sorwe
+he shal drinke;</l>
+         <l>Also hit fare<c type="thorn">&#x00FE;</c> bi <c type="thorn">&#x00FE;</c>e vnsele,</l>
+         <l>A man shal haue litel hele,</l>
+         <l><c type="THORN">&#x00DE;</c>eragein to swinke.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Nu on is two, <note n="note-philos-4" type="ed">
+               <emph>two</emph>: <emph>w</emph> is superscript.</note>
+         </l>
+         <l n="40">Wel is wo,
+</l>
+         <note n="note-philos-5" type="ed">
+            <emph>Wel</emph>: MS reads <emph>ano<c type="thorn">&#x00FE;</c>er</emph>.</note>
+         <l>And frend is fo.</l>
+         <l>For on is two, <c type="thorn">&#x00FE;</c>at lond is strein<c type="thorn">&#x00FE;</c>eles;
+<note n="note-philos-6" type="ed">
+               <emph>two</emph>: <emph>w</emph> is superscript, with caret.</note>
+         </l>
+         <l>For wel is wo, <c type="thorn">&#x00FE;</c>e lond is reu<c type="thorn">&#x00FE;</c>eles;</l>
+         <l>For frend is fo, <c type="thorn">&#x00FE;</c>e lond is loueles.’</l>
+         <l n="45"><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>at
+<c type="thorn">&#x00FE;</c>ridde seide ‘it is no wonder</l>
+         <l>Off <c type="thorn">&#x00FE;</c>ise eyres <c type="thorn">&#x00FE;</c>at go<c type="thorn">&#x00FE;</c> vnder</l>
+         <l>Whan <c type="thorn">&#x00FE;</c>eih comen to londe,</l>
+         <l>Proude &amp; stoute, &amp; ginne<c type="thorn">&#x00FE;</c> <c type="yogh">&#x021D;</c>elpe,</l>
+         <l>Ac of <c type="thorn">&#x00FE;</c>ing <c type="thorn">&#x00FE;</c>at sholde helpe</l>
+         <l n="50">Haue <c type="thorn">&#x00FE;</c>eih
+noht on honde.</l>
+         <l>Nu lust haue<c type="thorn">&#x00FE;</c> leue,</l>
+         <l><c type="THORN">&#x00DE;</c>ef is reue,</l>
+         <l>And pride ha<c type="thorn">&#x00FE;</c>e sleue.</l>
+         <l>For lust ha<c type="thorn">&#x00FE;</c> leue, <c type="thorn">&#x00FE;</c>e lond is <c type="thorn">&#x00FE;</c>eweles;</l>
+         <l n="55">For <c type="thorn">&#x00FE;</c>ef
+is reue, <c type="thorn">&#x00FE;</c>e lond is penyles; <milestone unit="folio" n="f.105rb"/>
+            <note type="xref">
+               <ref target="#105r.sid"/>
+            </note>
+         </l>
+         <l>For pride ha<c type="thorn">&#x00FE;</c>e sleue, <c type="thorn">&#x00FE;</c>e lond is
+almusles.’</l>
+         <l><c type="THORN">&#x00DE;</c>e fer<c type="thorn">&#x00FE;</c>e seide <c type="thorn">&#x00FE;</c>at ‘he is wod</l>
+         <l><c type="THORN">&#x00DE;</c>at dwelle<c type="thorn">&#x00FE;</c> to muchel in <c type="thorn">&#x00FE;</c>e flod,</l>
+         <l>For gold or for auhte.</l>
+         <l n="60">For gold or
+siluer or any wele,</l>
+         <l>Hunger or <c type="thorn">&#x00FE;</c>urst, hete or chele,</l>
+         <l>Al shal gon to nohte.</l>
+         <l>Nu wille is red,</l>
+         <l>Wit is qued,</l>
+         <l n="65">And god is
+ded.</l>
+         <l>For wille is red, <c type="thorn">&#x00FE;</c>e lond is wrecful;</l>
+         <l>For wit is qued, <c type="thorn">&#x00FE;</c>e lond is wrongful;</l>
+         <l>For god is ded, <c type="thorn">&#x00FE;</c>e lond is sinful.’</l>
+         <l>Wid wordes as we han pleid,</l>
+         <l n="70">Sum wisdom
+we han seid,</l>
+         <l>Off olde men and <c type="yogh">&#x021D;</c>unge;</l>
+         <l>Off many a <c type="thorn">&#x00FE;</c>ing <c type="thorn">&#x00FE;</c>at is in londe,</l>
+         <l>Whoso coude it vnderstonde</l>
+         <l>So haue I told wid tunge.</l>
+         <l n="75"><c type="pilcrow">&#x00B6;</c> Riche
+&amp; pore, bonde &amp; fre,</l>
+         <l><c type="THORN">&#x00DE;</c>at loue is god, <c type="yogh">&#x021D;</c>e mai se;</l>
+         <l>Loue clepe<c type="thorn">&#x00FE;</c> vch man bro<c type="thorn">&#x00FE;</c>er,</l>
+         <l>For if <c type="thorn">&#x00FE;</c>at he to blame be,</l>
+         <l>For<c type="yogh">&#x021D;</c>if hit him par charite,</l>
+         <l n="80">Al<c type="thorn">&#x00FE;</c>eih he
+do o<c type="thorn">&#x00FE;</c>er.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Loue we God, &amp; he us alle,</l>
+         <l><c type="THORN">&#x00DE;</c>at was born in an oxe stalle,</l>
+         <l>And for us don on rode.</l>
+         <l>His swete herte-blod he let</l>
+         <l n="85">ffor us,
+&amp; us faire het</l>
+         <l><c type="THORN">&#x00DE;</c>at we sholde be gode.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Be we nu gode &amp; stedefast,</l>
+         <l>So <c type="thorn">&#x00FE;</c>at we muwen, at <c type="thorn">&#x00FE;</c>e last,</l>
+         <l>Hauen heuene-blisse.</l>
+         <l n="90">To God
+almihti I preie,</l>
+         <l>Lat us neuere in sinne deie,</l>
+         <l><c type="THORN">&#x00DE;</c>at ioye for to misse.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Ac leue us alle so don here</l>
+         <l>&amp; leue in loue &amp; god manere,</l>
+         <l n="95"><c type="THORN">&#x00DE;</c>e deuel
+for to shende,</l>
+         <l><c type="THORN">&#x00DE;</c>at we moten alle ifere</l>
+         <l>Sen him <c type="thorn">&#x00FE;</c>at us bouhte dere,</l>
+         <l>In ioye widoute ende.</l>
+         <l>Amen.</l>
+      </body>
+   </text>
+</TEI>

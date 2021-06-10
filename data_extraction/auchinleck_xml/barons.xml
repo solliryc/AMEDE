@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Battle Abbey Roll</title>
+            <author>Auchinleck Project</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>This file is part of the facsimile-edition of the Auchinleck Manuscript was
+                     co-edited by Professor David Burnley and Dr Alison Wiggins.  The HTML versions of 
+                     the resource are freely available at http://www.nls.uk/auchinleck/ </p>
+         </publicationStmt>
+         <notesStmt>
+            <note>This manuscript file was originally supplied as barons.html and the header file was located in heads/barons_head.html both of which were
+                        converted to TEI XML by Dr James Cummings of the Oxford Text Archive. The
+                        notes below were taken from the header file and each HTML paragraph placed in 
+                        a separate note. </note>
+            <note>
+               <p>
+                  <hi rend="bold">Scribe 4</hi>
+               </p>
+            </note>
+            <note>
+               <p>List of 551 names supposedly representing the Norman barons who
+fought at Hastings and for whom Battle Abbey was founded.</p>
+            </note>
+            <note>
+               <p>Oldest copy of this list. For further discussion of other
+versions of the so-called Battle Abbey Roll and the relation
+between the Auchinleck text and that published by John Leland in
+his <emph>De Rebus Britannicis Collectanea</emph>, see Smyser and the
+study by the Duchess of Cleveland, who resided at Battle Abbey: C.
+L. W. Stanhope Powlett, <emph>The Battle Abbey Roll</emph>, 3 vols
+(London: Murray, 1889).</p>
+            </note>
+            <note>
+               <p>
+                  <hi rend="bold">Edition</hi>:<lb/>
+H. M. Smyser, 'The list of Norman Names in the Auchinleck MS' in
+<emph>Mediaeval Studies in Honor of J. D. M. Ford</emph>, U. T. Holmes
+and A. J. Denomy (eds) (Cambridge, Mass.: Harvard University Press,
+1948): 257-287.</p>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <p>The Auchinleck Manuscript (NLS Adv MS 19.2.1) is one of the National Library of
+                     Scotland’s greatest treasures. Produced in London in the 1330s, it provides a
+                     unique insight into the English language and literature that Chaucer and his
+                     generation grew up with and were influenced by. It acquired its name from its
+                     first known owner, Lord Auchinleck, who discovered the manuscript in 1740 and
+                     donated it to the precursor of the National Library in 1744.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>The Battle Abbey Roll</head>
+         <l>Aumarle <milestone unit="folio" n="f.105va"/>
+            <note type="xref">
+               <ref target="#105v.sid"/>
+            </note>
+         </l>
+         <l>Bertram</l>
+         <l>Brehuse</l>
+         <l>Bardolf</l>
+         <l n="5">Deayuile</l>
+         <l>Pygot</l>
+         <l>Vurnay</l>
+         <l>Tregor</l>
+         <l>Camoys</l>
+         <l n="10">Hautayn</l>
+         <l>Warayne</l>
+         <l>Chauuent</l>
+         <l>Loueny</l>
+         <l>Trehauntone</l>
+         <l n="15">Bigot</l>
+         <l>Mohaut</l>
+         <l>Maruulon</l>
+         <l>Marroys</l>
+         <l>Balholf</l>
+         <l n="20">Vepount</l>
+         <l>Estrange</l>
+         <l>Monbray</l>
+         <l>Veer</l>
+         <l>Audele <note n="note-barons-1" type="ed">
+               <emph>Audele</emph>: small pencilled cross<lb/>
+to the left of this name with<lb/>
+annotations in a later hand.</note>
+         </l>
+         <l n="25">Wastenays</l>
+         <l>Souche</l>
+         <l>Couderay</l>
+         <l>Ferrers</l>
+         <l>Ferre</l>
+         <l n="30">Breaunceon</l>
+         <l>Nouwers</l>
+         <l>Chaunberlayn</l>
+         <l>Fi<c type="yogh">&#x021D;</c> wauter</l>
+         <l>Argenteym</l>
+         <l n="35">Rosse</l>
+         <l>Ros</l>
+         <l>Hastanges</l>
+         <l>Menerel</l>
+         <l>Bures</l>
+         <l n="40">Malebraunche</l>
+         <l>Morteyne</l>
+         <l>Comine</l>
+         <l>Saint Denys <milestone unit="folio" n="f.105vb"/>
+            <note type="xref">
+               <ref target="#105v.sid"/>
+            </note>
+         </l>
+         <l>Otuel</l>
+         <l n="45">Gorgis</l>
+         <l>Gorges</l>
+         <l>Dyne</l>
+         <l>Limesy <note n="note-barons-2" type="ed">
+               <emph>Limesy</emph>: <emph>s</emph> is crossed, resembles an <emph>f</emph>.</note>
+         </l>
+         <l>Boys</l>
+         <l n="50">Fenes</l>
+         <l>Fi<c type="yogh">&#x021D;</c> roger</l>
+         <l>Muse</l>
+         <l>Quincy</l>
+         <l>Longulers</l>
+         <l n="55">Criketor</l>
+         <l>Pouer</l>
+         <l>Touchet <note n="note-barons-3" type="ed">
+               <emph>Touchet</emph>: small cross to the left of this name.</note>
+         </l>
+         <l>Peche</l>
+         <l>Daubeny</l>
+         <l n="60">Saint
+amand</l>
+         <l>Ryuers</l>
+         <l>Loueday</l>
+         <l>Deuyas</l>
+         <l>Muntbercher</l>
+         <l n="65">Fi<c type="yogh">&#x021D;</c>
+marmeduk</l>
+         <l>Rous</l>
+         <l>Trussebut</l>
+         <l>Maleuile</l>
+         <l>Neumarche</l>
+         <l n="70">Corbyn</l>
+         <l>Mounteny</l>
+         <l>Gaunte</l>
+         <l>Maleherbe</l>
+         <l>Geneuile</l>
+         <l n="75">Someruile</l>
+         <l>Pyrot</l>
+         <l>Channdoys</l>
+         <l>De la Hay</l>
+         <l>Musce gros</l>
+         <l n="80">Moynle</l>
+         <l>Fauecourt</l>
+         <l>Vescy</l>
+         <l>Brabasoun</l>
+         <l>Chalons</l>
+         <l n="85">Merke
+<milestone unit="folio" n="f.105vc"/>
+            <note type="xref">
+               <ref target="#105v.sid"/>
+            </note>
+         </l>
+         <l>Fi<c type="yogh">&#x021D;</c> felip</l>
+         <l>Takel</l>
+         <l>Le Mare</l>
+         <l>Del la Mare</l>
+         <l n="90">Tourbeuyle</l>
+         <l>Saun<c type="yogh">&#x021D;</c> auer</l>
+         <l>Mount agu</l>
+         <l>Fourneus</l>
+         <l>Valence</l>
+         <l n="95">Clereuaus</l>
+         <l>Doding<c type="yogh">&#x021D;</c>eles</l>
+         <l>Mautalent</l>
+         <l>Chapis</l>
+         <l>Channtelew</l>
+         <l n="100">Sayntes</l>
+         <l>Bande</l>
+         <l>Fi<c type="yogh">&#x021D;</c> otes</l>
+         <l>Maule</l>
+         <l>Sulay</l>
+         <l n="105">Brous</l>
+         <l>Neuyle</l>
+         <l>Fi<c type="yogh">&#x021D;</c> willam</l>
+         <l>De la merde</l>
+         <l>Sorel</l>
+         <l n="110">Saint
+Johan</l>
+         <l>Wareuyle</l>
+         <l>De la pole</l>
+         <l>Mortiuaus</l>
+         <l>Cressy</l>
+         <l n="115">Saint
+leo</l>
+         <l>Bauent</l>
+         <l>Lascels</l>
+         <l>Tyays</l>
+         <l>Haureel</l>
+         <l n="120">Longebile</l>
+         <l>Longeuile</l>
+         <l>De la ware</l>
+         <l>Tholouse</l>
+         <l>Conestable</l>
+         <l n="125">Poynce</l>
+         <l>Touke</l>
+         <l>Maloire <milestone unit="folio" n="f.105vd"/>
+            <note type="xref">
+               <ref target="#105v.sid"/>
+            </note>
+         </l>
+         <l>Payfer</l>
+         <l>Bretoun</l>
+         <l n="130">Mount
+hermer</l>
+         <l>Baynse</l>
+         <l>Beke</l>
+         <l>Desse</l>
+         <l>Gangi</l>
+         <l n="135">Raban</l>
+         <l>Payner</l>
+         <l>Fi<c type="yogh">&#x021D;</c> anger</l>
+         <l>Dakeny</l>
+         <l>Meneuyle</l>
+         <l n="140">Mancouenant</l>
+         <l>Pykard</l>
+         <l>Grey</l>
+         <l>Disneny</l>
+         <l>Maune</l>
+         <l n="145">Banaster</l>
+         <l>Baloun</l>
+         <l>Louerace</l>
+         <l>Baudyn</l>
+         <l>Saluayn</l>
+         <l n="150">Rye</l>
+         <l>Fi<c type="yogh">&#x021D;</c> Rauf</l>
+         <l>Pygari</l>
+         <l>Damari</l>
+         <l>Vauazour</l>
+         <l n="155">Perpount</l>
+         <l>Dybry</l>
+         <l>Nerenute</l>
+         <l>Vilers</l>
+         <l>Chaunpenays</l>
+         <l n="160">Malebyse</l>
+         <l>Thorny</l>
+         <l>Saint Gorge</l>
+         <l>Wase</l>
+         <l>Fenke</l>
+         <l n="165">Wake</l>
+         <l>Pungeys</l>
+         <l>Escales</l>
+         <l>Estures</l>
+         <l>Careuyle <milestone unit="folio" n="f.106ra"/>
+            <note type="xref">
+               <ref target="#106r.sid"/>
+            </note>
+         </l>
+         <l n="170">Weelhi</l>
+         <l>Golofer</l>
+         <l>Burdet</l>
+         <l>Front de buf</l>
+         <l>Charels</l>
+         <l n="175">Gruscy</l>
+         <l>Saint aubyn</l>
+         <l>Nercy</l>
+         <l>Trenchelyon</l>
+         <l>Takeruyle</l>
+         <l n="180">Grelly</l>
+         <l>Broylle</l>
+         <l>Daueronge</l>
+         <l>Miryeus</l>
+         <l>Gurry</l>
+         <l n="185">Fort</l>
+         <l>De la Riuer</l>
+         <l>Daraynges</l>
+         <l>Daraunges</l>
+         <l>Playce</l>
+         <l n="190">Burnel</l>
+         <l>Louayne</l>
+         <l>Walonhes</l>
+         <l>Gramary</l>
+         <l>Hessy</l>
+         <l n="195">Wendur</l>
+         <l>Chaucurt</l>
+         <l>Brandewyn</l>
+         <l>Graundyn</l>
+         <l>Baudet</l>
+         <l n="200">Fi<c type="yogh">&#x021D;</c>
+fouke</l>
+         <l>Fi<c type="yogh">&#x021D;</c> thomas</l>
+         <l>Chapun</l>
+         <l>Mauleuerre</l>
+         <l>Karru</l>
+         <l n="205">Munt
+Martyn</l>
+         <l>Warde</l>
+         <l>Monsters</l>
+         <l>Blaunmonster</l>
+         <l>Bares</l>
+         <l n="210">Tolymer</l>
+         <l>Blunt</l>
+         <l>Olifaunt</l>
+         <l>De eyncourt <milestone unit="folio" n="f.106rb"/>
+            <note type="xref">
+               <ref target="#106r.sid"/>
+            </note>
+         </l>
+         <l>Buteturt</l>
+         <l n="215">Byset</l>
+         <l>Basset</l>
+         <l>Darcy</l>
+         <l>De hercy</l>
+         <l>Percy</l>
+         <l n="220">Grelly</l>
+         <l>Thelly</l>
+         <l>Caumbile</l>
+         <l>Hauuyle</l>
+         <l>Wauncy</l>
+         <l n="225">Chauncy</l>
+         <l>Lascy</l>
+         <l>Trascy</l>
+         <l>Boune</l>
+         <l>Moune</l>
+         <l n="230">Maundeuyle</l>
+         <l>Mundeuyle</l>
+         <l>Boneuyle</l>
+         <l>Vmfreuyle</l>
+         <l>Escuteuyle</l>
+         <l n="235">Moruyle</l>
+         <l>Wynum</l>
+         <l>Hagulhun</l>
+         <l>Wauyle</l>
+         <l>Secheuyle</l>
+         <l n="240">Coluyle</l>
+         <l>Foleuyle</l>
+         <l>Baskeruyle</l>
+         <l>Neyuyle</l>
+         <l>Chaunboun</l>
+         <l n="245">Verdoun</l>
+         <l>Iueuele</l>
+         <l>Rydele</l>
+         <l>Haulay</l>
+         <l>Maulay</l>
+         <l n="250">Butuylayne</l>
+         <l>Malemayne</l>
+         <l>Mortimer</l>
+         <l>Columber</l>
+         <l>Seynt clere</l>
+         <l n="255">Seynt
+omere</l>
+         <l>Gouwer</l>
+         <l>Despenser <milestone unit="folio" n="f.106rc"/>
+            <note type="xref">
+               <ref target="#106r.sid"/>
+            </note>
+         </l>
+         <l>Latimer</l>
+         <l>Le botiler</l>
+         <l n="260">Filbert</l>
+         <l>Fi<c type="yogh">&#x021D;</c> Robert</l>
+         <l>Saint Martine</l>
+         <l>Saint quintine</l>
+         <l>Saint liger</l>
+         <l n="265">Creuequer</l>
+         <l>Paynele</l>
+         <l>Traynel</l>
+         <l>Peuerel</l>
+         <l>Deuerel</l>
+         <l n="270">Adriel</l>
+         <l>Ryuel</l>
+         <l>Louel</l>
+         <l>Druel</l>
+         <l>Munt foler</l>
+         <l n="275">Morel</l>
+         <l>Russel</l>
+         <l>Trussel</l>
+         <l>Malet</l>
+         <l>Nerbet</l>
+         <l n="280">Corbet</l>
+         <l>Munt fichet</l>
+         <l>Garre</l>
+         <l>Marre</l>
+         <l>Giffard</l>
+         <l n="285">Siward</l>
+         <l>Pypard</l>
+         <l>Chauward</l>
+         <l>Haunsard</l>
+         <l>Musard</l>
+         <l n="290">Mautrauers</l>
+         <l>Verders</l>
+         <l>Berners</l>
+         <l>Escalers</l>
+         <l>Murers</l>
+         <l n="295">Filot</l>
+         <l>Talbot</l>
+         <l>Lovetoft</l>
+         <l>Tybetoft</l>
+         <l>Saunt forde</l>
+         <l n="300">Munt
+forde</l>
+         <l>Furniuaus <milestone unit="folio" n="f.106rd"/>
+            <note type="xref">
+               <ref target="#106r.sid"/>
+            </note>
+         </l>
+         <l>Deuaus</l>
+         <l>Clarel</l>
+         <l>Darel</l>
+         <l n="305">Mauduit</l>
+         <l>Chaumbray</l>
+         <l>Chaunduit</l>
+         <l>Saufway</l>
+         <l>Braybuffe</l>
+         <l n="310">Oylhe de
+buffe</l>
+         <l>Menles</l>
+         <l>Surles</l>
+         <l>Burke</l>
+         <l>Newburke</l>
+         <l n="315">Wateruile</l>
+         <l>De la hylhe</l>
+         <l>Somery</l>
+         <l>Saint Jory</l>
+         <l>Wallery</l>
+         <l n="320">Pynkeny</l>
+         <l>Munt chenisy</l>
+         <l>Courteny</l>
+         <l>Luscy</l>
+         <l>Buscy</l>
+         <l n="325">Louny</l>
+         <l>Touny</l>
+         <l>Hissee</l>
+         <l>Longespee</l>
+         <l>De la uache</l>
+         <l n="330">Talmache</l>
+         <l>Caylhy</l>
+         <l>Panely</l>
+         <l>Tanny</l>
+         <l>Marray</l>
+         <l n="335">Plukenet</l>
+         <l>Bloundet</l>
+         <l>Muschet</l>
+         <l>Bluet</l>
+         <l>Lusnet <note n="note-barons-4" type="ed">
+               <emph>Lusnet</emph>: <emph>s</emph> is crossed, resembles an <emph>f</emph>.</note>
+         </l>
+         <l n="340">Brun</l>
+         <l>Fi<c type="yogh">&#x021D;</c> symon</l>
+         <l>Gobaud</l>
+         <l>Fi<c type="yogh">&#x021D;</c> rohaud</l>
+         <l>Fi<c type="yogh">&#x021D;</c> payn</l>
+         <l n="345">Fi<c type="yogh">&#x021D;</c> alayn
+<milestone unit="folio" n="f.106va"/>
+            <note type="xref">
+               <ref target="#106v.sid"/>
+            </note>
+         </l>
+         <l>Dautre</l>
+         <l>Mauffe</l>
+         <l>Mount pynson</l>
+         <l>Punchardoun</l>
+         <l n="350">Graunsoun</l>
+         <l>Dabernoun</l>
+         <l>Maynard</l>
+         <l>Bekard</l>
+         <l>Beauchaump</l>
+         <l n="355">Longechamp</l>
+         <l>Bray</l>
+         <l>Say</l>
+         <l>Rokel</l>
+         <l>Rosel</l>
+         <l n="360">Bracy</l>
+         <l>Pleacy</l>
+         <l>Deueroys</l>
+         <l>Wardeboys</l>
+         <l>Fi<c type="yogh">&#x021D;</c> pers</l>
+         <l n="365">Solers</l>
+         <l>Fi<c type="yogh">&#x021D;</c> neel</l>
+         <l>Louel <note n="note-barons-5" type="ed">
+               <emph>Louel</emph>: small cross to the left of this name.</note>
+         </l>
+         <l>Chaunceaus</l>
+         <l>Munceaus</l>
+         <l n="370">Thorreuyle</l>
+         <l>Gunceuyle</l>
+         <l>Wyuile</l>
+         <l>Friuyle</l>
+         <l>Wascelyn</l>
+         <l n="375">Patefyn</l>
+         <l>Engayne</l>
+         <l>Chaunpayne</l>
+         <l>Carbonel</l>
+         <l>Werdenel</l>
+         <l n="380">Gobum</l>
+         <l>Bosoun</l>
+         <l>Facunberge</l>
+         <l>Serberge <note n="note-barons-6" type="ed">Smyser (1948) has <emph>Cherberge</emph>, but the first<lb/>
+letter is <emph>S</emph> with lower loop closed.</note>
+         </l>
+         <l>Grant</l>
+         <l n="385">Auenant</l>
+         <l>Normanuyle</l>
+         <l>Trechenyle</l>
+         <l>Triuet</l>
+         <l>Gumet <milestone unit="folio" n="f.106vb"/>
+            <note type="xref">
+               <ref target="#106v.sid"/>
+            </note>
+         </l>
+         <l n="390">Broylhy</l>
+         <l>Duylhy</l>
+         <l>Morlay</l>
+         <l>Gorlay</l>
+         <l>Frysel</l>
+         <l n="395">Reuel</l>
+         <l>Dalacenoun</l>
+         <l>Papilioun</l>
+         <l>Pampilloun</l>
+         <l>Delet <note n="note-barons-7" type="ed">Small cross to the left of <emph>Delet</emph>.</note>
+         </l>
+         <l n="400">Ledet</l>
+         <l>Vernoun</l>
+         <l>Gernoun</l>
+         <l>Veroun</l>
+         <l>Chaumont</l>
+         <l n="405">Beaumont</l>
+         <l>Gurdun</l>
+         <l>Burdun</l>
+         <l>Fylyol</l>
+         <l>Tylyol</l>
+         <l n="410">Cheny</l>
+         <l>Mouncy</l>
+         <l>Coynhers</l>
+         <l>Maners</l>
+         <l>Verlay</l>
+         <l n="415">Merlay</l>
+         <l>Bretuyle</l>
+         <l>Tyuile</l>
+         <l>Boseuile</l>
+         <l>Oseuile</l>
+         <l n="420">Boyuile</l>
+         <l>Cuouile</l>
+         <l>Clonuile</l>
+         <l>Saint More</l>
+         <l>Barbe de ore</l>
+         <l n="425">Beau
+pre</l>
+         <l>Corsun</l>
+         <l>Fi<c type="yogh">&#x021D;</c> morice</l>
+         <l>Breyt</l>
+         <l>Fi<c type="yogh">&#x021D;</c> haw</l>
+         <l n="430">Estreyles</l>
+         <l>Walaunger</l>
+         <l>Fi<c type="yogh">&#x021D;</c> Raynaud</l>
+         <l>Baret <milestone unit="folio" n="f.106vc"/>
+            <note type="xref">
+               <ref target="#106v.sid"/>
+            </note>
+         </l>
+         <l>Heri<c type="yogh">&#x021D;</c></l>
+         <l n="435">Wenables</l>
+         <l>De la hyde</l>
+         <l>Du lee</l>
+         <l>De la warde</l>
+         <l>De la plunche</l>
+         <l n="440">Lysurs</l>
+         <l>Mauclerk</l>
+         <l>Kymarun</l>
+         <l>Loringe</l>
+         <l>Baynard</l>
+         <l n="445">Bouet</l>
+         <l>Abel</l>
+         <l>Jardyn</l>
+         <l>Tours</l>
+         <l>Flaunuile</l>
+         <l n="450">Damyot</l>
+         <l>Auern</l>
+         <l>Vylayn</l>
+         <l>Fi<c type="yogh">&#x021D;</c> eustache</l>
+         <l>Mauchene</l>
+         <l n="455">Bryan</l>
+         <l>Monet</l>
+         <l>Berneuile</l>
+         <l>Hamelyn</l>
+         <l>De la huse</l>
+         <l n="460">Gynes</l>
+         <l>Tyrel</l>
+         <l>Chatres</l>
+         <l>Belew</l>
+         <l>Surdenas</l>
+         <l n="465">Malekak</l>
+         <l>Dysard</l>
+         <l>Buscel</l>
+         <l>Duraunt</l>
+         <l>Maugiser</l>
+         <l n="470">Augers</l>
+         <l>Tolet</l>
+         <l>Fermbaud</l>
+         <l>Verny</l>
+         <l>Saint barbe</l>
+         <l n="475">Germeles</l>
+         <l>Broye</l>
+         <l>Rastel <milestone unit="folio" n="f.106vd"/>
+            <note type="xref">
+               <ref target="#106v.sid"/>
+            </note>
+         </l>
+         <l>Jhymeles</l>
+         <l>Bleys</l>
+         <l n="480">Bloy</l>
+         <l>Cartenay</l>
+         <l>Charteray</l>
+         <l>Oysel</l>
+         <l>Millonel</l>
+         <l n="485">Kaunceys</l>
+         <l>Lyof</l>
+         <l>Lysers</l>
+         <l>Busard</l>
+         <l>Raac</l>
+         <l n="490">Percelay</l>
+         <l>Fi<c type="yogh">&#x021D;</c> henry</l>
+         <l>Esturmy</l>
+         <l>Fi<c type="yogh">&#x021D;</c> waryn</l>
+         <l>Rocelyn</l>
+         <l n="495">Bouret</l>
+         <l>Harecourte</l>
+         <l>Venour</l>
+         <l>Henour</l>
+         <l>De la launde</l>
+         <l n="500">Veylaunde</l>
+         <l>Ponterel</l>
+         <l>Luterel</l>
+         <l>Mount riuel</l>
+         <l>Kyriel</l>
+         <l n="505">Longeuale</l>
+         <l>Berneuale</l>
+         <l>Barry</l>
+         <l>Saint amari</l>
+         <l>Jaye</l>
+         <l n="510">Taye</l>
+         <l>Founay</l>
+         <l>Doway</l>
+         <l>Auuers</l>
+         <l>Valers</l>
+         <l n="515">Staci</l>
+         <l>Masci</l>
+         <l>Bodyn</l>
+         <l>Saint Martyn</l>
+         <l>Berteuile</l>
+         <l n="520">Hareuile</l>
+         <l>Huuel <milestone unit="folio" n="f.107ra"/>
+            <note type="xref">
+               <ref target="#107r.sid"/>
+            </note>
+         </l>
+         <l>Grynel <note n="note-barons-8" type="ed">
+               <emph>Grynel</emph>: small cross to the left of this name.</note>
+         </l>
+         <l>Trayni<c type="yogh">&#x021D;</c></l>
+         <l>Cheni<c type="yogh">&#x021D;</c></l>
+         <l n="525">Chene</l>
+         <l>Bertyn</l>
+         <l>Segyn</l>
+         <l>Maunsel</l>
+         <l>Donel <milestone unit="folio" n="f.107rb"/>
+            <note type="xref">
+               <ref target="#107r.sid"/>
+            </note>
+         </l>
+         <l n="530">Beuerye</l>
+         <l>Dureuye</l>
+         <l>Mannasyn</l>
+         <l>Aungeuyn</l>
+         <l>Tysoun</l>
+         <l n="535">Frysoun</l>
+         <l>Wateuyle</l>
+         <l>Saint uyle <milestone unit="folio" n="f.107rc"/>
+            <note type="xref">
+               <ref target="#107r.sid"/>
+            </note>
+         </l>
+         <l>Wanneruyle</l>
+         <l>Borauntuyle</l>
+         <l n="540">Riuel</l>
+         <l>Jarkenuile</l>
+         <l>Brayncurte</l>
+         <l>Chercurte</l>
+         <l>Olifard</l>
+         <l n="545">Maureward
+<milestone unit="folio" n="f.107rd"/>
+            <note type="xref">
+               <ref target="#107r.sid"/>
+            </note>
+         </l>
+         <l>Kinelers</l>
+         <l>Lymers</l>
+         <l>Rayn neuyle</l>
+         <l>Bele uyle</l>
+         <l n="550">Rypers</l>
+         <l>Perrers</l>
+      </body>
+   </text>
+</TEI>

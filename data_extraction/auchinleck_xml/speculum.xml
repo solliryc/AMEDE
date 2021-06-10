@@ -1,0 +1,1531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Speculum Gy de Warewyke</title>
+            <author>Auchinleck Project</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>This file is part of the facsimile-edition of the Auchinleck Manuscript was
+                     co-edited by Professor David Burnley and Dr Alison Wiggins.  The HTML versions of 
+                     the resource are freely available at http://www.nls.uk/auchinleck/ </p>
+         </publicationStmt>
+         <notesStmt>
+            <note>This manuscript file was originally supplied as speculum.html and the header file was located in heads/speculum_head.html both of which were
+                        converted to TEI XML by Dr James Cummings of the Oxford Text Archive. The
+                        notes below were taken from the header file and each HTML paragraph placed in 
+                        a separate note. </note>
+            <note>
+               <p>
+                  <hi rend="bold">Scribe 2</hi>
+               </p>
+            </note>
+            <note>
+               <p>Short couplets. 1031 lines in Morrill's edition, which includes
+Latin quotations and several missing couplets. Ends imperfect with
+half-lines preserved on the stub f.48ra. Approximately three lines
+lost in the next column.</p>
+            </note>
+            <note>
+               <p>Nine other manuscripts:<lb/>
+                  <hi rend="bold">BL Royal MS 17.B.xvii</hi>.<lb/>
+                  <hi rend="bold">BL Harley 1731</hi>.<lb/>
+                  <hi rend="bold">BL Arundel 140</hi>. Arundel 140 also has <emph>The Seven Sages of
+Rome</emph> in common with Auchinleck.<lb/>
+                  <hi rend="bold">CUL MS Dd.11.89</hi>.<lb/>
+                  <hi rend="bold">BL Harley 525</hi>.<lb/>
+                  <hi rend="bold">BL Additional MS 36983</hi>.<lb/>
+                  <hi rend="bold">Manchester, John Rylands MS 45388 (Engl. 50)</hi>.<lb/>
+                  <hi rend="bold">St John's College Cambridge MS 256</hi>.<lb/>
+                  <hi rend="bold">Bodleian Library MS 29430 (Additional C.220)</hi>.<lb/>
+                  <lb/>
+Note: Morrill does not list four of the manuscripts (BL Add. 36983,
+Manchester John Rylands 45388, St John's 256, Bodleian 29430) but
+includes the names of the 'lost' MS Worseley 67 and the 'empty
+name' Bodley 1731.</p>
+            </note>
+            <note>
+               <p>
+                  <hi rend="bold">Edition</hi>:<lb/>
+G. L. Morrill, <emph>Speculum Gy de Warewyke</emph>, EETS ES 75 (London:
+Trübner, 1898).</p>
+            </note>
+            <note>
+               <p>
+                  <emph>Index 1101.</emph>
+               </p>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <p>The Auchinleck Manuscript (NLS Adv MS 19.2.1) is one of the National Library of
+                     Scotland’s greatest treasures. Produced in London in the 1330s, it provides a
+                     unique insight into the English language and literature that Chaucer and his
+                     generation grew up with and were influenced by. It acquired its name from its
+                     first known owner, Lord Auchinleck, who discovered the manuscript in 1740 and
+                     donated it to the precursor of the National Library in 1744.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Speculum Gy de Warewyke</head>
+         <l>Herkne<c type="thorn">&#x00FE;</c> alle to my speche, <milestone unit="folio" n="f.39ra"/>
+            <note type="xref">
+               <ref target="#039r.sid"/>
+            </note>
+         </l>
+         <l>And hele of soule I may ou teche.</l>
+         <l><c type="THORN">&#x00DE;</c>at I wole speke, it is no fable,</l>
+         <l>Ac hit is swi<c type="thorn">&#x00FE;</c>e profitable.</l>
+         <l n="5">Man, if <c type="thorn">&#x00FE;</c>u
+wolt heuene winne,</l>
+         <l><c type="THORN">&#x00DE;</c>urw loue to God <c type="thorn">&#x00FE;</c>u most biginne.</l>
+         <l><c type="THORN">&#x00DE;</c>us shal ben <c type="thorn">&#x00FE;</c>i biginning:</l>
+         <l><c type="THORN">&#x00DE;</c>u loue God ouer alle <c type="thorn">&#x00FE;</c>ing</l>
+         <l><c type="pilcrow">&#x00B6;</c> And <c type="thorn">&#x00FE;</c>in emcristene loue also,</l>
+         <l n="10">Riht as
+<c type="thorn">&#x00FE;</c>iself <c type="thorn">&#x00FE;</c>u most do.</l>
+         <l>If <c type="thorn">&#x00FE;</c>u wolt <c type="thorn">&#x00FE;</c>us biginne and ende,</l>
+         <l><c type="THORN">&#x00DE;</c>u miht be seker to heuene wende;</l>
+         <l>Ac, if <c type="thorn">&#x00FE;</c>u louest more worldes god</l>
+         <l><c type="THORN">&#x00DE;</c>an God him self in <c type="thorn">&#x00FE;</c>i mod,</l>
+         <l n="15"><c type="THORN">&#x00DE;</c>u shalt
+hit finde an yuel plawe;</l>
+         <l>To de<c type="thorn">&#x00FE;</c> of soule it wole <c type="thorn">&#x00FE;</c>e drawe.</l>
+         <l><c type="pilcrow">&#x00B6;</c> For, whan <c type="thorn">&#x00FE;</c>e world <c type="thorn">&#x00FE;</c>e ha<c type="thorn">&#x00FE;</c> ikauht</l>
+         <l>And in his paunter <c type="thorn">&#x00FE;</c>urw his drauht,</l>
+         <l>Al at his wille he wole <c type="thorn">&#x00FE;</c>e lede.</l>
+         <l n="20">Ne shaltu
+spare for no drede,</l>
+         <l>Ne for loue to God, ne for his ei<c type="yogh">&#x021D;</c>e,</l>
+         <l>To gon out of <c type="thorn">&#x00FE;</c>e rihte weye;</l>
+         <l><c type="pilcrow">&#x00B6;</c> For swiche be<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>at loue<c type="thorn">&#x00FE;</c> more</l>
+         <l><c type="THORN">&#x00DE;</c>e world and his foule lore,</l>
+         <l n="25"><c type="THORN">&#x00DE;</c>an <c type="thorn">&#x00FE;</c>eih
+don God <c type="thorn">&#x00FE;</c>at hem wrouhte <milestone unit="folio" n="f.39rb"/>
+            <note type="xref">
+               <ref target="#039r.sid"/>
+            </note>
+         </l>
+         <l>And on <c type="thorn">&#x00FE;</c>e rode dere bouhte.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Herof I wole a while dwelle,</l>
+         <l>And a tale I wole <c type="yogh">&#x021D;</c>ou telle</l>
+         <l>Off an eorl of gode fame –</l>
+         <l n="30">Gy of
+Warwyk was his name –</l>
+         <l>Hou on a time he stod in <c type="thorn">&#x00FE;</c>ouht:</l>
+         <l><c type="THORN">&#x00DE;</c>e worldes blisse him <c type="thorn">&#x00FE;</c>ouhte noht.</l>
+         <l><c type="THORN">&#x00DE;</c>e world anon he <c type="thorn">&#x00FE;</c>er forsok</l>
+         <l>And to Ihesu Crist him tok,</l>
+         <l n="35">And louede
+God and his lore</l>
+         <l>And in his seruise was euere more.</l>
+         <l><c type="pilcrow">&#x00B6;</c> A god man <c type="thorn">&#x00FE;</c>er was in <c type="thorn">&#x00FE;</c>ilke dawe,</l>
+         <l><c type="THORN">&#x00DE;</c>at liuede al in godes lawe;</l>
+         <l>Alquin was his rihte name,</l>
+         <l n="40">And man he
+was of gode fame.</l>
+         <l>Dekne he was, and <c type="thorn">&#x00FE;</c>e ordre he hadde;</l>
+         <l>In holinesse his lyf he ladde;</l>
+         <l>Wit of clergie he hadde inouh,</l>
+         <l><c type="THORN">&#x00DE;</c>erfore to godnesse euere he drouh.</l>
+         <l n="45"><c type="pilcrow">&#x00B6;</c> Off him
+<c type="thorn">&#x00FE;</c>e eorl was wel war,</l>
+         <l><c type="THORN">&#x00DE;</c>erfore his wille to him [he] bar,</l>
+         <l>And of him he tok his red,</l>
+         <l><c type="pilcrow">&#x00B6;</c> To kepen his soule from <c type="thorn">&#x00FE;</c>e qued.</l>
+         <l><c type="pilcrow">&#x00B6;</c> On a day, I vnderstonde, <milestone unit="folio" n="f.39va"/>
+            <note type="xref">
+               <ref target="#039v.sid"/>
+            </note>
+         </l>
+         <l n="50">Sire Gy <c type="thorn">&#x00FE;</c>e
+eorl sente his sonde</l>
+         <l>To <c type="thorn">&#x00FE;</c>e holi man Alquin</l>
+         <l>And seide ‘[I] grete <c type="thorn">&#x00FE;</c>e wel, fader myn,</l>
+         <l>And preie <c type="thorn">&#x00FE;</c>e for Godes loue</l>
+         <l><c type="THORN">&#x00DE;</c>at us alle sit aboue,</l>
+         <l n="55"><c type="THORN">&#x00DE;</c>at <c type="thorn">&#x00FE;</c>u
+wole, par charite</l>
+         <l>And in amendement of me,</l>
+         <l><c type="pilcrow">&#x00B6;</c> Make me a god sarmoun</l>
+         <l>And don hit write in lesc<c type="yogh">&#x021D;</c>oun;</l>
+         <l><c type="THORN">&#x00DE;</c>at were my ioye and my delit</l>
+         <l n="60">And to my
+soule a gret profyt;</l>
+         <l>For <c type="thorn">&#x00FE;</c>e world <c type="thorn">&#x00FE;</c>urw his foule gile</l>
+         <l>Ha<c type="thorn">&#x00FE;</c> me lad to longe while.</l>
+         <l><c type="THORN">&#x00DE;</c>erof I wole consail take,</l>
+         <l>Hu I mihte <c type="thorn">&#x00FE;</c>e world forsake.’</l>
+         <l n="65"><c type="pilcrow">&#x00B6;</c> Alquin <c type="thorn">&#x00FE;</c>e
+eorl <c type="thorn">&#x00FE;</c>o answerede,</l>
+         <l>And Ihesu Crist ful <c type="yogh">&#x021D;</c>erne he heriede,</l>
+         <l><c type="THORN">&#x00DE;</c>at swich a wit was comen him to</l>
+         <l>And seide ‘his preie I wole do.</l>
+         <l>And I shal be <c type="thorn">&#x00FE;</c>i leche,</l>
+         <l n="70">Aller furst
+I wole <c type="thorn">&#x00FE;</c>e teche,</l>
+         <l>Faire uertu<c type="yogh">&#x021D;</c> for to take</l>
+         <l>And foule <c type="thorn">&#x00FE;</c>ewes to forsake.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>at maitou noht don, leue bro<c type="thorn">&#x00FE;</c>er,</l>
+         <l>Bote <c type="thorn">&#x00FE;</c>u knowe on and o<c type="thorn">&#x00FE;</c>er;</l>
+         <l n="75">I shal <c type="thorn">&#x00FE;</c>e
+now shewe bo<c type="thorn">&#x00FE;</c>e,</l>
+         <l>Whiche be<c type="thorn">&#x00FE;</c> gode and whiche be<c type="thorn">&#x00FE;</c> lo<c type="thorn">&#x00FE;</c>e;
+<milestone unit="folio" n="f.39vb"/>
+            <note type="xref">
+               <ref target="#039v.sid"/>
+            </note>
+         </l>
+         <l><c type="pilcrow">&#x00B6;</c> And at <c type="thorn">&#x00FE;</c>e beste I wole biginne,</l>
+         <l><c type="THORN">&#x00DE;</c>e betre grace for to winne.</l>
+         <l><c type="THORN">&#x00DE;</c>e uertu<c type="yogh">&#x021D;</c> I wole first shewe,</l>
+         <l n="80">Whiche <c type="thorn">&#x00FE;</c>eih
+be<c type="thorn">&#x00FE;</c>, alle on rewe.</l>
+         <l>Wisdom in Godes drede</l>
+         <l>Vse wel, <c type="thorn">&#x00FE;</c>at be my rede;</l>
+         <l>Trewe bileue and charite –</l>
+         <l><c type="THORN">&#x00DE;</c>ise sholen bileue wid <c type="thorn">&#x00FE;</c>e –</l>
+         <l n="85">Stedefast
+hope and mieknesse,</l>
+         <l>Pes, merci, and for<c type="yogh">&#x021D;</c>ifnes,</l>
+         <l><c type="pilcrow">&#x00B6;</c> Loue of herte, ful of pite,</l>
+         <l><c type="THORN">&#x00DE;</c>at is verray humilite.</l>
+         <l>And <c type="thorn">&#x00FE;</c>u wolt haue Godes ore,</l>
+         <l n="90"><c type="yogh">&#x021D;</c>it <c type="thorn">&#x00FE;</c>u most
+vse more,</l>
+         <l>For <c type="thorn">&#x00FE;</c>i sinne repentaunce,</l>
+         <l>And redi <c type="thorn">&#x00FE;</c>erfore to don penaunce</l>
+         <l>Wid sorwe at <c type="thorn">&#x00FE;</c>in herte rote,</l>
+         <l>And shrifte of mou<c type="thorn">&#x00FE;</c>e shal be <c type="thorn">&#x00FE;</c>i bote.</l>
+         <l n="95">In almes
+dede and charite</l>
+         <l><c type="THORN">&#x00DE;</c>i lyf shal euere more be.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>ise be<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e <c type="thorn">&#x00FE;</c>ewes <c type="thorn">&#x00FE;</c>at I <c type="thorn">&#x00FE;</c>e teche,</l>
+         <l>Whar<c type="thorn">&#x00FE;</c>urw <c type="thorn">&#x00FE;</c>u miht to heuene reche,</l>
+         <l>And so <c type="thorn">&#x00FE;</c>u miht <c type="thorn">&#x00FE;</c>e world forsake,</l>
+         <l n="100">If <c type="thorn">&#x00FE;</c>u hem
+wolt to <c type="thorn">&#x00FE;</c>e take.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Nu I wole nempne <c type="thorn">&#x00FE;</c>e wicke <c type="thorn">&#x00FE;</c>ewes,</l>
+         <l><c type="THORN">&#x00DE;</c>at be<c type="thorn">&#x00FE;</c> noht gode ac muche shrewes,</l>
+         <l>For if <c type="thorn">&#x00FE;</c>u dost bi here red, <milestone unit="folio" n="f.40ra"/>
+            <note type="xref">
+               <ref target="#040r.sid"/>
+            </note>
+         </l>
+         <l>To strong pine <c type="thorn">&#x00FE;</c>eih wolen <c type="thorn">&#x00FE;</c>e led;</l>
+         <l n="105"><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>anne is
+hit god <c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>u shone</l>
+         <l>To drawe hem into <c type="thorn">&#x00FE;</c>i wone.</l>
+         <l>Herkne nou<c type="thorn">&#x00FE;</c>e to me,</l>
+         <l>And I hem wole nempne <c type="thorn">&#x00FE;</c>e:</l>
+         <l>Pride, wra<c type="thorn">&#x00FE;</c><c type="thorn">&#x00FE;</c>e, and enuie,</l>
+         <l n="110">Fals
+iugement and tricherie;</l>
+         <l>Fals witnesse is on of <c type="thorn">&#x00FE;</c>o –</l>
+         <l>Many a soule itt do<c type="thorn">&#x00FE;</c> ful wo.</l>
+         <l>Loue noht to muche <c type="thorn">&#x00FE;</c>is worldes blisse;</l>
+         <l>Hit bringe<c type="thorn">&#x00FE;</c> man to <c type="thorn">&#x00FE;</c>isternesse,</l>
+         <l n="115"><c type="pilcrow">&#x00B6;</c> Auarice
+and glotonye,</l>
+         <l>Wicke sleu<c type="thorn">&#x00FE;</c>e and leccherie.</l>
+         <l>Accedie is a wel foul sinne</l>
+         <l>To man <c type="thorn">&#x00FE;</c>at he may come widinne,</l>
+         <l>And what it is I wole <c type="thorn">&#x00FE;</c>e wisse;</l>
+         <l n="120">Vnderstond,
+<c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>u ne misse.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Accedie is as sleu<c type="thorn">&#x00FE;</c>es bro<c type="thorn">&#x00FE;</c>er,</l>
+         <l>Wicke on and wicke o<c type="thorn">&#x00FE;</c>er;</l>
+         <l>Hit is a derne mour[n]ing in mod</l>
+         <l>And make<c type="thorn">&#x00FE;</c> man anuied to do god.</l>
+         <l n="125">Offte <c type="thorn">&#x00FE;</c>urw
+swiche wicke mourning</l>
+         <l>Wanhope beginne<c type="thorn">&#x00FE;</c> for to spring,</l>
+         <l><c type="THORN">&#x00DE;</c>at, bote man turne awey <c type="thorn">&#x00FE;</c>erfro,</l>
+         <l>Sauued wor<c type="thorn">&#x00FE;</c> he neuere mo.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Wro<c type="thorn">&#x00FE;</c>erhele was Iudas born,</l>
+         <l n="130">For <c type="thorn">&#x00FE;</c>urw
+<c type="thorn">&#x00FE;</c>at sinne he was lorn; <milestone unit="folio" n="f.40rb"/>
+            <note type="xref">
+               <ref target="#040r.sid"/>
+            </note>
+         </l>
+         <l>Merci he les <c type="thorn">&#x00FE;</c>urw <c type="thorn">&#x00FE;</c>at sinne,</l>
+         <l>Wher<c type="thorn">&#x00FE;</c>urw he ne mihte no ioye winne.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Vch man birede him in his sihte</l>
+         <l>To flen <c type="thorn">&#x00FE;</c>at sinne bi his mihte</l>
+         <l n="135">And alle
+o<c type="thorn">&#x00FE;</c>ere <c type="thorn">&#x00FE;</c>at I haue nempt,</l>
+         <l>If he wole to ioye be dempt.</l>
+         <l>Herkne now to my sarmoun,</l>
+         <l>What I wole telle in my lesc<c type="yogh">&#x021D;</c>oun.</l>
+         <l>Wisdom in Godes drede,</l>
+         <l n="140">Off which
+<c type="thorn">&#x00FE;</c>at I erere seide,</l>
+         <l><c type="pilcrow">&#x00B6;</c> Tweie <c type="thorn">&#x00FE;</c>inges it wole <c type="thorn">&#x00FE;</c>e teche,</l>
+         <l>Whar<c type="thorn">&#x00FE;</c>urw <c type="thorn">&#x00FE;</c>u miht to heuene reche:</l>
+         <l><c type="THORN">&#x00DE;</c>at is, lat <c type="thorn">&#x00FE;</c>i sinne and do god</l>
+         <l>For his loue, <c type="thorn">&#x00FE;</c>at deiede on rod;</l>
+         <l n="145"><c type="pilcrow">&#x00B6;</c> Ac to
+late <c type="thorn">&#x00FE;</c>i sinne al onliche</l>
+         <l>Nis noht inouh, sikerliche.</l>
+         <l><c type="THORN">&#x00DE;</c>u most don god for<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>erwid,</l>
+         <l>If <c type="thorn">&#x00FE;</c>u wolt haue merci and gri<c type="thorn">&#x00FE;</c>.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>is wonder of many sinful men</l>
+         <l n="150"><c type="THORN">&#x00DE;</c>at <c type="thorn">&#x00FE;</c>inke<c type="thorn">&#x00FE;</c>
+it were muchel for hem</l>
+         <l>To haue gret worldes honour,</l>
+         <l>As londes, rentes, halle, and bour,</l>
+         <l>Riche vessel of siluer and gold</l>
+         <l>And grete tresor and faire bold,</l>
+         <l n="155"><c type="pilcrow">&#x00B6;</c> Riche
+mete and riche drink,</l>
+         <l>And litel <c type="thorn">&#x00FE;</c>erfore for to swink,</l>
+         <l>Hele of bodi in bon and huide, <milestone unit="folio" n="f.40va"/>
+            <note type="xref">
+               <ref target="#040v.sid"/>
+            </note>
+         </l>
+         <l>And gret los of pompe and pride.</l>
+         <l>A murie lyf hem <c type="thorn">&#x00FE;</c>inke<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>is were,</l>
+         <l n="160">But eft hit
+wor<c type="thorn">&#x00FE;</c> ibouht wel dere,</l>
+         <l>
+            <emph>Quia nihil infelicius quam felicitas
+peccatoris.</emph>
+         </l>
+         <l>Na<c type="thorn">&#x00FE;</c>eles hit may falle wel,</l>
+         <l><c type="THORN">&#x00DE;</c>at <c type="thorn">&#x00FE;</c>ouh man haue muche katel,</l>
+         <l>As londes, rentes, and o<c type="thorn">&#x00FE;</c>er god,</l>
+         <l><c type="yogh">&#x021D;</c>it he may ben pore of mod</l>
+         <l n="165">And low of
+herte, ful iwis,</l>
+         <l>And halt <c type="thorn">&#x00FE;</c>erof ful litel prys.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Ac nu I wole speke and rede</l>
+         <l>Off hem <c type="thorn">&#x00FE;</c>at I erere seide,</l>
+         <l><c type="THORN">&#x00DE;</c>at <c type="thorn">&#x00FE;</c>urw here pride and here wil</l>
+         <l n="170"><c type="THORN">&#x00DE;</c>eih fallen
+ofte in gret peril.</l>
+         <l>Seint Austin halt <c type="thorn">&#x00FE;</c>ermide noht</l>
+         <l>And sei<c type="thorn">&#x00FE;</c> it shal ben dere bouht,</l>
+         <l>And skilfulliche it mot be so,</l>
+         <l>For whan a man ha<c type="thorn">&#x00FE;</c> sinne do,</l>
+         <l n="175">O<c type="thorn">&#x00FE;</c>er he mot
+hit beten here</l>
+         <l>Or suffre pine elleswhere.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Wole <c type="yogh">&#x021D;</c>e here what louerede</l>
+         <l>God kudde to hem <c type="thorn">&#x00FE;</c>at wole him drede?</l>
+         <l n="180">.....
+..... ...... .....</l>
+         <l>He wole hem chasten wid smale pining</l>
+         <l>And maken hem lese <c type="thorn">&#x00FE;</c>at hote brenning;</l>
+         <l>And many anguisse he wole hem <c type="yogh">&#x021D;</c>iue</l>
+         <l>To suffre here whiles <c type="thorn">&#x00FE;</c>eih liue, <milestone unit="folio" n="f.40vb"/>
+            <note type="xref">
+               <ref target="#040v.sid"/>
+            </note>
+         </l>
+         <l n="185"><c type="pilcrow">&#x00B6;</c> As hunger
+and <c type="thorn">&#x00FE;</c>urst and trauail strong;</l>
+         <l>Hij sholen haue euere among</l>
+         <l>Lore of catel and seknesse,</l>
+         <l>And al is to echen here blisse.</l>
+         <l>Man, if <c type="thorn">&#x00FE;</c>u ne leuest noht me,</l>
+         <l n="190"><c type="THORN">&#x00DE;</c>u sek
+aboute, and <c type="thorn">&#x00FE;</c>u miht se</l>
+         <l><c type="THORN">&#x00DE;</c>ise holi men alle bidene,</l>
+         <l>How <c type="thorn">&#x00FE;</c>eih liuede in wo and tene.</l>
+         <l>And if my tale nis noht for<c type="yogh">&#x021D;</c>ete,</l>
+         <l><c type="THORN">&#x00DE;</c>anne maitou wel iwite,</l>
+         <l n="195"><c type="THORN">&#x00DE;</c>at <c type="thorn">&#x00FE;</c>e
+worldes blisse is noht,</l>
+         <l>Whan <c type="thorn">&#x00FE;</c>u hast abouten souht;</l>
+         <l><c type="pilcrow">&#x00B6;</c> For <c type="yogh">&#x021D;</c>if a man ha<c type="thorn">&#x00FE;</c> her his wille,</l>
+         <l>Wel lihtliche he may spille.</l>
+         <l>Her I wole nou<c type="thorn">&#x00FE;</c>e blinne.</l>
+         <l n="200">Ano<c type="thorn">&#x00FE;</c>er <c type="thorn">&#x00FE;</c>ing
+I wole biginne</l>
+         <l>To speke, man, of <c type="thorn">&#x00FE;</c>i bileue,</l>
+         <l>For hit is god, it wole noht greue.</l>
+         <l>Man, <c type="thorn">&#x00FE;</c>i bileue shal be so:</l>
+         <l><c type="THORN">&#x00DE;</c>at o God is and no mo,</l>
+         <l n="205"><c type="THORN">&#x00DE;</c>at o God
+is in vnite,</l>
+         <l><c type="THORN">&#x00DE;</c>re persones in trinite.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>u shalt, [man], bileue also</l>
+         <l>And treuliche in <c type="thorn">&#x00FE;</c>in herte do,</l>
+         <l><c type="THORN">&#x00DE;</c>at God had neuere biginning</l>
+         <l n="210">Ne neuere
+ne shal haue ending,</l>
+         <l><c type="pilcrow">&#x00B6;</c> And shappere is of alle shaftes,
+<milestone unit="folio" n="f.41ra"/>
+            <note type="xref">
+               <ref target="#041r.sid"/>
+            </note>
+         </l>
+         <l>And <c type="yogh">&#x021D;</c>eue<c type="thorn">&#x00FE;</c> wit in alle craftes,</l>
+         <l>And made man after his owen face –</l>
+         <l>Nas <c type="thorn">&#x00FE;</c>at gret loue of heih grace?</l>
+         <l n="215">And <c type="yogh">&#x021D;</c>af to
+man fre power</l>
+         <l>To chese bo<c type="thorn">&#x00FE;</c>e fer and ner</l>
+         <l>Off god and yuel shed to make,</l>
+         <l><c type="THORN">&#x00DE;</c>e euel to late and god to take.</l>
+         <l>Whei<c type="thorn">&#x00FE;</c>er he wole chese he ha<c type="thorn">&#x00FE;</c> power,</l>
+         <l n="220"><c type="THORN">&#x00DE;</c>urw <c type="yogh">&#x021D;</c>ifte
+of God, while he is her;</l>
+         <l><c type="THORN">&#x00DE;</c>anne is hit noht on God ilong,</l>
+         <l>If man wole chese to don wrong.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Adam was <c type="thorn">&#x00FE;</c>e forme man,</l>
+         <l><c type="THORN">&#x00DE;</c>at euere singyn bigan,</l>
+         <l n="225">And <c type="thorn">&#x00FE;</c>at was
+God to wite noht,</l>
+         <l><c type="THORN">&#x00DE;</c>erfore hit ha<c type="thorn">&#x00FE;</c> ben dere bouht.</l>
+         <l>God <c type="yogh">&#x021D;</c>af him wit as his owen,</l>
+         <l>God and yuel for to knowen,</l>
+         <l>Ac <c type="thorn">&#x00FE;</c>urw eging of <c type="thorn">&#x00FE;</c>e fend and Eue</l>
+         <l n="230">He dede a
+sinne <c type="thorn">&#x00FE;</c>at gan him greue.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Vnboxomnesse was his gilt,</l>
+         <l><c type="THORN">&#x00DE;</c>erfore out of paradys he was [pylt].</l>
+         <l>Boxomere he was to his wif,</l>
+         <l><c type="THORN">&#x00DE;</c>an to God <c type="thorn">&#x00FE;</c>at <c type="yogh">&#x021D;</c>af him lyf;</l>
+         <l n="235">And for he
+dede after hire lore,</l>
+         <l>He bouhte hit si<c type="thorn">&#x00FE;</c><c type="thorn">&#x00FE;</c>en swi<c type="thorn">&#x00FE;</c>e sore.</l>
+         <l><c type="pilcrow">&#x00B6;</c> His fredom was binomen him al</l>
+         <l>And put in seruage as a <c type="thorn">&#x00FE;</c>ral; <milestone unit="folio" n="f.41rb"/>
+            <note type="xref">
+               <ref target="#041r.sid"/>
+            </note>
+         </l>
+         <l><c type="pilcrow">&#x00B6;</c> Noht one he, bute alle <c type="thorn">&#x00FE;</c>o</l>
+         <l n="240"><c type="THORN">&#x00DE;</c>at of him
+comen for euere mo.</l>
+         <l>Ac for hit was <c type="thorn">&#x00FE;</c>urw gile don,</l>
+         <l>God <c type="yogh">&#x021D;</c>af his pite <c type="thorn">&#x00FE;</c>ervpon,</l>
+         <l>And eke for loue <c type="thorn">&#x00FE;</c>at he hade</l>
+         <l>To man, <c type="thorn">&#x00FE;</c>at he himselue made,</l>
+         <l n="245">To sauue
+man, man he bicam,</l>
+         <l>And pine for hem to him he nam,</l>
+         <l>And <c type="yogh">&#x021D;</c>af for hem his herte-blod,</l>
+         <l>And deiede for hem on <c type="thorn">&#x00FE;</c>e rod.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Ibiried he was, in toumbe he lay,</l>
+         <l n="250">Til hit com
+<c type="thorn">&#x00FE;</c>e <c type="thorn">&#x00FE;</c>ridde day;</l>
+         <l>Vp he ros <c type="thorn">&#x00FE;</c>e <c type="thorn">&#x00FE;</c>ridde day</l>
+         <l>From de<c type="thorn">&#x00FE;</c> to liue widoute nay;</l>
+         <l>To heuene he steih <c type="thorn">&#x00FE;</c>urw his mihte,</l>
+         <l>Riht into his faderes sihte,</l>
+         <l n="255">And sit on
+his faderes riht side,</l>
+         <l><c type="THORN">&#x00DE;</c>e grete dom for to abide.</l>
+         <l><c type="THORN">&#x00DE;</c>ider he wole come on domesday,</l>
+         <l>Cruwel and sterne widoute nay,</l>
+         <l><c type="pilcrow">&#x00B6;</c> He <c type="thorn">&#x00FE;</c>at was woned to be</l>
+         <l n="260">Meke as a
+lomb, ful of pite,</l>
+         <l><c type="THORN">&#x00DE;</c>eder he wole lihten adoun</l>
+         <l>Wra<c type="thorn">&#x00FE;</c>fful and sterne as a lioun.</l>
+         <l>Merci nele he shewe non,</l>
+         <l><c type="pilcrow">&#x00B6;</c> Ac riht after <c type="thorn">&#x00FE;</c>at man ha<c type="thorn">&#x00FE;</c> don,</l>
+         <l n="265">He shal
+fonge his iugement <milestone unit="folio" n="f.41va"/>
+            <note type="xref">
+               <ref target="#041v.sid"/>
+            </note>
+         </l>
+         <l>To ioye or to strong turment.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Allas! what sholen hij onne take,</l>
+         <l><c type="THORN">&#x00DE;</c>at wolden her god forsake</l>
+         <l><c type="THORN">&#x00DE;</c>urw sinne of fleshes liking,</l>
+         <l n="270">And wolde
+hit bete wid no pining?</l>
+         <l><c type="THORN">&#x00DE;</c>erfore <c type="thorn">&#x00FE;</c>eih sholen into helle,</l>
+         <l>Whei<c type="thorn">&#x00FE;</c>er <c type="thorn">&#x00FE;</c>eih wolen or <c type="thorn">&#x00FE;</c>eih nelle,</l>
+         <l>And <c type="thorn">&#x00FE;</c>ere bileue euere mo,</l>
+         <l>In also strong pine as men may do.</l>
+         <l n="275">Seint
+Austin speke<c type="thorn">&#x00FE;</c> of alle swiche</l>
+         <l>And sei<c type="thorn">&#x00FE;</c> wordes reuliche</l>
+         <l>
+            <emph>Habent mortem sine morte et finem mortis
+sine fine.</emph>
+         </l>
+         <l n="“">“Hij sholen haue de<c type="thorn">&#x00FE;</c> widoute deiing</l>
+         <l>And point of de<c type="thorn">&#x00FE;</c> widouten ending;”</l>
+         <l>Here de<c type="thorn">&#x00FE;</c> hij sholen wilnen euere,</l>
+         <l n="280">Ac to ende
+of de<c type="thorn">&#x00FE;</c> comen hij neuere;</l>
+         <l>Hij sholen euere more duire</l>
+         <l>In stronge pine of hote fire.</l>
+         <l>Her I wole nou<c type="thorn">&#x00FE;</c>e dwelle,</l>
+         <l>And of murs<c type="yogh">&#x021D;</c>ere <c type="thorn">&#x00FE;</c>inge <c type="yogh">&#x021D;</c>ou telle.</l>
+         <l n="285"><c type="pilcrow">&#x00B6;</c> Tellen I
+wole, ful iwis,</l>
+         <l>Off <c type="thorn">&#x00FE;</c>e ioyes of paradys,</l>
+         <l>Whiche Godes children <c type="thorn">&#x00FE;</c>at gode be</l>
+         <l>Sholen haue and ise;</l>
+         <l>Ac <c type="thorn">&#x00FE;</c>ouh I hadde in my bayli</l>
+         <l n="290"><c type="THORN">&#x00DE;</c>e wit of
+alle clergy,</l>
+         <l><c type="pilcrow">&#x00B6;</c> Mihte hit neuere so bifalle, <milestone unit="folio" n="f.41vb"/>
+            <note type="xref">
+               <ref target="#041v.sid"/>
+            </note>
+         </l>
+         <l><c type="THORN">&#x00DE;</c>at I mihte telle alle.</l>
+         <l>Ac, also God <c type="yogh">&#x021D;</c>if me grace,</l>
+         <l>I shal <c type="yogh">&#x021D;</c>ou shewe in <c type="thorn">&#x00FE;</c>is place,</l>
+         <l n="295">What ioie
+<c type="thorn">&#x00FE;</c>eih sholen han ifere,</l>
+         <l><c type="THORN">&#x00DE;</c>at seruen God on eor<c type="thorn">&#x00FE;</c>e here.</l>
+         <l>Whan <c type="thorn">&#x00FE;</c>eih sholen parten henne,</l>
+         <l>Ful wel <c type="thorn">&#x00FE;</c>eih sholen here weie kenne</l>
+         <l>Riht to <c type="thorn">&#x00FE;</c>e blisse of paradys,</l>
+         <l n="300"><c type="THORN">&#x00DE;</c>at God ha<c type="thorn">&#x00FE;</c>
+<c type="yogh">&#x021D;</c>arked to alle his.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>ere is euere ioye inouh</l>
+         <l>And euere riht widouten wouh,</l>
+         <l>Wit and kunning and kointise,</l>
+         <l>And trewe loue widou[t] feintise,</l>
+         <l n="305">Strein<c type="thorn">&#x00FE;</c>e
+inouh and fairnesse,</l>
+         <l>And liht widoute <c type="thorn">&#x00FE;</c>isternesse.</l>
+         <l><c type="THORN">&#x00DE;</c>ere sholen <c type="thorn">&#x00FE;</c>eih noht ben agilt,</l>
+         <l>Al here wille shal ben fulfilt:</l>
+         <l>Hij sholen haue, mid iwisse,</l>
+         <l n="310">Fulle ioye
+and fulle blisse,</l>
+         <l><c type="pilcrow">&#x00B6;</c> Bo<c type="thorn">&#x00FE;</c>e <c type="thorn">&#x00FE;</c>e pore and <c type="thorn">&#x00FE;</c>e riche,</l>
+         <l>Ac, wete <c type="thorn">&#x00FE;</c>u wel, noht alle iliche.</l>
+         <l>Euerich shal haue his woni<c type="yogh">&#x021D;</c>[i]ng</l>
+         <l>Riht after his owen deseruing;</l>
+         <l n="315">Ac lat hit
+noht come in <c type="thorn">&#x00FE;</c>i <c type="thorn">&#x00FE;</c>ouht,</l>
+         <l><c type="THORN">&#x00DE;</c>at any of hem shal wanten ouht,</l>
+         <l>For he <c type="thorn">&#x00FE;</c>at ha<c type="thorn">&#x00FE;</c> lest in <c type="thorn">&#x00FE;</c>at woniing</l>
+         <l>Ha<c type="thorn">&#x00FE;</c> fulle ioye ouer alle <c type="thorn">&#x00FE;</c>ing.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>erfore, man, in al <c type="thorn">&#x00FE;</c>i miht,</l>
+         <l n="320"><c type="THORN">&#x00DE;</c>u loue wel
+God bi day and niht. <milestone unit="folio" n="f.42ra"/>
+            <note type="xref">
+               <ref target="#042r.sid"/>
+            </note>
+         </l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>e inwardlichere <c type="thorn">&#x00FE;</c>u louest him her,</l>
+         <l><c type="THORN">&#x00DE;</c>e more shal ben <c type="thorn">&#x00FE;</c>i ioye <c type="thorn">&#x00FE;</c>er.</l>
+         <l>Herkne nu alle to me,</l>
+         <l>For I wole speken of charite.</l>
+         <l n="325">Off alle
+uertu<c type="yogh">&#x021D;</c> hit is hext,</l>
+         <l>And Godes wille hit is next.</l>
+         <l><c type="yogh">&#x021D;</c>if <c type="thorn">&#x00FE;</c>u wolt wite hu hit be,</l>
+         <l>Herkne and I wole telle <c type="thorn">&#x00FE;</c>e.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Hit is, loue God ouer alle <c type="thorn">&#x00FE;</c>ing,</l>
+         <l n="330">In <c type="thorn">&#x00FE;</c>ouht,
+in dede, and in speking.</l>
+         <l>And if <c type="thorn">&#x00FE;</c>u wolt euere come <c type="thorn">&#x00FE;</c>erto,</l>
+         <l>Ano<c type="thorn">&#x00FE;</c>er <c type="thorn">&#x00FE;</c>ing <c type="thorn">&#x00FE;</c>u most do:</l>
+         <l><c type="THORN">&#x00DE;</c>u most loue, huso hit be,</l>
+         <l><c type="THORN">&#x00DE;</c>in emcristene for<c type="thorn">&#x00FE;</c> wid <c type="thorn">&#x00FE;</c>e.</l>
+         <l n="335"><c type="pilcrow">&#x00B6;</c> Man,
+woltou make a god prouing,</l>
+         <l>Wher <c type="thorn">&#x00FE;</c>u loue <c type="thorn">&#x00FE;</c>e heuene-king?</l>
+         <l>If <c type="thorn">&#x00FE;</c>u louest God, ful iwis,</l>
+         <l><c type="THORN">&#x00DE;</c>u [wolt] louen alle his.</l>
+         <l>
+            <emph>Si non diligis proximum tuum, quem uides,
+deum quem non uides, quomodo potes diligere?</emph>
+         </l>
+         <l>For men sei<c type="thorn">&#x00FE;</c> so<c type="thorn">&#x00FE;</c>, bi wit myne</l>
+         <l n="340">“Whoso
+loue<c type="thorn">&#x00FE;</c> me, he loue<c type="thorn">&#x00FE;</c> myne.”</l>
+         <l>But <c type="thorn">&#x00FE;</c>u loue <c type="thorn">&#x00FE;</c>e Cristene <c type="thorn">&#x00FE;</c>at bi <c type="thorn">&#x00FE;</c>e be,</l>
+         <l><c type="THORN">&#x00DE;</c>at alday mait hem ise,</l>
+         <l>Hu maitou loue God I ne can deuise,</l>
+         <l>Whom <c type="thorn">&#x00FE;</c>u miht sen on none wyse.</l>
+         <l n="345"><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>is sei<c type="thorn">&#x00FE;</c>
+sein Powel and bere<c type="thorn">&#x00FE;</c> witnesse,</l>
+         <l>As he may wel in so<c type="thorn">&#x00FE;</c>nesse. <milestone unit="folio" n="f.42rb"/>
+            <note type="xref">
+               <ref target="#042r.sid"/>
+            </note>
+         </l>
+         <l>Abraham him sauh, ac <c type="thorn">&#x00FE;</c>u nost hou. <note n="note-speculum-999" type="ed">
+               <emph>nost</emph>: ms <emph>noht</emph>.</note>
+         </l>
+         <l>Herkne, I wole <c type="thorn">&#x00FE;</c>e telle nowh.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>e fourme of <c type="thorn">&#x00FE;</c>re children he mette;</l>
+         <l n="350"><c type="THORN">&#x00DE;</c>re he
+sauh, and as on he hem grette.</l>
+         <l>In tokne it was, I telle <c type="thorn">&#x00FE;</c>e,</l>
+         <l>Off <c type="thorn">&#x00FE;</c>e holi trinite.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Holliche as on he grette hem <c type="thorn">&#x00FE;</c>ere</l>
+         <l>In tokne of o God <c type="thorn">&#x00FE;</c>at hij were.</l>
+         <l n="355">Hu Moyses
+him sauh woltou here,</l>
+         <l>In fourme of a bush al on fire,</l>
+         <l>At <c type="thorn">&#x00FE;</c>e mount of Synay bi olde dawe,</l>
+         <l><c type="THORN">&#x00DE;</c>ar God him <c type="yogh">&#x021D;</c>af <c type="thorn">&#x00FE;</c>e firste lawe?</l>
+         <l><c type="pilcrow">&#x00B6;</c> Al on fire <c type="thorn">&#x00FE;</c>e bush was,</l>
+         <l n="360">And ibrent
+no<c type="thorn">&#x00FE;</c>ing it nas.</l>
+         <l><c type="THORN">&#x00DE;</c>ere shewede God his grete miht</l>
+         <l>And himself in <c type="thorn">&#x00FE;</c>at ilke sihte.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>at bush bitokne<c type="thorn">&#x00FE;</c> vre leuedi,</l>
+         <l>Hire clene maidenhed witerli;</l>
+         <l n="365">For hit was
+euere iliche clene,</l>
+         <l>Mihtte hit noht be wemmed ene.</l>
+         <l>Hete of flesh ne mihte hire wemme,</l>
+         <l>No more <c type="thorn">&#x00FE;</c>an <c type="thorn">&#x00FE;</c>e bush mihte brenne.</l>
+         <l>And many ano<c type="thorn">&#x00FE;</c>er him iseih</l>
+         <l n="370">And wid
+[him] spak <c type="thorn">&#x00FE;</c>at was him neih –</l>
+         <l><c type="pilcrow">&#x00B6;</c> But noht alone in his godhede,</l>
+         <l>Ac imeind wid <c type="thorn">&#x00FE;</c>e manhede;</l>
+         <l>For sikerliche I telle <c type="thorn">&#x00FE;</c>e,</l>
+         <l>Man ne sauh neuere his deite</l>
+         <l n="375"><c type="pilcrow">&#x00B6;</c> Bodiliche
+on eor<c type="thorn">&#x00FE;</c>e her, <milestone unit="folio" n="f.42va"/>
+            <note type="xref">
+               <ref target="#042v.sid"/>
+            </note>
+         </l>
+         <l>He mihte noht, it is so cler.</l>
+         <l>And if <c type="thorn">&#x00FE;</c>u wolt witen hou,</l>
+         <l>Herkne, I wole <c type="thorn">&#x00FE;</c>e telle now;</l>
+         <l>For so heih a <c type="thorn">&#x00FE;</c>ing is <c type="thorn">&#x00FE;</c>e godhede,</l>
+         <l n="380"><c type="THORN">&#x00DE;</c>erof to
+speke it is drede.</l>
+         <l>God is so clene and so cler a <c type="thorn">&#x00FE;</c>ing,</l>
+         <l><c type="THORN">&#x00DE;</c>at heuene and er<c type="thorn">&#x00FE;</c>e he <c type="yogh">&#x021D;</c>eue<c type="thorn">&#x00FE;</c> shining,</l>
+         <l>And sunne and mone and sterren breme,</l>
+         <l>Off him <c type="thorn">&#x00FE;</c>eih han al here leme.</l>
+         <l n="385"><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>u sext,
+man, wel aperteliche,</l>
+         <l><c type="THORN">&#x00DE;</c>at <c type="thorn">&#x00FE;</c>e sunne ha<c type="thorn">&#x00FE;</c> brihtnesse muche,</l>
+         <l>And <c type="thorn">&#x00FE;</c>ouh he sitte so wonder heie,</l>
+         <l>Hit greue<c type="thorn">&#x00FE;</c> euere mannes ei<c type="yogh">&#x021D;</c>e,</l>
+         <l>Inwardliche on hire to se</l>
+         <l n="390">For hire
+grete clerte.</l>
+         <l>Nu forso<c type="thorn">&#x00FE;</c>e I telle <c type="thorn">&#x00FE;</c>e –</l>
+         <l>And sikerliche lef <c type="thorn">&#x00FE;</c>u me –</l>
+         <l><c type="THORN">&#x00DE;</c>at God, <c type="thorn">&#x00FE;</c>at <c type="yogh">&#x021D;</c>af <c type="thorn">&#x00FE;</c>e sunne his liht,</l>
+         <l>Is swich an hundred [si<c type="thorn">&#x00FE;</c>e] so briht.</l>
+         <l n="395"><c type="pilcrow">&#x00B6;</c> Man,
+mihte hit euere <c type="thorn">&#x00FE;</c>anne be,</l>
+         <l><c type="THORN">&#x00DE;</c>at bodilich ei<c type="yogh">&#x021D;</c>e mihte him se</l>
+         <l>Here on eor<c type="thorn">&#x00FE;</c>e, <c type="thorn">&#x00FE;</c>e godhede?</l>
+         <l>Nay, noman mihte don <c type="thorn">&#x00FE;</c>at dede;</l>
+         <l><c type="THORN">&#x00DE;</c>at is preued and ishewed</l>
+         <l n="400">Bo<c type="thorn">&#x00FE;</c>e to
+lered and to lewed.</l>
+         <l><c type="THORN">&#x00DE;</c>anne maitou <c type="thorn">&#x00FE;</c>enke “Hu mai <c type="thorn">&#x00FE;</c>is be?</l>
+         <l>Ne shal no man God ise?”</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="yogh">&#x021D;</c>us, <c type="yogh">&#x021D;</c>us, bi my leaute.</l>
+         <l>Herkne, and I wole telle <c type="thorn">&#x00FE;</c>e.</l>
+         <l n="405"><c type="yogh">&#x021D;</c>if <c type="thorn">&#x00FE;</c>u wolt
+sen in <c type="thorn">&#x00FE;</c>i siht</l>
+         <l>God of heuene, <c type="thorn">&#x00FE;</c>at is so briht, – <milestone unit="folio" n="f.42vb"/>
+            <note type="xref">
+               <ref target="#042v.sid"/>
+            </note>
+         </l>
+         <l><c type="pilcrow">&#x00B6;</c> Vnderstond nu what I mene –</l>
+         <l><c type="THORN">&#x00DE;</c>u most ben of herte clene,</l>
+         <l>In word, in dede, and in <c type="thorn">&#x00FE;</c>ouht,</l>
+         <l n="410"><c type="THORN">&#x00DE;</c>at <c type="thorn">&#x00FE;</c>u ne
+be ifiled noht;</l>
+         <l>For God self seide in so<c type="thorn">&#x00FE;</c>nesse –</l>
+         <l><c type="THORN">&#x00DE;</c>e godspel bere<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>erof witnesse</l>
+         <l>
+            <emph>Beati mundo corde, quoniam ipsi deum
+uidebunt</emph>
+         </l>
+         <l><c type="THORN">&#x00DE;</c>is is to seie, I telle <c type="thorn">&#x00FE;</c>e,</l>
+         <l><c type="THORN">&#x00DE;</c>e clene of herte blessed <c type="thorn">&#x00FE;</c>eih be,</l>
+         <l n="415">For at <c type="thorn">&#x00FE;</c>e
+heie dom sikerliche</l>
+         <l><c type="THORN">&#x00DE;</c>eih sholen se God aperteliche</l>
+         <l>In his godhede and in his blisse,</l>
+         <l>Off which <c type="thorn">&#x00FE;</c>eih sholen neuere misse.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>anne sholen <c type="thorn">&#x00FE;</c>eih here, herkne nou<c type="thorn">&#x00FE;</c>e,</l>
+         <l n="420">A blisful
+word of Godes mou<c type="thorn">&#x00FE;</c>e:</l>
+         <l n="“">“Come<c type="thorn">&#x00FE;</c>, mine blessede fere,</l>
+         <l><c type="THORN">&#x00DE;</c>at my fader be<c type="thorn">&#x00FE;</c> leue and dere.</l>
+         <l n="425">Into my
+blisse <c type="yogh">&#x021D;</c>e sholen wende,</l>
+         <l><c type="THORN">&#x00DE;</c>at laste<c type="thorn">&#x00FE;</c> euere widouten ende,</l>
+         <l>And euere more <c type="thorn">&#x00FE;</c>er to wone</l>
+         <l>Wid <c type="thorn">&#x00FE;</c>e fader, and wid <c type="thorn">&#x00FE;</c>e sone,</l>
+         <l>And wid <c type="thorn">&#x00FE;</c>e holi gost in vniite,</l>
+         <l n="430"><c type="THORN">&#x00DE;</c>at is <c type="thorn">&#x00FE;</c>e
+holi trinite.”</l>
+         <l><c type="pilcrow">&#x00B6;</c> And <c type="thorn">&#x00FE;</c>e cursede gostes go<c type="thorn">&#x00FE;</c> anon,</l>
+         <l><c type="THORN">&#x00DE;</c>at sholen ben dampned euerichon,</l>
+         <l><c type="THORN">&#x00DE;</c>ere hij sholen him sen also,</l>
+         <l>Ac al shal ben for here wo;</l>
+         <l n="435">For toward
+hem he wole turne</l>
+         <l><c type="pilcrow">&#x00B6;</c> Bo<c type="thorn">&#x00FE;</c>e wra<c type="thorn">&#x00FE;</c>ful and eke sterne,</l>
+         <l>And namlich to <c type="thorn">&#x00FE;</c>at cumpaignye <milestone unit="folio" n="f.43ra"/>
+            <note type="xref">
+               <ref target="#043r.sid"/>
+            </note>
+         </l>
+         <l><c type="THORN">&#x00DE;</c>at slowen him <c type="thorn">&#x00FE;</c>urw enuie,</l>
+         <l>And kene nailes driuen ek</l>
+         <l n="440"><c type="THORN">&#x00DE;</c>urw his
+honden and his fet,</l>
+         <l><c type="pilcrow">&#x00B6;</c> And <c type="thorn">&#x00FE;</c>ere <c type="thorn">&#x00FE;</c>eih sholen se so<c type="thorn">&#x00FE;</c>liche,</l>
+         <l>His grisli woundes openliche,</l>
+         <l><c type="THORN">&#x00DE;</c>at <c type="thorn">&#x00FE;</c>eih deden hemselue make.</l>
+         <l>For drede hij sholen <c type="thorn">&#x00FE;</c>anne quake;</l>
+         <l n="445"><c type="THORN">&#x00DE;</c>anne wole
+God to hem seie</l>
+         <l>Wid sterne voi<c type="yogh">&#x021D;</c> and wid heie</l>
+         <l n="“">“Corsede gostes, <c type="yogh">&#x021D;</c>e be<c type="thorn">&#x00FE;</c> me lo<c type="thorn">&#x00FE;</c>e.</l>
+         <l>Go<c type="thorn">&#x00FE;</c> anon, go<c type="thorn">&#x00FE;</c> nu, go<c type="thorn">&#x00FE;</c>e</l>
+         <l><c type="pilcrow">&#x00B6;</c> Into <c type="thorn">&#x00FE;</c>e stronge fyr of helle,</l>
+         <l n="450">Euere more
+<c type="thorn">&#x00FE;</c>er to dwelle,</l>
+         <l>And brenne <c type="thorn">&#x00FE;</c>er in hote fyr.</l>
+         <l><c type="yogh">&#x021D;</c>e seruede non o<c type="thorn">&#x00FE;</c>er her:</l>
+         <l>Merci is al fro <c type="yogh">&#x021D;</c>ou gon,</l>
+         <l>For whij, on me hadde <c type="yogh">&#x021D;</c>e non.”</l>
+         <l n="455">He <c type="thorn">&#x00FE;</c>at nele
+no merci haue</l>
+         <l>Off him <c type="thorn">&#x00FE;</c>at do<c type="thorn">&#x00FE;</c> him merci craue,</l>
+         <l>He shal ben iuged, witerli,</l>
+         <l>Rihtfulliche widoute merci.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Sein Daui[d] sei<c type="thorn">&#x00FE;</c>, if <c type="thorn">&#x00FE;</c>u wolt loke</l>
+         <l n="460">In a vers
+of <c type="thorn">&#x00FE;</c>e sauter boke</l>
+         <l>
+            <emph>Spera in domino, et fac
+bonitatem.</emph>
+         </l>
+         <l n="“">“Hope to God, and do god,”</l>
+         <l>Riht so I hit vnderstod;</l>
+         <l>Ac ydel hope man mai habbe –</l>
+         <l>I sey <c type="thorn">&#x00FE;</c>e so<c type="thorn">&#x00FE;</c> widouten gabbe –</l>
+         <l n="465">For alone
+to hope widoute goddede</l>
+         <l><c type="pilcrow">&#x00B6;</c> Is ydel hope, so God me rede.</l>
+         <l>Ac I ne seie noht for<c type="thorn">&#x00FE;</c>i, <milestone unit="folio" n="f.43rb"/>
+            <note type="xref">
+               <ref target="#043r.sid"/>
+            </note>
+         </l>
+         <l><c type="THORN">&#x00DE;</c>ouh man be charged, sikerli,</l>
+         <l><c type="pilcrow">&#x00B6;</c> Wid grete sinnes heuie and sore,</l>
+         <l n="470">He ne shal
+despeire neuere <c type="thorn">&#x00FE;</c>e more,</l>
+         <l>Ac so<c type="thorn">&#x00FE;</c>fast hope haue to winne</l>
+         <l>Godes merci of his sinne</l>
+         <l><c type="THORN">&#x00DE;</c>urw shrifte of mou<c type="thorn">&#x00FE;</c>e and repentaunce,</l>
+         <l>And redi <c type="thorn">&#x00FE;</c>erfore to don penaunce.</l>
+         <l n="475"><c type="pilcrow">&#x00B6;</c> <c type="yogh">&#x021D;</c>if <c type="thorn">&#x00FE;</c>u
+dost <c type="thorn">&#x00FE;</c>us, bi day and niht,</l>
+         <l>Put al <c type="thorn">&#x00FE;</c>in hope in God almiht,</l>
+         <l>And tristi hope to him <c type="thorn">&#x00FE;</c>u haue,</l>
+         <l><c type="THORN">&#x00DE;</c>at he <c type="thorn">&#x00FE;</c>e wole helpe and saue.</l>
+         <l>Herkne what I wole seie nou<c type="thorn">&#x00FE;</c>e,</l>
+         <l n="480">For hit com
+out of Godes mou<c type="thorn">&#x00FE;</c>e: ,</l>
+         <l>
+            <emph>Vbi te invenio, ibi te iudicabo</emph>
+         </l>
+         <l n="“">“Man, riht <c type="thorn">&#x00FE;</c>ere as I <c type="thorn">&#x00FE;</c>e finde,</l>
+         <l>Riht <c type="thorn">&#x00FE;</c>ere I wole <c type="thorn">&#x00FE;</c>e iuge and binde.”</l>
+         <l>Allas, what sholen hij <c type="thorn">&#x00FE;</c>anne do,</l>
+         <l><c type="THORN">&#x00DE;</c>at be<c type="thorn">&#x00FE;</c> ifounde in sorwe and wo,</l>
+         <l n="485"><c type="THORN">&#x00DE;</c>at wolde
+noht hemselue shriue,</l>
+         <l>While <c type="thorn">&#x00FE;</c>eih mihte in here liue?</l>
+         <l><c type="THORN">&#x00DE;</c>erfore, man, I warne <c type="thorn">&#x00FE;</c>e:</l>
+         <l>Loke <c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>u <c type="thorn">&#x00FE;</c>e bise,</l>
+         <l><c type="THORN">&#x00DE;</c>at <c type="thorn">&#x00FE;</c>u be euere redi and <c type="yogh">&#x021D;</c>are</l>
+         <l n="490">Out of <c type="thorn">&#x00FE;</c>is
+world for to fare;</l>
+         <l>For siker noman wite ne may,</l>
+         <l>Whanne shal ben his ending-day.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>erfore <c type="thorn">&#x00FE;</c>enk ofte in drede</l>
+         <l>Off <c type="thorn">&#x00FE;</c>is word <c type="thorn">&#x00FE;</c>at God seide</l>
+         <l n="495">“<c type="THORN">&#x00DE;</c>ere I <c type="thorn">&#x00FE;</c>e
+finde, I wole <c type="thorn">&#x00FE;</c>e binde.”</l>
+         <l>Lat ofte <c type="thorn">&#x00FE;</c>at word ben in <c type="thorn">&#x00FE;</c>i mynde.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Man, if <c type="thorn">&#x00FE;</c>u wolt <c type="thorn">&#x00FE;</c>e world forsake,
+<milestone unit="folio" n="f.43va"/>
+            <note type="xref">
+               <ref target="#043v.sid"/>
+            </note>
+         </l>
+         <l>And Ihesu Crist to <c type="thorn">&#x00FE;</c>e take,</l>
+         <l><c type="THORN">&#x00DE;</c>u most ben ofte in orisoun</l>
+         <l n="500">And in
+reding of lesc<c type="yogh">&#x021D;</c>oun.</l>
+         <l>Wid us God speke<c type="thorn">&#x00FE;</c> whan we rede</l>
+         <l>Off him and of his goddede,</l>
+         <l>And we wid him, ful iwis,</l>
+         <l>Whan we him biseke<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>at riht is.</l>
+         <l n="505"><c type="pilcrow">&#x00B6;</c> Holi writ
+is oure myrour,</l>
+         <l>In whom we sen al vre socour,</l>
+         <l>And if we hit wolen vnderstonde,</l>
+         <l><c type="THORN">&#x00DE;</c>er we muwen sen and fonge,</l>
+         <l>To haue of God <c type="thorn">&#x00FE;</c>e knowelache,</l>
+         <l n="510">Bo<c type="thorn">&#x00FE;</c>e in
+<c type="thorn">&#x00FE;</c>ouht and in speche.</l>
+         <l><c type="pilcrow">&#x00B6;</c> And, if <c type="thorn">&#x00FE;</c>u wolt haue <c type="thorn">&#x00FE;</c>e loue</l>
+         <l>Off God <c type="thorn">&#x00FE;</c>at is in heuen aboue,</l>
+         <l><c type="THORN">&#x00DE;</c>u most ben euere in god acord,</l>
+         <l>In pes and loue and hate descord,</l>
+         <l n="515">And ben
+aboute wid al <c type="thorn">&#x00FE;</c>i miht,</l>
+         <l>To make pes bi day and niht;</l>
+         <l><c type="pilcrow">&#x00B6;</c> For Ihesu Crist hit sei<c type="thorn">&#x00FE;</c> ful wel,</l>
+         <l>As we hit finden in godspel</l>
+         <l>
+            <emph>Beati pacifici, quoniam filii Dei
+uocabuntur</emph>
+         </l>
+         <l>A so<c type="thorn">&#x00FE;</c> word hit is and no les</l>
+         <l n="520">“Iblessed
+be <c type="thorn">&#x00FE;</c>at make<c type="thorn">&#x00FE;</c> pes.”</l>
+         <l>Hij ouhten to ben honured alle,</l>
+         <l>For Godes children men shal hem calle.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Man, if <c type="thorn">&#x00FE;</c>u wolt to me herkny,</l>
+         <l>Nu I wole speken of merci.</l>
+         <l n="525"><c type="pilcrow">&#x00B6;</c> So<c type="thorn">&#x00FE;</c>liche,
+widoute fable, <milestone unit="folio" n="f.43vb"/>
+            <note type="xref">
+               <ref target="#043v.sid"/>
+            </note>
+         </l>
+         <l>Man, <c type="thorn">&#x00FE;</c>u most ben merciable.</l>
+         <l>On Ihesu Crist <c type="thorn">&#x00FE;</c>enk witerli,</l>
+         <l>Hou he deiede for merci,</l>
+         <l><c type="pilcrow">&#x00B6;</c> And al for he wolde merci haue</l>
+         <l n="530">Off hem <c type="thorn">&#x00FE;</c>at
+wolde merci craue;</l>
+         <l>For ar he deiede in flesh and bon,</l>
+         <l>Merci was <c type="thorn">&#x00FE;</c>er neuere non.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Bi <c type="thorn">&#x00FE;</c>is ensaumple <c type="yogh">&#x021D;</c>e muwen se</l>
+         <l>Merciable for to be.</l>
+         <l n="535"><c type="yogh">&#x021D;</c>if <c type="thorn">&#x00FE;</c>i
+neiheboure misdo<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e,</l>
+         <l>More or lasse whei<c type="thorn">&#x00FE;</c>er hit be,</l>
+         <l>Or in dede, or in vbbreid,</l>
+         <l>Or wid word <c type="thorn">&#x00FE;</c>e ha<c type="thorn">&#x00FE;</c> misseid,</l>
+         <l>And he <c type="thorn">&#x00FE;</c>erafter of<c type="thorn">&#x00FE;</c>inke<c type="thorn">&#x00FE;</c> sore</l>
+         <l n="540">And <c type="thorn">&#x00FE;</c>erof
+crie<c type="thorn">&#x00FE;</c> merci and ore,</l>
+         <l>For<c type="yogh">&#x021D;</c>if hit him for Godes loue,</l>
+         <l><c type="THORN">&#x00DE;</c>at us alle sit aboue.</l>
+         <l><c type="pilcrow">&#x00B6;</c> And if <c type="thorn">&#x00FE;</c>u wolt no merci haue</l>
+         <l>Off him <c type="thorn">&#x00FE;</c>at do<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e merci craue,</l>
+         <l n="545">Merci
+getestu neuere non</l>
+         <l>Off trespas <c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>u hast idon;</l>
+         <l>For God it sei<c type="thorn">&#x00FE;</c> in his godspel –</l>
+         <l><c type="THORN">&#x00DE;</c>ere men may finde it ful wel –</l>
+         <l><c type="pilcrow">&#x00B6;</c> "Alswich met as <c type="thorn">&#x00FE;</c>u metest me,</l>
+         <l n="550">Alswich I
+wole mete to <c type="thorn">&#x00FE;</c>e.”</l>
+         <l>Nym god <c type="yogh">&#x021D;</c>eme, man, <c type="thorn">&#x00FE;</c>u sist</l>
+         <l>In <c type="thorn">&#x00FE;</c>i paternoster what <c type="thorn">&#x00FE;</c>u bist</l>
+         <l>
+            <emph>Et dimitte nobis debita nostra, sicut et
+nos etc.</emph>
+         </l>
+         <l n="555"><c type="THORN">&#x00DE;</c>u seist
+"Swete lord, for<c type="yogh">&#x021D;</c>iue <c type="thorn">&#x00FE;</c>u me, <milestone unit="folio" n="f.44ra"/>
+            <note type="xref">
+               <ref target="#044r.sid"/>
+            </note>
+         </l>
+         <l><c type="THORN">&#x00DE;</c>at I haue gilt a<c type="yogh">&#x021D;</c>eines <c type="thorn">&#x00FE;</c>e,</l>
+         <l>Riht as I do alle <c type="thorn">&#x00FE;</c>o,</l>
+         <l><c type="THORN">&#x00DE;</c>at me hauen ouht misdo.”</l>
+         <l><c type="pilcrow">&#x00B6;</c> And <c type="thorn">&#x00FE;</c>u <c type="thorn">&#x00FE;</c>at art so cruwel in <c type="thorn">&#x00FE;</c>ouht</l>
+         <l n="560">And wolt to
+merci herkne noht,</l>
+         <l>What wole hit helpe in eny stede</l>
+         <l><c type="THORN">&#x00DE;</c>e holi paternoster bede?</l>
+         <l>Noht, if I dar it seie,</l>
+         <l>For a<c type="yogh">&#x021D;</c>ein <c type="thorn">&#x00FE;</c>iself <c type="thorn">&#x00FE;</c>u dost preie,</l>
+         <l n="565"><c type="pilcrow">&#x00B6;</c> And <c type="thorn">&#x00FE;</c>e
+holi bok of so<c type="thorn">&#x00FE;</c>nesse</l>
+         <l><c type="THORN">&#x00DE;</c>erof bere<c type="thorn">&#x00FE;</c> god witnesse</l>
+         <l>And sei<c type="thorn">&#x00FE;</c> "he <c type="thorn">&#x00FE;</c>at wole no merci haue,</l>
+         <l>On ydel do<c type="thorn">&#x00FE;</c> he merci craue.”</l>
+         <l>
+            <emph>In patientia vestra possidebitis animas
+vestras</emph>
+         </l>
+         <l>Houre swete lord in his speche</l>
+         <l n="570">Hise
+deciples began to teche</l>
+         <l>And bad hem ben of god suffraunce</l>
+         <l>In alle manere destourbaunce.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="yogh">&#x021D;</c>if <c type="thorn">&#x00FE;</c>u art sek in flesh and blod,</l>
+         <l><c type="THORN">&#x00DE;</c>u most ben meke and <c type="thorn">&#x00FE;</c>olemod</l>
+         <l n="575">And <c type="thorn">&#x00FE;</c>enk
+<c type="thorn">&#x00FE;</c>at God it <c type="thorn">&#x00FE;</c>e sende,</l>
+         <l><c type="THORN">&#x00DE;</c>i seli soule to amende.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="yogh">&#x021D;</c>if <c type="thorn">&#x00FE;</c>u hast lore of <c type="thorn">&#x00FE;</c>i catel,</l>
+         <l>Bi<c type="thorn">&#x00FE;</c>enk <c type="thorn">&#x00FE;</c>e <c type="thorn">&#x00FE;</c>anne swi<c type="thorn">&#x00FE;</c>e wel,</l>
+         <l><c type="THORN">&#x00DE;</c>at of <c type="thorn">&#x00FE;</c>iself haddestu noht,</l>
+         <l n="580">But as hit
+was <c type="thorn">&#x00FE;</c>urw God iwrouht;</l>
+         <l>And if God it wole from <c type="thorn">&#x00FE;</c>e take,</l>
+         <l><c type="THORN">&#x00DE;</c>u ne shalt <c type="thorn">&#x00FE;</c>erfore no gruching make,</l>
+         <l><c type="pilcrow">&#x00B6;</c> Ac suffre al Godes wille,</l>
+         <l>Bo<c type="thorn">&#x00FE;</c>e lude and eke stille. <milestone unit="folio" n="f.44rb"/>
+            <note type="xref">
+               <ref target="#044r.sid"/>
+            </note>
+         </l>
+         <l n="585"><c type="pilcrow">&#x00B6;</c> And <c type="yogh">&#x021D;</c>if
+<c type="thorn">&#x00FE;</c>e falle<c type="thorn">&#x00FE;</c> trauail on honde,</l>
+         <l>Or pine of bodi, or shame in londe,</l>
+         <l>Off al <c type="thorn">&#x00FE;</c>is <c type="thorn">&#x00FE;</c>u most suffraunt be,</l>
+         <l><c type="THORN">&#x00DE;</c>ouh <c type="thorn">&#x00FE;</c>e <c type="thorn">&#x00FE;</c>inke hit greue <c type="thorn">&#x00FE;</c>e.</l>
+         <l><c type="THORN">&#x00DE;</c>enk hou Ihesu into er<c type="thorn">&#x00FE;</c>e cam,</l>
+         <l n="590">And <c type="thorn">&#x00FE;</c>olede
+pine and shame for man,</l>
+         <l>And foule was <c type="thorn">&#x00FE;</c>erto misseid,</l>
+         <l>And many a skorn on him leid;</l>
+         <l>Widoute gruching he held him stille,</l>
+         <l>And <c type="thorn">&#x00FE;</c>olede hit al wid milde wille,</l>
+         <l n="595"><c type="pilcrow">&#x00B6;</c> And al he
+dede for vre sake,</l>
+         <l>For we sholde ensaumple take</l>
+         <l>To be suffraunt in eueri stede,</l>
+         <l>Riht as vre lord himselue dede.</l>
+         <l>And <c type="yogh">&#x021D;</c>if a man <c type="thorn">&#x00FE;</c>urw his power</l>
+         <l n="600">Do<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e
+wrong on eor<c type="thorn">&#x00FE;</c>e her,</l>
+         <l><c type="THORN">&#x00DE;</c>enk in <c type="thorn">&#x00FE;</c>in herte, I preie <c type="thorn">&#x00FE;</c>e,</l>
+         <l>Off <c type="thorn">&#x00FE;</c>e wrong and <c type="thorn">&#x00FE;</c>e vilte,</l>
+         <l><c type="THORN">&#x00DE;</c>at men to Ihesu Crist dede</l>
+         <l>Here on eor<c type="thorn">&#x00FE;</c>e in many stede,</l>
+         <l n="605"><c type="pilcrow">&#x00B6;</c> And hou
+he <c type="thorn">&#x00FE;</c>olede hit mildeliche,</l>
+         <l>Al ffor <c type="thorn">&#x00FE;</c>i loue, sikerliche.</l>
+         <l>On ensaumple of him <c type="thorn">&#x00FE;</c>u nim,</l>
+         <l>To suffre wrong for <c type="thorn">&#x00FE;</c>e loue of him;</l>
+         <l>For I dar seie so<c type="thorn">&#x00FE;</c>liche,</l>
+         <l n="610">He may be
+martyr, treweliche,</l>
+         <l>Widoute sheding of mannes blod,</l>
+         <l><c type="THORN">&#x00DE;</c>at may ben here <c type="thorn">&#x00FE;</c>olemod,</l>
+         <l><c type="pilcrow">&#x00B6;</c> To suffre wrong and vnriht</l>
+         <l>For <c type="thorn">&#x00FE;</c>e loue of God almiht.</l>
+         <l n="615">Ac swich a
+fiht is vnme<c type="thorn">&#x00FE;</c>, <milestone unit="folio" n="f.44va"/>
+            <note type="xref">
+               <ref target="#044v.sid"/>
+            </note>
+         </l>
+         <l>For a<c type="yogh">&#x021D;</c>en <c type="thorn">&#x00FE;</c>e kinde hit ge<c type="thorn">&#x00FE;</c>.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Whij? for <c type="thorn">&#x00FE;</c>e kinde of <c type="thorn">&#x00FE;</c>i manhede</l>
+         <l>Wolde haue wreche of wrongful dede;</l>
+         <l>Ac of Ihesu tak <c type="thorn">&#x00FE;</c>i minde,</l>
+         <l n="620">And fiht
+a<c type="yogh">&#x021D;</c>ein <c type="thorn">&#x00FE;</c>in owen kinde,</l>
+         <l>And <c type="thorn">&#x00FE;</c>u shalt haue for <c type="thorn">&#x00FE;</c>i goddede</l>
+         <l>Off martyrdom <c type="thorn">&#x00FE;</c>e heie mede.</l>
+         <l>Ac <c type="thorn">&#x00FE;</c>u, fersse man, <c type="thorn">&#x00FE;</c>at art so stout</l>
+         <l>And heih of mod and herte proud –</l>
+         <l n="625">He wole
+bowe for no<c type="thorn">&#x00FE;</c>ing</l>
+         <l>To man ne to heuene-king.</l>
+         <l><c type="pilcrow">&#x00B6;</c> And he <c type="thorn">&#x00FE;</c>at wole him heinen here,</l>
+         <l><c type="THORN">&#x00DE;</c>at nele be meke in none manere,</l>
+         <l>In litel while he shal hit knowe</l>
+         <l n="630">And falle
+<c type="thorn">&#x00FE;</c>erfore swi<c type="thorn">&#x00FE;</c>e lowe.</l>
+         <l>
+            <emph>Qui se exaltat, humiliabitur, et qui se
+humiliat, exaltabitur.</emph>
+         </l>
+         <l><c type="THORN">&#x00DE;</c>e milde <c type="thorn">&#x00FE;</c>urw his humilite</l>
+         <l>Ful heie honoured <c type="thorn">&#x00FE;</c>eih sholen be;</l>
+         <l>For <c type="thorn">&#x00FE;</c>eih sholen be drawen on heih</l>
+         <l>And wonye God swi<c type="thorn">&#x00FE;</c>e neih.</l>
+         <l n="635"><c type="pilcrow">&#x00B6;</c> And
+pride, it is so foul a last,</l>
+         <l><c type="THORN">&#x00DE;</c>at out of heuene he was cast.</l>
+         <l><c type="THORN">&#x00DE;</c>u shalt wel wite <c type="thorn">&#x00FE;</c>at I ne li<c type="yogh">&#x021D;</c>e,</l>
+         <l>For Lucifer and his cumpaignye,</l>
+         <l n="640">.....
+..... ..... .....</l>
+         <l><c type="THORN">&#x00DE;</c>urw <c type="thorn">&#x00FE;</c>e pride <c type="thorn">&#x00FE;</c>at hem gan folewe,</l>
+         <l><c type="THORN">&#x00DE;</c>e pine of helle hem gan to swolewe,</l>
+         <l><c type="pilcrow">&#x00B6;</c> And so he wole don alle and some,</l>
+         <l><c type="THORN">&#x00DE;</c>at in pride be inome.</l>
+         <l n="645">..... .....
+..... .....</l>
+         <l>Cast hit awey, I wole <c type="thorn">&#x00FE;</c>e rede, <milestone unit="folio" n="f.44vb"/>
+            <note type="xref">
+               <ref target="#044v.sid"/>
+            </note>
+         </l>
+         <l>Er of strong pine <c type="thorn">&#x00FE;</c>e may drede;</l>
+         <l><c type="pilcrow">&#x00B6;</c> For siker and <c type="thorn">&#x00FE;</c>u be nomen <c type="thorn">&#x00FE;</c>erinne,</l>
+         <l n="650">Heuene
+maitu neuere winne,</l>
+         <l>And o<c type="thorn">&#x00FE;</c>er weye is <c type="thorn">&#x00FE;</c>er non,</l>
+         <l>Bute to heuene or to helle gon.</l>
+         <l><c type="THORN">&#x00DE;</c>anne do bi consail and bi red,</l>
+         <l>And ouercome <c type="thorn">&#x00FE;</c>e foule qued,</l>
+         <l n="655"><c type="THORN">&#x00DE;</c>at fonde<c type="thorn">&#x00FE;</c>
+<c type="thorn">&#x00FE;</c>e on vch a side,</l>
+         <l><c type="THORN">&#x00DE;</c>e to holde in <c type="thorn">&#x00FE;</c>i pride.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Ac if <c type="thorn">&#x00FE;</c>u kou<c type="thorn">&#x00FE;</c>est knowe and se</l>
+         <l><c type="THORN">&#x00DE;</c>e uertu of humilite,</l>
+         <l>For no<c type="thorn">&#x00FE;</c>ing <c type="thorn">&#x00FE;</c>u noldest shone,</l>
+         <l n="660">Ac hit
+sholde euere wid <c type="thorn">&#x00FE;</c>e wone.</l>
+         <l>Off alle uertu<c type="yogh">&#x021D;</c> it is hext,</l>
+         <l>And Godes wille it is next.</l>
+         <l>Sein Gregory bere<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>erof witnes,</l>
+         <l><c type="THORN">&#x00DE;</c>at muchel speke<c type="thorn">&#x00FE;</c> of so<c type="thorn">&#x00FE;</c>nes:</l>
+         <l>
+            <emph>Qui sine humilitate uirtutes ceteras
+congregat, est quasi, qui in vento puluerem portat.</emph>
+         </l>
+         <l n="665">Man,
+<c type="thorn">&#x00FE;</c>ou[h] <c type="thorn">&#x00FE;</c>u do muchel god,</l>
+         <l>But <c type="thorn">&#x00FE;</c>ou be meke and <c type="thorn">&#x00FE;</c>olemod,</l>
+         <l>Sein Gregory sei<c type="thorn">&#x00FE;</c>, <c type="thorn">&#x00FE;</c>at holi clerk,</l>
+         <l><c type="THORN">&#x00DE;</c>at muchel on ydel is <c type="thorn">&#x00FE;</c>at werk.</l>
+         <l>Hit fare<c type="thorn">&#x00FE;</c> bi swiche, as we finde,</l>
+         <l n="670">As whoso
+bere<c type="thorn">&#x00FE;</c> poudre in grete winde;</l>
+         <l>For bere he neuere so muche,</l>
+         <l>Hit fle<c type="thorn">&#x00FE;</c> awey ful lihtliche.</l>
+         <l>Off man hit fare<c type="thorn">&#x00FE;</c> riht so, <milestone unit="folio" n="f.45ra"/>
+            <note type="xref">
+               <ref target="#045r.sid"/>
+            </note>
+         </l>
+         <l>For gode dedes <c type="thorn">&#x00FE;</c>ouh he do,</l>
+         <l n="675">Many and
+fele in vch a side,</l>
+         <l><c type="THORN">&#x00DE;</c>er may non wid him abide;</l>
+         <l>Bute he haue humilite,</l>
+         <l>Awey <c type="thorn">&#x00FE;</c>eih wolen fro him fle.</l>
+         <l><c type="pilcrow">&#x00B6;</c> A god <c type="thorn">&#x00FE;</c>ing is humilite.</l>
+         <l n="680">Off him
+come<c type="thorn">&#x00FE;</c> verray charite,</l>
+         <l>And penaunce, and eke shrift –</l>
+         <l><c type="THORN">&#x00DE;</c>is is of god a wel fair <c type="yogh">&#x021D;</c>ift –</l>
+         <l>And of him for<c type="yogh">&#x021D;</c>ifnesse of sinne.</l>
+         <l>Wel is him <c type="thorn">&#x00FE;</c>at hit may winne.</l>
+         <l n="685"><c type="pilcrow">&#x00B6;</c> Whoso is
+aferd of his trespa<c type="yogh">&#x021D;</c>,</l>
+         <l>He shal haue comfort and sola<c type="yogh">&#x021D;</c></l>
+         <l>Off <c type="thorn">&#x00FE;</c>e holi gost, witerli,</l>
+         <l><c type="THORN">&#x00DE;</c>at wole <c type="thorn">&#x00FE;</c>i soule comforti</l>
+         <l>And make men haue, mid iwisse,</l>
+         <l n="690">Tristi hope
+to heuene-blisse.</l>
+         <l>Sein Daui[d] <c type="thorn">&#x00FE;</c>erof spak and seide</l>
+         <l>In <c type="thorn">&#x00FE;</c>e sauter as men rede</l>
+         <l>
+            <emph>Secundum multitudinem dolorum meorum in
+corde meo, consolationes tuae letificauerunt animam meam.</emph>
+         </l>
+         <l><c type="THORN">&#x00DE;</c>e more man doute<c type="thorn">&#x00FE;</c> here sinne, <note n="note-speculum-998" type="ed">
+               <emph><c type="THORN">&#x00DE;</c>e</emph>: MS <emph>So</emph>.</note>
+         </l>
+         <l><c type="THORN">&#x00DE;</c>e more ioye he shal winne;</l>
+         <l n="695">For whoso
+ha<c type="thorn">&#x00FE;</c> of his sinne drede</l>
+         <l>And nel noht don <c type="thorn">&#x00FE;</c>at foule dede,</l>
+         <l>Hit seme<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>at he ha<c type="thorn">&#x00FE;</c> trewe loue</l>
+         <l>To Ihesu Crist <c type="thorn">&#x00FE;</c>at is aboue.</l>
+         <l><c type="pilcrow">&#x00B6;</c> O <c type="thorn">&#x00FE;</c>ing is comen in my <c type="thorn">&#x00FE;</c>out,</l>
+         <l n="700">To shewe
+hit wole I spare noht.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="yogh">&#x021D;</c>if any <c type="thorn">&#x00FE;</c>at is in holy lyf, <milestone unit="folio" n="f.45rb"/>
+            <note type="xref">
+               <ref target="#045r.sid"/>
+            </note>
+         </l>
+         <l>Man, maiden, o<c type="thorn">&#x00FE;</c>er wif,</l>
+         <l>In any time <c type="thorn">&#x00FE;</c>urw any cas,</l>
+         <l>Do<c type="thorn">&#x00FE;</c> a litel trespas,</l>
+         <l n="705"><c type="THORN">&#x00DE;</c>at be
+a<c type="yogh">&#x021D;</c>ein Godes wille,</l>
+         <l>O<c type="thorn">&#x00FE;</c>er loud o<c type="thorn">&#x00FE;</c>er stille,</l>
+         <l>He wole haue more sorwe and drede</l>
+         <l>For <c type="thorn">&#x00FE;</c>at litel sinful dede,</l>
+         <l><c type="THORN">&#x00DE;</c>an many on wole in eny stounde,</l>
+         <l n="710"><c type="THORN">&#x00DE;</c>at ly<c type="thorn">&#x00FE;</c> in
+dedli sinne bounde.</l>
+         <l><c type="yogh">&#x021D;</c>if <c type="yogh">&#x021D;</c>e wolen wite herof <c type="thorn">&#x00FE;</c>e skile,</l>
+         <l>Herkne, and I <c type="yogh">&#x021D;</c>ou telle wole:</l>
+         <l><c type="THORN">&#x00DE;</c>at man <c type="thorn">&#x00FE;</c>at ly<c type="thorn">&#x00FE;</c> in dedli sinne,</l>
+         <l>And to singy wole noht blinne,</l>
+         <l n="715"><c type="pilcrow">&#x00B6;</c> Gostli
+wit he ha<c type="thorn">&#x00FE;</c> ilore.</l>
+         <l>Whi I wole telle [and] wharfore;</l>
+         <l>For gostli siht, witerliche</l>
+         <l>Man, is <c type="thorn">&#x00FE;</c>i resoun, sikerliche,</l>
+         <l>Wher<c type="thorn">&#x00FE;</c>ur[w] <c type="thorn">&#x00FE;</c>u miht in <c type="thorn">&#x00FE;</c>i mod</l>
+         <l n="720">Knowe bo<c type="thorn">&#x00FE;</c>e
+yuel and god,</l>
+         <l>And shed to make in eueri dede</l>
+         <l>Bitwene so<c type="thorn">&#x00FE;</c>nesse and falshede.</l>
+         <l><c type="pilcrow">&#x00B6;</c> And whan mannes soule, ful iwis,</l>
+         <l><c type="THORN">&#x00DE;</c>urw dedli sinne ifiled is,</l>
+         <l n="725">His
+knowelaching is al gon;</l>
+         <l>For wit ne siht ha<c type="thorn">&#x00FE;</c> he(re) non,</l>
+         <l>Wherfore <c type="thorn">&#x00FE;</c>e sinful man</l>
+         <l>No<c type="thorn">&#x00FE;</c>er he ne may ne he ne can</l>
+         <l>His owen stat riht ise,</l>
+         <l n="730"><c type="pilcrow">&#x00B6;</c> Ne knowe
+in what lyf he be</l>
+         <l>For <c type="thorn">&#x00FE;</c>isternesse, <c type="thorn">&#x00FE;</c>at he is inne <milestone unit="folio" n="f.45va"/>
+            <note type="xref">
+               <ref target="#045v.sid"/>
+            </note>
+         </l>
+         <l><c type="THORN">&#x00DE;</c>urw <c type="thorn">&#x00FE;</c>e fil<c type="thorn">&#x00FE;</c>e of dedli sinne.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Ac he <c type="thorn">&#x00FE;</c>at liue<c type="thorn">&#x00FE;</c> in holy lyf,</l>
+         <l>Man, mayden, o<c type="thorn">&#x00FE;</c>er wyf,</l>
+         <l n="735">And serue<c type="thorn">&#x00FE;</c>
+God on eor<c type="thorn">&#x00FE;</c>e her,</l>
+         <l>His gostli siht is swi<c type="thorn">&#x00FE;</c>e cler;</l>
+         <l>For <c type="thorn">&#x00FE;</c>erwid he may knowe and se –</l>
+         <l>In what lyf <c type="thorn">&#x00FE;</c>at he be –</l>
+         <l>God and yuel, lasse and more,</l>
+         <l n="740">Al he
+knowe<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>urw Godes lore;</l>
+         <l><c type="pilcrow">&#x00B6;</c> For widinne him is God almiht</l>
+         <l>And <c type="yogh">&#x021D;</c>eue<c type="thorn">&#x00FE;</c> him grace of gostly siht</l>
+         <l>To sen and knowe in his mod</l>
+         <l><c type="THORN">&#x00DE;</c>e longe lyff <c type="thorn">&#x00FE;</c>at is so god,</l>
+         <l n="745">And <c type="thorn">&#x00FE;</c>e
+drede of domesday,</l>
+         <l>And <c type="thorn">&#x00FE;</c>e pine <c type="thorn">&#x00FE;</c>at laste<c type="thorn">&#x00FE;</c> ay,</l>
+         <l>Wher<c type="thorn">&#x00FE;</c>urw hij sholen <c type="thorn">&#x00FE;</c>e more drede</l>
+         <l>And flen sinne in al here dede.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Here <c type="yogh">&#x021D;</c>e muwen se <c type="thorn">&#x00FE;</c>e wrong</l>
+         <l n="750">And knowe,
+wheron hit is long, </l>
+         <note n="note-speculum-997" type="ed">
+            <emph>hit</emph>: MS <emph>his</emph>
+         </note>
+         <l><c type="THORN">&#x00DE;</c>at sinful man may noht se</l>
+         <l>Hise giltes, <c type="thorn">&#x00FE;</c>ou[h] <c type="thorn">&#x00FE;</c>eih grete be.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Listne<c type="thorn">&#x00FE;</c> nou<c type="thorn">&#x00FE;</c>e to my speche,</l>
+         <l>And of nedful <c type="thorn">&#x00FE;</c>ing I wole <c type="yogh">&#x021D;</c>ou teche.</l>
+         <l n="755">Off holi
+churche it is <c type="thorn">&#x00FE;</c>e lore</l>
+         <l><c type="THORN">&#x00DE;</c>at speke<c type="thorn">&#x00FE;</c> to alle, lasse and more,</l>
+         <l>And sei<c type="thorn">&#x00FE;</c> "man, while <c type="thorn">&#x00FE;</c>u miht liue,</l>
+         <l>Loke <c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>u be ofte shriue.”</l>
+         <l><c type="pilcrow">&#x00B6;</c> Anon so <c type="thorn">&#x00FE;</c>u hast sinne wrouht,</l>
+         <l n="760">While it is
+newe in <c type="thorn">&#x00FE;</c>i (<c type="thorn">&#x00FE;</c>i) <c type="thorn">&#x00FE;</c>ouht,</l>
+         <l>Anon to shrifte <c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>u gange,</l>
+         <l>Ne dwelle <c type="thorn">&#x00FE;</c>u noht <c type="thorn">&#x00FE;</c>erwid to longe;
+<milestone unit="folio" n="f.45vb"/>
+            <note type="xref">
+               <ref target="#045v.sid"/>
+            </note>
+         </l>
+         <l>For if <c type="thorn">&#x00FE;</c>u dost <c type="thorn">&#x00FE;</c>u miht wel wite,</l>
+         <l><c type="THORN">&#x00DE;</c>at sumwhat shal be for<c type="yogh">&#x021D;</c>ete,</l>
+         <l n="765">Wher<c type="thorn">&#x00FE;</c>urw <c type="thorn">&#x00FE;</c>u
+miht be blamed,</l>
+         <l>And at <c type="thorn">&#x00FE;</c>e dom sore ashamed.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>erfore, man, while <c type="thorn">&#x00FE;</c>u miht liue,</l>
+         <l>Loke <c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>u be ofte shriue,</l>
+         <l>Wid sorwe of herte and repentaunce,</l>
+         <l n="770">And of <c type="thorn">&#x00FE;</c>e
+prest tak <c type="thorn">&#x00FE;</c>i penaunce.</l>
+         <l><c type="THORN">&#x00DE;</c>is is a riche medicine;</l>
+         <l>Hit shilde<c type="thorn">&#x00FE;</c> man fro helle pine.</l>
+         <l>A betre <c type="thorn">&#x00FE;</c>ing was neuere founde,</l>
+         <l>For hit may hele dedli wounde,</l>
+         <l n="775">And whoso
+euere wole hit craue,</l>
+         <l>Widouten cost he may hit haue.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Man, ne lat hit for no shame,</l>
+         <l>Last <c type="thorn">&#x00FE;</c>u falle <c type="thorn">&#x00FE;</c>erfore in blame.</l>
+         <l>If <c type="thorn">&#x00FE;</c>u nilt for shame [shewe] hit her,</l>
+         <l n="780">Hit shal
+ben shewed elleswher </l>
+         <note n="note-speculum-996" type="ed">
+            <emph>elleswher</emph>: MS <emph>ellerwher.</emph>
+         </note>
+         <l>To alle <c type="thorn">&#x00FE;</c>e shaftes <c type="thorn">&#x00FE;</c>at euere were,</l>
+         <l>And alle <c type="thorn">&#x00FE;</c>eih sholen sen and here.</l>
+         <l>
+            <emph>Nihil absconditum, quod non scietur, nec
+occultum, quod non reueletur,</emph>
+         </l>
+         <l>And <c type="thorn">&#x00FE;</c>erof <c type="thorn">&#x00FE;</c>u shalt haue shame</l>
+         <l>And <c type="thorn">&#x00FE;</c>erto wel muche blame.</l>
+         <l n="785">Tweye
+manere shame men fint in boke,</l>
+         <l>Whoso wole <c type="thorn">&#x00FE;</c>erafter loke:</l>
+         <l><c type="THORN">&#x00DE;</c>at on go<c type="thorn">&#x00FE;</c> to dampnacioun;</l>
+         <l><c type="THORN">&#x00DE;</c>at o<c type="thorn">&#x00FE;</c>er to sauuacioun.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="yogh">&#x021D;</c>if <c type="yogh">&#x021D;</c>e wole wite hou hit be,</l>
+         <l n="790">Sitte<c type="thorn">&#x00FE;</c>
+stille and herkne<c type="thorn">&#x00FE;</c> me.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Man, <c type="thorn">&#x00FE;</c>ouh <c type="thorn">&#x00FE;</c>u haue sinne wrouht <milestone unit="folio" n="f.46ra"/>
+            <note type="xref">
+               <ref target="#046r.sid"/>
+            </note>
+         </l>
+         <l>In word, in dede, and in <c type="thorn">&#x00FE;</c>ouht,</l>
+         <l>If <c type="thorn">&#x00FE;</c>u art <c type="thorn">&#x00FE;</c>iself <c type="thorn">&#x00FE;</c>erof ashamed,</l>
+         <l>And at <c type="thorn">&#x00FE;</c>in herte sore agramed,</l>
+         <l n="795"><c type="pilcrow">&#x00B6;</c> And ne
+sparest for shame ne for ei<c type="yogh">&#x021D;</c>e,</l>
+         <l><c type="THORN">&#x00DE;</c>at <c type="thorn">&#x00FE;</c>u hit nilt in shrifte seie,</l>
+         <l>Off God <c type="thorn">&#x00FE;</c>u miht wel lihtliche</l>
+         <l>For<c type="yogh">&#x021D;</c>ifnesse haue sikerliche.</l>
+         <l><c type="THORN">&#x00DE;</c>is ilke shame, be my croun,</l>
+         <l n="800">Drawe<c type="thorn">&#x00FE;</c> al
+to sauuacioun.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>at o<c type="thorn">&#x00FE;</c>er shame so is <c type="thorn">&#x00FE;</c>is:</l>
+         <l><c type="yogh">&#x021D;</c>if a man ha<c type="thorn">&#x00FE;</c> don amis</l>
+         <l>And foule sinnes ha<c type="thorn">&#x00FE;</c> iwrouht, <note n="note-speculum-995" type="ed">
+               <emph>sinnes</emph>: MS <emph>sinne<c type="thorn">&#x00FE;</c></emph>
+            </note>
+         </l>
+         <l>And wole for shame shewe hem noht</l>
+         <l n="805">In his
+shrifte to <c type="thorn">&#x00FE;</c>e prest,</l>
+         <l>He wra<c type="thorn">&#x00FE;</c><c type="thorn">&#x00FE;</c>e<c type="thorn">&#x00FE;</c> sore Ihesu Crist.</l>
+         <l>For<c type="yogh">&#x021D;</c>ifnes, iwis, ne tit him neuere,</l>
+         <l>But in helle to brennen euere.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Whi artu more ashamed to speke</l>
+         <l n="810">A word <c type="thorn">&#x00FE;</c>an
+Godes heste to breke?</l>
+         <l><c type="THORN">&#x00DE;</c>is is foule wicked shame,</l>
+         <l><c type="THORN">&#x00DE;</c>at bringe<c type="thorn">&#x00FE;</c> sinful man in blame.</l>
+         <l><c type="THORN">&#x00DE;</c>e lore <c type="thorn">&#x00FE;</c>at come<c type="thorn">&#x00FE;</c> out of Godes mou<c type="thorn">&#x00FE;</c>,</l>
+         <l>To alle men hit sholde be cou<c type="thorn">&#x00FE;</c></l>
+         <l>
+            <emph>Lauamini, et mundi estote</emph>
+         </l>
+         <l n="815">Ihesu
+spak and seide ene</l>
+         <l n="“">“Wasshe<c type="thorn">&#x00FE;</c> ou, and be<c type="thorn">&#x00FE;</c> clene.”</l>
+         <l>Kindeliche ofte men se<c type="thorn">&#x00FE;</c>,</l>
+         <l>Wid water men wasshe<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>at foule be<c type="thorn">&#x00FE;</c>,</l>
+         <l><c type="pilcrow">&#x00B6;</c> And hot water, be <c type="thorn">&#x00FE;</c>u bold,</l>
+         <l n="820">Make<c type="thorn">&#x00FE;</c>
+clannere <c type="thorn">&#x00FE;</c>an do<c type="thorn">&#x00FE;</c> cold.</l>
+         <l>Al <c type="thorn">&#x00FE;</c>is I seie sikerliche, <milestone unit="folio" n="f.46rb"/>
+            <note type="xref">
+               <ref target="#046r.sid"/>
+            </note>
+         </l>
+         <l>For to speken openliche,</l>
+         <l><c type="pilcrow">&#x00B6;</c> What hit is for to mene</l>
+         <l n="“">“Wasshe<c type="thorn">&#x00FE;</c> ou, and be<c type="thorn">&#x00FE;</c> clene.”</l>
+         <l n="825">Summe
+wasshe<c type="thorn">&#x00FE;</c>, ac noht ariht,</l>
+         <l>For <c type="thorn">&#x00FE;</c>e clannere be<c type="thorn">&#x00FE;</c> hij nowiht.</l>
+         <l><c type="THORN">&#x00DE;</c>e hote teres of mannes ei<c type="yogh">&#x021D;</c>e</l>
+         <l>Make<c type="thorn">&#x00FE;</c> clannere <c type="thorn">&#x00FE;</c>an any li<c type="yogh">&#x021D;</c>e.</l>
+         <l>Many on wepe<c type="thorn">&#x00FE;</c> for his misdede,</l>
+         <l n="830">Ac to do
+sinne noht hij ne drede.</l>
+         <l><c type="pilcrow">&#x00B6;</c> He wene<c type="thorn">&#x00FE;</c> wasshe him wid <c type="thorn">&#x00FE;</c>at water</l>
+         <l>And he is foul neuere <c type="thorn">&#x00FE;</c>e later.</l>
+         <l>Whij? For <c type="yogh">&#x021D;</c>it wole he noht sinne fle,</l>
+         <l>Iwis, vnclene he shal be.</l>
+         <l n="835">Ac ano<c type="thorn">&#x00FE;</c>er
+manere wasshing</l>
+         <l>Make<c type="thorn">&#x00FE;</c> clene of alle <c type="thorn">&#x00FE;</c>ing.</l>
+         <l>Man, <c type="thorn">&#x00FE;</c>ouh <c type="thorn">&#x00FE;</c>ou haue sinne don,</l>
+         <l>Lodlich and foule many on,</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="yogh">&#x021D;</c>if <c type="thorn">&#x00FE;</c>u hast wille to leue <c type="thorn">&#x00FE;</c>i sinne,</l>
+         <l n="840"><c type="THORN">&#x00DE;</c>at <c type="thorn">&#x00FE;</c>u no
+more ne come <c type="thorn">&#x00FE;</c>erinne,</l>
+         <l>Of <c type="thorn">&#x00FE;</c>in ei<c type="yogh">&#x021D;</c>en <c type="thorn">&#x00FE;</c>e hote teres,</l>
+         <l><c type="THORN">&#x00DE;</c>at go<c type="thorn">&#x00FE;</c> adoun bi <c type="thorn">&#x00FE;</c>ine leres,</l>
+         <l>Hij wolen make god acord</l>
+         <l>Bitwene <c type="thorn">&#x00FE;</c>i soule and oure lord</l>
+         <l n="845">And make <c type="thorn">&#x00FE;</c>e
+clene of <c type="thorn">&#x00FE;</c>i sinne,</l>
+         <l>Wher<c type="thorn">&#x00FE;</c>urw <c type="thorn">&#x00FE;</c>u miht heuene winne.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Nu <c type="yogh">&#x021D;</c>e muwe witen what it is to mene</l>
+         <l n="“">“Wasshe<c type="thorn">&#x00FE;</c> ou, and be<c type="thorn">&#x00FE;</c> clene;”</l>
+         <l>Ac he <c type="thorn">&#x00FE;</c>at wole clene be,</l>
+         <l n="850">Certes
+sinne he mot fle. </l>
+         <note n="note-speculum-993" type="ed">
+            <emph>Certes sinne</emph>: MS <emph>Certes sinne sum what</emph>.</note>
+         <l><c type="pilcrow">&#x00B6;</c> Wole <c type="yogh">&#x021D;</c>e here <c type="yogh">&#x021D;</c>it eft sone</l>
+         <l>Off <c type="thorn">&#x00FE;</c>ing <c type="thorn">&#x00FE;</c>at nedful is to done; <milestone unit="folio" n="f.46va"/>
+            <note type="xref">
+               <ref target="#046v.sid"/>
+            </note>
+         </l>
+         <l>Hit is Godes owen lore,</l>
+         <l><c type="THORN">&#x00DE;</c>at speke<c type="thorn">&#x00FE;</c> to alle, lasse and more</l>
+         <l>
+            <emph>Ambulate, dum lucem habetis, ne tenebre vos
+comprehendant.</emph>
+         </l>
+         <l n="855">“Go,
+man, while <c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>u hast liht,</l>
+         <l>Lest <c type="thorn">&#x00FE;</c>e oftake <c type="thorn">&#x00FE;</c>e derke niht.”</l>
+         <l><c type="THORN">&#x00DE;</c>i lyf, man, is cleped liht,</l>
+         <l>And <c type="thorn">&#x00FE;</c>i de<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e derke niht.</l>
+         <l>While <c type="thorn">&#x00FE;</c>u art on liue <c type="thorn">&#x00FE;</c>u miht worche</l>
+         <l n="860">Godes
+werkes of holi churche,</l>
+         <l>And certes whan <c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>u art ded,</l>
+         <l><c type="THORN">&#x00DE;</c>anne maitou don no<c type="thorn">&#x00FE;</c>er god ne qued.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>erfore, man, I warne <c type="thorn">&#x00FE;</c>e,</l>
+         <l>While <c type="thorn">&#x00FE;</c>u miht gon and se,</l>
+         <l n="865">In gode
+weyes sped <c type="thorn">&#x00FE;</c>e faste.</l>
+         <l>Lef, <c type="thorn">&#x00FE;</c>e niht <c type="thorn">&#x00FE;</c>e wole agaste,</l>
+         <l>And sikerliche widoute nay,</l>
+         <l>At <c type="thorn">&#x00FE;</c>i deijng shal ben <c type="thorn">&#x00FE;</c>i domesday,</l>
+         <l>For <c type="thorn">&#x00FE;</c>ere shal ben irekened al</l>
+         <l n="870"><c type="THORN">&#x00DE;</c>at euere
+di[d]stu, gret and smal.</l>
+         <l><c type="THORN">&#x00DE;</c>ere <c type="thorn">&#x00FE;</c>u shalt knowe and se</l>
+         <l>God or yuel whei<c type="thorn">&#x00FE;</c>er it be,</l>
+         <l>And <c type="thorn">&#x00FE;</c>anne, par aunter, wo[lde]stu fain</l>
+         <l>Biginne to worche and turne a<c type="yogh">&#x021D;</c>ein;</l>
+         <l n="875"><c type="pilcrow">&#x00B6;</c> Ac certes
+<c type="thorn">&#x00FE;</c>u ne shalt noht so,</l>
+         <l>Ac riht after <c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>u hast do,</l>
+         <l><c type="THORN">&#x00DE;</c>u shalt fonge verreement</l>
+         <l><c type="THORN">&#x00DE;</c>are <c type="thorn">&#x00FE;</c>i rihte iugement.</l>
+         <l>
+            <emph>Et ideo ambulate, dum lucem habetis.</emph>
+            <milestone unit="folio" n="f.46vb"/>
+            <note type="xref">
+               <ref target="#046v.sid"/>
+            </note>
+         </l>
+         <l>And <c type="thorn">&#x00FE;</c>er<c type="thorn">&#x00FE;</c>ur .....</l>
+         <l>De<c type="thorn">&#x00FE;</c> is gilour swi<c type="thorn">&#x00FE;</c>e strong</l>
+         <l n="880">And gile<c type="thorn">&#x00FE;</c>
+many on euere among;</l>
+         <l><c type="THORN">&#x00DE;</c>erfore worch while <c type="thorn">&#x00FE;</c>u mait,</l>
+         <l>For sodeyneliche <c type="thorn">&#x00FE;</c>u miht be caiht</l>
+         <l>
+            <emph>Initium sapientie, timor domini:</emph>
+         </l>
+         <l n="“">“Drede of God in alle <c type="thorn">&#x00FE;</c>ing</l>
+         <l>Off wisdom is <c type="thorn">&#x00FE;</c>e biginning;”</l>
+         <l n="885">And many
+hauen of God drede,</l>
+         <l>Ac noht for loue of his godhede,</l>
+         <l>But last <c type="thorn">&#x00FE;</c>eih sholde for here gilt</l>
+         <l>Into strong pine ben ipult.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Hit fare<c type="thorn">&#x00FE;</c> bi swiche, I vnderstonde,</l>
+         <l n="890">As hit do<c type="thorn">&#x00FE;</c>
+here bi <c type="thorn">&#x00FE;</c>e bonde.</l>
+         <l><c type="THORN">&#x00DE;</c>e bonde nele no<c type="thorn">&#x00FE;</c>er loude ne stille</l>
+         <l>Don noht a<c type="yogh">&#x021D;</c>ein his lordes wille –</l>
+         <l>Ac <c type="thorn">&#x00FE;</c>at nis for loue ne for acord –</l>
+         <l><c type="THORN">&#x00DE;</c>at he ha<c type="thorn">&#x00FE;</c> toward his lord,</l>
+         <l n="895">For if he
+dede he wot wel,</l>
+         <l>He sholde lese of his catel;</l>
+         <l>And <c type="yogh">&#x021D;</c>it hit fare<c type="thorn">&#x00FE;</c> bi man also,</l>
+         <l><c type="THORN">&#x00DE;</c>at spare<c type="thorn">&#x00FE;</c> more sinne to do <note n="note-speculum-991" type="ed">
+               <emph>do</emph>: MS <emph>go</emph>.</note>
+         </l>
+         <l>For <c type="thorn">&#x00FE;</c>e doute of gret pining,</l>
+         <l n="900"><c type="THORN">&#x00DE;</c>an for <c type="thorn">&#x00FE;</c>e
+loue of heuen-king.</l>
+         <l><c type="pilcrow">&#x00B6;</c> It is noht euel so to biginne,</l>
+         <l>For drede of pine to late <c type="thorn">&#x00FE;</c>i sinne,</l>
+         <l>For sone after he may kacche grace</l>
+         <l>To bi<c type="thorn">&#x00FE;</c>enke him on Godes face,</l>
+         <l n="905">Hu murie
+hit were to haue <c type="thorn">&#x00FE;</c>e siht <milestone unit="folio" n="f.47ra"/>
+            <note type="xref">
+               <ref target="#047r.sid"/>
+            </note>
+         </l>
+         <l>Off Godes face <c type="thorn">&#x00FE;</c>at is so briht.</l>
+         <l><c type="pilcrow">&#x00B6;</c> And so he shal casten his loue</l>
+         <l>To Ihesu Crist <c type="thorn">&#x00FE;</c>at is aboue</l>
+         <l>And leten and flen sinful dede,</l>
+         <l n="910">Bo<c type="thorn">&#x00FE;</c>e for
+loue and eke for drede.</l>
+         <l>Ac whoso wole don be my lore,</l>
+         <l>Iwis, he shal spare more,</l>
+         <l>To flen sinne day and niht,</l>
+         <l>For drede to lese <c type="thorn">&#x00FE;</c>at faire siht</l>
+         <l n="915"><c type="pilcrow">&#x00B6;</c> Off Godes
+face <c type="thorn">&#x00FE;</c>at is so cler,</l>
+         <l>Off whom we han al oure power,</l>
+         <l><c type="THORN">&#x00DE;</c>an for drede of any wo,</l>
+         <l><c type="THORN">&#x00DE;</c>at any <c type="thorn">&#x00FE;</c>ing mihte hem do.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Leue frend, herkne to me,</l>
+         <l n="920">And more I
+wole speke to <c type="thorn">&#x00FE;</c>e;</l>
+         <l>For in <c type="thorn">&#x00FE;</c>e godspel I wole rede</l>
+         <l>Off <c type="thorn">&#x00FE;</c>e uertu of almesdede.</l>
+         <l><c type="THORN">&#x00DE;</c>in almesse <c type="thorn">&#x00FE;</c>u shalt for<c type="thorn">&#x00FE;</c> puite,</l>
+         <l>And spare hit noht <c type="thorn">&#x00FE;</c>ouh hit be luite.</l>
+         <l n="925">..... .....
+..... .....</l>
+         <l>God sei<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>us in his lore</l>
+         <l n="“">“Man, if <c type="thorn">&#x00FE;</c>u miht <c type="yogh">&#x021D;</c>eue no more</l>
+         <l><c type="pilcrow">&#x00B6;</c> But a dishful of cold water,</l>
+         <l n="930"><c type="THORN">&#x00DE;</c>u shalt
+hit <c type="yogh">&#x021D;</c>eue neuere <c type="thorn">&#x00FE;</c>e later</l>
+         <l>Wid gode wille and wid charite,</l>
+         <l>And ful wel it wor<c type="thorn">&#x00FE;</c> <c type="yogh">&#x021D;</c>olden <c type="thorn">&#x00FE;</c>e." <milestone unit="folio" n="f.47rb"/>
+            <note type="xref">
+               <ref target="#047r.sid"/>
+            </note>
+         </l>
+         <l>And whan <c type="thorn">&#x00FE;</c>u shalt haue <c type="thorn">&#x00FE;</c>ank and mede</l>
+         <l>For so litel an almesdede,</l>
+         <l n="935"><c type="pilcrow">&#x00B6;</c> Siker
+maitou <c type="thorn">&#x00FE;</c>anne be,</l>
+         <l>If <c type="thorn">&#x00FE;</c>u <c type="yogh">&#x021D;</c>euest muche in charite</l>
+         <l>To God <c type="thorn">&#x00FE;</c>u miht <c type="thorn">&#x00FE;</c>e betre spede,</l>
+         <l>And <c type="thorn">&#x00FE;</c>e more shal ben <c type="thorn">&#x00FE;</c>i mede.</l>
+         <l>Enes I it vnderstod,</l>
+         <l n="940"><c type="THORN">&#x00DE;</c>at in
+almesdede is double god:</l>
+         <l><c type="pilcrow">&#x00B6;</c> It fordo<c type="thorn">&#x00FE;</c> sinne, wite it wel,</l>
+         <l>And hit wole eche <c type="thorn">&#x00FE;</c>i catel.</l>
+         <l>And if <c type="thorn">&#x00FE;</c>u art herof in drede,</l>
+         <l>Hu hit mihte so be in dede,</l>
+         <l n="945">A god
+witnesse I wole drawe,</l>
+         <l>On ensaumple of <c type="thorn">&#x00FE;</c>e olde lawe.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Holi writ <c type="thorn">&#x00FE;</c>at wole noht li<c type="yogh">&#x021D;</c>e</l>
+         <l>Speke<c type="thorn">&#x00FE;</c> of <c type="thorn">&#x00FE;</c>e profete Eli<c type="yogh">&#x021D;</c>e,</l>
+         <l>Hou Ihesu Crist, houre lord swete,</l>
+         <l n="950">Spak to
+Eli<c type="yogh">&#x021D;</c>e <c type="thorn">&#x00FE;</c>e profete.</l>
+         <l>To a pore widewe he him sende,</l>
+         <l>Here bey<c type="thorn">&#x00FE;</c>ere lyf to amende.</l>
+         <l>He seide "Eli<c type="yogh">&#x021D;</c>e, <c type="thorn">&#x00FE;</c>u shalt fare</l>
+         <l>Into Sarepte and wone <c type="thorn">&#x00FE;</c>are.</l>
+         <l n="955"><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>er is a
+widewe <c type="thorn">&#x00FE;</c>at shal <c type="thorn">&#x00FE;</c>e fede,</l>
+         <l>And I wole <c type="yogh">&#x021D;</c>elde wel hire mede.”</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>e profete Helie began anon <milestone unit="folio" n="f.47va"/>
+            <note type="xref">
+               <ref target="#047v.sid"/>
+            </note>
+         </l>
+         <l>For<c type="thorn">&#x00FE;</c> in his weie for to gon.</l>
+         <l>At <c type="thorn">&#x00FE;</c>e <c type="yogh">&#x021D;</c>ate of <c type="thorn">&#x00FE;</c>e cite <c type="thorn">&#x00FE;</c>e widewe he mette</l>
+         <l n="960">And faire
+anon he hire grette.</l>
+         <l>He bad hire for Godes loue,</l>
+         <l><c type="THORN">&#x00DE;</c>at us alle sit aboue,</l>
+         <l>A disful water she sholde him <c type="yogh">&#x021D;</c>iue,</l>
+         <l>For to helpen him to liue.</l>
+         <l n="965"><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>e widewe
+seide she wolde fain,</l>
+         <l>And to serue him she turne a<c type="yogh">&#x021D;</c>en.</l>
+         <l>After hire he gan to crie,</l>
+         <l>And bad hire <c type="thorn">&#x00FE;</c>at she sholde hie.</l>
+         <l n="“">“Do" he seide "be my red,</l>
+         <l n="970">Bring me
+wid <c type="thorn">&#x00FE;</c>e a shiue bred.”</l>
+         <l><c type="THORN">&#x00DE;</c>e widewe him answere[de] anon</l>
+         <l n="“">“Siker" she seide "bred haue I non,</l>
+         <l>Ne noht <c type="thorn">&#x00FE;</c>at I mihte <c type="thorn">&#x00FE;</c>e <c type="yogh">&#x021D;</c>iue</l>
+         <l>For to helpe <c type="thorn">&#x00FE;</c>e to liue</l>
+         <l n="975"><c type="pilcrow">&#x00B6;</c> But an
+handful mele in o picher</l>
+         <l>And a litel oyle, <c type="thorn">&#x00FE;</c>at is cler,</l>
+         <l><c type="THORN">&#x00DE;</c>at I mot make of mete here</l>
+         <l>To me and to my children ifere;</l>
+         <l>And se<c type="thorn">&#x00FE;</c><c type="thorn">&#x00FE;</c>e we moten deie in sore,</l>
+         <l n="980">For mete
+haue we no more.”</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>e profete hire answerede <c type="thorn">&#x00FE;</c>o</l>
+         <l n="“">“Abid" he seide "er <c type="thorn">&#x00FE;</c>u go. <milestone unit="folio" n="f.47vb"/>
+            <note type="xref">
+               <ref target="#047v.sid"/>
+            </note>
+         </l>
+         <l>First <c type="thorn">&#x00FE;</c>erof mak me mete,</l>
+         <l>And whan <c type="thorn">&#x00FE;</c>at I hit haue i-ete,</l>
+         <l n="985">Off <c type="thorn">&#x00FE;</c>at
+bileue<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>u shalt make</l>
+         <l>For <c type="thorn">&#x00FE;</c>e and for <c type="thorn">&#x00FE;</c>i children sake.”</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>is seli widewe <c type="thorn">&#x00FE;</c>o wel sone</l>
+         <l>Grauntede wel al his bone.</l>
+         <l>For his loue <c type="thorn">&#x00FE;</c>at him <c type="thorn">&#x00FE;</c>ider sende,</l>
+         <l n="990">Hire litel
+mete she wolde spende.</l>
+         <l><c type="THORN">&#x00DE;</c>o <c type="thorn">&#x00FE;</c>e profete <c type="thorn">&#x00FE;</c>is iseih</l>
+         <l>His ei<c type="yogh">&#x021D;</c>en he kest to God on heih,</l>
+         <l>To him he made an orysoun,</l>
+         <l>And anon God putte his fuisoun</l>
+         <l n="995">Vpon hire
+mele in hire picher</l>
+         <l>And on hire oyle, <c type="thorn">&#x00FE;</c>at is cler.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>o seide anon <c type="thorn">&#x00FE;</c>e profete</l>
+         <l>To <c type="thorn">&#x00FE;</c>e widewe wordes swete</l>
+         <l n="“">“Ne dred <c type="thorn">&#x00FE;</c>e noht, womman, in <c type="thorn">&#x00FE;</c>i <c type="thorn">&#x00FE;</c>ouht</l>
+         <l n="1000"><c type="THORN">&#x00DE;</c>i mele ne shal wante noht,</l>
+         <l>And <c type="thorn">&#x00FE;</c>in oyle shal waxen sikerli;</l>
+         <l><c type="THORN">&#x00DE;</c>i lome shal noht ben empti.”</l>
+         <l><c type="pilcrow">&#x00B6;</c> Gret plente hadde <c type="thorn">&#x00FE;</c>e widewe <c type="thorn">&#x00FE;</c>o,</l>
+         <l>While she liuede euere mo.</l>
+         <l n="1005">Now <c type="thorn">&#x00FE;</c>u miht knowe in <c type="thorn">&#x00FE;</c>i mod,</l>
+         <l><c type="THORN">&#x00DE;</c>at in almesse dede is double god.</l>
+         <l>Almesdede for ..... <milestone unit="folio" n="f.48r"/>
+            <note type="xref">
+               <ref target="#048r.sid"/>
+            </note>
+         </l>
+         <l>And <c type="thorn">&#x00FE;</c>er<c type="thorn">&#x00FE;</c>ur .....</l>
+         <l>And <c type="thorn">&#x00FE;</c>i god .....</l>
+         <l n="1010">So sei<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e bo .....</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>e godspel se .....</l>
+         <l><c type="yogh">&#x021D;</c>if and men s.....</l>
+         <l>In ano<c type="thorn">&#x00FE;</c>er stede .....</l>
+         <l><c type="THORN">&#x00DE;</c>at God self se .....</l>
+         <l n="1015">Al <c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>u dost .....</l>
+         <l>To <c type="thorn">&#x00FE;</c>e leste of .....</l>
+         <l>Riht to my se .....</l>
+         <l><c type="THORN">&#x00DE;</c>u dost <c type="thorn">&#x00FE;</c>i prese .....</l>
+         <l><c type="pilcrow">&#x00B6;</c> Glad maitou .....</l>
+         <l n="1020">Also ofte as <c type="thorn">&#x00FE;</c>.....</l>
+         <l>For <c type="thorn">&#x00FE;</c>u miht .....</l>
+         <l><c type="THORN">&#x00DE;</c>u takest hit .....</l>
+         <l>For Godes .....</l>
+         <l><c type="THORN">&#x00DE;</c>erof bere<c type="thorn">&#x00FE;</c> .....</l>
+         <l n="1025">A man man b.....</l>
+         <l>Ihu Crist for to .....</l>
+         <l>For <c type="thorn">&#x00FE;</c>erwid <c type="thorn">&#x00FE;</c>u .....</l>
+         <l>And heuene .....</l>
+         <l>To <c type="thorn">&#x00FE;</c>at blisse .....</l>
+         <l n="1030"><c type="thorn">&#x00FE;</c>at is king .....</l>
+         <l><c type="pilcrow">&#x00B6;</c> And <c type="yogh">&#x021D;</c>eue us .....</l>
+      </body>
+   </text>
+</TEI>

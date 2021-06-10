@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Four Foes of Mankind</title>
+            <author>Auchinleck Project</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>This file is part of the facsimile-edition of the Auchinleck Manuscript was
+                     co-edited by Professor David Burnley and Dr Alison Wiggins.  The HTML versions of 
+                     the resource are freely available at http://www.nls.uk/auchinleck/ </p>
+         </publicationStmt>
+         <notesStmt>
+            <note>This manuscript file was originally supplied as foes.html and the header file was located in heads/foes_head.html both of which were
+                        converted to TEI XML by Dr James Cummings of the Oxford Text Archive. The
+                        notes below were taken from the header file and each HTML paragraph placed in 
+                        a separate note. </note>
+            <note>
+               <p>
+                  <hi rend="bold">Scribe 1</hi>
+               </p>
+            </note>
+            <note>
+               <p>16-line stanzas, rhyming <emph>aaabcccbdddbeeeb</emph>. Markedly
+alliterative. 112 lines.</p>
+            </note>
+            <note>
+               <p>Unique copy.</p>
+            </note>
+            <note>
+               <p>
+                  <hi rend="bold">Edition</hi>:<lb/>
+C. Carleton-Brown, <emph>Religious Lyrics of the XIVth Century</emph>
+(Oxford: Clarendon, 1924). Second edition revised by G. V. Smithers
+(Oxford: Clarendon, 1952).<lb/>
+               </p>
+            </note>
+            <note>
+               <p>
+                  <hi rend="bold">Other editions</hi>:<lb/>
+C. Bullock, 'The Enemies of Man', <emph>Review of English Studies</emph>,
+5, 18 (1929): 186-194.<lb/>
+E. Kölbing, 'Kleine Publicationen aus der Auchinleck-hs: VIII, Die
+Feinde des Menschen', <emph>Englische Studien</emph>, 9 (1886):
+441-442.<lb/>
+D. Laing, <emph>Owain Miles</emph> (Edinburgh: Privately printed,
+1837).<lb/>
+               </p>
+            </note>
+            <note>
+               <p>
+                  <emph>Index 3462.</emph>
+               </p>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <p>The Auchinleck Manuscript (NLS Adv MS 19.2.1) is one of the National Library of
+                     Scotland’s greatest treasures. Produced in London in the 1330s, it provides a
+                     unique insight into the English language and literature that Chaucer and his
+                     generation grew up with and were influenced by. It acquired its name from its
+                     first known owner, Lord Auchinleck, who discovered the manuscript in 1740 and
+                     donated it to the precursor of the National Library in 1744.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>The Four Foes of Mankind</head>
+         <l><c type="THORN">&#x00DE;</c>e siker so<c type="thorn">&#x00FE;</c>e whoso seys <milestone unit="folio" n="f.303rb"/>
+            <note type="xref">
+               <ref target="#303r.sid"/>
+            </note>
+         </l>
+         <l>Wi<c type="thorn">&#x00FE;</c> diol dreye we our days</l>
+         <l>&amp; walk mani wil ways</l>
+         <l>As wandrand wi<c type="yogh">&#x021D;</c>tes.</l>
+         <l n="5">Al our
+games ous agas,</l>
+         <l>So mani tenes ou[s] tas</l>
+         <l><c type="THORN">&#x00DE;</c>urth fonding of fele fas</l>
+         <l><c type="THORN">&#x00DE;</c>at fast wi<c type="thorn">&#x00FE;</c> ous fi<c type="yogh">&#x021D;</c>tes.</l>
+         <l>Our flesche is fouled wi<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e fende</l>
+         <l n="10"><c type="THORN">&#x00DE;</c>er we
+finde a fals frende;</l>
+         <l><c type="THORN">&#x00DE;</c>ei <c type="thorn">&#x00FE;</c>ai heuen vp her hende</l>
+         <l><c type="THORN">&#x00DE;</c>ai no hold nou<c type="yogh">&#x021D;</c>t her hi<c type="yogh">&#x021D;</c>tes.</l>
+         <l><c type="THORN">&#x00DE;</c>is er <c type="thorn">&#x00FE;</c>re <c type="thorn">&#x00FE;</c>at er <c type="thorn">&#x00FE;</c>ra, <note n="note-foes-1" type="ed">
+               <emph>er</emph>: <emph>e</emph> altered from <emph>i</emph> on both
+occasions.</note>
+         </l>
+         <l><c type="yogh">&#x021D;</c>ete <c type="thorn">&#x00FE;</c>e fer<c type="thorn">&#x00FE;</c> is our fa:</l>
+         <l n="15">De<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>at
+derie<c type="thorn">&#x00FE;</c> ous swa</l>
+         <l>&amp; diolely ous di<c type="yogh">&#x021D;</c>tes.</l>
+         <l><c type="pilcrow">&#x00B6;</c> <c type="THORN">&#x00DE;</c>is world wile<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>us, y wat,</l>
+         <l><c type="THORN">&#x00DE;</c>urth falsschip of fairhat;</l>
+         <l>Where we go bi ani gat</l>
+         <l n="20">Wi<c type="thorn">&#x00FE;</c> bale he
+ous bites:</l>
+         <l>Now kirt, now care,</l>
+         <l>Now min, now mare,</l>
+         <l>Now sounde, now sare,</l>
+         <l>Now song, now sites,</l>
+         <l n="25">Now nou<c type="yogh">&#x021D;</c>t,
+now ynou<c type="yogh">&#x021D;</c>,</l>
+         <l>Now wele, now wou<c type="yogh">&#x021D;</c>,</l>
+         <l>Now is in longing <c type="thorn">&#x00FE;</c>at lou<c type="yogh">&#x021D;</c></l>
+         <l><c type="THORN">&#x00DE;</c>at o <c type="thorn">&#x00FE;</c>is liif lites,</l>
+         <l>Now geten, now gan;</l>
+         <l n="30">Y tel it
+bot a lent lan</l>
+         <l>When al <c type="thorn">&#x00FE;</c>e wel<c type="thorn">&#x00FE;</c> of our wan</l>
+         <l><c type="THORN">&#x00DE;</c>us oway wites.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Now vnder, now ouer,</l>
+         <l>Now cast, now couer,</l>
+         <l n="35">Now plente,
+now pouer,</l>
+         <l>Now pine, now plawe,</l>
+         <l>Now he<c type="thorn">&#x00FE;</c>en, now here,</l>
+         <l>Now feble, now fere,</l>
+         <l>Now swift, now swere,</l>
+         <l n="40">Now snelle,
+now slawe,</l>
+         <l>Now nou<c type="yogh">&#x021D;</c>t, now ynou<c type="yogh">&#x021D;</c>,</l>
+         <l>Now fals, now frou<c type="yogh">&#x021D;</c>,</l>
+         <l><c type="THORN">&#x00DE;</c>e warld tirue<c type="thorn">&#x00FE;</c> ous tou<c type="yogh">&#x021D;</c></l>
+         <l>Fram wawe to wawe</l>
+         <l n="45">Til we be
+broyden in a brayd <milestone unit="folio" n="f.303va"/>
+            <note type="xref">
+               <ref target="#303v.sid"/>
+            </note>
+         </l>
+         <l><c type="THORN">&#x00DE;</c>at our lickham is layd</l>
+         <l>In a graue <c type="thorn">&#x00FE;</c>at is grayd <note n="note-foes-2" type="ed">This line: inserted in a smaller script by Scribe 1.</note>
+         </l>
+         <l>Vnder lame lawe.</l>
+         <l><c type="pilcrow">&#x00B6;</c> When derne de<c type="thorn">&#x00FE;</c> ous ha<c type="thorn">&#x00FE;</c> ydi<c type="yogh">&#x021D;</c>t</l>
+         <l n="50">Is non so
+war no so wi<c type="yogh">&#x021D;</c>t</l>
+         <l><c type="THORN">&#x00DE;</c>at he no felles him in fi<c type="yogh">&#x021D;</c>t</l>
+         <l>As fire dos in tunder;</l>
+         <l><c type="THORN">&#x00DE;</c>er nis no letting at lite</l>
+         <l><c type="THORN">&#x00DE;</c>at he no tittes til him tite</l>
+         <l n="55"><c type="THORN">&#x00DE;</c>at he ha<c type="thorn">&#x00FE;</c>
+sammned in site</l>
+         <l>Loue wel he sunder.</l>
+         <l>Noi<c type="thorn">&#x00FE;</c>er he stintes no stokes</l>
+         <l>Bot ay prickes &amp; prokes</l>
+         <l>Til he vnclustri al <c type="thorn">&#x00FE;</c>e lokes</l>
+         <l n="60"><c type="THORN">&#x00DE;</c>at liif
+ligges vnder.</l>
+         <l>When y tent til him take</l>
+         <l>How schuld ich ani mir<c type="thorn">&#x00FE;</c>e make</l>
+         <l>Or wele in <c type="thorn">&#x00FE;</c>is warld wake?</l>
+         <l>Ywis, it were wonder.</l>
+         <l n="65"><c type="pilcrow">&#x00B6;</c> De<c type="thorn">&#x00FE;</c>
+<c type="thorn">&#x00FE;</c>at deries ous <c type="yogh">&#x021D;</c>ete</l>
+         <l>&amp; makes mani wonges wete,</l>
+         <l><c type="THORN">&#x00DE;</c>er nis no liif <c type="thorn">&#x00FE;</c>at he wil lete</l>
+         <l>To lache when him list.</l>
+         <l>When he is lopen out of les</l>
+         <l n="70">No pray
+noman after pes;</l>
+         <l>For non giftes <c type="thorn">&#x00FE;</c>at ges</l>
+         <l>Mai no man til him trist.</l>
+         <l>Our gode frendes has he fot</l>
+         <l>&amp; put <c type="thorn">&#x00FE;</c>e pouer to <c type="thorn">&#x00FE;</c>e pot</l>
+         <l n="75">&amp; ouer
+him yknett his knott,</l>
+         <l>Vnder his clay kist.</l>
+         <l>Derne de<c type="thorn">&#x00FE;</c>, opon <c type="thorn">&#x00FE;</c>e <c type="yogh">&#x021D;</c>ong</l>
+         <l>Wi<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e to striue it is strong;</l>
+         <l>Y wold be wreken of mi wrong,</l>
+         <l n="80"><c type="yogh">&#x021D;</c>if y way
+wist.</l>
+         <l><c type="pilcrow">&#x00B6;</c> When <c type="thorn">&#x00FE;</c>ou has gaderd &amp; yglened</l>
+         <l>Long lyopon &amp; lened</l>
+         <l>Sparely <c type="thorn">&#x00FE;</c>i gode spened</l>
+         <l>&amp; lo<c type="thorn">&#x00FE;</c> for to lete.</l>
+         <l n="85"><c type="THORN">&#x00DE;</c>e war
+leuer swelt vnder sword</l>
+         <l><c type="THORN">&#x00DE;</c>an parti of <c type="thorn">&#x00FE;</c>i peni hord;</l>
+         <l><c type="THORN">&#x00DE;</c>ou wringest mani wrang word</l>
+         <l>Wi<c type="thorn">&#x00FE;</c> wanges ful wete;</l>
+         <l>&amp; de<c type="thorn">&#x00FE;</c> dinges o di dore</l>
+         <l n="90"><c type="THORN">&#x00DE;</c>at nedes
+schal be <c type="thorn">&#x00FE;</c>i nei<c type="yogh">&#x021D;</c>ebore <milestone unit="folio" n="f.303vb"/>
+            <note type="xref">
+               <ref target="#303v.sid"/>
+            </note>
+         </l>
+         <l>&amp; fett <c type="thorn">&#x00FE;</c>e to ten f[l]ore</l>
+         <l>Foule vnder fete.</l>
+         <l>For al <c type="thorn">&#x00FE;</c>e craft <c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>ou can</l>
+         <l>&amp; al <c type="thorn">&#x00FE;</c>e wele <c type="thorn">&#x00FE;</c>atow wan</l>
+         <l n="95"><c type="THORN">&#x00DE;</c>e mock
+&amp; <c type="thorn">&#x00FE;</c>e mad man</l>
+         <l>No schul <c type="thorn">&#x00FE;</c>ai neuer mete.</l>
+         <l><c type="pilcrow">&#x00B6;</c> Se<c type="thorn">&#x00FE;</c><c type="thorn">&#x00FE;</c>en font ous fra fil<c type="thorn">&#x00FE;</c> wesche <note n="note-foes-3" type="ed">
+               <emph>ous</emph>: <emph>s</emph> inserted superscript.<lb/>
+               <emph>wesche</emph>: originally <emph>wasche</emph>; <emph>e</emph> inserted<lb/>
+superscript and <emph>a</emph> underdotted<lb/>
+            </note>
+         </l>
+         <l>Our fa haue founde we our flesche</l>
+         <l>Wi<c type="thorn">&#x00FE;</c> mani fondinges &amp; fresche</l>
+         <l n="100">&amp;
+four-sum of fendes.</l>
+         <l>Is nan so <c type="thorn">&#x00FE;</c>ra of hem <c type="thorn">&#x00FE;</c>re</l>
+         <l><c type="THORN">&#x00DE;</c>at ma merres <c type="thorn">&#x00FE;</c>an me;</l>
+         <l>Bisier mai nan be</l>
+         <l>To bring ous out bendes.</l>
+         <l n="105">Man, mene
+<c type="thorn">&#x00FE;</c>ou <c type="thorn">&#x00FE;</c>i mis,</l>
+         <l>Trowe trustly on <c type="thorn">&#x00FE;</c>is:</l>
+         <l><c type="THORN">&#x00DE;</c>ou no wat neuer, ywis,</l>
+         <l>In world whare <c type="thorn">&#x00FE;</c>ou wendes,</l>
+         <l>No wat gat <c type="thorn">&#x00FE;</c>atow gas,</l>
+         <l n="110"><c type="THORN">&#x00DE;</c>is four er
+redi on <c type="thorn">&#x00FE;</c>i pas.</l>
+         <l>Now haue y founden <c type="thorn">&#x00FE;</c>i fas,</l>
+         <l>Finde tow <c type="thorn">&#x00FE;</c>i frendes.</l>
+      </body>
+   </text>
+</TEI>

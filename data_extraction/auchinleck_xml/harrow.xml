@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Harrowing of Hell</title>
+            <author>Auchinleck Project</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>This file is part of the facsimile-edition of the Auchinleck Manuscript was
+                     co-edited by Professor David Burnley and Dr Alison Wiggins.  The HTML versions of 
+                     the resource are freely available at http://www.nls.uk/auchinleck/ </p>
+         </publicationStmt>
+         <notesStmt>
+            <note>This manuscript file was originally supplied as harrow.html and the header file was located in heads/harrow_head.html both of which were
+                        converted to TEI XML by Dr James Cummings of the Oxford Text Archive. The
+                        notes below were taken from the header file and each HTML paragraph placed in 
+                        a separate note. </note>
+            <note>
+               <p>
+                  <hi rend="bold">Scribe 1</hi>
+               </p>
+            </note>
+            <note>
+               <p>Short couplets. Speeches assigned to personages by name. 200
+lines, omitting stub and Latin speech labels. Begins and ends
+imperfect. The first 18 line-ends on f.35rb are additional to the
+version in MS Harley 2253 and probably indicate a different preface
+occupying about two and a half columns. At least 75 lines lost.</p>
+            </note>
+            <note>
+               <p>Probably written in the E. Midlands during the second half of
+the 13th century.</p>
+            </note>
+            <note>
+               <p>Two other manuscripts:<lb/>
+                  <hi rend="bold">Bodleian Library MS 1687 (Digby 86)</hi>. <emph>c</emph>.1275. 250
+lines. Digby 86 also has in common with Auchinleck: <emph>The Sayings
+of St Bernard</emph>, <emph>How Our Lady's Sauter was First Found</emph> and
+<emph>The Thrush and the Nightingale</emph>.<lb/>
+                  <hi rend="bold">BL Harley MS 2253</hi>. <emph>c</emph>.1310. W. Midlands (Ludlow). 248
+lines. Harley 2253 also has in common with Auchinleck: the
+<emph>Alphabetical Praise of Women</emph> and <emph>The Sayings of St
+Bernard</emph>.<lb/>
+               </p>
+            </note>
+            <note>
+               <p>
+                  <hi rend="bold">Edition</hi>:<lb/>
+W. H. Hulme, <emph>The Middle English Harrowing of Hell</emph>, EETS ES
+100 (London: Trübner, 1907; reprinted 1961).<lb/>
+               </p>
+            </note>
+            <note>
+               <p>
+                  <hi rend="bold">Other editions</hi>:<lb/>
+H. Varnhagen, <emph>Praemissa est Editionis Criticae Retustissimi quod
+Sermone Anglico Conscriptum est Dramatis Pars Prior</emph> (Erlangen,
+1898). (Facsimiles of all MSS).<lb/>
+D. Laing, <emph>Owain Miles</emph> (Edinburgh: Privately printed,
+1837).<lb/>
+               </p>
+            </note>
+            <note>
+               <p>
+                  <emph>Manual II, 449; 641. Index 185; 1258.</emph>
+               </p>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <p>The Auchinleck Manuscript (NLS Adv MS 19.2.1) is one of the National Library of
+                     Scotland’s greatest treasures. Produced in London in the 1330s, it provides a
+                     unique insight into the English language and literature that Chaucer and his
+                     generation grew up with and were influenced by. It acquired its name from its
+                     first known owner, Lord Auchinleck, who discovered the manuscript in 1740 and
+                     donated it to the precursor of the National Library in 1744.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>The Harrowing of Hell</head>
+         <l>... mare . <milestone unit="folio" n="f.35vb"/>
+            <note type="xref">
+               <ref target="#035v.sid"/>
+            </note>
+         </l>
+         <l>... helle fare <note n="note-harrow-1" type="ed">Stub. Lineation commences from f.36ra</note>
+         </l>
+         <l>... helle</l>
+         <l>...es duelle</l>
+         <l>...e</l>
+         <l>... pine</l>
+         <l>...den man</l>
+         <l>...e adam</l>
+         <l>...emmed was</l>
+         <l>... <c type="thorn">&#x00FE;</c>e glas</l>
+         <l>...ou<c type="yogh">&#x021D;</c>t for his</l>
+         <l>... was his</l>
+         <l>... born</l>
+         <l>...ar for lorn</l>
+         <l>... in er<c type="thorn">&#x00FE;</c>e here</l>
+         <l>...e half <c type="yogh">&#x021D;</c>ere</l>
+         <l>...ow</l>
+         <l>...n</l>
+         <l>...de</l>
+         <l>...nde</l>
+         <l>... pointe</l>
+         <l>... be</l>
+         <l>...e</l>
+         <l>...te</l>
+         <l>... come</l>
+         <l>... sone</l>
+         <l>...e</l>
+         <l>...e</l>
+         <l>...g</l>
+         <l>... crist</l>
+         <l>...m</l>
+         <l>... <c type="yogh">&#x021D;</c>aue</l>
+         <l>Vntil crist loked <c type="thorn">&#x00FE;</c>aim vnto, <milestone unit="folio" n="f.36ra"/>
+            <note type="xref">
+               <ref target="#036r.sid"/>
+            </note>
+         </l>
+         <l>As man au<c type="yogh">&#x021D;</c>t to prisouns do;</l>
+         <l>He li<c type="yogh">&#x021D;</c>ted out of his hei<c type="yogh">&#x021D;</c>e tour</l>
+         <l>Into seynt Mari bour;</l>
+         <l n="5">He was born
+for our misdede</l>
+         <l>In <c type="thorn">&#x00FE;</c>is world in pouer wede,</l>
+         <l>In <c type="thorn">&#x00FE;</c>is world he suffred dede,</l>
+         <l>For to deliuer ous fram <c type="thorn">&#x00FE;</c>e qued.</l>
+         <l><c type="THORN">&#x00DE;</c>an Ihesu hadde spilt his blod</l>
+         <l n="10">For our
+sinnes on <c type="thorn">&#x00FE;</c>e rode,</l>
+         <l>He nam him <c type="thorn">&#x00FE;</c>e ri<c type="yogh">&#x021D;</c>t way</l>
+         <l>Vnto helle for so<c type="thorn">&#x00FE;</c>e to say.</l>
+         <l><c type="THORN">&#x00DE;</c>an he com <c type="thorn">&#x00FE;</c>er <c type="thorn">&#x00FE;</c>an seyd he</l>
+         <l>As y schal now telle <c type="thorn">&#x00FE;</c>e.</l>
+         <l>
+            <emph>dominus ait.</emph>
+         </l>
+         <l n="15">‘Hard
+gates haue y gon</l>
+         <l>&amp; suffred pines mani on;</l>
+         <l><c type="THORN">&#x00DE;</c>ritti winter &amp; <c type="thorn">&#x00FE;</c>ridde half <c type="yogh">&#x021D;</c>ere</l>
+         <l>Haue y wond in lond here;</l>
+         <l>Almast is so michel gan</l>
+         <l n="20">Se<c type="thorn">&#x00FE;</c><c type="thorn">&#x00FE;</c>en y
+bicom first man;</l>
+         <l>Se<c type="thorn">&#x00FE;</c><c type="thorn">&#x00FE;</c>en haue y fond &amp; wist</l>
+         <l>Hot &amp; cold, hunger &amp; <c type="thorn">&#x00FE;</c>rest.</l>
+         <l>Man ha<c type="thorn">&#x00FE;</c> don me schame &amp; <c type="thorn">&#x00FE;</c>ou<c type="yogh">&#x021D;</c></l>
+         <l>Wi<c type="thorn">&#x00FE;</c> word, wi<c type="thorn">&#x00FE;</c> dede &amp; michel wou<c type="yogh">&#x021D;</c>;</l>
+         <l n="25"><c type="THORN">&#x00DE;</c>ai tok me
+wi<c type="thorn">&#x00FE;</c>outen sake,</l>
+         <l><c type="THORN">&#x00DE;</c>ai bond min honden bihinde mi bac,</l>
+         <l><c type="THORN">&#x00DE;</c>ai bete me til y ran on blode,</l>
+         <l><c type="THORN">&#x00DE;</c>ai dempt me to hong on rode;</l>
+         <l>Alle for Adams sinne, ywis,</l>
+         <l n="30"><c type="THORN">&#x00DE;</c>an haue y
+<c type="thorn">&#x00FE;</c>oled <c type="thorn">&#x00FE;</c>is.</l>
+         <l>Adam <c type="thorn">&#x00FE;</c>us dere haue y bou<c type="yogh">&#x021D;</c>t,</l>
+         <l>&amp; <c type="thorn">&#x00FE;</c>ou no louedest me neuer nou<c type="yogh">&#x021D;</c>t;</l>
+         <l>Adam y haue bou<c type="yogh">&#x021D;</c>t ful sare</l>
+         <l>&amp; y wil suffre it na mare.</l>
+         <l n="35">Today y
+schal bring of pine,</l>
+         <l>Adam, <c type="thorn">&#x00FE;</c>e &amp; alle <c type="thorn">&#x00FE;</c>ine.’</l>
+         <l>
+            <emph>satanas dixit.</emph>
+         </l>
+         <l>‘Who is <c type="thorn">&#x00FE;</c>at ich here <c type="thorn">&#x00FE;</c>are?</l>
+         <l>Y rede <c type="thorn">&#x00FE;</c>at he spek namare,</l>
+         <l>For he may so michel do</l>
+         <l n="40"><c type="THORN">&#x00DE;</c>at he
+schal comen ous vnto</l>
+         <l>For to ben our fere</l>
+         <l>&amp; loke hou we playen here.’</l>
+         <l>
+            <emph>dominus ait.</emph>
+         </l>
+         <l>‘<c type="THORN">&#x00DE;</c>ou may wele wite mi play <milestone unit="folio" n="f.36rb"/>
+            <note type="xref">
+               <ref target="#036r.sid"/>
+            </note>
+         </l>
+         <l><c type="THORN">&#x00DE;</c>at min wil y haue oway;</l>
+         <l n="45">Wele <c type="thorn">&#x00FE;</c>ou
+wost wat ich am:</l>
+         <l>More <c type="thorn">&#x00FE;</c>an <c type="thorn">&#x00FE;</c>ritti winter is gan</l>
+         <l><c type="THORN">&#x00DE;</c>at <c type="thorn">&#x00FE;</c>ou hast frained me</l>
+         <l>For to wite what y be;</l>
+         <l>Se<c type="thorn">&#x00FE;</c><c type="thorn">&#x00FE;</c>en fondestow neuer nan</l>
+         <l n="50">Wi<c type="thorn">&#x00FE;</c> me as
+wi<c type="thorn">&#x00FE;</c> ano<c type="thorn">&#x00FE;</c>er man,</l>
+         <l>&amp; <c type="thorn">&#x00FE;</c>ou wost wele for<c type="thorn">&#x00FE;</c>an</l>
+         <l><c type="THORN">&#x00DE;</c>at ich am more <c type="thorn">&#x00FE;</c>an ani man.</l>
+         <l><c type="THORN">&#x00DE;</c>ou schalt wite <c type="thorn">&#x00FE;</c>is ich day</l>
+         <l><c type="THORN">&#x00DE;</c>at y schal haue min oway,</l>
+         <l n="55">&amp; y
+schal <c type="thorn">&#x00FE;</c>e leue here</l>
+         <l>In sorwe among <c type="thorn">&#x00FE;</c>ine fere.’</l>
+         <l>
+            <emph>satanas dixit.</emph>
+         </l>
+         <l>‘Par ma fay! ich hald mine,</l>
+         <l>Al <c type="thorn">&#x00FE;</c>at ben hereinne;</l>
+         <l>Wi<c type="thorn">&#x00FE;</c> resoun wil y telle <c type="thorn">&#x00FE;</c>e</l>
+         <l n="60"><c type="THORN">&#x00DE;</c>at
+<c type="thorn">&#x00FE;</c>erogain may <c type="thorn">&#x00FE;</c>ou nou<c type="yogh">&#x021D;</c>t be;</l>
+         <l><c type="THORN">&#x00DE;</c>at me bihoue<c type="thorn">&#x00FE;</c> haue &amp; hald</l>
+         <l>&amp; wi<c type="thorn">&#x00FE;</c>outen ende wald,</l>
+         <l>For whoso bigge<c type="thorn">&#x00FE;</c> ani<c type="thorn">&#x00FE;</c>ing,</l>
+         <l>It owe to ben his wi<c type="thorn">&#x00FE;</c>outen lesing;</l>
+         <l n="65">Adam hungri
+come me to,</l>
+         <l>Manred y made him me to do;</l>
+         <l>For an appel <c type="thorn">&#x00FE;</c>at y <c type="yogh">&#x021D;</c>af him</l>
+         <l>He is min &amp; al his kin.’</l>
+         <l>
+            <emph>dominus ait.</emph>
+         </l>
+         <l>‘Satanas’ he seyd ‘it was min,</l>
+         <l n="70"><c type="THORN">&#x00DE;</c>e appel
+<c type="thorn">&#x00FE;</c>at <c type="thorn">&#x00FE;</c>ou <c type="yogh">&#x021D;</c>af him;</l>
+         <l><c type="THORN">&#x00DE;</c>e appel &amp; <c type="thorn">&#x00FE;</c>e appel-tre,</l>
+         <l>Bo<c type="thorn">&#x00FE;</c>e war maked <c type="thorn">&#x00FE;</c>urth me;</l>
+         <l>Hou may <c type="thorn">&#x00FE;</c>ou on ani wise</l>
+         <l>Of o<c type="thorn">&#x00FE;</c>er mennes <c type="thorn">&#x00FE;</c>ing mak marchandise?</l>
+         <l n="75">Se<c type="thorn">&#x00FE;</c><c type="thorn">&#x00FE;</c>en <c type="thorn">&#x00FE;</c>ou
+bou<c type="yogh">&#x021D;</c>test him wi<c type="thorn">&#x00FE;</c> mine,</l>
+         <l>Wi<c type="thorn">&#x00FE;</c> resoun schuld ichaue him.’</l>
+         <l>
+            <emph>satanas dixit.</emph>
+         </l>
+         <l>‘Ihesu, wele y knawe <c type="thorn">&#x00FE;</c>e,</l>
+         <l><c type="THORN">&#x00DE;</c>at ful sore rewe<c type="thorn">&#x00FE;</c> me;</l>
+         <l><c type="THORN">&#x00DE;</c>ou art lord ouer al,</l>
+         <l n="80">&amp; euer
+was &amp; ay be schal.</l>
+         <l>Heuen &amp; er<c type="thorn">&#x00FE;</c>e weld <c type="thorn">&#x00FE;</c>ou <c type="thorn">&#x00FE;</c>e,</l>
+         <l><c type="THORN">&#x00DE;</c>e soules in helle lat <c type="thorn">&#x00FE;</c>ou be;</l>
+         <l>Lat me haue <c type="thorn">&#x00FE;</c>at ich halde,</l>
+         <l><c type="THORN">&#x00DE;</c>at <c type="thorn">&#x00FE;</c>ou hast, wele mot <c type="thorn">&#x00FE;</c>ou it wald.’
+<milestone unit="folio" n="f.36va"/>
+            <note type="xref">
+               <ref target="#036v.sid"/>
+            </note>
+         </l>
+         <l>
+            <emph>dominus ait.</emph>
+         </l>
+         <l n="85">‘Sitte
+now stille, Satanas.</l>
+         <l><c type="THORN">&#x00DE;</c>e is fallen a mesas.</l>
+         <l>Wenestow <c type="thorn">&#x00FE;</c>at y dyed for nou<c type="yogh">&#x021D;</c>t?</l>
+         <l>Wi<c type="thorn">&#x00FE;</c> mi dede was mankin bou<c type="yogh">&#x021D;</c>t;</l>
+         <l><c type="THORN">&#x00DE;</c>ai <c type="thorn">&#x00FE;</c>at haue serued me,</l>
+         <l n="90">In blis
+schal <c type="thorn">&#x00FE;</c>ai euer be;</l>
+         <l><c type="THORN">&#x00DE;</c>ai <c type="thorn">&#x00FE;</c>at no<c type="thorn">&#x00FE;</c>ing serued me,</l>
+         <l><c type="THORN">&#x00DE;</c>ai schal in helle be wi<c type="thorn">&#x00FE;</c> <c type="thorn">&#x00FE;</c>e;</l>
+         <l>Bot <c type="thorn">&#x00FE;</c>ou schalt ben in more pine</l>
+         <l><c type="THORN">&#x00DE;</c>an ani o<c type="thorn">&#x00FE;</c>er <c type="thorn">&#x00FE;</c>at is <c type="thorn">&#x00FE;</c>ereinne.’</l>
+         <l>
+            <emph>Satanas dixit.</emph>
+         </l>
+         <l n="95">‘<c type="THORN">&#x00DE;</c>er may
+me no man wers do</l>
+         <l><c type="THORN">&#x00DE;</c>an ichaue had hiderto;</l>
+         <l>Ich haue hadde so michel wo,</l>
+         <l><c type="THORN">&#x00DE;</c>at me no rek whider y go.</l>
+         <l><c type="yogh">&#x021D;</c>if <c type="thorn">&#x00FE;</c>ou bireuest me of mine,</l>
+         <l n="100">Y schal
+bireue <c type="thorn">&#x00FE;</c>e of <c type="thorn">&#x00FE;</c>ine;</l>
+         <l>Y schal go fro man to man</l>
+         <l>&amp; bireue <c type="thorn">&#x00FE;</c>e mani an.’</l>
+         <l>
+            <emph>[d]ominus ait.</emph>
+         </l>
+         <l>‘So y schal speke <c type="thorn">&#x00FE;</c>e wi<c type="thorn">&#x00FE;</c>,</l>
+         <l><c type="THORN">&#x00DE;</c>at y shal do <c type="thorn">&#x00FE;</c>e hold gri<c type="thorn">&#x00FE;</c>;</l>
+         <l n="105">So fast
+schal y binde <c type="thorn">&#x00FE;</c>e,</l>
+         <l><c type="THORN">&#x00DE;</c>at fewe schaltow binim me;</l>
+         <l>Were <c type="thorn">&#x00FE;</c>ou vnbounde among men,</l>
+         <l>Al <c type="thorn">&#x00FE;</c>ou wost binim me hem.</l>
+         <l><c type="THORN">&#x00DE;</c>e smale deuels <c type="thorn">&#x00FE;</c>at er vnstrang,</l>
+         <l n="110"><c type="THORN">&#x00DE;</c>ai schal
+among mankin gang,</l>
+         <l>&amp; al schul <c type="thorn">&#x00FE;</c>ai haue pain</l>
+         <l><c type="THORN">&#x00DE;</c>at wil nou<c type="yogh">&#x021D;</c>t stond hem o<c type="yogh">&#x021D;</c>ain.</l>
+         <l>Helle <c type="yogh">&#x021D;</c>ates, y com <c type="yogh">&#x021D;</c>ou to,</l>
+         <l>Now ich wil <c type="thorn">&#x00FE;</c>at <c type="yogh">&#x021D;</c>e vndo;</l>
+         <l n="115">Whare is
+he, <c type="thorn">&#x00FE;</c>at <c type="yogh">&#x021D;</c>ateward?</l>
+         <l>Ich hold him for a coward.’</l>
+         <l>
+            <emph>Iannator ait.</emph>
+         </l>
+         <l>‘Ich haue herd wordes hard</l>
+         <l>Whi y no may be no steward;</l>
+         <l>Y lete hem stond &amp; ren oway,</l>
+         <l n="120">Lete hem
+<c type="yogh">&#x021D;</c>eme whoso may.’</l>
+         <l>
+            <emph>dominus ait.</emph>
+         </l>
+         <l>‘Helle <c type="yogh">&#x021D;</c>ates, here y <c type="yogh">&#x021D;</c>ou felle,</l>
+         <l>&amp; se<c type="thorn">&#x00FE;</c><c type="thorn">&#x00FE;</c>en wil ich herwe helle;</l>
+         <l>Lucifer, here y <c type="thorn">&#x00FE;</c>e binde; <milestone unit="folio" n="f.36vb"/>
+            <note type="xref">
+               <ref target="#036v.sid"/>
+            </note>
+         </l>
+         <l>Schaltow neuer he<c type="thorn">&#x00FE;</c>en winde</l>
+         <l n="125">Vntil it
+com domesday.</l>
+         <l>Fare <c type="thorn">&#x00FE;</c>ou se<c type="thorn">&#x00FE;</c><c type="thorn">&#x00FE;</c>en whare <c type="thorn">&#x00FE;</c>ou may,</l>
+         <l>Fare <c type="thorn">&#x00FE;</c>ou se<c type="thorn">&#x00FE;</c><c type="thorn">&#x00FE;</c>en ware <c type="thorn">&#x00FE;</c>ou fare,</l>
+         <l>No dostow neuer man care.’</l>
+         <l>
+            <emph>adam dixit.</emph>
+         </l>
+         <l>‘Welcom, lord God of lond,</l>
+         <l n="130">Godes sone
+&amp; Godes sond,</l>
+         <l>Welcom, lord, mot <c type="thorn">&#x00FE;</c>ou be,</l>
+         <l>Long haues ous <c type="thorn">&#x00FE;</c>ou<c type="yogh">&#x021D;</c>t after <c type="thorn">&#x00FE;</c>e;</l>
+         <l>Lord, se<c type="thorn">&#x00FE;</c><c type="thorn">&#x00FE;</c>en <c type="thorn">&#x00FE;</c>ou art comen to ous,</l>
+         <l><c type="THORN">&#x00DE;</c>ou bring ous out of <c type="thorn">&#x00FE;</c>is hous.</l>
+         <l n="135">Lord, <c type="thorn">&#x00FE;</c>ou
+wost what ich am,</l>
+         <l><c type="THORN">&#x00DE;</c>ou me schope of er<c type="thorn">&#x00FE;</c>e man,</l>
+         <l>&amp; <c type="thorn">&#x00FE;</c>ou me madest formast man,</l>
+         <l>&amp; <c type="thorn">&#x00FE;</c>ou me clepetest sone, Adam;</l>
+         <l>&amp; <c type="yogh">&#x021D;</c>if ich haue sinnes wrou<c type="yogh">&#x021D;</c>t,</l>
+         <l n="140">Ful dere
+now here ichaue hem bou<c type="yogh">&#x021D;</c>t.</l>
+         <l>Whoso sinne<c type="thorn">&#x00FE;</c> ani wi<c type="yogh">&#x021D;</c>t,</l>
+         <l><c type="THORN">&#x00DE;</c>e sinne is more <c type="thorn">&#x00FE;</c>an <c type="thorn">&#x00FE;</c>e pli<c type="yogh">&#x021D;</c>t.</l>
+         <l><c type="yogh">&#x021D;</c>a, leue lord, Godes sone,</l>
+         <l>Welcom be <c type="thorn">&#x00FE;</c>ou &amp; wor<c type="thorn">&#x00FE;</c> come;</l>
+         <l n="145">Al, lord,
+<c type="thorn">&#x00FE;</c>at here be</l>
+         <l>Haue <c type="yogh">&#x021D;</c>erned, lord, after <c type="thorn">&#x00FE;</c>e.</l>
+         <l>We hope wele of <c type="thorn">&#x00FE;</c>i coming</l>
+         <l>Of our sinnes haue botening.’</l>
+         <l>
+            <emph>eua ait.</emph>
+         </l>
+         <l>‘Knawe me, lord, ich am Eue,</l>
+         <l n="150">Adam &amp;
+ich ware <c type="thorn">&#x00FE;</c>e so leue,</l>
+         <l><c type="THORN">&#x00DE;</c>ou <c type="yogh">&#x021D;</c>aue ous to <c type="yogh">&#x021D;</c>eme paradis,</l>
+         <l>&amp; we it <c type="yogh">&#x021D;</c>emed as vnwise</l>
+         <l>When we <c type="thorn">&#x00FE;</c>i comandment forlete,</l>
+         <l>When we of <c type="thorn">&#x00FE;</c>at appel ete.</l>
+         <l n="155">So long
+haue we ben herinne,</l>
+         <l><c type="THORN">&#x00DE;</c>at wele haue we bet our sinne.</l>
+         <l>Leue lord, <c type="yogh">&#x021D;</c>iue ous leue,</l>
+         <l>Adam &amp; his wiif Eue,</l>
+         <l>To fare out of <c type="thorn">&#x00FE;</c>is foule wike</l>
+         <l n="160">Into <c type="thorn">&#x00FE;</c>e
+blis of heuenrike.’</l>
+         <l>
+            <emph>dominus ait.</emph>
+         </l>
+         <l>‘Adam, y haue <c type="yogh">&#x021D;</c>ouen mi liif</l>
+         <l>For <c type="thorn">&#x00FE;</c>e &amp; for Eue <c type="thorn">&#x00FE;</c>i wiif;</l>
+         <l>Wenestow ichadde ben ded for nou<c type="yogh">&#x021D;</c>t?</l>
+         <l>For mi ded is mankin bou<c type="yogh">&#x021D;</c>t.’ <milestone unit="folio" n="f.37ra"/>
+            <note type="xref">
+               <ref target="#037r.sid"/>
+            </note>
+         </l>
+         <l>
+            <emph>abrabam ait.</emph>
+         </l>
+         <l n="165">‘Lord
+Crist, ich it am</l>
+         <l><c type="THORN">&#x00DE;</c>at <c type="thorn">&#x00FE;</c>ou cleptest Abraham.</l>
+         <l><c type="THORN">&#x00DE;</c>ou schust com to helle pine</l>
+         <l>For to haue ous, lord, for <c type="thorn">&#x00FE;</c>in[e];</l>
+         <l>Do astow bihet me:</l>
+         <l n="170">Bring me
+lord to heuen wi<c type="thorn">&#x00FE;</c> [<c type="thorn">&#x00FE;</c>e].’</l>
+         <l>
+            <emph>dominus dixit.</emph>
+         </l>
+         <l>‘Abraham, it was wel</l>
+         <l><c type="THORN">&#x00DE;</c>at <c type="thorn">&#x00FE;</c>ou seydest, eueri del,</l>
+         <l>For mi swete moder wes</l>
+         <l>Born &amp; schapen of <c type="thorn">&#x00FE;</c>i fles.’</l>
+         <l>
+            <emph>dauid dixit.</emph>
+         </l>
+         <l n="175">‘Lord, ich
+am Dauid <c type="thorn">&#x00FE;</c>e king, </l>
+         <note n="note-harrow-2" type="ed">
+            <emph>Lord</emph>: MS reads <emph>Hord</emph>. Artist's error.</note>
+         <l><c type="THORN">&#x00DE;</c>at was born of <c type="thorn">&#x00FE;</c>ine ofs[pring;]</l>
+         <l>Also astow me bihet</l>
+         <l><c type="THORN">&#x00DE;</c>urth <c type="thorn">&#x00FE;</c>e lore of <c type="thorn">&#x00FE;</c>at prophete,</l>
+         <l><c type="THORN">&#x00DE;</c>ou bring ous of <c type="thorn">&#x00FE;</c>is foule [hous] <note n="note-harrow-3" type="ed">
+               <emph><c type="thorn">&#x00FE;</c>is</emph>: <emph>s</emph> is superscript.</note>
+         </l>
+         <l n="180">To <c type="thorn">&#x00FE;</c>e blis
+of heuen ycore[n ous].’</l>
+         <l>
+            <emph>dominus ait.</emph>
+         </l>
+         <l>‘Dauid, <c type="thorn">&#x00FE;</c>ou was born of mi [kin]</l>
+         <l>For <c type="thorn">&#x00FE;</c>i godenes <c type="thorn">&#x00FE;</c>ou art m[in],</l>
+         <l>More for <c type="thorn">&#x00FE;</c>i godenesse</l>
+         <l><c type="THORN">&#x00DE;</c>an for ani sibbenesse.’</l>
+         <l>
+            <emph>Iohannes dixit.</emph>
+         </l>
+         <l n="185">‘Lord
+Crist, ich am Johan</l>
+         <l><c type="THORN">&#x00DE;</c>at <c type="thorn">&#x00FE;</c>e hof in <c type="thorn">&#x00FE;</c>e flom Jordan;
+<note n="note-harrow-4" type="ed">
+               <emph>Lord</emph>: MS reads <emph>Hord</emph>. Rubricator's error.</note>
+         </l>
+         <l>Now a gode while is agon,</l>
+         <l><c type="THORN">&#x00DE;</c>at y suffred martirdom.</l>
+         <l><c type="THORN">&#x00DE;</c>ou sentest me <c type="thorn">&#x00FE;</c>e ri<c type="yogh">&#x021D;</c>t way</l>
+         <l n="190">Into helle,
+for so<c type="thorn">&#x00FE;</c> to say,</l>
+         <l><c type="THORN">&#x00DE;</c>at <c type="thorn">&#x00FE;</c>ou schust deliuer of hell[e pine]</l>
+         <l><c type="THORN">&#x00DE;</c>at <c type="thorn">&#x00FE;</c>ou <c type="thorn">&#x00FE;</c>erin fond, lord, of <c type="thorn">&#x00FE;</c>i[ne].</l>
+         <l>Now artow comen for to do</l>
+         <l><c type="THORN">&#x00DE;</c>at <c type="thorn">&#x00FE;</c>ou saidest me vnto.’</l>
+         <l>
+            <emph>dominus ait.</emph>
+         </l>
+         <l n="195">‘Iohan,
+Johan, ich it wat</l>
+         <l><c type="THORN">&#x00DE;</c>at y sent <c type="thorn">&#x00FE;</c>e <c type="thorn">&#x00FE;</c>e gat;</l>
+         <l><c type="THORN">&#x00DE;</c>ou schalt se <c type="thorn">&#x00FE;</c>at y schal do</l>
+         <l><c type="THORN">&#x00DE;</c>at <c type="thorn">&#x00FE;</c>ou seydest me vnto.’</l>
+         <l>
+            <emph>moyses dixit.</emph>
+         </l>
+         <l>‘Lord <c type="thorn">&#x00FE;</c>ou <c type="yogh">&#x021D;</c>aue me al wi<c type="thorn">&#x00FE;</c> skil</l>
+         <l n="200"><c type="THORN">&#x00DE;</c>e lay
+Sinay on <c type="thorn">&#x00FE;</c>e hil.’</l>
+      </body>
+   </text>
+</TEI>

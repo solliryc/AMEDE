@@ -1,0 +1,22 @@
+<table>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">It</span> <span class="word">bifel</span> <span class="word">whilom</span> <span class="word">ich</span> <span class="word">vnderstond</span></td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">In</span> <span class="word">a</span> <span class="word">cuntre</span> .... <span class="word">of</span> <span class="word">Inglond</span></td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'></td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'></td>
+	<td class='line-note'></td>
+</tr>
+</table>

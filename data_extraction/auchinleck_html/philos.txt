@@ -1,0 +1,497 @@
+<table>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'></td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'></td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">It</span> <span class="word">nis</span> <span class="word">nouþer</span> <span class="word">wel</span> <span class="word">ne</span> <span class="word">faire</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Þerfore</span> <span class="word">Engelond</span> <span class="word">is</span> <span class="word">shent</span>.</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'>5</td>
+	<td class='line-text'></td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'></td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">At</span> <span class="word">Westminster</span> <span class="word">after</span> <span class="word">þe</span> <span class="word">feire</span></td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">maden</span> <span class="word">a</span> <span class="word">gret</span> <span class="word">parlement</span>.</td>
+	<td class='line-note'>Note<div class='tooltip'><em>parlement</em>: <em>ment</em> is superscript.</div></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'></td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'>10</td>
+	<td class='line-text'></td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">It</span> <span class="word">was</span> <span class="word">holde</span> <span class="word">to</span> <span class="word">neih</span> <span class="word">þe</span> <span class="word">fire</span></td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">And</span> <span class="word">is</span> <span class="word">molten</span> <span class="word">al</span> <span class="word">awey</span>.</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'></td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'></td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'>15</td>
+	<td class='line-text'><span class="word">Hundred</span>, <span class="word">chapitle</span>, <span class="word">court</span> <span class="word">and</span> <span class="word">shire</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Al</span> <span class="word">hit</span> <span class="word">goþ</span> <span class="word">a</span> <span class="word">deuel</span> <span class="word">wey</span>.</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'></td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'></td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Of</span> .<span class="word">iiij</span>. <span class="word">wise</span> <span class="word">men</span>, <span class="word">þat</span> <span class="word">þer</span> <span class="word">were</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'>20</td>
+	<td class='line-text'><span class="word">Whi</span> <span class="word">Engelond</span> <span class="word">is</span> <span class="word">brouht</span> <span class="word">adoun</span>.</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'>¶ <span class="word">Þe</span> <span class="word">ferste</span> <span class="word">seide</span> ‘<span class="word">I</span> <span class="word">vnderstonde</span></td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Ne</span> <span class="word">may</span> <span class="word">no</span> <span class="word">king</span> <span class="word">wel</span> <span class="word">ben</span> <span class="word">in</span> <span class="word">londe</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Vnder</span> <span class="word">God</span> <span class="word">almihte</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">But</span> <span class="word">he</span> <span class="word">kunne</span> <span class="word">himself</span> <span class="word">rede</span></td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'>25</td>
+	<td class='line-text'><span class="word">Hou</span> <span class="word">he</span> <span class="word">shal</span> <span class="word">in</span> <span class="word">londe</span> <span class="word">lede</span></td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Eueri</span> <span class="word">man</span> <span class="word">wid</span> <span class="word">rihte</span>.</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'>¶ <span class="word">For</span> <span class="word">miht</span> <span class="word">is</span> <span class="word">riht</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Liht</span> <span class="word">is</span> <span class="word">niht</span></td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">And</span> <span class="word">fiht</span> <span class="word">is</span> <span class="word">fliht</span></td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'>30</td>
+	<td class='line-text'>¶ <span class="word">For</span> <span class="word">miht</span> <span class="word">is</span> <span class="word">riht</span>, <span class="word">þe</span> <span class="word">lond</span> <span class="word">is</span> <span class="word">laweles</span>;</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">For</span> <span class="word">niht</span> <span class="word">is</span> <span class="word">liht</span>, <span class="word">þe</span> <span class="word">lond</span> <span class="word">is</span> <span class="word">lore</span>-<span class="word">les</span>;</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">For</span> <span class="word">fiht</span> <span class="word">is</span> <span class="word">fliht</span>, <span class="word">þe</span> <span class="word">lond</span> <span class="word">is</span> <span class="word">nameles</span>.’</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Þat</span> <span class="word">oþer</span> <span class="word">seide</span> <span class="word">a</span> <span class="word">word</span> <span class="word">ful</span> <span class="word">god</span>:</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'>‘<span class="word">Whoso</span> <span class="word">roweþ</span> <span class="word">aȝein</span> <span class="word">þe</span> <span class="word">flod</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'>35</td>
+	<td class='line-text'><span class="word">Off</span> <span class="word">sorwe</span> <span class="word">he</span> <span class="word">shal</span> <span class="word">drinke</span>;</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Also</span> <span class="word">hit</span> <span class="word">fareþ</span> <span class="word">bi</span> <span class="word">þe</span> <span class="word">vnsele</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">A</span> <span class="word">man</span> <span class="word">shal</span> <span class="word">haue</span> <span class="word">litel</span> <span class="word">hele</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Þeragein</span> <span class="word">to</span> <span class="word">swinke</span>.</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'>¶ <span class="word">Nu</span> <span class="word">on</span> <span class="word">is</span> <span class="word">two</span>,</td>
+	<td class='line-note'>Note<div class='tooltip'><em>two</em>: <em>w</em> is superscript.</div></td>
+</tr>
+<tr>
+	<td class='line-nbr'>40</td>
+	<td class='line-text'><span class="word">Wel</span> <span class="word">is</span> <span class="word">wo</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">And</span> <span class="word">frend</span> <span class="word">is</span> <span class="word">fo</span>.</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">For</span> <span class="word">on</span> <span class="word">is</span> <span class="word">two</span>, <span class="word">þat</span> <span class="word">lond</span> <span class="word">is</span> <span class="word">streinþeles</span>;</td>
+	<td class='line-note'>Note<div class='tooltip'><em>two</em>: <em>w</em> is superscript, with caret.</div></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">For</span> <span class="word">wel</span> <span class="word">is</span> <span class="word">wo</span>, <span class="word">þe</span> <span class="word">lond</span> <span class="word">is</span> <span class="word">reuþeles</span>;</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">For</span> <span class="word">frend</span> <span class="word">is</span> <span class="word">fo</span>, <span class="word">þe</span> <span class="word">lond</span> <span class="word">is</span> <span class="word">loueles</span>.’</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'>45</td>
+	<td class='line-text'>¶ <span class="word">Þat</span> <span class="word">þridde</span> <span class="word">seide</span> ‘<span class="word">it</span> <span class="word">is</span> <span class="word">no</span> <span class="word">wonder</span></td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Off</span> <span class="word">þise</span> <span class="word">eyres</span> <span class="word">þat</span> <span class="word">goþ</span> <span class="word">vnder</span></td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Whan</span> <span class="word">þeih</span> <span class="word">comen</span> <span class="word">to</span> <span class="word">londe</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Proude</span> <span class="word">and</span> <span class="word">stoute</span>, <span class="word">and</span> <span class="word">ginneþ</span> <span class="word">ȝelpe</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Ac</span> <span class="word">of</span> <span class="word">þing</span> <span class="word">þat</span> <span class="word">sholde</span> <span class="word">helpe</span></td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'>50</td>
+	<td class='line-text'><span class="word">Haue</span> <span class="word">þeih</span> <span class="word">noht</span> <span class="word">on</span> <span class="word">honde</span>.</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Nu</span> <span class="word">lust</span> <span class="word">haueþ</span> <span class="word">leue</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Þef</span> <span class="word">is</span> <span class="word">reue</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">And</span> <span class="word">pride</span> <span class="word">haþe</span> <span class="word">sleue</span>.</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">For</span> <span class="word">lust</span> <span class="word">haþ</span> <span class="word">leue</span>, <span class="word">þe</span> <span class="word">lond</span> <span class="word">is</span> <span class="word">þeweles</span>;</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'>55</td>
+	<td class='line-text'><span class="word">For</span> <span class="word">þef</span> <span class="word">is</span> <span class="word">reue</span>, <span class="word">þe</span> <span class="word">lond</span> <span class="word">is</span> <span class="word">penyles</span>;</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">For</span> <span class="word">pride</span> <span class="word">haþe</span> <span class="word">sleue</span>, <span class="word">þe</span> <span class="word">lond</span> <span class="word">is</span> <span class="word">almusles</span>.’</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Þe</span> <span class="word">ferþe</span> <span class="word">seide</span> <span class="word">þat</span> ‘<span class="word">he</span> <span class="word">is</span> <span class="word">wod</span></td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Þat</span> <span class="word">dwelleþ</span> <span class="word">to</span> <span class="word">muchel</span> <span class="word">in</span> <span class="word">þe</span> <span class="word">flod</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">For</span> <span class="word">gold</span> <span class="word">or</span> <span class="word">for</span> <span class="word">auhte</span>.</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'>60</td>
+	<td class='line-text'><span class="word">For</span> <span class="word">gold</span> <span class="word">or</span> <span class="word">siluer</span> <span class="word">or</span> <span class="word">any</span> <span class="word">wele</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Hunger</span> <span class="word">or</span> <span class="word">þurst</span>, <span class="word">hete</span> <span class="word">or</span> <span class="word">chele</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Al</span> <span class="word">shal</span> <span class="word">gon</span> <span class="word">to</span> <span class="word">nohte</span>.</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Nu</span> <span class="word">wille</span> <span class="word">is</span> <span class="word">red</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Wit</span> <span class="word">is</span> <span class="word">qued</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'>65</td>
+	<td class='line-text'><span class="word">And</span> <span class="word">god</span> <span class="word">is</span> <span class="word">ded</span>.</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">For</span> <span class="word">wille</span> <span class="word">is</span> <span class="word">red</span>, <span class="word">þe</span> <span class="word">lond</span> <span class="word">is</span> <span class="word">wrecful</span>;</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">For</span> <span class="word">wit</span> <span class="word">is</span> <span class="word">qued</span>, <span class="word">þe</span> <span class="word">lond</span> <span class="word">is</span> <span class="word">wrongful</span>;</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">For</span> <span class="word">god</span> <span class="word">is</span> <span class="word">ded</span>, <span class="word">þe</span> <span class="word">lond</span> <span class="word">is</span> <span class="word">sinful</span>.’</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Wid</span> <span class="word">wordes</span> <span class="word">as</span> <span class="word">we</span> <span class="word">han</span> <span class="word">pleid</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'>70</td>
+	<td class='line-text'><span class="word">Sum</span> <span class="word">wisdom</span> <span class="word">we</span> <span class="word">han</span> <span class="word">seid</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Off</span> <span class="word">olde</span> <span class="word">men</span> <span class="word">and</span> <span class="word">ȝunge</span>;</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Off</span> <span class="word">many</span> <span class="word">a</span> <span class="word">þing</span> <span class="word">þat</span> <span class="word">is</span> <span class="word">in</span> <span class="word">londe</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Whoso</span> <span class="word">coude</span> <span class="word">it</span> <span class="word">vnderstonde</span></td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">So</span> <span class="word">haue</span> <span class="word">I</span> <span class="word">told</span> <span class="word">wid</span> <span class="word">tunge</span>.</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'>75</td>
+	<td class='line-text'>¶ <span class="word">Riche</span> <span class="word">and</span> <span class="word">pore</span>, <span class="word">bonde</span> <span class="word">and</span> <span class="word">fre</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Þat</span> <span class="word">loue</span> <span class="word">is</span> <span class="word">god</span>, <span class="word">ȝe</span> <span class="word">mai</span> <span class="word">se</span>;</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Loue</span> <span class="word">clepeþ</span> <span class="word">vch</span> <span class="word">man</span> <span class="word">broþer</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">For</span> <span class="word">if</span> <span class="word">þat</span> <span class="word">he</span> <span class="word">to</span> <span class="word">blame</span> <span class="word">be</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Forȝif</span> <span class="word">hit</span> <span class="word">him</span> <span class="word">par</span> <span class="word">charite</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'>80</td>
+	<td class='line-text'><span class="word">Alþeih</span> <span class="word">he</span> <span class="word">do</span> <span class="word">oþer</span>.</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'>¶ <span class="word">Loue</span> <span class="word">we</span> <span class="word">God</span>, <span class="word">and</span> <span class="word">he</span> <span class="word">us</span> <span class="word">alle</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Þat</span> <span class="word">was</span> <span class="word">born</span> <span class="word">in</span> <span class="word">an</span> <span class="word">oxe</span> <span class="word">stalle</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">And</span> <span class="word">for</span> <span class="word">us</span> <span class="word">don</span> <span class="word">on</span> <span class="word">rode</span>.</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">His</span> <span class="word">swete</span> <span class="word">herte</span>-<span class="word">blod</span> <span class="word">he</span> <span class="word">let</span></td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'>85</td>
+	<td class='line-text'><span class="word">ffor</span> <span class="word">us</span>, <span class="word">and</span> <span class="word">us</span> <span class="word">faire</span> <span class="word">het</span></td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Þat</span> <span class="word">we</span> <span class="word">sholde</span> <span class="word">be</span> <span class="word">gode</span>.</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'>¶ <span class="word">Be</span> <span class="word">we</span> <span class="word">nu</span> <span class="word">gode</span> <span class="word">and</span> <span class="word">stedefast</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">So</span> <span class="word">þat</span> <span class="word">we</span> <span class="word">muwen</span>, <span class="word">at</span> <span class="word">þe</span> <span class="word">last</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Hauen</span> <span class="word">heuene</span>-<span class="word">blisse</span>.</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'>90</td>
+	<td class='line-text'><span class="word">To</span> <span class="word">God</span> <span class="word">almihti</span> <span class="word">I</span> <span class="word">preie</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Lat</span> <span class="word">us</span> <span class="word">neuere</span> <span class="word">in</span> <span class="word">sinne</span> <span class="word">deie</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Þat</span> <span class="word">ioye</span> <span class="word">for</span> <span class="word">to</span> <span class="word">misse</span>.</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'>¶ <span class="word">Ac</span> <span class="word">leue</span> <span class="word">us</span> <span class="word">alle</span> <span class="word">so</span> <span class="word">don</span> <span class="word">here</span></td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">And</span> <span class="word">leue</span> <span class="word">in</span> <span class="word">loue</span> <span class="word">and</span> <span class="word">god</span> <span class="word">manere</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'>95</td>
+	<td class='line-text'><span class="word">Þe</span> <span class="word">deuel</span> <span class="word">for</span> <span class="word">to</span> <span class="word">shende</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Þat</span> <span class="word">we</span> <span class="word">moten</span> <span class="word">alle</span> <span class="word">ifere</span></td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Sen</span> <span class="word">him</span> <span class="word">þat</span> <span class="word">us</span> <span class="word">bouhte</span> <span class="word">dere</span>,</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">In</span> <span class="word">ioye</span> <span class="word">widoute</span> <span class="word">ende</span>.</td>
+	<td class='line-note'></td>
+</tr>
+<tr>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Amen</span>.</td>
+	<td class='line-note'></td>
+</tr>
+</table>
