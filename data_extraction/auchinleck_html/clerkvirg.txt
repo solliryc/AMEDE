@@ -1,1007 +1,1007 @@
 <table>
 <tr>
-	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[An</span> <span class="word">an]gel</span> <span class="word">sche</span> <span class="word">sent</span> <span class="word">to</span> <span class="word">him</span> <span class="word">anon</span>.</td>
 	<td class='line-note'></td>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word english_etymology french_etymology">[An</span> <span class="word english_etymology">an]gel</span> <span class="word english_etymology">sche</span> <span class="word">sent</span> <span class="word english_etymology">to</span> <span class="word english_etymology">him</span> <span class="word">anon</span>.</td>
 </tr>
 <tr>
-	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[He</span> <span class="word">g]ret</span> <span class="word">þe</span> <span class="word">clerk</span> <span class="word">wiþ</span> <span class="word">milde</span> <span class="word">steuen</span>.</td>
 	<td class='line-note'></td>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word english_etymology">[He</span> <span class="word">g]ret</span> <span class="word english_etymology">þe</span> <span class="word english_etymology french_etymology latin_etymology">clerk</span> <span class="word english_etymology">wiþ</span> <span class="word english_etymology scandinavian_etymology">milde</span> <span class="word english_etymology">steuen</span>.</td>
 </tr>
 <tr>
-	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[Into]</span> <span class="word">þe</span> <span class="word">chamber</span> <span class="word">when</span> <span class="word">he</span> <span class="word">gan</span> <span class="word">gon</span>,</td>
 	<td class='line-note'></td>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word english_etymology">[Into]</span> <span class="word english_etymology">þe</span> <span class="word">chamber</span> <span class="word english_etymology">when</span> <span class="word english_etymology">he</span> <span class="word english_etymology">gan</span> <span class="word english_etymology">gon</span>,</td>
 </tr>
 <tr>
-	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[He</span> <span class="word">was]</span> <span class="word">briȝter</span> <span class="word">þan</span> <span class="word">ani</span> <span class="word">leuen</span>.</td>
 	<td class='line-note'></td>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word english_etymology">[He</span> <span class="word">was]</span> <span class="word">briȝter</span> <span class="word english_etymology">þan</span> <span class="word english_etymology">ani</span> <span class="word english_etymology other_etymology">leuen</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>5</td>
-	<td class='line-text'><span class="word">[Leuen]</span> <span class="word">no</span> <span class="word">no</span> <span class="word">sonnes</span> <span class="word">bem</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology other_etymology">[Leuen]</span> <span class="word english_etymology">no</span> <span class="word english_etymology">no</span> <span class="word english_etymology">sonnes</span> <span class="word english_etymology">bem</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[In</span> <span class="word">so]mers</span> <span class="word">day</span> <span class="word">nas</span> <span class="word">neuer</span> <span class="word">so</span> <span class="word">briȝt</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology french_etymology latin_etymology">[In</span> <span class="word french_etymology latin_etymology">so]mers</span> <span class="word english_etymology">day</span> <span class="word english_etymology scandinavian_etymology">nas</span> <span class="word english_etymology">neuer</span> <span class="word english_etymology">so</span> <span class="word">briȝt</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[Þan]</span> <span class="word">þat</span> <span class="word">angel</span>, <span class="word">when</span> <span class="word">he</span> <span class="word">doun</span> <span class="word">kem</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">[Þan]</span> <span class="word english_etymology">þat</span> <span class="word english_etymology">angel</span>, <span class="word english_etymology">when</span> <span class="word english_etymology">he</span> <span class="word english_etymology">doun</span> <span class="word english_etymology">kem</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[Into]</span> <span class="word">þat</span> <span class="word">hous</span> <span class="word">about</span> <span class="word">midniȝt</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">[Into]</span> <span class="word english_etymology">þat</span> <span class="word english_etymology">hous</span> <span class="word">about</span> <span class="word english_etymology">midniȝt</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[He</span> <span class="word">þo]uȝt</span> <span class="word">his</span> <span class="word">hert</span> <span class="word">schuld</span> <span class="word">tospring</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">[He</span> <span class="word">þo]uȝt</span> <span class="word english_etymology">his</span> <span class="word english_etymology">hert</span> <span class="word english_etymology">schuld</span> <span class="word english_etymology">tospring</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>10</td>
-	<td class='line-text'><span class="word">[Þo</span> <span class="word">h]e</span> <span class="word">gan</span> <span class="word">on</span> <span class="word">þat</span> <span class="word">angel</span> <span class="word">sen</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">[Þo</span> <span class="word english_etymology">h]e</span> <span class="word english_etymology">gan</span> <span class="word english_etymology">on</span> <span class="word english_etymology">þat</span> <span class="word english_etymology">angel</span> <span class="word english_etymology">sen</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'>[‘<span class="word">Mi]</span> <span class="word">clerk</span>, <span class="word">drede</span> <span class="word">þe</span> <span class="word">noþing</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'>[‘<span class="word">Mi]</span> <span class="word english_etymology french_etymology latin_etymology">clerk</span>, <span class="word">drede</span> <span class="word english_etymology">þe</span> <span class="word">noþing</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[Grace]</span> <span class="word">of</span> <span class="word">God</span> <span class="word">be</span> <span class="word">ous</span> <span class="word">bitven</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word french_etymology">[Grace]</span> <span class="word english_etymology">of</span> <span class="word">God</span> <span class="word english_etymology">be</span> <span class="word french_etymology latin_etymology">ous</span> <span class="word english_etymology other_etymology">bitven</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[Tidan]des</span> <span class="word">now</span> <span class="word">y</span> <span class="word">þe</span> <span class="word">bring</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology scandinavian_etymology">[Tidan]des</span> <span class="word">now</span> <span class="word">y</span> <span class="word english_etymology">þe</span> <span class="word english_etymology">bring</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[Fram</span> <span class="word">M]arie</span>, <span class="word">our</span> <span class="word">heuen</span>-<span class="word">quen</span>;</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology scandinavian_etymology">[Fram</span> <span class="word english_etymology french_etymology latin_etymology">M]arie</span>, <span class="word french_etymology latin_etymology">our</span> <span class="word english_etymology">heuen</span>-<span class="word english_etymology">quen</span>;</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>15</td>
-	<td class='line-text'><span class="word">[I</span> <span class="word">þe]</span> <span class="word">telle</span> <span class="word">certain</span> <span class="word">tiding</span>:</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word">[I</span> <span class="word english_etymology">þe]</span> <span class="word french_etymology">telle</span> <span class="word french_etymology">certain</span> <span class="word english_etymology scandinavian_etymology">tiding</span>:</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[If</span> <span class="word">þou]</span> <span class="word">wilt</span> <span class="word">hir</span> <span class="word">bodi</span> <span class="word">sen</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">[If</span> <span class="word english_etymology">þou]</span> <span class="word">wilt</span> <span class="word english_etymology">hir</span> <span class="word english_etymology other_etymology">bodi</span> <span class="word english_etymology">sen</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[If</span> <span class="word">sen]</span> <span class="word">þou</span> <span class="word">wilt</span> <span class="word">þat</span> <span class="word">leuedi</span> <span class="word">briȝt</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">[If</span> <span class="word english_etymology">sen]</span> <span class="word english_etymology">þou</span> <span class="word">wilt</span> <span class="word english_etymology">þat</span> <span class="word english_etymology">leuedi</span> <span class="word">briȝt</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[Þis</span> <span class="word">p]enaunce</span> <span class="word">þou</span> <span class="word">most</span> <span class="word">chesen</span>:</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">[Þis</span> <span class="word french_etymology">p]enaunce</span> <span class="word english_etymology">þou</span> <span class="word english_etymology">most</span> <span class="word english_etymology">chesen</span>:</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[Þou</span> <span class="word">m]iȝt</span> <span class="word">be</span> <span class="word">siker</span>, <span class="word">þine</span> <span class="word">eiȝesiȝt</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">[Þou</span> <span class="word english_etymology">m]iȝt</span> <span class="word english_etymology">be</span> <span class="word">siker</span>, <span class="word english_etymology">þine</span> <span class="word english_etymology">eiȝesiȝt</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>20</td>
-	<td class='line-text'><span class="word">[Oþer</span> <span class="word">þ]i</span> <span class="word">liif</span> <span class="word">þou</span> <span class="word">schalt</span> <span class="word">forlesen</span>.’</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">[Oþer</span> <span class="word english_etymology">þ]i</span> <span class="word english_etymology">liif</span> <span class="word english_etymology">þou</span> <span class="word english_etymology">schalt</span> <span class="word english_etymology">forlesen</span>.’</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[Þe</span> <span class="word">cler]k</span> <span class="word">anon</span> <span class="word">gan</span> <span class="word">him</span> <span class="word">biþink</span>:</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">[Þe</span> <span class="word english_etymology french_etymology latin_etymology">cler]k</span> <span class="word">anon</span> <span class="word english_etymology">gan</span> <span class="word english_etymology">him</span> <span class="word english_etymology">biþink</span>:</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[ȝet</span> <span class="word">y]</span> <span class="word">can</span> <span class="word">anoþer</span> <span class="word">croke</span>:</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">[ȝet</span> <span class="word">y]</span> <span class="word english_etymology">can</span> <span class="word english_etymology">anoþer</span> <span class="word latin_etymology">croke</span>:</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[Wiþ]</span> <span class="word">min</span> <span class="word">on</span> <span class="word">eiȝe</span> <span class="word">y</span> <span class="word">schal</span> <span class="word">wink</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">[Wiþ]</span> <span class="word english_etymology">min</span> <span class="word english_etymology">on</span> <span class="word">eiȝe</span> <span class="word">y</span> <span class="word english_etymology other_etymology">schal</span> <span class="word">wink</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[and</span> <span class="word">wiþ]</span> <span class="word">mi</span> <span class="word">noþer</span> <span class="word">y</span> <span class="word">schal</span> <span class="word">loke</span>;</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">[and</span> <span class="word english_etymology">wiþ]</span> <span class="word english_etymology latin_etymology other_etymology">mi</span> <span class="word">noþer</span> <span class="word">y</span> <span class="word english_etymology other_etymology">schal</span> <span class="word">loke</span>;</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>25</td>
-	<td class='line-text'><span class="word">[Mi</span> <span class="word">wa]risoun</span> <span class="word">y</span> <span class="word">schal</span> <span class="word">biswink</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology latin_etymology other_etymology">[Mi</span> <span class="word english_etymology french_etymology">wa]risoun</span> <span class="word">y</span> <span class="word english_etymology other_etymology">schal</span> <span class="word">biswink</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[Til</span> <span class="word">y]</span> <span class="word">may</span> <span class="word">sen</span> <span class="word">opon</span> <span class="word">a</span> <span class="word">boke</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology scandinavian_etymology">[Til</span> <span class="word">y]</span> <span class="word english_etymology">may</span> <span class="word english_etymology">sen</span> <span class="word">opon</span> <span class="word english_etymology other_etymology">a</span> <span class="word french_etymology">boke</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[and</span> <span class="word">haue]</span> <span class="word">anowe</span> <span class="word">mete</span> <span class="word">and</span> <span class="word">drink</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">[and</span> <span class="word english_etymology scandinavian_etymology">haue]</span> <span class="word english_etymology">anowe</span> <span class="word french_etymology latin_etymology">mete</span> <span class="word english_etymology">and</span> <span class="word english_etymology">drink</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[Gode]</span> <span class="word">comfort</span> <span class="word">to</span> <span class="word">him</span> <span class="word">he</span> <span class="word">tok</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">[Gode]</span> <span class="word french_etymology">comfort</span> <span class="word english_etymology">to</span> <span class="word english_etymology">him</span> <span class="word english_etymology">he</span> <span class="word english_etymology scandinavian_etymology other_etymology">tok</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[He</span> <span class="word">tok]</span> <span class="word">to</span> <span class="word">him</span> <span class="word">anon</span> <span class="word">gode</span> <span class="word">hede</span>:</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">[He</span> <span class="word english_etymology scandinavian_etymology other_etymology">tok]</span> <span class="word english_etymology">to</span> <span class="word english_etymology">him</span> <span class="word">anon</span> <span class="word english_etymology">gode</span> <span class="word english_etymology">hede</span>:</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>30</td>
-	<td class='line-text'><span class="word">[Iwis</span>, <span class="word">m]in</span> <span class="word">on</span> <span class="word">eiȝe</span> <span class="word">may</span> <span class="word">me</span> <span class="word">seruen</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">[Iwis</span>, <span class="word english_etymology">m]in</span> <span class="word english_etymology">on</span> <span class="word">eiȝe</span> <span class="word english_etymology">may</span> <span class="word english_etymology">me</span> <span class="word french_etymology latin_etymology">seruen</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[Þer</span> <span class="word">to]</span> <span class="word">do</span> <span class="word">wiþ</span> <span class="word">al</span> <span class="word">mi</span> <span class="word">dede</span>;</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">[Þer</span> <span class="word english_etymology">to]</span> <span class="word english_etymology">do</span> <span class="word english_etymology">wiþ</span> <span class="word english_etymology">al</span> <span class="word english_etymology latin_etymology other_etymology">mi</span> <span class="word english_etymology">dede</span>;</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[It</span> <span class="word">is]</span> <span class="word">ynouȝ</span> <span class="word">til</span> <span class="word">y</span> <span class="word">schal</span> <span class="word">steruen</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word french_etymology latin_etymology other_etymology">[It</span> <span class="word english_etymology">is]</span> <span class="word english_etymology">ynouȝ</span> <span class="word scandinavian_etymology">til</span> <span class="word">y</span> <span class="word english_etymology other_etymology">schal</span> <span class="word english_etymology">steruen</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[Þe</span> <span class="word">cl]erk</span> <span class="word">him</span> <span class="word">fair</span> <span class="word">answerd</span> <span class="word">oȝain</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">[Þe</span> <span class="word english_etymology french_etymology latin_etymology">cl]erk</span> <span class="word english_etymology">him</span> <span class="word english_etymology">fair</span> <span class="word english_etymology">answerd</span> <span class="word">oȝain</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'>[‘<span class="word">Ich]</span> <span class="word">do</span> <span class="word">me</span> <span class="word">alle</span> <span class="word">in</span> <span class="word">her</span> <span class="word">manay</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'>[‘<span class="word">Ich]</span> <span class="word english_etymology">do</span> <span class="word english_etymology">me</span> <span class="word">alle</span> <span class="word english_etymology french_etymology latin_etymology">in</span> <span class="word english_etymology">her</span> <span class="word french_etymology">manay</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>35</td>
-	<td class='line-text'><span class="word">[Sch]eu</span> <span class="word">now</span> <span class="word">what</span> <span class="word">y</span> <span class="word">schal</span> <span class="word">mene</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology scandinavian_etymology">[Sch]eu</span> <span class="word">now</span> <span class="word english_etymology">what</span> <span class="word">y</span> <span class="word english_etymology other_etymology">schal</span> <span class="word">mene</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[To]</span> <span class="word">Mari</span>, <span class="word">as</span> <span class="word">y</span> <span class="word">þe</span> <span class="word">say</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">[To]</span> <span class="word">Mari</span>, <span class="word latin_etymology">as</span> <span class="word">y</span> <span class="word english_etymology">þe</span> <span class="word english_etymology french_etymology latin_etymology">say</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[Hir</span> <span class="word">s]eriaunt</span> <span class="word">ichaue</span> <span class="word">long</span> <span class="word">ben</span>;</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">[Hir</span> <span class="word french_etymology latin_etymology">s]eriaunt</span> <span class="word english_etymology">ichaue</span> <span class="word english_etymology">long</span> <span class="word english_etymology scandinavian_etymology">ben</span>;</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[Wiþ</span> <span class="word">a]ll</span> <span class="word">loue</span> <span class="word">now</span> <span class="word">ich</span> <span class="word">[h]ir</span> <span class="word">pray</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">[Wiþ</span> <span class="word">a]ll</span> <span class="word scandinavian_etymology">loue</span> <span class="word">now</span> <span class="word english_etymology scandinavian_etymology">ich</span> <span class="word english_etymology">[h]ir</span> <span class="word">pray</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[Þat]</span> <span class="word">ich</span> <span class="word">mot</span> <span class="word">hir</span> <span class="word">ones</span> <span class="word">sen</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology scandinavian_etymology">[Þat]</span> <span class="word english_etymology scandinavian_etymology">ich</span> <span class="word english_etymology">mot</span> <span class="word english_etymology">hir</span> <span class="word english_etymology">ones</span> <span class="word english_etymology">sen</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>40</td>
-	<td class='line-text'><span class="word">[Aper]tliche</span>, <span class="word">er</span> <span class="word">þan</span> <span class="word">y</span> <span class="word">day</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word">[Aper]tliche</span>, <span class="word english_etymology scandinavian_etymology">er</span> <span class="word english_etymology">þan</span> <span class="word">y</span> <span class="word english_etymology">day</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[Whe]n</span> <span class="word">y</span> <span class="word">dye</span>, <span class="word">sche</span> <span class="word">ȝiue</span> <span class="word">me</span> <span class="word">grace</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">[Whe]n</span> <span class="word">y</span> <span class="word latin_etymology other_etymology">dye</span>, <span class="word english_etymology">sche</span> <span class="word english_etymology">ȝiue</span> <span class="word english_etymology">me</span> <span class="word french_etymology">grace</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[To</span> <span class="word">come]</span> <span class="word">to</span> <span class="word">hir</span> <span class="word">wiþ</span> <span class="word">gode</span> <span class="word">entent</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">[To</span> <span class="word english_etymology">come]</span> <span class="word english_etymology">to</span> <span class="word english_etymology">hir</span> <span class="word english_etymology">wiþ</span> <span class="word english_etymology">gode</span> <span class="word french_etymology">entent</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[To</span> <span class="word">sen]</span> <span class="word">hir</span> <span class="word">bodi</span> <span class="word">and</span> <span class="word">hir</span> <span class="word">face</span>.’</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">[To</span> <span class="word english_etymology">sen]</span> <span class="word english_etymology">hir</span> <span class="word english_etymology other_etymology">bodi</span> <span class="word english_etymology">and</span> <span class="word english_etymology">hir</span> <span class="word french_etymology latin_etymology">face</span>.’</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[Þe</span> <span class="word">an]gel</span> <span class="word">oȝain</span> <span class="word">to</span> <span class="word">heuene</span> <span class="word">is</span> <span class="word">went</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">[Þe</span> <span class="word english_etymology">an]gel</span> <span class="word">oȝain</span> <span class="word english_etymology">to</span> <span class="word english_etymology scandinavian_etymology">heuene</span> <span class="word english_etymology">is</span> <span class="word">went</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>45</td>
-	<td class='line-text'>¶ <span class="word">Fram</span> <span class="word">heuen</span> <span class="word">into</span> <span class="word">þe</span> <span class="word">clerkes</span> <span class="word">bour</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'>¶ <span class="word english_etymology scandinavian_etymology">Fram</span> <span class="word english_etymology">heuen</span> <span class="word english_etymology">into</span> <span class="word english_etymology">þe</span> <span class="word english_etymology french_etymology latin_etymology">clerkes</span> <span class="word english_etymology">bour</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Riȝt</span> <span class="word">doun</span> <span class="word">biforn</span> <span class="word">his</span> <span class="word">beddes</span> <span class="word">fet</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word">Riȝt</span> <span class="word english_etymology">doun</span> <span class="word latin_etymology">biforn</span> <span class="word english_etymology">his</span> <span class="word english_etymology">beddes</span> <span class="word french_etymology latin_etymology">fet</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Þe</span> <span class="word">angel</span> <span class="word">aliȝt</span> <span class="word">wiþ</span> <span class="word">gret</span> <span class="word">honour</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Þe</span> <span class="word english_etymology">angel</span> <span class="word english_etymology">aliȝt</span> <span class="word english_etymology">wiþ</span> <span class="word">gret</span> <span class="word french_etymology">honour</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">And</span> <span class="word">wel</span> <span class="word">fair</span> <span class="word">he</span> <span class="word">gan</span> <span class="word">him</span> <span class="word">gret</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">And</span> <span class="word english_etymology">wel</span> <span class="word english_etymology">fair</span> <span class="word english_etymology">he</span> <span class="word english_etymology">gan</span> <span class="word english_etymology">him</span> <span class="word">gret</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'>‘<span class="word">Mari</span>, <span class="word">þat</span> <span class="word">bar</span> <span class="word">our</span> <span class="word">saueour</span>’</td>
-	<td class='line-note'></td>
+	<td class='line-text'>‘<span class="word">Mari</span>, <span class="word english_etymology">þat</span> <span class="word english_etymology">bar</span> <span class="word french_etymology latin_etymology">our</span> <span class="word french_etymology">saueour</span>’</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>50</td>
-	<td class='line-text'><span class="word">He</span> <span class="word">seyd</span> ‘<span class="word">þou</span> <span class="word">schalt</span> <span class="word">sen</span> <span class="word">as</span> <span class="word">sket</span>.’</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">He</span> <span class="word">seyd</span> ‘<span class="word english_etymology">þou</span> <span class="word english_etymology">schalt</span> <span class="word english_etymology">sen</span> <span class="word latin_etymology">as</span> <span class="word other_etymology">sket</span>.’</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Wiþ</span> <span class="word">him</span> <span class="word">þer</span> <span class="word">com</span> <span class="word">a</span> <span class="word">gret</span> <span class="word">odour</span>;</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Wiþ</span> <span class="word english_etymology">him</span> <span class="word english_etymology">þer</span> <span class="word latin_etymology">com</span> <span class="word english_etymology other_etymology">a</span> <span class="word">gret</span> <span class="word french_etymology latin_etymology">odour</span>;</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Nas</span> <span class="word">neuer</span> <span class="word">no</span> <span class="word">smel</span> <span class="word">half</span> <span class="word">so</span> <span class="word">swete</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology scandinavian_etymology">Nas</span> <span class="word english_etymology">neuer</span> <span class="word english_etymology">no</span> <span class="word english_etymology">smel</span> <span class="word english_etymology">half</span> <span class="word english_etymology">so</span> <span class="word english_etymology">swete</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'>¶ <span class="word">So</span> <span class="word">swete</span> <span class="word">a</span> <span class="word">smal</span> <span class="word">nas</span> <span class="word">neuer</span> <span class="word">non</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'>¶ <span class="word english_etymology">So</span> <span class="word english_etymology">swete</span> <span class="word english_etymology other_etymology">a</span> <span class="word english_etymology">smal</span> <span class="word english_etymology scandinavian_etymology">nas</span> <span class="word english_etymology">neuer</span> <span class="word">non</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Of</span> <span class="word">rose</span> <span class="word">no</span> <span class="word">of</span> <span class="word">no</span> <span class="word">spicerie</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Of</span> <span class="word french_etymology">rose</span> <span class="word english_etymology">no</span> <span class="word english_etymology">of</span> <span class="word english_etymology">no</span> <span class="word english_etymology french_etymology latin_etymology">spicerie</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>55</td>
-	<td class='line-text'><span class="word">As</span> <span class="word">com</span> <span class="word">into</span> <span class="word">þat</span> <span class="word">leueli</span> <span class="word">won</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word latin_etymology">As</span> <span class="word latin_etymology">com</span> <span class="word english_etymology">into</span> <span class="word english_etymology">þat</span> <span class="word english_etymology">leueli</span> <span class="word english_etymology">won</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Befor</span> <span class="word">þat</span> <span class="word">leueliche</span> <span class="word">compeynie</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word latin_etymology">Befor</span> <span class="word english_etymology">þat</span> <span class="word english_etymology">leueliche</span> <span class="word french_etymology">compeynie</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'>¶ <span class="word">Wiþ</span> <span class="word">angel</span> <span class="word">song</span> <span class="word">and</span> <span class="word">miri</span> <span class="word">play</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'>¶ <span class="word english_etymology">Wiþ</span> <span class="word english_etymology">angel</span> <span class="word english_etymology">song</span> <span class="word english_etymology">and</span> <span class="word">miri</span> <span class="word french_etymology">play</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Our</span> <span class="word">leuedi</span> <span class="word">adoun</span> <span class="word">sche</span> <span class="word">liȝt</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word french_etymology latin_etymology">Our</span> <span class="word english_etymology">leuedi</span> <span class="word english_etymology">adoun</span> <span class="word english_etymology">sche</span> <span class="word english_etymology">liȝt</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Into</span> <span class="word">þe</span> <span class="word">chaumber</span> <span class="word">þer</span> <span class="word">he</span> <span class="word">lay</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Into</span> <span class="word english_etymology">þe</span> <span class="word french_etymology latin_etymology">chaumber</span> <span class="word english_etymology">þer</span> <span class="word english_etymology">he</span> <span class="word french_etymology">lay</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>60</td>
-	<td class='line-text'><span class="word">And</span> <span class="word">seyd</span> ‘<span class="word">clerk</span>, <span class="word">drede</span> <span class="word">þe</span> <span class="word">nowiȝt</span>.’</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">And</span> <span class="word">seyd</span> ‘<span class="word english_etymology french_etymology latin_etymology">clerk</span>, <span class="word">drede</span> <span class="word english_etymology">þe</span> <span class="word english_etymology">nowiȝt</span>.’</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Þei</span> <span class="word">a</span> <span class="word">man</span> <span class="word">biþouȝt</span> <span class="word">him</span> <span class="word">ay</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology scandinavian_etymology">Þei</span> <span class="word english_etymology other_etymology">a</span> <span class="word english_etymology">man</span> <span class="word english_etymology">biþouȝt</span> <span class="word english_etymology">him</span> <span class="word english_etymology scandinavian_etymology">ay</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">No</span> <span class="word">schuld</span> <span class="word">he</span> <span class="word">reden</span> <span class="word">a</span> <span class="word">poin[t]</span> <span class="word">ariȝt</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">No</span> <span class="word english_etymology">schuld</span> <span class="word english_etymology">he</span> <span class="word english_etymology">reden</span> <span class="word english_etymology other_etymology">a</span> <span class="word french_etymology">poin[t]</span> <span class="word">ariȝt</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Hennes</span> <span class="word">vnto</span> <span class="word">domesday</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word">Hennes</span> <span class="word">vnto</span> <span class="word english_etymology">domesday</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Hou</span> <span class="word">fair</span> <span class="word">sche</span> <span class="word">is</span>, <span class="word">þat</span> <span class="word">maiden</span> <span class="word">briȝt</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Hou</span> <span class="word english_etymology">fair</span> <span class="word english_etymology">sche</span> <span class="word english_etymology">is</span>, <span class="word english_etymology">þat</span> <span class="word english_etymology">maiden</span> <span class="word">briȝt</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>65</td>
-	<td class='line-text'><span class="word">Hou</span> <span class="word">briȝt</span> <span class="word">sche</span> <span class="word">is</span> <span class="word">no</span> <span class="word">tong</span> <span class="word">may</span> <span class="word">telle</span> –</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Hou</span> <span class="word">briȝt</span> <span class="word english_etymology">sche</span> <span class="word english_etymology">is</span> <span class="word english_etymology">no</span> <span class="word english_etymology">tong</span> <span class="word english_etymology">may</span> <span class="word french_etymology">telle</span> –</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Yblisced</span> <span class="word">mot</span> <span class="word">hye</span> <span class="word">euer</span> <span class="word">ben</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Yblisced</span> <span class="word english_etymology">mot</span> <span class="word english_etymology">hye</span> <span class="word">euer</span> <span class="word english_etymology scandinavian_etymology">ben</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Of</span> <span class="word">heuen</span>, <span class="word">of</span> <span class="word">erþe</span> <span class="word">and</span> <span class="word">of</span> <span class="word">helle</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Of</span> <span class="word english_etymology">heuen</span>, <span class="word english_etymology">of</span> <span class="word english_etymology">erþe</span> <span class="word english_etymology">and</span> <span class="word english_etymology">of</span> <span class="word english_etymology">helle</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Sche</span> <span class="word">is</span> <span class="word">emperice</span> <span class="word">and</span> <span class="word">quene</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Sche</span> <span class="word english_etymology">is</span> <span class="word french_etymology">emperice</span> <span class="word english_etymology">and</span> <span class="word english_etymology">quene</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">A</span> <span class="word">mantel</span> <span class="word">our</span> <span class="word">leuedy</span> <span class="word">vnfeld</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology other_etymology">A</span> <span class="word english_etymology french_etymology latin_etymology">mantel</span> <span class="word french_etymology latin_etymology">our</span> <span class="word english_etymology">leuedy</span> <span class="word english_etymology">vnfeld</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>70</td>
-	<td class='line-text'><span class="word">Briȝter</span> <span class="word">þan</span> <span class="word">sonne</span> <span class="word">þat</span> <span class="word">schineþ</span> <span class="word">schire</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word">Briȝter</span> <span class="word english_etymology">þan</span> <span class="word english_etymology">sonne</span> <span class="word english_etymology">þat</span> <span class="word english_etymology other_etymology">schineþ</span> <span class="word english_etymology">schire</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'>‘<span class="word">Clerk</span>, <span class="word">drede</span> <span class="word">þe</span> <span class="word">nouȝt</span>, <span class="word">bot</span> <span class="word">be</span> <span class="word">nov</span> <span class="word">beld</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'>‘<span class="word english_etymology french_etymology latin_etymology">Clerk</span>, <span class="word">drede</span> <span class="word english_etymology">þe</span> <span class="word">nouȝt</span>, <span class="word">bot</span> <span class="word english_etymology">be</span> <span class="word english_etymology">nov</span> <span class="word english_etymology">beld</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">For</span> <span class="word">þou</span> <span class="word">schalt</span> <span class="word">haue</span> <span class="word">þi</span> <span class="word">desire</span>;</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word">For</span> <span class="word english_etymology">þou</span> <span class="word english_etymology">schalt</span> <span class="word english_etymology scandinavian_etymology">haue</span> <span class="word english_etymology">þi</span> <span class="word french_etymology">desire</span>;</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Þerwhiles</span> <span class="word">þou</span> <span class="word">hast</span> <span class="word">þine</span> <span class="word">eiȝen</span> <span class="word">in</span> <span class="word">weld</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word">Þerwhiles</span> <span class="word english_etymology">þou</span> <span class="word french_etymology other_etymology">hast</span> <span class="word english_etymology">þine</span> <span class="word english_etymology">eiȝen</span> <span class="word english_etymology french_etymology latin_etymology">in</span> <span class="word english_etymology">weld</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Avise</span> <span class="word">þe</span> <span class="word">wele</span> <span class="word">of</span> <span class="word">min</span> <span class="word">atire</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word french_etymology">Avise</span> <span class="word english_etymology">þe</span> <span class="word english_etymology scandinavian_etymology">wele</span> <span class="word english_etymology">of</span> <span class="word english_etymology">min</span> <span class="word french_etymology">atire</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>75</td>
-	<td class='line-text'><span class="word">Apertliche</span> <span class="word">þou</span> <span class="word">me</span> <span class="word">biheld</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word">Apertliche</span> <span class="word english_etymology">þou</span> <span class="word english_etymology">me</span> <span class="word english_etymology latin_etymology">biheld</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Bodi</span> <span class="word">and</span> <span class="word">face</span>, <span class="word">brest</span> <span class="word">and</span> <span class="word">swire</span>.’</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology other_etymology">Bodi</span> <span class="word english_etymology">and</span> <span class="word french_etymology latin_etymology">face</span>, <span class="word english_etymology scandinavian_etymology">brest</span> <span class="word english_etymology">and</span> <span class="word english_etymology other_etymology">swire</span>.’</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'>¶ <span class="word">Swire</span> <span class="word">and</span> <span class="word">al</span> <span class="word">hir</span> <span class="word">bodi</span> <span class="word">he</span> <span class="word">seiȝe</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'>¶ <span class="word english_etymology other_etymology">Swire</span> <span class="word english_etymology">and</span> <span class="word english_etymology">al</span> <span class="word english_etymology">hir</span> <span class="word english_etymology other_etymology">bodi</span> <span class="word english_etymology">he</span> <span class="word french_etymology latin_etymology">seiȝe</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">When</span> <span class="word">sche</span> <span class="word">hadde</span> <span class="word">to</span> <span class="word">him</span> <span class="word">spoken</span>:</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">When</span> <span class="word english_etymology">sche</span> <span class="word">hadde</span> <span class="word english_etymology">to</span> <span class="word english_etymology">him</span> <span class="word english_etymology">spoken</span>:</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">He</span> <span class="word">loked</span> <span class="word">on</span> <span class="word">hir</span> <span class="word">wiþ</span> <span class="word">his</span> <span class="word">on</span> <span class="word">eiȝe</span> –</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">He</span> <span class="word">loked</span> <span class="word english_etymology">on</span> <span class="word english_etymology">hir</span> <span class="word english_etymology">wiþ</span> <span class="word english_etymology">his</span> <span class="word english_etymology">on</span> <span class="word">eiȝe</span> –</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>80</td>
-	<td class='line-text'><span class="word">Þat</span> <span class="word">oþer</span> <span class="word">he</span> <span class="word">held</span> <span class="word">stille</span> <span class="word">yloken</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Þat</span> <span class="word">oþer</span> <span class="word english_etymology">he</span> <span class="word english_etymology">held</span> <span class="word english_etymology latin_etymology">stille</span> <span class="word english_etymology">yloken</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'>¶ <span class="word">Oȝain</span> <span class="word">to</span> <span class="word">heuen</span> <span class="word">our</span> <span class="word">leuedi</span> <span class="word">went</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'>¶ <span class="word">Oȝain</span> <span class="word english_etymology">to</span> <span class="word english_etymology">heuen</span> <span class="word french_etymology latin_etymology">our</span> <span class="word english_etymology">leuedi</span> <span class="word">went</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Wel</span> <span class="word">stillelich</span> <span class="word">out</span> <span class="word">of</span> <span class="word">þat</span> <span class="word">clos</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Wel</span> <span class="word english_etymology">stillelich</span> <span class="word english_etymology">out</span> <span class="word english_etymology">of</span> <span class="word english_etymology">þat</span> <span class="word">clos</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Þe</span> <span class="word">clerk</span> <span class="word">held</span> <span class="word">him</span> <span class="word">foulely</span> <span class="word">schent</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Þe</span> <span class="word english_etymology french_etymology latin_etymology">clerk</span> <span class="word english_etymology">held</span> <span class="word english_etymology">him</span> <span class="word english_etymology">foulely</span> <span class="word english_etymology other_etymology">schent</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Amorwe</span>, <span class="word">when</span> <span class="word">þat</span> <span class="word">he</span> <span class="word">aros</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Amorwe</span>, <span class="word english_etymology">when</span> <span class="word english_etymology">þat</span> <span class="word english_etymology">he</span> <span class="word english_etymology">aros</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>85</td>
-	<td class='line-text'><span class="word">His</span> <span class="word">ȝalu</span> <span class="word">here</span> <span class="word">he</span> <span class="word">haþ</span> <span class="word">al</span> <span class="word">torent</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">His</span> <span class="word english_etymology">ȝalu</span> <span class="word english_etymology">here</span> <span class="word english_etymology">he</span> <span class="word scandinavian_etymology">haþ</span> <span class="word english_etymology">al</span> <span class="word english_etymology">torent</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">And</span> <span class="word">in</span> <span class="word">his</span> <span class="word">hert</span> <span class="word">sore</span> <span class="word">him</span> <span class="word">agros</span>;</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">And</span> <span class="word english_etymology french_etymology latin_etymology">in</span> <span class="word english_etymology">his</span> <span class="word english_etymology">hert</span> <span class="word french_etymology">sore</span> <span class="word english_etymology">him</span> <span class="word english_etymology">agros</span>;</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Al</span> <span class="word">þus</span> <span class="word">he</span> <span class="word">seyd</span> <span class="word">and</span> <span class="word">him</span> <span class="word">biment</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Al</span> <span class="word english_etymology">þus</span> <span class="word english_etymology">he</span> <span class="word">seyd</span> <span class="word english_etymology">and</span> <span class="word english_etymology">him</span> <span class="word">biment</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'>‘<span class="word">Þis</span> <span class="word">niȝt</span> <span class="word">y</span> <span class="word">saued</span> <span class="word">on</span> <span class="word">of</span> <span class="word">mi</span> <span class="word">fos</span>;</td>
-	<td class='line-note'></td>
+	<td class='line-text'>‘<span class="word english_etymology">Þis</span> <span class="word">niȝt</span> <span class="word">y</span> <span class="word">saued</span> <span class="word english_etymology">on</span> <span class="word english_etymology">of</span> <span class="word english_etymology latin_etymology other_etymology">mi</span> <span class="word english_etymology">fos</span>;</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'>¶ <span class="word">Mi</span> <span class="word">fo</span> <span class="word">y</span> <span class="word">spard</span>, <span class="word">allas</span> <span class="word">þat</span> <span class="word">while</span>!</td>
-	<td class='line-note'></td>
+	<td class='line-text'>¶ <span class="word english_etymology latin_etymology other_etymology">Mi</span> <span class="word">fo</span> <span class="word">y</span> <span class="word english_etymology other_etymology">spard</span>, <span class="word french_etymology">allas</span> <span class="word english_etymology">þat</span> <span class="word english_etymology">while</span>!</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>90</td>
-	<td class='line-text'><span class="word">Sori</span> <span class="word">icham</span> <span class="word">and</span> <span class="word">wele</span> <span class="word">ich</span> <span class="word">owe</span>:</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word">Sori</span> <span class="word french_etymology latin_etymology">icham</span> <span class="word english_etymology">and</span> <span class="word english_etymology scandinavian_etymology">wele</span> <span class="word english_etymology scandinavian_etymology">ich</span> <span class="word english_etymology">owe</span>:</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Min</span> <span class="word">eiȝe</span> <span class="word">doþ</span> <span class="word">mi</span> <span class="word">soule</span> <span class="word">gile</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Min</span> <span class="word">eiȝe</span> <span class="word english_etymology">doþ</span> <span class="word english_etymology latin_etymology other_etymology">mi</span> <span class="word english_etymology scandinavian_etymology">soule</span> <span class="word other_etymology">gile</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">And</span> <span class="word">often</span> <span class="word">bringeþ</span> <span class="word">it</span> <span class="word">ful</span> <span class="word">lowe</span>.’</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">And</span> <span class="word">often</span> <span class="word english_etymology">bringeþ</span> <span class="word french_etymology latin_etymology other_etymology">it</span> <span class="word english_etymology">ful</span> <span class="word english_etymology">lowe</span>.’</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'>¶ <span class="word">Riȝt</span> <span class="word">in</span> <span class="word">his</span> <span class="word">chaumber</span>, <span class="word">þer</span> <span class="word">he</span> <span class="word">stode</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'>¶ <span class="word">Riȝt</span> <span class="word english_etymology french_etymology latin_etymology">in</span> <span class="word english_etymology">his</span> <span class="word french_etymology latin_etymology">chaumber</span>, <span class="word english_etymology">þer</span> <span class="word english_etymology">he</span> <span class="word english_etymology">stode</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Him</span> <span class="word">þouȝt</span> <span class="word">his</span> <span class="word">liif</span> <span class="word">was</span> <span class="word">him</span> <span class="word">ful</span> <span class="word">loþ</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Him</span> <span class="word">þouȝt</span> <span class="word english_etymology">his</span> <span class="word english_etymology">liif</span> <span class="word">was</span> <span class="word english_etymology">him</span> <span class="word english_etymology">ful</span> <span class="word">loþ</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>95</td>
-	<td class='line-text'><span class="word">He</span> <span class="word">wepe</span> <span class="word">sore</span> <span class="word">wiþ</span> <span class="word">dreri</span> <span class="word">mode</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">He</span> <span class="word">wepe</span> <span class="word french_etymology">sore</span> <span class="word english_etymology">wiþ</span> <span class="word english_etymology">dreri</span> <span class="word">mode</span>,</td>
 </tr>
 <tr>
-	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">And</span> <span class="word">out</span> <span class="word">of</span> <span class="word">his</span> <span class="word">chaumber</span> <span class="word">he</span> <span class="word">goþ</span>.</td>
 	<td class='line-note'>Note<div class='tooltip'><em>out of</em>: copied on an erasure?</div></td>
-</tr>
-<tr>
 	<td class='line-nbr'></td>
-	<td class='line-text'>‘<span class="word">Þat</span> <span class="word">me</span> <span class="word">no</span> <span class="word">deined</span>, <span class="word">ich</span> <span class="word">was</span> <span class="word">wode</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">And</span> <span class="word english_etymology">out</span> <span class="word english_etymology">of</span> <span class="word english_etymology">his</span> <span class="word french_etymology latin_etymology">chaumber</span> <span class="word english_etymology">he</span> <span class="word">goþ</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">To</span> <span class="word">loke</span> <span class="word">wiþ</span> <span class="word">min</span> <span class="word">eiȝen</span> <span class="word">boþe</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'>‘<span class="word english_etymology">Þat</span> <span class="word english_etymology">me</span> <span class="word english_etymology">no</span> <span class="word french_etymology latin_etymology">deined</span>, <span class="word english_etymology scandinavian_etymology">ich</span> <span class="word">was</span> <span class="word english_etymology">wode</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Opon</span> <span class="word">þat</span> <span class="word">leuedi</span> <span class="word">fair</span> <span class="word">and</span> <span class="word">gode</span>;</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">To</span> <span class="word">loke</span> <span class="word english_etymology">wiþ</span> <span class="word english_etymology">min</span> <span class="word english_etymology">eiȝen</span> <span class="word english_etymology scandinavian_etymology other_etymology">boþe</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
+	<td class='line-nbr'></td>
+	<td class='line-text'><span class="word">Opon</span> <span class="word english_etymology">þat</span> <span class="word english_etymology">leuedi</span> <span class="word english_etymology">fair</span> <span class="word english_etymology">and</span> <span class="word english_etymology">gode</span>;</td>
+</tr>
+<tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>100</td>
-	<td class='line-text'><span class="word">Y</span> <span class="word">wot</span> <span class="word">þerfore</span> <span class="word">þat</span> <span class="word">sche</span> <span class="word">is</span> <span class="word">wroþ</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word">Y</span> <span class="word">wot</span> <span class="word english_etymology">þerfore</span> <span class="word english_etymology">þat</span> <span class="word english_etymology">sche</span> <span class="word english_etymology">is</span> <span class="word">wroþ</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'>¶ <span class="word">Wroþ</span> <span class="word">sche</span> <span class="word">is</span>, <span class="word">and</span> <span class="word">wele</span> <span class="word">sche</span> <span class="word">may</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'>¶ <span class="word">Wroþ</span> <span class="word english_etymology">sche</span> <span class="word english_etymology">is</span>, <span class="word english_etymology">and</span> <span class="word english_etymology scandinavian_etymology">wele</span> <span class="word english_etymology">sche</span> <span class="word english_etymology">may</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Wiþ</span> <span class="word">me</span>, <span class="word">þat</span> <span class="word">am</span> <span class="word">sinful</span> <span class="word">chaitif</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Wiþ</span> <span class="word english_etymology">me</span>, <span class="word english_etymology">þat</span> <span class="word french_etymology latin_etymology">am</span> <span class="word english_etymology">sinful</span> <span class="word french_etymology">chaitif</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Þat</span> <span class="word">y</span> <span class="word">schuld</span> <span class="word">hir</span> <span class="word">so</span> <span class="word">bitraye</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Þat</span> <span class="word">y</span> <span class="word english_etymology">schuld</span> <span class="word english_etymology">hir</span> <span class="word english_etymology">so</span> <span class="word">bitraye</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Þat</span> <span class="word">ichaue</span> <span class="word">loued</span> <span class="word">in</span> <span class="word">al</span> <span class="word">mi</span> <span class="word">liif</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Þat</span> <span class="word english_etymology">ichaue</span> <span class="word french_etymology">loued</span> <span class="word english_etymology french_etymology latin_etymology">in</span> <span class="word english_etymology">al</span> <span class="word english_etymology latin_etymology other_etymology">mi</span> <span class="word english_etymology">liif</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>105</td>
-	<td class='line-text'>¶ <span class="word">Euer</span> <span class="word">me</span> <span class="word">may</span> <span class="word">rewe</span> <span class="word">þat</span> <span class="word">ich</span> <span class="word">while</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'>¶ <span class="word">Euer</span> <span class="word english_etymology">me</span> <span class="word english_etymology">may</span> <span class="word english_etymology">rewe</span> <span class="word english_etymology">þat</span> <span class="word english_etymology scandinavian_etymology">ich</span> <span class="word english_etymology">while</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Þat</span> <span class="word">y</span> <span class="word">schuld</span> <span class="word">for</span> <span class="word">ani</span> <span class="word">drede</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Þat</span> <span class="word">y</span> <span class="word english_etymology">schuld</span> <span class="word">for</span> <span class="word english_etymology">ani</span> <span class="word">drede</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Do</span> <span class="word">Marie</span> <span class="word">þat</span> <span class="word">gret</span> <span class="word">gile</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Do</span> <span class="word">Marie</span> <span class="word english_etymology">þat</span> <span class="word">gret</span> <span class="word other_etymology">gile</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Allas</span>, <span class="word">what</span> <span class="word">schal</span> <span class="word">me</span> <span class="word">to</span> <span class="word">rede</span>?</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word french_etymology">Allas</span>, <span class="word english_etymology">what</span> <span class="word english_etymology other_etymology">schal</span> <span class="word english_etymology">me</span> <span class="word english_etymology">to</span> <span class="word latin_etymology">rede</span>?</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Mi</span> <span class="word">soule</span> <span class="word">y</span> <span class="word">brouȝt</span> <span class="word">in</span> <span class="word">gret</span> <span class="word">periil</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology latin_etymology other_etymology">Mi</span> <span class="word english_etymology scandinavian_etymology">soule</span> <span class="word">y</span> <span class="word english_etymology latin_etymology other_etymology">brouȝt</span> <span class="word english_etymology french_etymology latin_etymology">in</span> <span class="word">gret</span> <span class="word french_etymology">periil</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>110</td>
-	<td class='line-text'><span class="word">A</span>, <span class="word">leuedi</span>, <span class="word">for</span> <span class="word">þi</span> <span class="word">maidenhed</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology other_etymology">A</span>, <span class="word english_etymology">leuedi</span>, <span class="word">for</span> <span class="word english_etymology">þi</span> <span class="word english_etymology">maidenhed</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Forȝiue</span> <span class="word">me</span> <span class="word">mi</span> <span class="word">sinnes</span> <span class="word">vile</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Forȝiue</span> <span class="word english_etymology">me</span> <span class="word english_etymology latin_etymology other_etymology">mi</span> <span class="word">sinnes</span> <span class="word english_etymology scandinavian_etymology">vile</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">And</span> <span class="word">help</span> <span class="word">me</span> <span class="word">in</span> <span class="word">þis</span> <span class="word">muchel</span> <span class="word">nede</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">And</span> <span class="word english_etymology">help</span> <span class="word english_etymology">me</span> <span class="word english_etymology french_etymology latin_etymology">in</span> <span class="word english_etymology">þis</span> <span class="word english_etymology">muchel</span> <span class="word english_etymology">nede</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'>¶ <span class="word">In</span> <span class="word">þis</span> <span class="word">nede</span> <span class="word">þou</span> <span class="word">me</span> <span class="word">saue</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'>¶ <span class="word english_etymology french_etymology latin_etymology">In</span> <span class="word english_etymology">þis</span> <span class="word english_etymology">nede</span> <span class="word english_etymology">þou</span> <span class="word english_etymology">me</span> <span class="word">saue</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Þat</span> <span class="word">y</span> <span class="word">no</span> <span class="word">be</span> <span class="word">neuer</span> <span class="word">forlorn</span>;</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Þat</span> <span class="word">y</span> <span class="word english_etymology">no</span> <span class="word english_etymology">be</span> <span class="word english_etymology">neuer</span> <span class="word english_etymology">forlorn</span>;</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>115</td>
-	<td class='line-text'><span class="word">Graunt</span> <span class="word">me</span> <span class="word">þat</span> <span class="word">y</span> <span class="word">þe</span> <span class="word">craue</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word french_etymology">Graunt</span> <span class="word english_etymology">me</span> <span class="word english_etymology">þat</span> <span class="word">y</span> <span class="word english_etymology">þe</span> <span class="word english_etymology other_etymology">craue</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">For</span> <span class="word">his</span> <span class="word">loue</span> <span class="word">þat</span> <span class="word">of</span> <span class="word">þe</span> <span class="word">was</span> <span class="word">born</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word">For</span> <span class="word english_etymology">his</span> <span class="word scandinavian_etymology">loue</span> <span class="word english_etymology">þat</span> <span class="word english_etymology">of</span> <span class="word english_etymology">þe</span> <span class="word">was</span> <span class="word">born</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'>¶ <span class="word">A</span>, <span class="word">leuedi</span>, <span class="word">to</span> <span class="word">me</span> <span class="word">þou</span> <span class="word">liþe</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'>¶ <span class="word english_etymology other_etymology">A</span>, <span class="word english_etymology">leuedi</span>, <span class="word english_etymology">to</span> <span class="word english_etymology">me</span> <span class="word english_etymology">þou</span> <span class="word">liþe</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">For</span> <span class="word">care</span> <span class="word">min</span> <span class="word">hert</span> <span class="word">wil</span> <span class="word">toriue</span>;</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word">For</span> <span class="word french_etymology">care</span> <span class="word english_etymology">min</span> <span class="word english_etymology">hert</span> <span class="word english_etymology scandinavian_etymology">wil</span> <span class="word">toriue</span>;</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Michel</span> <span class="word">loue</span> <span class="word">ichil</span> <span class="word">þe</span> <span class="word">kiþe</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology french_etymology latin_etymology other_etymology">Michel</span> <span class="word scandinavian_etymology">loue</span> <span class="word english_etymology">ichil</span> <span class="word english_etymology">þe</span> <span class="word english_etymology">kiþe</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>120</td>
-	<td class='line-text'><span class="word">And</span> <span class="word">worþschip</span> <span class="word">þine</span> <span class="word">ioies</span> <span class="word">fiue</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">And</span> <span class="word english_etymology">worþschip</span> <span class="word english_etymology">þine</span> <span class="word french_etymology">ioies</span> <span class="word english_etymology">fiue</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Lene</span> <span class="word">me</span> <span class="word">grace</span>, <span class="word">anoþer</span> <span class="word">siþe</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Lene</span> <span class="word english_etymology">me</span> <span class="word french_etymology">grace</span>, <span class="word english_etymology">anoþer</span> <span class="word english_etymology">siþe</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">To</span> <span class="word">se</span> <span class="word">þi</span> <span class="word">bodi</span> <span class="word">wiþouten</span> <span class="word">striue</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">To</span> <span class="word english_etymology">se</span> <span class="word english_etymology">þi</span> <span class="word english_etymology other_etymology">bodi</span> <span class="word english_etymology">wiþouten</span> <span class="word french_etymology">striue</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Bi</span> <span class="word">so</span>, <span class="word">ichil</span> <span class="word">be</span> <span class="word">bliþe</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word">Bi</span> <span class="word english_etymology">so</span>, <span class="word english_etymology">ichil</span> <span class="word english_etymology">be</span> <span class="word english_etymology">bliþe</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">To</span> <span class="word">be</span> <span class="word">blinde</span> <span class="word">in</span> <span class="word">al</span> <span class="word">mi</span> <span class="word">liue</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">To</span> <span class="word english_etymology">be</span> <span class="word english_etymology">blinde</span> <span class="word english_etymology french_etymology latin_etymology">in</span> <span class="word english_etymology">al</span> <span class="word english_etymology latin_etymology other_etymology">mi</span> <span class="word english_etymology other_etymology">liue</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>125</td>
-	<td class='line-text'>¶ <span class="word">In</span> <span class="word">al</span> <span class="word">mi</span> <span class="word">liue</span> <span class="word">ichil</span> <span class="word">be</span> <span class="word">glad</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'>¶ <span class="word english_etymology french_etymology latin_etymology">In</span> <span class="word english_etymology">al</span> <span class="word english_etymology latin_etymology other_etymology">mi</span> <span class="word english_etymology other_etymology">liue</span> <span class="word english_etymology">ichil</span> <span class="word english_etymology">be</span> <span class="word">glad</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">In</span> <span class="word">swiche</span> <span class="word">penaunce</span> <span class="word">for</span> <span class="word">to</span> <span class="word">ben</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology french_etymology latin_etymology">In</span> <span class="word english_etymology">swiche</span> <span class="word french_etymology">penaunce</span> <span class="word">for</span> <span class="word english_etymology">to</span> <span class="word english_etymology scandinavian_etymology">ben</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Bi</span> <span class="word">so</span> <span class="word">þou</span> <span class="word">graunt</span> <span class="word">þat</span> <span class="word">y</span> <span class="word">þe</span> <span class="word">bad</span>:</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word">Bi</span> <span class="word english_etymology">so</span> <span class="word english_etymology">þou</span> <span class="word french_etymology">graunt</span> <span class="word english_etymology">þat</span> <span class="word">y</span> <span class="word english_etymology">þe</span> <span class="word">bad</span>:</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Efsones</span> <span class="word">y</span> <span class="word">mot</span> <span class="word">þe</span> <span class="word">sen</span>.’</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Efsones</span> <span class="word">y</span> <span class="word english_etymology">mot</span> <span class="word english_etymology">þe</span> <span class="word english_etymology">sen</span>.’</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'>¶ <span class="word">Alday</span> <span class="word">he</span> <span class="word">was</span> <span class="word">in</span> <span class="word">sorwe</span> <span class="word">strong</span>;</td>
-	<td class='line-note'></td>
+	<td class='line-text'>¶ <span class="word">Alday</span> <span class="word english_etymology">he</span> <span class="word">was</span> <span class="word english_etymology french_etymology latin_etymology">in</span> <span class="word english_etymology">sorwe</span> <span class="word english_etymology">strong</span>;</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>130</td>
-	<td class='line-text'><span class="word">And</span> <span class="word">afterward</span> <span class="word">þat</span> <span class="word">com</span> <span class="word">þe</span> <span class="word">niȝt</span>;</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">And</span> <span class="word">afterward</span> <span class="word english_etymology">þat</span> <span class="word latin_etymology">com</span> <span class="word english_etymology">þe</span> <span class="word">niȝt</span>;</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">His</span> <span class="word">white</span> <span class="word">honden</span> <span class="word">hard</span> <span class="word">he</span> <span class="word">wrong</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">His</span> <span class="word">white</span> <span class="word">honden</span> <span class="word english_etymology">hard</span> <span class="word english_etymology">he</span> <span class="word english_etymology scandinavian_etymology">wrong</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">He</span> <span class="word">ne</span> <span class="word">may</span> <span class="word">for</span> <span class="word">wo</span> <span class="word">slepe</span> <span class="word">nowiȝt</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">He</span> <span class="word english_etymology french_etymology latin_etymology">ne</span> <span class="word english_etymology">may</span> <span class="word">for</span> <span class="word english_etymology">wo</span> <span class="word english_etymology">slepe</span> <span class="word english_etymology">nowiȝt</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">He</span> <span class="word">herd</span> <span class="word">þan</span> <span class="word">a</span> <span class="word">miri</span> <span class="word">song</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">He</span> <span class="word english_etymology scandinavian_etymology">herd</span> <span class="word english_etymology">þan</span> <span class="word english_etymology other_etymology">a</span> <span class="word">miri</span> <span class="word english_etymology">song</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Of</span> <span class="word">angels</span> <span class="word">þat</span> <span class="word">were</span> <span class="word">so</span> <span class="word">briȝt</span>;</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Of</span> <span class="word english_etymology">angels</span> <span class="word english_etymology">þat</span> <span class="word english_etymology">were</span> <span class="word english_etymology">so</span> <span class="word">briȝt</span>;</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>135</td>
-	<td class='line-text'><span class="word">Our</span> <span class="word">leuedi</span> <span class="word">com</span> <span class="word">hem</span> <span class="word">among</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word french_etymology latin_etymology">Our</span> <span class="word english_etymology">leuedi</span> <span class="word latin_etymology">com</span> <span class="word english_etymology">hem</span> <span class="word">among</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">And</span> <span class="word">seyd</span> ‘<span class="word">clerk</span>, <span class="word">drede</span> <span class="word">[þe]</span> <span class="word">nowiȝt</span>.’</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">And</span> <span class="word">seyd</span> ‘<span class="word english_etymology french_etymology latin_etymology">clerk</span>, <span class="word">drede</span> <span class="word english_etymology">[þe]</span> <span class="word english_etymology">nowiȝt</span>.’</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'>¶ <span class="word">Sche</span> <span class="word">spac</span> <span class="word">þe</span> <span class="word">clerk</span> <span class="word">so</span> <span class="word">fair</span> <span class="word">vntille</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'>¶ <span class="word english_etymology">Sche</span> <span class="word">spac</span> <span class="word english_etymology">þe</span> <span class="word english_etymology french_etymology latin_etymology">clerk</span> <span class="word english_etymology">so</span> <span class="word english_etymology">fair</span> <span class="word">vntille</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'>‘<span class="word">Ich</span> <span class="word">forȝiue</span> <span class="word">þe</span> <span class="word">al</span> <span class="word">þi</span> <span class="word">gilt</span>;</td>
-	<td class='line-note'></td>
+	<td class='line-text'>‘<span class="word english_etymology scandinavian_etymology">Ich</span> <span class="word english_etymology">forȝiue</span> <span class="word english_etymology">þe</span> <span class="word english_etymology">al</span> <span class="word english_etymology">þi</span> <span class="word">gilt</span>;</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Þi</span> <span class="word">praier</span> <span class="word">y</span> <span class="word">schal</span> <span class="word">fulfille</span>:</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Þi</span> <span class="word french_etymology">praier</span> <span class="word">y</span> <span class="word english_etymology other_etymology">schal</span> <span class="word english_etymology">fulfille</span>:</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>140</td>
-	<td class='line-text'><span class="word">Loke</span> <span class="word">on</span> <span class="word">me</span>, <span class="word">ȝif</span> <span class="word">þat</span> <span class="word">þou</span> <span class="word">wilt</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word">Loke</span> <span class="word english_etymology">on</span> <span class="word english_etymology">me</span>, <span class="word english_etymology">ȝif</span> <span class="word english_etymology">þat</span> <span class="word english_etymology">þou</span> <span class="word">wilt</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'>¶ <span class="word">Þerwhiles</span> <span class="word">þat</span> <span class="word">þou</span> <span class="word">art</span> <span class="word">hayl</span> <span class="word">and</span> <span class="word">quert</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'>¶ <span class="word">Þerwhiles</span> <span class="word english_etymology">þat</span> <span class="word english_etymology">þou</span> <span class="word latin_etymology">art</span> <span class="word english_etymology">hayl</span> <span class="word english_etymology">and</span> <span class="word scandinavian_etymology">quert</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Biheld</span> <span class="word">me</span> <span class="word">wele</span> <span class="word">euerich</span> <span class="word">a</span> <span class="word">bon</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology latin_etymology">Biheld</span> <span class="word english_etymology">me</span> <span class="word english_etymology scandinavian_etymology">wele</span> <span class="word english_etymology">euerich</span> <span class="word english_etymology other_etymology">a</span> <span class="word english_etymology">bon</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Biþenche</span> <span class="word">in</span> <span class="word">þine</span> <span class="word">owhen</span> <span class="word">hert</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Biþenche</span> <span class="word english_etymology french_etymology latin_etymology">in</span> <span class="word english_etymology">þine</span> <span class="word english_etymology">owhen</span> <span class="word english_etymology">hert</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Þat</span> <span class="word">warisoun</span> <span class="word">no</span> <span class="word">hastow</span> <span class="word">non</span>;</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Þat</span> <span class="word english_etymology french_etymology">warisoun</span> <span class="word english_etymology">no</span> <span class="word english_etymology">hastow</span> <span class="word">non</span>;</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>145</td>
-	<td class='line-text'><span class="word">Þine</span> <span class="word">axing</span> <span class="word">sore</span> <span class="word">schal</span> <span class="word">þe</span> <span class="word">smert</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Þine</span> <span class="word">axing</span> <span class="word french_etymology">sore</span> <span class="word english_etymology other_etymology">schal</span> <span class="word english_etymology">þe</span> <span class="word english_etymology">smert</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">ȝif</span> <span class="word">þou</span> <span class="word">be</span> <span class="word">blinde</span> <span class="word">as</span> <span class="word">ani</span> <span class="word">ston</span>;</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">ȝif</span> <span class="word english_etymology">þou</span> <span class="word english_etymology">be</span> <span class="word english_etymology">blinde</span> <span class="word latin_etymology">as</span> <span class="word english_etymology">ani</span> <span class="word english_etymology">ston</span>;</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Þou</span> <span class="word">most</span> <span class="word">liue</span> <span class="word">in</span> <span class="word">gret</span> <span class="word">pouert</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Þou</span> <span class="word english_etymology">most</span> <span class="word english_etymology other_etymology">liue</span> <span class="word english_etymology french_etymology latin_etymology">in</span> <span class="word">gret</span> <span class="word french_etymology">pouert</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">[W]hen</span> <span class="word">þou</span> <span class="word">hast</span> <span class="word">þine</span> <span class="word">eiȝen</span> <span class="word">forgon</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">[W]hen</span> <span class="word english_etymology">þou</span> <span class="word french_etymology other_etymology">hast</span> <span class="word english_etymology">þine</span> <span class="word english_etymology">eiȝen</span> <span class="word english_etymology">forgon</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'>¶ <span class="word">When</span> <span class="word">þou</span> <span class="word">forgos</span> <span class="word">þi</span> <span class="word">warldes</span> <span class="word">wele</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'>¶ <span class="word english_etymology">When</span> <span class="word english_etymology">þou</span> <span class="word english_etymology">forgos</span> <span class="word english_etymology">þi</span> <span class="word english_etymology">warldes</span> <span class="word english_etymology scandinavian_etymology">wele</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>150</td>
-	<td class='line-text'><span class="word">And</span> <span class="word">loue</span> <span class="word">of</span> <span class="word">frendes</span>, <span class="word">fremed</span> <span class="word">and</span> <span class="word">sibbe</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">And</span> <span class="word scandinavian_etymology">loue</span> <span class="word english_etymology">of</span> <span class="word english_etymology">frendes</span>, <span class="word english_etymology other_etymology">fremed</span> <span class="word english_etymology">and</span> <span class="word english_etymology">sibbe</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Angwis</span> <span class="word">þou</span> <span class="word">most</span> <span class="word">suffri</span> <span class="word">fele</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word">Angwis</span> <span class="word english_etymology">þou</span> <span class="word english_etymology">most</span> <span class="word french_etymology latin_etymology">suffri</span> <span class="word english_etymology">fele</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">In</span> <span class="word">alle</span> <span class="word">time</span> <span class="word">þat</span> <span class="word">þou</span> <span class="word">schalt</span> <span class="word">libbe</span>.’</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology french_etymology latin_etymology">In</span> <span class="word">alle</span> <span class="word french_etymology latin_etymology">time</span> <span class="word english_etymology">þat</span> <span class="word english_etymology">þou</span> <span class="word english_etymology">schalt</span> <span class="word english_etymology">libbe</span>.’</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'>¶ <span class="word">Þe</span> <span class="word">clerk</span> <span class="word">answerd</span>, <span class="word">and</span> <span class="word">louȝ</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'>¶ <span class="word english_etymology">Þe</span> <span class="word english_etymology french_etymology latin_etymology">clerk</span> <span class="word english_etymology">answerd</span>, <span class="word english_etymology">and</span> <span class="word scandinavian_etymology">louȝ</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'>‘<span class="word">Min</span> <span class="word">hert</span> <span class="word">is</span> <span class="word">ful</span> <span class="word">of</span> <span class="word">gret</span> <span class="word">solas</span>;</td>
-	<td class='line-note'></td>
+	<td class='line-text'>‘<span class="word english_etymology">Min</span> <span class="word english_etymology">hert</span> <span class="word english_etymology">is</span> <span class="word english_etymology">ful</span> <span class="word english_etymology">of</span> <span class="word">gret</span> <span class="word french_etymology latin_etymology">solas</span>;</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>155</td>
-	<td class='line-text'><span class="word">Icham</span> <span class="word">bliþer</span> <span class="word">þan</span> <span class="word">brid</span> <span class="word">on</span> <span class="word">bouȝ</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word french_etymology latin_etymology">Icham</span> <span class="word">bliþer</span> <span class="word english_etymology">þan</span> <span class="word english_etymology">brid</span> <span class="word english_etymology">on</span> <span class="word english_etymology scandinavian_etymology other_etymology">bouȝ</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Þat</span> <span class="word">ich</span> <span class="word">haue</span> <span class="word">seyn</span> <span class="word">þine</span> <span class="word">holy</span> <span class="word">face</span>;</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Þat</span> <span class="word english_etymology scandinavian_etymology">ich</span> <span class="word english_etymology scandinavian_etymology">haue</span> <span class="word english_etymology french_etymology latin_etymology">seyn</span> <span class="word english_etymology">þine</span> <span class="word scandinavian_etymology">holy</span> <span class="word french_etymology latin_etymology">face</span>;</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Of</span> <span class="word">al</span> <span class="word">ioie</span> <span class="word">ichaue</span> <span class="word">anouȝ</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Of</span> <span class="word english_etymology">al</span> <span class="word">ioie</span> <span class="word english_etymology">ichaue</span> <span class="word english_etymology">anouȝ</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Sende</span> <span class="word">me</span> <span class="word">now</span>, <span class="word">leuedi</span>, <span class="word">of</span> <span class="word">þi</span> <span class="word">grace</span> –</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology scandinavian_etymology">Sende</span> <span class="word english_etymology">me</span> <span class="word">now</span>, <span class="word english_etymology">leuedi</span>, <span class="word english_etymology">of</span> <span class="word english_etymology">þi</span> <span class="word french_etymology">grace</span> –</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">To</span> <span class="word">suffren</span> <span class="word">wo</span> <span class="word">mi</span> <span class="word">body</span> <span class="word">is</span> <span class="word">touȝ</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">To</span> <span class="word english_etymology french_etymology">suffren</span> <span class="word english_etymology">wo</span> <span class="word english_etymology latin_etymology other_etymology">mi</span> <span class="word english_etymology other_etymology">body</span> <span class="word english_etymology">is</span> <span class="word">touȝ</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>160</td>
-	<td class='line-text'><span class="word">Bi</span> <span class="word">so</span> <span class="word">ich</span> <span class="word">mot</span> <span class="word">hauen</span> <span class="word">a</span> <span class="word">place</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word">Bi</span> <span class="word english_etymology">so</span> <span class="word english_etymology scandinavian_etymology">ich</span> <span class="word english_etymology">mot</span> <span class="word english_etymology">hauen</span> <span class="word english_etymology other_etymology">a</span> <span class="word other_etymology">place</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'>¶ <span class="word">A</span> <span class="word">place</span> <span class="word">graunt</span> <span class="word">me</span>, <span class="word">Marie</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'>¶ <span class="word english_etymology other_etymology">A</span> <span class="word other_etymology">place</span> <span class="word french_etymology">graunt</span> <span class="word english_etymology">me</span>, <span class="word">Marie</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Þat</span> <span class="word">mi</span> <span class="word">soule</span> <span class="word">mot</span> <span class="word">wone</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Þat</span> <span class="word english_etymology latin_etymology other_etymology">mi</span> <span class="word english_etymology scandinavian_etymology">soule</span> <span class="word english_etymology">mot</span> <span class="word">wone</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Wiþ</span> <span class="word">ioie</span> <span class="word">and</span> <span class="word">wiþ</span> <span class="word">melodye</span>;</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Wiþ</span> <span class="word">ioie</span> <span class="word english_etymology">and</span> <span class="word english_etymology">wiþ</span> <span class="word french_etymology latin_etymology other_etymology">melodye</span>;</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">In</span> <span class="word">heuen</span> <span class="word">bifor</span> <span class="word">þi</span> <span class="word">swet</span> <span class="word">sone</span>.’</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology french_etymology latin_etymology">In</span> <span class="word english_etymology">heuen</span> <span class="word latin_etymology">bifor</span> <span class="word english_etymology">þi</span> <span class="word english_etymology scandinavian_etymology">swet</span> <span class="word english_etymology">sone</span>.’</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>165</td>
-	<td class='line-text'>¶ <span class="word">Sche</span> <span class="word">seyd</span> ‘<span class="word">mi</span> <span class="word">clerk</span>, <span class="word">no</span> <span class="word">wepe</span> <span class="word">þou</span> <span class="word">nouȝt</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'>¶ <span class="word english_etymology">Sche</span> <span class="word">seyd</span> ‘<span class="word english_etymology latin_etymology other_etymology">mi</span> <span class="word english_etymology french_etymology latin_etymology">clerk</span>, <span class="word english_etymology">no</span> <span class="word">wepe</span> <span class="word english_etymology">þou</span> <span class="word">nouȝt</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">No</span> <span class="word">make</span> <span class="word">no</span> <span class="word">mornand</span> <span class="word">chere</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">No</span> <span class="word french_etymology">make</span> <span class="word english_etymology">no</span> <span class="word english_etymology">mornand</span> <span class="word">chere</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Þi</span> <span class="word">bon</span> <span class="word">þou</span> <span class="word">hast</span> <span class="word">me</span> <span class="word">bisouȝt</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Þi</span> <span class="word english_etymology">bon</span> <span class="word english_etymology">þou</span> <span class="word french_etymology other_etymology">hast</span> <span class="word english_etymology">me</span> <span class="word english_etymology">bisouȝt</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Ich</span> <span class="word">graunt</span> <span class="word">þe</span> <span class="word">in</span> <span class="word">al</span> <span class="word">maner</span>;</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology scandinavian_etymology">Ich</span> <span class="word french_etymology">graunt</span> <span class="word english_etymology">þe</span> <span class="word english_etymology french_etymology latin_etymology">in</span> <span class="word english_etymology">al</span> <span class="word french_etymology latin_etymology">maner</span>;</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Into</span> <span class="word">þat</span> <span class="word">ioie</span> <span class="word">þou</span> <span class="word">schalt</span> <span class="word">be</span> <span class="word">brouȝt</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Into</span> <span class="word english_etymology">þat</span> <span class="word">ioie</span> <span class="word english_etymology">þou</span> <span class="word english_etymology">schalt</span> <span class="word english_etymology">be</span> <span class="word english_etymology latin_etymology other_etymology">brouȝt</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>170</td>
-	<td class='line-text'><span class="word">When</span> <span class="word">þou</span> <span class="word">hast</span> <span class="word">laten</span> <span class="word">þi</span> <span class="word">liif</span> <span class="word">here</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">When</span> <span class="word english_etymology">þou</span> <span class="word french_etymology other_etymology">hast</span> <span class="word">laten</span> <span class="word english_etymology">þi</span> <span class="word english_etymology">liif</span> <span class="word english_etymology">here</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Þat</span> <span class="word">mi</span> <span class="word">swete</span> <span class="word">sone</span> <span class="word">haþ</span> <span class="word">wrouȝt</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Þat</span> <span class="word english_etymology latin_etymology other_etymology">mi</span> <span class="word english_etymology">swete</span> <span class="word english_etymology">sone</span> <span class="word scandinavian_etymology">haþ</span> <span class="word english_etymology">wrouȝt</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">To</span> <span class="word">hem</span> <span class="word">þat</span> <span class="word">ben</span> <span class="word">him</span> <span class="word">leue</span> <span class="word">and</span> <span class="word">dere</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">To</span> <span class="word english_etymology">hem</span> <span class="word english_etymology">þat</span> <span class="word english_etymology scandinavian_etymology">ben</span> <span class="word english_etymology">him</span> <span class="word english_etymology">leue</span> <span class="word english_etymology">and</span> <span class="word english_etymology">dere</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'>¶ <span class="word">Dere</span> <span class="word">þou</span> <span class="word">art</span> <span class="word">to</span> <span class="word">me</span>, <span class="word">ywis</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'>¶ <span class="word english_etymology">Dere</span> <span class="word english_etymology">þou</span> <span class="word latin_etymology">art</span> <span class="word english_etymology">to</span> <span class="word english_etymology">me</span>, <span class="word english_etymology">ywis</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Oȝain</span> <span class="word">to</span> <span class="word">heuen</span> <span class="word">now</span> <span class="word">ich</span> <span class="word">mot</span> <span class="word">wende</span>;</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word">Oȝain</span> <span class="word english_etymology">to</span> <span class="word english_etymology">heuen</span> <span class="word">now</span> <span class="word english_etymology scandinavian_etymology">ich</span> <span class="word english_etymology">mot</span> <span class="word english_etymology">wende</span>;</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>175</td>
-	<td class='line-text'><span class="word">Þou</span> <span class="word">schalt</span> <span class="word">com</span> <span class="word">into</span> <span class="word">þat</span> <span class="word">blis</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Þou</span> <span class="word english_etymology">schalt</span> <span class="word latin_etymology">com</span> <span class="word english_etymology">into</span> <span class="word english_etymology">þat</span> <span class="word english_etymology">blis</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">When</span> <span class="word">þou</span> <span class="word">hast</span> <span class="word">laten</span> <span class="word">þi</span> <span class="word">liues</span> <span class="word">ende</span>.’</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">When</span> <span class="word english_etymology">þou</span> <span class="word french_etymology other_etymology">hast</span> <span class="word">laten</span> <span class="word english_etymology">þi</span> <span class="word english_etymology">liues</span> <span class="word english_etymology">ende</span>.’</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'>¶ <span class="word">Vp</span> <span class="word">into</span> <span class="word">heuen</span> <span class="word">anon</span> <span class="word">sche</span> <span class="word">steyȝe</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'>¶ <span class="word english_etymology">Vp</span> <span class="word english_etymology">into</span> <span class="word english_etymology">heuen</span> <span class="word">anon</span> <span class="word english_etymology">sche</span> <span class="word english_etymology">steyȝe</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Þer</span> <span class="word">sche</span> <span class="word">is</span> <span class="word">quen</span> <span class="word">and</span> <span class="word">leuedi</span> <span class="word">corn</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Þer</span> <span class="word english_etymology">sche</span> <span class="word english_etymology">is</span> <span class="word english_etymology">quen</span> <span class="word english_etymology">and</span> <span class="word english_etymology">leuedi</span> <span class="word english_etymology">corn</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Þe</span> <span class="word">clerk</span> <span class="word">his</span> <span class="word">eiȝen</span> <span class="word">fast</span> <span class="word">he</span> <span class="word">wreiȝe</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Þe</span> <span class="word english_etymology french_etymology latin_etymology">clerk</span> <span class="word english_etymology">his</span> <span class="word english_etymology">eiȝen</span> <span class="word english_etymology">fast</span> <span class="word english_etymology">he</span> <span class="word english_etymology">wreiȝe</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>180</td>
-	<td class='line-text'><span class="word">He</span> <span class="word">wende</span> <span class="word">his</span> <span class="word">siȝt</span> <span class="word">were</span> <span class="word">forlorn</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">He</span> <span class="word english_etymology">wende</span> <span class="word english_etymology">his</span> <span class="word">siȝt</span> <span class="word english_etymology">were</span> <span class="word english_etymology">forlorn</span>.</td>
 </tr>
 <tr>
-	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">When</span> <span class="word">it</span> <span class="word">was</span> <span class="word">day</span>, <span class="word">ful</span> <span class="word">wele</span> <span class="word">he</span> <span class="word">seiȝe</span></td>
 	<td class='line-note'>Note<div class='tooltip'><em>day</em> superscript with<lb></lb>insertion point marked.</div></td>
-</tr>
-<tr>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Þis</span> <span class="word">warldes</span> <span class="word">pride</span> <span class="word">al</span> <span class="word">him</span> <span class="word">biforn</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">When</span> <span class="word french_etymology latin_etymology other_etymology">it</span> <span class="word">was</span> <span class="word english_etymology">day</span>, <span class="word english_etymology">ful</span> <span class="word english_etymology scandinavian_etymology">wele</span> <span class="word english_etymology">he</span> <span class="word french_etymology latin_etymology">seiȝe</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'>‘<span class="word">Merci</span>, <span class="word">leuedi</span>’ <span class="word">he</span> <span class="word">crid</span> <span class="word">on</span> <span class="word">heiȝe</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Þis</span> <span class="word english_etymology">warldes</span> <span class="word other_etymology">pride</span> <span class="word english_etymology">al</span> <span class="word english_etymology">him</span> <span class="word latin_etymology">biforn</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'>‘<span class="word">Wele</span> <span class="word">be</span> <span class="word">þe</span> <span class="word">time</span> <span class="word">þat</span> <span class="word">þou</span> <span class="word">were</span> <span class="word">born</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'>‘<span class="word french_etymology">Merci</span>, <span class="word english_etymology">leuedi</span>’ <span class="word english_etymology">he</span> <span class="word french_etymology">crid</span> <span class="word english_etymology">on</span> <span class="word english_etymology">heiȝe</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
+	<td class='line-nbr'></td>
+	<td class='line-text'>‘<span class="word english_etymology scandinavian_etymology">Wele</span> <span class="word english_etymology">be</span> <span class="word english_etymology">þe</span> <span class="word french_etymology latin_etymology">time</span> <span class="word english_etymology">þat</span> <span class="word english_etymology">þou</span> <span class="word english_etymology">were</span> <span class="word">born</span>.</td>
+</tr>
+<tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>185</td>
-	<td class='line-text'>¶ <span class="word">Þat</span> <span class="word">þou</span> <span class="word">were</span> <span class="word">born</span> <span class="word">of</span> <span class="word">o</span> <span class="word">wiman</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'>¶ <span class="word english_etymology">Þat</span> <span class="word english_etymology">þou</span> <span class="word english_etymology">were</span> <span class="word">born</span> <span class="word english_etymology">of</span> <span class="word english_etymology">o</span> <span class="word english_etymology">wiman</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Blisced</span> <span class="word">be</span> <span class="word">euer</span> <span class="word">þe</span> <span class="word">day</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Blisced</span> <span class="word english_etymology">be</span> <span class="word">euer</span> <span class="word english_etymology">þe</span> <span class="word english_etymology">day</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Þer</span> <span class="word">liueþ</span> <span class="word">no</span> <span class="word">wiȝt</span> <span class="word">þat</span> <span class="word">telle</span> <span class="word">can</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Þer</span> <span class="word english_etymology">liueþ</span> <span class="word english_etymology">no</span> <span class="word">wiȝt</span> <span class="word english_etymology">þat</span> <span class="word french_etymology">telle</span> <span class="word english_etymology">can</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Þe</span> <span class="word">ioie</span> <span class="word">þat</span> <span class="word">of</span> <span class="word">þe</span> <span class="word">springeþ</span> <span class="word">ay</span>.’</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Þe</span> <span class="word">ioie</span> <span class="word english_etymology">þat</span> <span class="word english_etymology">of</span> <span class="word english_etymology">þe</span> <span class="word english_etymology">springeþ</span> <span class="word english_etymology scandinavian_etymology">ay</span>.’</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'>¶ <span class="word">Leuedi</span>, <span class="word">flour</span> <span class="word">and</span> <span class="word">frout</span> <span class="word">of</span> <span class="word">Iesse</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'>¶ <span class="word english_etymology">Leuedi</span>, <span class="word french_etymology">flour</span> <span class="word english_etymology">and</span> <span class="word french_etymology latin_etymology">frout</span> <span class="word english_etymology">of</span> <span class="word">Iesse</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>190</td>
-	<td class='line-text'><span class="word">Þou</span> <span class="word">art</span> <span class="word">maiden</span>, <span class="word">gode</span> <span class="word">and</span> <span class="word">hende</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Þou</span> <span class="word latin_etymology">art</span> <span class="word english_etymology">maiden</span>, <span class="word english_etymology">gode</span> <span class="word english_etymology">and</span> <span class="word english_etymology">hende</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Godes</span> <span class="word">moder</span>, <span class="word">mild</span> <span class="word">and</span> <span class="word">fre</span>;</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Godes</span> <span class="word english_etymology">moder</span>, <span class="word english_etymology">mild</span> <span class="word english_etymology">and</span> <span class="word">fre</span>;</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Michel</span> <span class="word">þou</span> <span class="word">helpest</span> <span class="word">al</span> <span class="word">mankende</span>:</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology french_etymology latin_etymology other_etymology">Michel</span> <span class="word english_etymology">þou</span> <span class="word english_etymology scandinavian_etymology">helpest</span> <span class="word english_etymology">al</span> <span class="word latin_etymology">mankende</span>:</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">On</span> <span class="word">þi</span> <span class="word">seruaunt</span> <span class="word">haue</span> <span class="word">pite</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">On</span> <span class="word english_etymology">þi</span> <span class="word english_etymology french_etymology latin_etymology">seruaunt</span> <span class="word english_etymology scandinavian_etymology">haue</span> <span class="word french_etymology">pite</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">And</span> <span class="word">saue</span> <span class="word">ous</span>, <span class="word">lord</span>, <span class="word">fram</span> <span class="word">þe</span> <span class="word">fende</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">And</span> <span class="word">saue</span> <span class="word french_etymology latin_etymology">ous</span>, <span class="word english_etymology">lord</span>, <span class="word english_etymology scandinavian_etymology">fram</span> <span class="word english_etymology">þe</span> <span class="word">fende</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>195</td>
-	<td class='line-text'><span class="word">And</span> <span class="word">graunt</span> <span class="word">ous</span>, <span class="word">ȝif</span> <span class="word">þi</span> <span class="word">wille</span> <span class="word">be</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">And</span> <span class="word french_etymology">graunt</span> <span class="word french_etymology latin_etymology">ous</span>, <span class="word english_etymology">ȝif</span> <span class="word english_etymology">þi</span> <span class="word">wille</span> <span class="word english_etymology">be</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">When</span> <span class="word">we</span> <span class="word">schul</span> <span class="word">of</span> <span class="word">þis</span> <span class="word">warld</span> <span class="word">wende</span></td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">When</span> <span class="word english_etymology other_etymology">we</span> <span class="word english_etymology">schul</span> <span class="word english_etymology">of</span> <span class="word english_etymology">þis</span> <span class="word english_etymology">warld</span> <span class="word english_etymology">wende</span></td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'>¶ <span class="word">When</span> <span class="word">we</span> <span class="word">schal</span> <span class="word">wend</span> <span class="word">out</span> <span class="word">of</span> <span class="word">þis</span> <span class="word">liue</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'>¶ <span class="word english_etymology">When</span> <span class="word english_etymology other_etymology">we</span> <span class="word english_etymology other_etymology">schal</span> <span class="word english_etymology">wend</span> <span class="word english_etymology">out</span> <span class="word english_etymology">of</span> <span class="word english_etymology">þis</span> <span class="word english_etymology other_etymology">liue</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Here</span> <span class="word">our</span> <span class="word">prayer</span> <span class="word">and</span> <span class="word">our</span> <span class="word">steuen</span>:</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Here</span> <span class="word french_etymology latin_etymology">our</span> <span class="word french_etymology">prayer</span> <span class="word english_etymology">and</span> <span class="word french_etymology latin_etymology">our</span> <span class="word english_etymology">steuen</span>:</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
-	<td class='line-text'><span class="word">Bring</span> <span class="word">ous</span>, <span class="word">for</span> <span class="word">þine</span> <span class="word">ioies</span> <span class="word">fiue</span>,</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Bring</span> <span class="word french_etymology latin_etymology">ous</span>, <span class="word">for</span> <span class="word english_etymology">þine</span> <span class="word french_etymology">ioies</span> <span class="word english_etymology">fiue</span>,</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'>200</td>
-	<td class='line-text'><span class="word">Into</span> <span class="word">þe</span> <span class="word">swete</span> <span class="word">blis</span> <span class="word">of</span> <span class="word">heuen</span>. <span class="word">Amen</span>.</td>
-	<td class='line-note'></td>
+	<td class='line-text'><span class="word english_etymology">Into</span> <span class="word english_etymology">þe</span> <span class="word english_etymology">swete</span> <span class="word english_etymology">blis</span> <span class="word english_etymology">of</span> <span class="word english_etymology">heuen</span>. <span class="word french_etymology latin_etymology">Amen</span>.</td>
 </tr>
 <tr>
+	<td class='line-note'></td>
 	<td class='line-nbr'></td>
 	<td class='line-text'><span class="word">Explicit</span></td>
-	<td class='line-note'></td>
 </tr>
 </table>
