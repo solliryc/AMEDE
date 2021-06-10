@@ -36,10 +36,11 @@ body {
     cursor: pointer;
     padding: 15px;
     border-radius: 4px;
+    opacity: 0.5;
 }
   
 #topButton:hover {
-    background-color: #555;
+    opacity: 1;
 }
 
 #fullPage {
@@ -75,6 +76,13 @@ label {
     width: 80%;
 }
 
+#selectionDiv {
+    text-align: center;
+    margin: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
 #poemSelection, #etymologySelection {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 5px;
@@ -86,18 +94,35 @@ label {
 }
 
 #poemLength {
-    padding-left: 10px;
     font-size: small;
 }
 
-#poemDiv, #etymologyDiv {
+#poemDiv, #etymologyDiv{
     display: inline-block;
     text-align: left;
     vertical-align: top;
     margin-top: 20px;
 }
 
-#borderText {
+#lineDiv {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#inputLineNbr {
+    width: 100px;
+    padding: 5px;
+}
+
+#buttonLineNbr {
+    background-color: rgb(49, 146, 206);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 8px;
+}
+
+.borderText {
     border-top: solid rgb(49, 146, 206) 5px;
     margin-left: auto;
     margin-right: auto;
@@ -112,9 +137,9 @@ label {
 }
 
 #textContent {
-    margin: 20px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 20px auto 20px auto;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .line-note {
@@ -239,8 +264,12 @@ ul {
 }
 
 #about {
-    width: 50%;
+    width: 70%;
     margin: auto;
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 20px;
 }
 
 .footer {
@@ -251,8 +280,10 @@ ul {
     background-color: rgb(207, 236, 253);
   }
 
-p.footer {
+#footer {
     width: 70%;
     margin: auto;
     text-align: justify;
+    padding-right: 20px;
+    padding-left: 20px;
 }

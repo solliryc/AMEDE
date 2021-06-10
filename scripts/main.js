@@ -71,8 +71,6 @@ function loadData() {
         d3.dsv(',', 'data/med_etymologies.csv'),
     ]
 
-    //poemsTitle = poemsTitleTest
-
     poemsTitle.forEach(poem => {
         poemAbbrev = poem.poem_abbrev
         filesArray.push(d3.text(`data/texts_v2/${poemAbbrev}.txt`))
@@ -91,7 +89,6 @@ function onDataLoaded(data) {
     definitionsData = data[2]
     etymologiesData = data[3]
     
-
     console.log(etymologiesData)
 
     for (let i = 0; i < poemsTitle.length; i++) {
@@ -103,12 +100,43 @@ function onDataLoaded(data) {
     showSelectedPoem()
     setTooltipPosition()
     scrollToTop()
-    
 
     // remove loading screen
     document.getElementById('loader').style.display = "none";
     document.getElementById('fullPage').style.opacity = 1
     document.getElementById('fullPage').style.transition = 'opacity 1s'
+}
+
+function goToLine() {
+    const linesNbrList = document.getElementsByClassName('line-nbr')
+    let inputLineNbr = document.getElementById('inputLineNbr').value
+    maxLineNbr = linesNbrList.length
+
+    if (inputLineNbr) {
+        // get all line numbers, store in array as int
+        let numbersArray = []
+        for (let i = 0; i < linesNbrList.length; i++) {
+            const nbr = linesNbrList[i].innerHTML;
+            if (nbr) {
+                numbersArray.push(parseInt(nbr))   
+            }
+        }
+
+        // get the closest number
+        var closestLineNbr = numbersArray.reduce(function(prev, curr) {
+            return (Math.abs(curr - inputLineNbr) < Math.abs(prev - inputLineNbr) ? curr : prev);
+        });
+        
+        for (let i = 0; i < linesNbrList.length; i++) {
+            const element = linesNbrList[i];
+            if (element.innerHTML == closestLineNbr) {
+                element.scrollIntoView({
+                    behavior: 'smooth',
+                    block: 'center'
+                })
+            }
+        }
+    }
 }
 
 // populate poem list
@@ -138,8 +166,6 @@ function highlightEtymology() {
     const selectedEtymology = document.getElementById('etymologySelection').value
     const wordsList = document.getElementsByClassName('word')
 
-    console.log(selectedEtymology)
-
     if (selectedEtymology == 'none') {
         for (var i = 0; i < wordsList.length; i++) {
             wordsList[i].style.color = 'black';
@@ -167,7 +193,6 @@ function showWordData() {
             wordText = wordText.toLowerCase()
 
             // remove previous infobox
-            console.log('must remove')
             removeInfobox()
             
             if (!word.hasAttribute('id')) {
@@ -182,9 +207,7 @@ function showWordData() {
                 word.setAttribute('id', 'selectedWord')
 
                 // show the proper noun infobox if the word is a proper noun
-                console.log('here')
                 isProperNoun = showProperNounInfobox(word, wordText)
-                console.log(isProperNoun)
 
                 let wordInLexicon = false
                 // show the word infobox check if the word has a match in the database
@@ -212,7 +235,6 @@ function showWordData() {
 function showWordInfobox(word, lexiconMatch) {
     const linesTextList = document.getElementsByClassName('line-text')
     lineTextWidth = linesTextList[0].offsetWidth
-    console.log(lineTextWidth)
 
     let medWord = lexiconMatch.med_word
     let medID = lexiconMatch.med_id
@@ -364,7 +386,6 @@ function setTooltipPosition() {
             if (tooltip) {
                 let tooltipWidth = tooltip.offsetWidth
                 let width = tooltipWidth - lineNoteWidth
-                console.log(tooltipWidth, lineNoteWidth, width)
                 tooltip.style['margin-bottom'] = '200px'
             }
         })
@@ -396,16 +417,32 @@ function topFunction() {
       });
 }
 
+function lineNbrEnterKey(inputLineNbr) {
+    // Execute a function when the user releases a key on the keyboard
+    inputLineNbr.addEventListener("keyup", function(event) {
+        // Number 13 is the "Enter" key on the keyboard
+        if (event.key === 'Enter') {
+            // Cancel the default action, if needed
+            event.preventDefault();
+            // Trigger the button element with a click
+            document.getElementById("buttonLineNbr").click();
+        }
+    });
+}
+
 // show selected poem text on the page
 function showSelectedPoem() {
     const selectedPoem = document.getElementById('poemSelection').value
     const textLocation = document.getElementById('textContent')
     const etymologySelection = document.getElementById('etymologySelection')
+    const inputLineNbr = document.getElementById('inputLineNbr')
     const poemLength = document.getElementById('poemLength')
     const linesTextList = document.getElementsByClassName('line-text')
     const linesNbrList = document.getElementsByClassName('line-nbr')
     const linesNoteList = document.getElementsByClassName('line-note')
-    const borderText = document.getElementById('borderText')
+    const borderText = document.getElementsByClassName('borderText')
+    const aboutText = document.getElementById('about')
+    const footer = document.getElementById('footer')
     
     // show text of the poem
     textLocation.innerHTML = textData[selectedPoem]
@@ -417,20 +454,29 @@ function showSelectedPoem() {
 
     // generate text of selected poem
     showWordData()
+    
+    // execute line nbr button when enter key is pressed
+    lineNbrEnterKey(inputLineNbr)
 
     // reset etymology highliter to 'none' when changing to another poem
     etymologySelection.value = 'none'
 
+    // reset line number input when changing to another poem
+    inputLineNbr.value = ""
+
     // define width of elements in page depending on width of text lines
     // const must be defined after generation of text as these id are generated with the text
     const tableText = document.getElementById('table-text')
-    console.log(tableText)
-
     rowWidth = linesTextList[0].offsetWidth + linesNbrList[0].offsetWidth + linesNoteList[0].offsetWidth
     console.log(rowWidth)
+
     tableText.setAttribute('style', `max-width:${rowWidth}px`)
-    borderText.setAttribute('style', `max-width:${rowWidth}px`)
-    //textContent.setAttribute('style', `width:${rowWidth}px`)
+    aboutText.setAttribute('style', `min-width:${rowWidth}px`)
+    footer.setAttribute('style', `min-width:${rowWidth}px`)
+    for (let i = 0; i < borderText.length; i++) {
+        const element = borderText[i];
+        element.setAttribute('style', `max-width:${rowWidth}px`)
+    }
 }
 
 setup()

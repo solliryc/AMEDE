@@ -11,14 +11,17 @@
 <body>
     <div id="loader"></div>
     <button onclick="topFunction()" id="topButton" title="Go to top">Top</button>
+
     <div id="fullPage">
         <div id="content">
             <div id="title">AMEDE: Auchinleck Manuscript Enhanced Digital Edition</div>
-            <fieldset id="selectionFieldset">
+            
+            <div id="selectionDiv">
                 <div id="poemDiv">
                     <label for="poemSelection">Select a poem:</label><br>
                     <select id="poemSelection" onchange="showSelectedPoem()"></select><br>
                 </div>
+                
                 <div id="etymologyDiv">
                     <label for="etymologySelection">Highlight an etymology</label><br>
                         
@@ -31,34 +34,40 @@
                         <option value="other_etymology">Other etymology</option>
                     </select><br>
                 </div>
+                
                 <div id="poemInfo">
                     <span id="poemLength"></span></td>
                 </div>
-            </fieldset>
+            </div>
 
-            <div id="borderText"></div>
+            <div class="borderText"></div>
+
+            <div id="lineDiv">
+                <input type="number" name="line number" id="inputLineNbr">
+                <button id="buttonLineNbr" onclick="goToLine()">Go to line</button>
+            </div>
 
             <div id="textContent"></div>
+
+            <div class="borderText"></div>
         </div>
 
         <div id="about">
             <h4>About</h4>
             <p>
                 This website was developed as part of a "Digital Publishing" class in the Faculty of Arts at the University of Lausanne, Switzerland.<br>
-                Part of the data used in this website was extracted and compiled for a project developed by the English Department and the Computer Science for Humanities Department of the Faculty of Arts at the University of Lausanne: 
+                Part of the data used in this website was extracted and compiled for a project developed by the English Department and the Computer Science for Humanities Department of the Faculty of Arts at the University of Lausanne: <br>
                 Critten Rory G., Picca Davide, Gay-Crosier Cyrille, <i>French Lexis in the Auchinleck Manuscript: A Digital-Philological Approach</i>, Digital Scholarship in the Humanities, Manuscript accepted for publication, 2021. <br>
             </p>
         </div>
 
         <footer class="footer mt-auto py-3">
-            <div class="container text-muted">
-                <p class="footer">
+                <p id="footer">
                     Sources:<br>
                     <a href="https://auchinleck.nls.uk/" target='_blank'>The Auchinleck Manuscript</a> (eds: David Burnley and Alison Wiggins, National Library of Scotland, 2003)<br>
                     <a href="https://ota.bodleian.ox.ac.uk/repository/xmlui/handle/20.500.12024/2493" target='_blank'>The Auchinleck Manuscript on the Oxford Text Archive</a> (eds David Burnley and Alison Wiggins, National Library of Scotland, Oxford Text Archive, 2003) <br>
                     <a href="https://quod.lib.umich.edu/m/middle-english-dictionary" target="_blank">Middle English Dictionary</a> (eds: Frances McSparran, Ann Arbor, et al., University of Michigan Library, 2000-2018)
                 </p>
-            </div>
         </footer>
     </div>
     <!-- D3 script -->
