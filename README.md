@@ -22,8 +22,7 @@ Ainsi, un lexique de 14'378 mots, répartis dans 43 poèmes différents, totalis
 
 ## Fonctionnalités
 ### Sélection d'un poème
-![alt text](screenshots/selectionpoem.PNG)
-![alt text](screenshots/highlight.PNG)
+![alt text](screenshots/selection.jpg)
 
 Ce menu permet de sélectionner l'un des 43 poèmes du Auchinleck Manuscript et d'afficher son contenu.
 
